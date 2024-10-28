@@ -1,0 +1,178 @@
+{
+    "candidates": [
+        "Hobbs",
+        "Lake"
+    ],
+    "results": [
+        {
+            "county": "Apache",
+            "total": 26614,
+            "min_turnout": 26609,
+            "max_turnout": 26636,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "ddhq",
+            "Hobbs": 17739,
+            "Lake": 8870
+        },
+        {
+            "county": "Cochise",
+            "total": 46666,
+            "min_turnout": 46618,
+            "max_turnout": 47137,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "Hobbs": 19137,
+            "Lake": 27481
+        },
+        {
+            "county": "Coconino",
+            "total": 54727,
+            "min_turnout": 54687,
+            "max_turnout": 55280,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "Hobbs": 34389,
+            "Lake": 20298
+        },
+        {
+            "county": "Gila",
+            "total": 22450,
+            "min_turnout": 22437,
+            "max_turnout": 22459,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "ddhq",
+            "Hobbs": 7674,
+            "Lake": 14763
+        },
+        {
+            "county": "Graham",
+            "total": 10872,
+            "min_turnout": 10847,
+            "max_turnout": 10872,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "Hobbs": 3087,
+            "Lake": 7760
+        },
+        {
+            "county": "Greenlee",
+            "total": 2446,
+            "min_turnout": 2446,
+            "max_turnout": 2471,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "Hobbs": 920,
+            "Lake": 1526
+        },
+        {
+            "county": "La Paz",
+            "total": 5499,
+            "min_turnout": 5493,
+            "max_turnout": 5555,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "Hobbs": 1646,
+            "Lake": 3847
+        },
+        {
+            "county": "Maricopa",
+            "total": 1543535,
+            "min_turnout": 1543066,
+            "max_turnout": 1544609,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "ddhq",
+            "Hobbs": 790352,
+            "Lake": 752714
+        },
+        {
+            "county": "Mohave",
+            "total": 81510,
+            "min_turnout": 81494,
+            "max_turnout": 81575,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "ddhq",
+            "Hobbs": 20369,
+            "Lake": 61125
+        },
+        {
+            "county": "Navajo",
+            "total": 40508,
+            "min_turnout": 40398,
+            "max_turnout": 40508,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "Hobbs": 18058,
+            "Lake": 22340
+        },
+        {
+            "county": "Pima",
+            "total": 398553,
+            "min_turnout": 398432,
+            "max_turnout": 402579,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "Hobbs": 241398,
+            "Lake": 157034
+        },
+        {
+            "county": "Pinal",
+            "total": 143826,
+            "min_turnout": 143792,
+            "max_turnout": 143936,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "ddhq",
+            "Hobbs": 60019,
+            "Lake": 83773
+        },
+        {
+            "county": "Santa Cruz",
+            "total": 13099,
+            "min_turnout": 13095,
+            "max_turnout": 13231,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "Hobbs": 8724,
+            "Lake": 4371
+        },
+        {
+            "county": "Yavapai",
+            "total": 123191,
+            "min_turnout": 123148,
+            "max_turnout": 123271,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "ddhq",
+            "Hobbs": 44316,
+            "Lake": 78832
+        },
+        {
+            "county": "Yuma",
+            "total": 46198,
+            "min_turnout": 46103,
+            "max_turnout": 46198,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "Hobbs": 20063,
+            "Lake": 26040
+        }
+    ],
+    "sources": [
+        "nyt",
+        "cnn",
+        "ddhq"
+    ]
+}

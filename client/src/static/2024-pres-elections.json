@@ -1,0 +1,1116 @@
+{
+	"2024-ak-pres-election": {
+		"name": "2024 Alaska Presidential Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 12,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-r",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-alaska-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-AK.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/15865/results/county",
+				{
+					"Murkowski": "1019",
+					"Tshibaka": "32142"
+				}
+			]
+		},
+		"polls": "https://projects.fivethirtyeight.com/polls/senate/2024/alaska/polls.json",
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-az-pres-election": {
+		"name": "2024 Arizona Senate Election",
+		"candidates": [
+			"Kelly",
+			"Masters",
+			"Victor"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 9,
+		"when": "past",
+		"notify": "False",
+		"color": "i",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-arizona-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-AZ.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/15941/results/county",
+				{
+					"Kelly": "14737",
+					"Masters": "26311",
+					"Victor": "44228"
+				}
+			],
+			"sos": "https://cdn1.arizona.vote/data/33/0/all_county_races_33_0_en_9733.json"
+		},
+		"polls": "https://projects.fivethirtyeight.com/polls/senate/2024/arizona/polls.json",
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-co-pres-election": {
+		"name": "2024 Colorado Senate Election",
+		"candidates": [
+			"Bennet",
+			"O'Dea"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 9,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-d",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-colorado-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-CO.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16344/results/county",
+				{
+					"Bennet": "315",
+					"O'Dea": "24669"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-de-pres-election": {
+		"name": "2024 Texas Senate Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-d",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-florida-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16744/results/county",
+				{
+					"Harris": "648",
+					"Trump": "4"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-fl-pres-election": {
+		"name": "2024 Florida Senate Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-r",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-florida-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16744/results/county",
+				{
+					"Harris": "648",
+					"Trump": "4"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-ga-pres-election": {
+		"name": "2024 Georgia Senate Election",
+		"candidates": [
+			"Warnock",
+			"Walker"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "i",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-georgia-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-GA.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/17003/results/county",
+				{
+					"Warnock": "13483",
+					"Walker": "21580",
+					"Oliver": "14810"
+				}
+			]
+		},
+		"polls": "https://projects.fivethirtyeight.com/polls/senate/2024/georgia/polls.json",
+		"graph-percents": [
+			0,
+			1,
+			2,
+			2.5,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			15,
+			20
+		]
+	},
+	"2024-ia-pres-election": {
+		"name": "2024 Iowa Senate Election",
+		"candidates": [
+			"Franken",
+			"Grassley"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"when": "past",
+		"notify": "False",
+		"color": "dark-r",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-iowa-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-IA.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/17667/results/county",
+				{
+					"Franken": "12863",
+					"Grassley": "22707"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-in-pres-election": {
+		"name": "2024 Indiana Senate Election",
+		"candidates": [
+			"McDermott",
+			"Young"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 6,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-r",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-indiana-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-IN.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/17522/results/county",
+				{
+					"McDermott": "44237",
+					"Young": "1029"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-ky-pres-election": {
+		"name": "2024 Texas Senate Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-r",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-florida-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16744/results/county",
+				{
+					"Harris": "648",
+					"Trump": "4"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-ma-pres-election": {
+		"name": "2024 Texas Senate Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-d",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-florida-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16744/results/county",
+				{
+					"Harris": "648",
+					"Trump": "4"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-me-pres-election": {
+		"name": "2024 Texas Senate Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-d",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-florida-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16744/results/county",
+				{
+					"Harris": "648",
+					"Trump": "4"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-mi-pres-election": {
+		"name": "2024 Michigan Senate Election",
+		"candidates": [
+			"Barnes",
+			"Johnson"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 9,
+		"when": "past",
+		"notify": "False",
+		"color": "i",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-wisconsin-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-WI.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/21821/results/county",
+				{
+					"Barnes": "29124",
+					"Johnson": "339"
+				}
+			]
+		},
+		"polls": "https://projects.fivethirtyeight.com/polls/senate/2024/wisconsin/polls.json",
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-mn-pres-election": {
+		"name": "2024 Texas Senate Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-d",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-florida-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16744/results/county",
+				{
+					"Harris": "648",
+					"Trump": "4"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-mo-pres-election": {
+		"name": "2024 Missouri Senate Election",
+		"candidates": [
+			"Valentine",
+			"Schmitt"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"when": "past",
+		"notify": "False",
+		"color": "dark-r",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-missouri-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-MO.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/19030/results/county",
+				{
+					"Valentine": "27326",
+					"Schmitt": "27348"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-ms-pres-election": {
+		"name": "2024 Texas Senate Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-r",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-florida-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16744/results/county",
+				{
+					"Harris": "648",
+					"Trump": "4"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-mt-pres-election": {
+		"name": "2024 Texas Senate Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-r",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-florida-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16744/results/county",
+				{
+					"Harris": "648",
+					"Trump": "4"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-nc-pres-election": {
+		"name": "2024 North Carolina Senate Election",
+		"candidates": [
+			"Beasley",
+			"Budd"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7.5,
+		"when": "past",
+		"notify": "False",
+		"color": "i",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-north-carolina-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-NC.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/19896/results/county",
+				{
+					"Beasley": "20215",
+					"Budd": "20252"
+				}
+			]
+		},
+		"polls": "https://projects.fivethirtyeight.com/polls/senate/2024/north-carolina/polls.json",
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-ne-pres-election": {
+		"name": "2024 Texas Senate Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-r",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-florida-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16744/results/county",
+				{
+					"Harris": "648",
+					"Trump": "4"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-nh-pres-election": {
+		"name": "2024 New Hampshire Senate Election",
+		"candidates": [
+			"Hassan",
+			"Bolduc"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-d",
+		"division": "township",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-new-hampshire-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-NH.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/19484/results/vcu",
+				{
+					"Hassan": "338",
+					"Bolduc": "14426"
+				}
+			]
+		},
+		"polls": "https://projects.fivethirtyeight.com/polls/senate/2024/new-hampshire/polls.json",
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-nj-pres-election": {
+		"name": "2024 Texas Senate Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-d",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-florida-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16744/results/county",
+				{
+					"Harris": "648",
+					"Trump": "4"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-nm-pres-election": {
+		"name": "2024 New Mexico Senate Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-d",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-florida-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16744/results/county",
+				{
+					"Harris": "648",
+					"Trump": "4"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-nv-pres-election": {
+		"name": "2024 Nevada Senate Election",
+		"candidates": [
+			"Cortez Masto",
+			"Laxalt"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 10,
+		"when": "past",
+		"notify": "False",
+		"color": "i",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-nevada-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-NV.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/19253/results/county",
+				{
+					"Cortez Masto": "44242",
+					"Laxalt": "9709"
+				}
+			]
+		},
+		"polls": "https://projects.fivethirtyeight.com/polls/senate/2024/nevada/polls.json",
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-oh-pres-election": {
+		"name": "2024 Ohio Senate Election",
+		"candidates": [
+			"Ryan",
+			"Vance"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7.5,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-r",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-ohio-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-OH.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/20108/results/county",
+				{
+					"Ryan": "1540",
+					"Vance": "19151"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-pa-pres-election": {
+		"name": "2024 Pennsylvania Senate Election",
+		"candidates": [
+			"Fetterman",
+			"Oz"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 8,
+		"when": "past",
+		"notify": "False",
+		"color": "i",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-pennsylvania-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-PA.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/20494/results/county",
+				{
+					"Fetterman": "20566",
+					"Oz": "20591"
+				}
+			]
+		},
+		"polls": "https://projects.fivethirtyeight.com/polls/senate/2024/pennsylvania/polls.json",
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-ri-pres-election": {
+		"name": "2024 Texas Senate Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-d",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-florida-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16744/results/county",
+				{
+					"Harris": "648",
+					"Trump": "4"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-tn-pres-election": {
+		"name": "2024 Texas Senate Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-r",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-florida-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16744/results/county",
+				{
+					"Harris": "648",
+					"Trump": "4"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-tx-pres-election": {
+		"name": "2024 Texas Senate Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-r",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-florida-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16744/results/county",
+				{
+					"Harris": "648",
+					"Trump": "4"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-ut-pres-election": {
+		"name": "2024 Utah Senate Election",
+		"candidates": [
+			"McMullin",
+			"Lee"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 10,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-r",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-utah-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-UT.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/21298/results/county",
+				{
+					"McMullin": "1792",
+					"Lee": "1042"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-va-pres-election": {
+		"name": "2024 Texas Senate Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-d",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-florida-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16744/results/county",
+				{
+					"Harris": "648",
+					"Trump": "4"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-wa-pres-election": {
+		"name": "2024 Washington Senate Election",
+		"candidates": [
+			"Murray",
+			"Smiley"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 11,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-d",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-washington-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-WA.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/21573/results/county",
+				{
+					"Murray": "1016",
+					"Smiley": "27752"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-wi-pres-election": {
+		"name": "2024 Wisconsin Senate Election",
+		"candidates": [
+			"Barnes",
+			"Johnson"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 9,
+		"when": "past",
+		"notify": "False",
+		"color": "i",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-wisconsin-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-WI.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/21821/results/county",
+				{
+					"Barnes": "29124",
+					"Johnson": "339"
+				}
+			]
+		},
+		"polls": "https://projects.fivethirtyeight.com/polls/senate/2024/wisconsin/polls.json",
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-wv-pres-election": {
+		"name": "2024 Texas Senate Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-r",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-florida-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16744/results/county",
+				{
+					"Harris": "648",
+					"Trump": "4"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	},
+	"2024-wy-pres-election": {
+		"name": "2024 Texas Senate Election",
+		"candidates": [
+			"Harris",
+			"Trump"
+		],
+		"date": [
+			2024,
+			11,
+			9
+		],
+		"time": 7,
+		"when": "past",
+		"notify": "False",
+		"color": "dark-r",
+		"sources": {
+			"nyt": [
+				"https://static01.nyt.com/elections-assets/2024/data/2024-11-08/results-florida-us-senate.json",
+				0
+			],
+			"cnn": "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+			"ddhq": [
+				"https://embeds.ddhq.io/api/v2/race/16744/results/county",
+				{
+					"Harris": "648",
+					"Trump": "4"
+				}
+			]
+		},
+		"graph-percents": [
+			0
+		]
+	}
+}

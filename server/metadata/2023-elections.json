@@ -1,0 +1,32 @@
+{
+    "2023-ky-gov-election" : {
+        "name" : "2023 Kentucky Governor Election",
+        "candidates" : ["Beshear", "Cameron"],
+        "date" : [2023, 11, 7],
+		"time" : 6,
+        "when" : "current",
+        "notify" : "False",
+		"color" : "light-r",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2023-11-07/results-kentucky-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2023-GG-KY.json",
+            "ddhq" : ["https://data.ddhq.io/24420", {"Beshear" : "11540", "Cameron" : "11868"}]
+        },
+        "graph-percents" : [-3, -2, -1, 0, 1, 2, 3]
+    },
+    "2023-ms-gov-election" : {
+        "name" : "2023 Mississippi Governor Election",
+        "candidates" : ["Presley", "Reeves"],
+        "date" : [2023, 11, 7],
+		"time" : 8,
+        "when" : "current",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2023-11-07/results-mississippi-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2023-GG-MS.json",
+            "ddhq" : ["https://data.ddhq.io/24460", {"Presley" : "50273", "Reeves" : "11638"}]
+        },
+        "graph-percents" : [-3, -2, -1, 0, 1, 2, 3]
+    }
+}
