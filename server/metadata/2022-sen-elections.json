@@ -78,23 +78,6 @@
 		"polls" : "https://projects.fivethirtyeight.com/polls/senate/2022/nevada/polls.json",
         "graph-percents" : [0]
     },
-    "2022-nh-sen-election" : {
-        "name" : "2022 New Hampshire Senate Election",
-        "candidates" : ["Hassan", "Bolduc"],
-        "date" : [2022, 11, 8],
-		"time" : 7,
-        "when" : "past",
-        "notify" : "False",
-		"color" : "light-d",
-		"division" : "township",
-        "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-hampshire-us-senate.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-NH.json",
-            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/19484/results/vcu", {"Hassan" : "338", "Bolduc" : "14426"}]
-        },
-		"polls" : "https://projects.fivethirtyeight.com/polls/senate/2022/new-hampshire/polls.json",
-        "graph-percents" : [0]
-    },
     "2022-nc-sen-election" : {
         "name" : "2022 North Carolina Senate Election",
         "candidates" : ["Beasley", "Budd"],

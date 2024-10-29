@@ -1,6 +1,6 @@
 import logo from './byzantine.jpg';
 import Map from "./Map.js";
-import Home from "./Home.js";
+import Dashboard from "./Dashboard.js";
 import Results from "./Results.js";
 
 import React from 'react';
@@ -68,7 +68,7 @@ class App extends React.Component {
       <Router>
         <Navigator/>
         <Routes>
-          <Route exact path="/" element={<Home/>}/>
+          <Route exact path="/" element={<Dashboard/>}/>
           <Route path="/2024-president" element={<Map/>}/>
           <Route path="/results/:election_id" element={<Results/>}/>
         </Routes>
