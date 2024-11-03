@@ -1,0 +1,69 @@
+{
+    "name": "2022 OH-13 House Election",
+    "candidates": [
+        "Sykes",
+        "Gesiotto Gilbert"
+    ],
+    "sources": [
+        "nyt",
+        "cnn"
+    ],
+    "results": [
+        {
+            "county": "Total",
+            "Sykes": 149816,
+            "Gesiotto Gilbert": 134593,
+            "total": 284409,
+            "margin": 15223,
+            "min_turnout": 284409,
+            "max_turnout": 284409,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 15223,
+            "max_turnout_margin": 15223
+        },
+        {
+            "county": "Portage",
+            "Sykes": 497,
+            "Gesiotto Gilbert": 718,
+            "total": 1215,
+            "margin": -221,
+            "min_turnout": 1215,
+            "max_turnout": 1215,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -221,
+            "max_turnout_margin": -221
+        },
+        {
+            "county": "Stark",
+            "Sykes": 38720,
+            "Gesiotto Gilbert": 48011,
+            "total": 86731,
+            "margin": -9291,
+            "min_turnout": 86731,
+            "max_turnout": 86731,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -9291,
+            "max_turnout_margin": -9291
+        },
+        {
+            "county": "Summit",
+            "Sykes": 110599,
+            "Gesiotto Gilbert": 85864,
+            "total": 196463,
+            "margin": 24735,
+            "min_turnout": 196463,
+            "max_turnout": 196463,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": 24735,
+            "max_turnout_margin": 24735
+        }
+    ]
+}

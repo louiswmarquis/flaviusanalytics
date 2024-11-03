@@ -1,0 +1,20 @@
+{
+    "results": [
+        {
+            "county_name": "Total",
+            "Murkowski": 113800,
+            "Tshibaka": 111886,
+            "total": 262411,
+            "min_turnout": 262411,
+            "max_turnout": 273085
+        },
+        {
+            "county_name": "Alaska",
+            "Murkowski": 113800,
+            "Tshibaka": 111886,
+            "total": 262411,
+            "min_turnout": 262411,
+            "max_turnout": 273085
+        }
+    ]
+}

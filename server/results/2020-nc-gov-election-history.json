@@ -1,0 +1,519 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-02T17:23:28.190Z",
+            "margin": 248185,
+            "total": 5502778
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Cooper": 2834790,
+                "Forest": 2586605,
+                "total": 5502778
+            },
+            "1": {
+                "Cooper": 41979,
+                "Forest": 42918,
+                "total": 85935
+            },
+            "2": {
+                "Cooper": 4980,
+                "Forest": 14980,
+                "total": 20187
+            },
+            "3": {
+                "Cooper": 1929,
+                "Forest": 4085,
+                "total": 6084
+            },
+            "4": {
+                "Cooper": 6116,
+                "Forest": 4977,
+                "total": 11206
+            },
+            "5": {
+                "Cooper": 4967,
+                "Forest": 10622,
+                "total": 15777
+            },
+            "6": {
+                "Cooper": 2407,
+                "Forest": 6894,
+                "total": 9417
+            },
+            "7": {
+                "Cooper": 10291,
+                "Forest": 15710,
+                "total": 26232
+            },
+            "8": {
+                "Cooper": 6080,
+                "Forest": 3654,
+                "total": 9788
+            },
+            "9": {
+                "Cooper": 7784,
+                "Forest": 9096,
+                "total": 17033
+            },
+            "10": {
+                "Cooper": 36818,
+                "Forest": 51703,
+                "total": 89781
+            },
+            "11": {
+                "Cooper": 99395,
+                "Forest": 58153,
+                "total": 160442
+            },
+            "12": {
+                "Cooper": 15028,
+                "Forest": 28898,
+                "total": 44459
+            },
+            "13": {
+                "Cooper": 54665,
+                "Forest": 59682,
+                "total": 116337
+            },
+            "14": {
+                "Cooper": 11926,
+                "Forest": 30234,
+                "total": 42673
+            },
+            "15": {
+                "Cooper": 1600,
+                "Forest": 4200,
+                "total": 5913
+            },
+            "16": {
+                "Cooper": 13293,
+                "Forest": 28689,
+                "total": 42524
+            },
+            "17": {
+                "Cooper": 5285,
+                "Forest": 6634,
+                "total": 12020
+            },
+            "18": {
+                "Cooper": 28267,
+                "Forest": 53802,
+                "total": 83248
+            },
+            "19": {
+                "Cooper": 28128,
+                "Forest": 19937,
+                "total": 48544
+            },
+            "20": {
+                "Cooper": 3772,
+                "Forest": 12349,
+                "total": 16351
+            },
+            "21": {
+                "Cooper": 3399,
+                "Forest": 4308,
+                "total": 7765
+            },
+            "22": {
+                "Cooper": 1761,
+                "Forest": 4994,
+                "total": 6858
+            },
+            "23": {
+                "Cooper": 18549,
+                "Forest": 32031,
+                "total": 51124
+            },
+            "24": {
+                "Cooper": 10309,
+                "Forest": 15713,
+                "total": 26245
+            },
+            "25": {
+                "Cooper": 22436,
+                "Forest": 29614,
+                "total": 52856
+            },
+            "26": {
+                "Cooper": 88278,
+                "Forest": 55197,
+                "total": 146493
+            },
+            "27": {
+                "Cooper": 4382,
+                "Forest": 11293,
+                "total": 16025
+            },
+            "28": {
+                "Cooper": 10485,
+                "Forest": 13151,
+                "total": 24020
+            },
+            "29": {
+                "Cooper": 26598,
+                "Forest": 60771,
+                "total": 88430
+            },
+            "30": {
+                "Cooper": 7904,
+                "Forest": 17104,
+                "total": 25278
+            },
+            "31": {
+                "Cooper": 9164,
+                "Forest": 13295,
+                "total": 22640
+            },
+            "32": {
+                "Cooper": 147110,
+                "Forest": 29989,
+                "total": 179595
+            },
+            "33": {
+                "Cooper": 16786,
+                "Forest": 8487,
+                "total": 25449
+            },
+            "34": {
+                "Cooper": 118663,
+                "Forest": 78475,
+                "total": 200324
+            },
+            "35": {
+                "Cooper": 17427,
+                "Forest": 19400,
+                "total": 37345
+            },
+            "36": {
+                "Cooper": 44074,
+                "Forest": 69158,
+                "total": 114919
+            },
+            "37": {
+                "Cooper": 2679,
+                "Forest": 3163,
+                "total": 5933
+            },
+            "38": {
+                "Cooper": 1104,
+                "Forest": 3489,
+                "total": 4644
+            },
+            "39": {
+                "Cooper": 15756,
+                "Forest": 15411,
+                "total": 31548
+            },
+            "40": {
+                "Cooper": 3991,
+                "Forest": 4678,
+                "total": 8735
+            },
+            "41": {
+                "Cooper": 180160,
+                "Forest": 97973,
+                "total": 282592
+            },
+            "42": {
+                "Cooper": 16098,
+                "Forest": 9403,
+                "total": 25698
+            },
+            "43": {
+                "Cooper": 23987,
+                "Forest": 33049,
+                "total": 58082
+            },
+            "44": {
+                "Cooper": 14779,
+                "Forest": 21185,
+                "total": 36459
+            },
+            "45": {
+                "Cooper": 29144,
+                "Forest": 38028,
+                "total": 68190
+            },
+            "46": {
+                "Cooper": 7212,
+                "Forest": 3282,
+                "total": 10568
+            },
+            "47": {
+                "Cooper": 12597,
+                "Forest": 8475,
+                "total": 21528
+            },
+            "48": {
+                "Cooper": 1111,
+                "Forest": 1351,
+                "total": 2483
+            },
+            "49": {
+                "Cooper": 36375,
+                "Forest": 63962,
+                "total": 101997
+            },
+            "50": {
+                "Cooper": 10406,
+                "Forest": 10519,
+                "total": 21346
+            },
+            "51": {
+                "Cooper": 45165,
+                "Forest": 64310,
+                "total": 111074
+            },
+            "52": {
+                "Cooper": 2333,
+                "Forest": 3128,
+                "total": 5512
+            },
+            "53": {
+                "Cooper": 13522,
+                "Forest": 14937,
+                "total": 28861
+            },
+            "54": {
+                "Cooper": 14208,
+                "Forest": 13906,
+                "total": 28348
+            },
+            "55": {
+                "Cooper": 14730,
+                "Forest": 34711,
+                "total": 50108
+            },
+            "56": {
+                "Cooper": 6851,
+                "Forest": 15761,
+                "total": 22900
+            },
+            "57": {
+                "Cooper": 7062,
+                "Forest": 13333,
+                "total": 20684
+            },
+            "58": {
+                "Cooper": 5489,
+                "Forest": 7352,
+                "total": 13051
+            },
+            "59": {
+                "Cooper": 6277,
+                "Forest": 6154,
+                "total": 12513
+            },
+            "60": {
+                "Cooper": 382726,
+                "Forest": 171123,
+                "total": 564433
+            },
+            "61": {
+                "Cooper": 2090,
+                "Forest": 6827,
+                "total": 9001
+            },
+            "62": {
+                "Cooper": 5069,
+                "Forest": 7622,
+                "total": 12826
+            },
+            "63": {
+                "Cooper": 22974,
+                "Forest": 34311,
+                "total": 58127
+            },
+            "64": {
+                "Cooper": 27692,
+                "Forest": 24062,
+                "total": 52194
+            },
+            "65": {
+                "Cooper": 69554,
+                "Forest": 59305,
+                "total": 131276
+            },
+            "66": {
+                "Cooper": 6313,
+                "Forest": 3689,
+                "total": 10084
+            },
+            "67": {
+                "Cooper": 25653,
+                "Forest": 43838,
+                "total": 71478
+            },
+            "68": {
+                "Cooper": 65042,
+                "Forest": 18810,
+                "total": 84815
+            },
+            "69": {
+                "Cooper": 2881,
+                "Forest": 4672,
+                "total": 7626
+            },
+            "70": {
+                "Cooper": 10061,
+                "Forest": 9449,
+                "total": 19811
+            },
+            "71": {
+                "Cooper": 12599,
+                "Forest": 20854,
+                "total": 34005
+            },
+            "72": {
+                "Cooper": 2637,
+                "Forest": 4756,
+                "total": 7471
+            },
+            "73": {
+                "Cooper": 9301,
+                "Forest": 12296,
+                "total": 21809
+            },
+            "74": {
+                "Cooper": 48995,
+                "Forest": 37210,
+                "total": 87388
+            },
+            "75": {
+                "Cooper": 4863,
+                "Forest": 7280,
+                "total": 12299
+            },
+            "76": {
+                "Cooper": 18929,
+                "Forest": 53176,
+                "total": 72913
+            },
+            "77": {
+                "Cooper": 9622,
+                "Forest": 10740,
+                "total": 20631
+            },
+            "78": {
+                "Cooper": 22281,
+                "Forest": 23888,
+                "total": 46590
+            },
+            "79": {
+                "Cooper": 18197,
+                "Forest": 28891,
+                "total": 47652
+            },
+            "80": {
+                "Cooper": 25473,
+                "Forest": 46676,
+                "total": 73219
+            },
+            "81": {
+                "Cooper": 10469,
+                "Forest": 23437,
+                "total": 34276
+            },
+            "82": {
+                "Cooper": 11890,
+                "Forest": 16404,
+                "total": 28538
+            },
+            "83": {
+                "Cooper": 7671,
+                "Forest": 6821,
+                "total": 14647
+            },
+            "84": {
+                "Cooper": 9413,
+                "Forest": 24022,
+                "total": 33816
+            },
+            "85": {
+                "Cooper": 6567,
+                "Forest": 18850,
+                "total": 25682
+            },
+            "86": {
+                "Cooper": 10872,
+                "Forest": 25366,
+                "total": 36599
+            },
+            "87": {
+                "Cooper": 3043,
+                "Forest": 3847,
+                "total": 7029
+            },
+            "88": {
+                "Cooper": 9226,
+                "Forest": 10800,
+                "total": 20325
+            },
+            "89": {
+                "Cooper": 811,
+                "Forest": 975,
+                "total": 1802
+            },
+            "90": {
+                "Cooper": 51306,
+                "Forest": 77305,
+                "total": 130471
+            },
+            "91": {
+                "Cooper": 13160,
+                "Forest": 7608,
+                "total": 20950
+            },
+            "92": {
+                "Cooper": 410386,
+                "Forest": 209183,
+                "total": 629673
+            },
+            "93": {
+                "Cooper": 6716,
+                "Forest": 3497,
+                "total": 10295
+            },
+            "94": {
+                "Cooper": 3531,
+                "Forest": 2623,
+                "total": 6191
+            },
+            "95": {
+                "Cooper": 17642,
+                "Forest": 13790,
+                "total": 32040
+            },
+            "96": {
+                "Cooper": 25589,
+                "Forest": 29056,
+                "total": 55316
+            },
+            "97": {
+                "Cooper": 9537,
+                "Forest": 25469,
+                "total": 35350
+            },
+            "98": {
+                "Cooper": 22014,
+                "Forest": 18305,
+                "total": 40685
+            },
+            "99": {
+                "Cooper": 4777,
+                "Forest": 14910,
+                "total": 19900
+            },
+            "100": {
+                "Cooper": 4147,
+                "Forest": 7105,
+                "total": 11374
+            },
+            "time": "2024-11-02T17:23:28.190Z"
+        }
+    ]
+}

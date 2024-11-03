@@ -1,0 +1,44 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-02T19:55:35.076Z",
+            "margin": 7026,
+            "total": 286886
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Cartwright": 146956,
+                "Bognet": 139930,
+                "total": 286886
+            },
+            "1": {
+                "Cartwright": 52590,
+                "Bognet": 36483,
+                "total": 89073
+            },
+            "2": {
+                "Cartwright": 47305,
+                "Bognet": 49897,
+                "total": 97202
+            },
+            "3": {
+                "Cartwright": 29119,
+                "Bognet": 24135,
+                "total": 53254
+            },
+            "4": {
+                "Cartwright": 10030,
+                "Bognet": 14844,
+                "total": 24874
+            },
+            "5": {
+                "Cartwright": 7912,
+                "Bognet": 14571,
+                "total": 22483
+            },
+            "time": "2024-11-02T19:55:35.076Z"
+        }
+    ]
+}

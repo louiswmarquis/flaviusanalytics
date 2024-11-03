@@ -1,0 +1,132 @@
+{
+    "results": [
+        {
+            "county_name": "Total",
+            "Hobbs": 1283872,
+            "Lake": 1267092,
+            "total": 2550964,
+            "min_turnout": 2562852,
+            "max_turnout": 2685475
+        },
+        {
+            "county_name": "Apache",
+            "Hobbs": 17462,
+            "Lake": 8737,
+            "total": 26199,
+            "min_turnout": 26364,
+            "max_turnout": 28170
+        },
+        {
+            "county_name": "Cochise",
+            "Hobbs": 19137,
+            "Lake": 27481,
+            "total": 46618,
+            "min_turnout": 46829,
+            "max_turnout": 49071
+        },
+        {
+            "county_name": "Coconino",
+            "Hobbs": 34389,
+            "Lake": 20298,
+            "total": 54687,
+            "min_turnout": 54716,
+            "max_turnout": 57565
+        },
+        {
+            "county_name": "Gila",
+            "Hobbs": 7674,
+            "Lake": 14763,
+            "total": 22437,
+            "min_turnout": 22445,
+            "max_turnout": 23617
+        },
+        {
+            "county_name": "Graham",
+            "Hobbs": 3087,
+            "Lake": 7760,
+            "total": 10847,
+            "min_turnout": 10948,
+            "max_turnout": 11417
+        },
+        {
+            "county_name": "Greenlee",
+            "Hobbs": 920,
+            "Lake": 1526,
+            "total": 2446,
+            "min_turnout": 2470,
+            "max_turnout": 2471
+        },
+        {
+            "county_name": "La Paz",
+            "Hobbs": 1643,
+            "Lake": 3844,
+            "total": 5487,
+            "min_turnout": 5487,
+            "max_turnout": 5542
+        },
+        {
+            "county_name": "Maricopa",
+            "Hobbs": 787402,
+            "Lake": 749901,
+            "total": 1537303,
+            "min_turnout": 1545362,
+            "max_turnout": 1618213
+        },
+        {
+            "county_name": "Mohave",
+            "Hobbs": 20369,
+            "Lake": 61125,
+            "total": 81494,
+            "min_turnout": 82309,
+            "max_turnout": 85783
+        },
+        {
+            "county_name": "Navajo",
+            "Hobbs": 18057,
+            "Lake": 22337,
+            "total": 40394,
+            "min_turnout": 40681,
+            "max_turnout": 42520
+        },
+        {
+            "county_name": "Pima",
+            "Hobbs": 240610,
+            "Lake": 156304,
+            "total": 396914,
+            "min_turnout": 397825,
+            "max_turnout": 417804
+        },
+        {
+            "county_name": "Pinal",
+            "Hobbs": 60019,
+            "Lake": 83773,
+            "total": 143792,
+            "min_turnout": 143845,
+            "max_turnout": 151360
+        },
+        {
+            "county_name": "Santa Cruz",
+            "Hobbs": 8724,
+            "Lake": 4371,
+            "total": 13095,
+            "min_turnout": 13095,
+            "max_turnout": 13784
+        },
+        {
+            "county_name": "Yavapai",
+            "Hobbs": 44316,
+            "Lake": 78832,
+            "total": 123148,
+            "min_turnout": 124036,
+            "max_turnout": 129629
+        },
+        {
+            "county_name": "Yuma",
+            "Hobbs": 20063,
+            "Lake": 26040,
+            "total": 46103,
+            "min_turnout": 46440,
+            "max_turnout": 48529
+        }
+    ]
+}

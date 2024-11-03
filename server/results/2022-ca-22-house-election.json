@@ -1,0 +1,69 @@
+{
+    "name": "2022 CA-22 House Election",
+    "candidates": [
+        "Salas",
+        "Valadao"
+    ],
+    "sources": [
+        "nyt",
+        "cnn"
+    ],
+    "results": [
+        {
+            "county": "Total",
+            "Salas": 49862,
+            "Valadao": 52994,
+            "total": 102856,
+            "margin": -3132,
+            "min_turnout": 102856,
+            "max_turnout": 102856,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": -3132,
+            "max_turnout_margin": -3132
+        },
+        {
+            "county": "Kern",
+            "Salas": 34053,
+            "Valadao": 30649,
+            "total": 64702,
+            "margin": 3404,
+            "min_turnout": 64702,
+            "max_turnout": 64702,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": 3404,
+            "max_turnout_margin": 3404
+        },
+        {
+            "county": "Kings",
+            "Salas": 5170,
+            "Valadao": 6695,
+            "total": 11865,
+            "margin": -1525,
+            "min_turnout": 11865,
+            "max_turnout": 11865,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -1525,
+            "max_turnout_margin": -1525
+        },
+        {
+            "county": "Tulare",
+            "Salas": 10639,
+            "Valadao": 15650,
+            "total": 26289,
+            "margin": -5011,
+            "min_turnout": 26289,
+            "max_turnout": 26289,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -5011,
+            "max_turnout_margin": -5011
+        }
+    ]
+}

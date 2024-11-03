@@ -1,0 +1,148 @@
+{
+    "results": [
+        {
+            "county_name": "Total",
+            "Kelly": 1317795,
+            "Masters": 1192854,
+            "Victor": 53580,
+            "total": 2564229,
+            "min_turnout": 2576054,
+            "max_turnout": 2699437
+        },
+        {
+            "county_name": "Apache",
+            "Kelly": 17724,
+            "Masters": 8043,
+            "Victor": 539,
+            "total": 26306,
+            "min_turnout": 26472,
+            "max_turnout": 28286
+        },
+        {
+            "county_name": "Cochise",
+            "Kelly": 20002,
+            "Masters": 25539,
+            "Victor": 1383,
+            "total": 46924,
+            "min_turnout": 47138,
+            "max_turnout": 49393
+        },
+        {
+            "county_name": "Coconino",
+            "Kelly": 35149,
+            "Masters": 18697,
+            "Victor": 1199,
+            "total": 55045,
+            "min_turnout": 55062,
+            "max_turnout": 57942
+        },
+        {
+            "county_name": "Gila",
+            "Kelly": 7984,
+            "Masters": 13958,
+            "Victor": 601,
+            "total": 22543,
+            "min_turnout": 22554,
+            "max_turnout": 23729
+        },
+        {
+            "county_name": "Graham",
+            "Kelly": 3243,
+            "Masters": 7388,
+            "Victor": 255,
+            "total": 10886,
+            "min_turnout": 10988,
+            "max_turnout": 11458
+        },
+        {
+            "county_name": "Greenlee",
+            "Kelly": 970,
+            "Masters": 1392,
+            "Victor": 100,
+            "total": 2462,
+            "min_turnout": 2462,
+            "max_turnout": 2487
+        },
+        {
+            "county_name": "La Paz",
+            "Kelly": 1709,
+            "Masters": 3652,
+            "Victor": 160,
+            "total": 5521,
+            "min_turnout": 5521,
+            "max_turnout": 5576
+        },
+        {
+            "county_name": "Maricopa",
+            "Kelly": 806456,
+            "Masters": 707824,
+            "Victor": 30966,
+            "total": 1545246,
+            "min_turnout": 1553305,
+            "max_turnout": 1626574
+        },
+        {
+            "county_name": "Mohave",
+            "Kelly": 21040,
+            "Masters": 58737,
+            "Victor": 2117,
+            "total": 81894,
+            "min_turnout": 82713,
+            "max_turnout": 86204
+        },
+        {
+            "county_name": "Navajo",
+            "Kelly": 18723,
+            "Masters": 20967,
+            "Victor": 927,
+            "total": 40617,
+            "min_turnout": 40908,
+            "max_turnout": 42754
+        },
+        {
+            "county_name": "Pima",
+            "Kelly": 247399,
+            "Masters": 144276,
+            "Victor": 7505,
+            "total": 399180,
+            "min_turnout": 400046,
+            "max_turnout": 420189
+        },
+        {
+            "county_name": "Pinal",
+            "Kelly": 62009,
+            "Masters": 78820,
+            "Victor": 3650,
+            "total": 144479,
+            "min_turnout": 144532,
+            "max_turnout": 152083
+        },
+        {
+            "county_name": "Santa Cruz",
+            "Kelly": 8988,
+            "Masters": 3892,
+            "Victor": 304,
+            "total": 13184,
+            "min_turnout": 13184,
+            "max_turnout": 13877
+        },
+        {
+            "county_name": "Yavapai",
+            "Kelly": 45258,
+            "Masters": 75752,
+            "Victor": 2633,
+            "total": 123643,
+            "min_turnout": 124536,
+            "max_turnout": 130150
+        },
+        {
+            "county_name": "Yuma",
+            "Kelly": 21141,
+            "Masters": 23917,
+            "Victor": 1241,
+            "total": 46299,
+            "min_turnout": 46633,
+            "max_turnout": 48735
+        }
+    ]
+}

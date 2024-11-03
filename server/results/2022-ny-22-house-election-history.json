@@ -1,0 +1,39 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-02T19:55:34.056Z",
+            "margin": -2631,
+            "total": 268608
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Conole": 132913,
+                "Williams": 135544,
+                "total": 268608
+            },
+            "1": {
+                "Conole": 10786,
+                "Williams": 15240,
+                "total": 26058
+            },
+            "2": {
+                "Conole": 27835,
+                "Williams": 46143,
+                "total": 74007
+            },
+            "3": {
+                "Conole": 94265,
+                "Williams": 74055,
+                "total": 168410
+            },
+            "4": {
+                "Conole": 27,
+                "Williams": 106,
+                "total": 133
+            },
+            "time": "2024-11-02T19:55:34.056Z"
+        }
+    ]
+}

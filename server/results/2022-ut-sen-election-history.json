@@ -1,0 +1,3127 @@
+{
+    "diffs": [
+        {
+            "0": {
+                "county_name": "Total",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 1230328,
+                "max_turnout": 1230328
+            },
+            "1": {
+                "county_name": "Beaver",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 2546,
+                "max_turnout": 2546
+            },
+            "2": {
+                "county_name": "Box Elder",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 21485,
+                "max_turnout": 21485
+            },
+            "3": {
+                "county_name": "Cache",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 46005,
+                "max_turnout": 46005
+            },
+            "4": {
+                "county_name": "Carbon",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 7623,
+                "max_turnout": 7623
+            },
+            "5": {
+                "county_name": "Daggett",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 485,
+                "max_turnout": 485
+            },
+            "6": {
+                "county_name": "Davis",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 144990,
+                "max_turnout": 144990
+            },
+            "7": {
+                "county_name": "Duchesne",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 7297,
+                "max_turnout": 7297
+            },
+            "8": {
+                "county_name": "Emery",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 4000,
+                "max_turnout": 4000
+            },
+            "9": {
+                "county_name": "Garfield",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 2424,
+                "max_turnout": 2424
+            },
+            "10": {
+                "county_name": "Grand",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 4700,
+                "max_turnout": 4700
+            },
+            "11": {
+                "county_name": "Iron",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 18874,
+                "max_turnout": 18874
+            },
+            "12": {
+                "county_name": "Juab",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 5481,
+                "max_turnout": 5481
+            },
+            "13": {
+                "county_name": "Kane",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 3597,
+                "max_turnout": 3597
+            },
+            "14": {
+                "county_name": "Millard",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 5452,
+                "max_turnout": 5452
+            },
+            "15": {
+                "county_name": "Morgan",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 6169,
+                "max_turnout": 6169
+            },
+            "16": {
+                "county_name": "Piute",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 828,
+                "max_turnout": 828
+            },
+            "17": {
+                "county_name": "Rich",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 1484,
+                "max_turnout": 1484
+            },
+            "18": {
+                "county_name": "Salt Lake",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 461542,
+                "max_turnout": 461542
+            },
+            "19": {
+                "county_name": "San Juan",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 5811,
+                "max_turnout": 5811
+            },
+            "20": {
+                "county_name": "Sanpete",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 11599,
+                "max_turnout": 11599
+            },
+            "21": {
+                "county_name": "Sevier",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 8482,
+                "max_turnout": 8482
+            },
+            "22": {
+                "county_name": "Summit",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 22000,
+                "max_turnout": 22000
+            },
+            "23": {
+                "county_name": "Tooele",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 27539,
+                "max_turnout": 27539
+            },
+            "24": {
+                "county_name": "Uintah",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 11552,
+                "max_turnout": 11552
+            },
+            "25": {
+                "county_name": "Utah",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 215000,
+                "max_turnout": 215000
+            },
+            "26": {
+                "county_name": "Wasatch",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 15673,
+                "max_turnout": 15673
+            },
+            "27": {
+                "county_name": "Washington",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 76244,
+                "max_turnout": 76244
+            },
+            "28": {
+                "county_name": "Wayne",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 1566,
+                "max_turnout": 1566
+            },
+            "29": {
+                "county_name": "Weber",
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 89880,
+                "max_turnout": 89880
+            },
+            "time": "2022-11-08T20:22:25.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 620,
+                "Lee": 3087,
+                "total": 3811,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "12": {
+                "McMullin": 620,
+                "Lee": 3087,
+                "total": 3811,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Juab"
+            },
+            "time": "2022-11-09T03:41:04.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 402,
+                "Lee": 1866,
+                "total": 2372,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "1": {
+                "McMullin": 402,
+                "Lee": 1866,
+                "total": 2372,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Beaver"
+            },
+            "time": "2022-11-09T03:42:38.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -37,
+                "max_turnout": -37,
+                "county_name": "Total"
+            },
+            "12": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -37,
+                "max_turnout": -37,
+                "county_name": "Juab"
+            },
+            "time": "2022-11-09T03:55:47.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -49,
+                "max_turnout": -49,
+                "county_name": "Total"
+            },
+            "1": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -49,
+                "max_turnout": -49,
+                "county_name": "Beaver"
+            },
+            "time": "2022-11-09T03:56:06.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 55563,
+                "Lee": 87035,
+                "total": 147146,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "6": {
+                "McMullin": 41229,
+                "Lee": 48953,
+                "total": 93213,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Davis"
+            },
+            "9": {
+                "McMullin": 500,
+                "Lee": 1729,
+                "total": 2295,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Garfield"
+            },
+            "14": {
+                "McMullin": 554,
+                "Lee": 3357,
+                "total": 4008,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Millard"
+            },
+            "16": {
+                "McMullin": 82,
+                "Lee": 692,
+                "total": 783,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Piute"
+            },
+            "17": {
+                "McMullin": 205,
+                "Lee": 831,
+                "total": 1059,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Rich"
+            },
+            "27": {
+                "McMullin": 12993,
+                "Lee": 31473,
+                "total": 45788,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Washington"
+            },
+            "time": "2022-11-09T04:04:08.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -33803,
+                "max_turnout": 140,
+                "county_name": "Total"
+            },
+            "6": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -17974,
+                "max_turnout": 0,
+                "county_name": "Davis"
+            },
+            "9": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": 108,
+                "county_name": "Garfield"
+            },
+            "12": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -1184,
+                "max_turnout": 0,
+                "county_name": "Juab"
+            },
+            "14": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -683,
+                "max_turnout": 0,
+                "county_name": "Millard"
+            },
+            "16": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": 32,
+                "county_name": "Piute"
+            },
+            "17": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -346,
+                "max_turnout": 0,
+                "county_name": "Rich"
+            },
+            "27": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -13616,
+                "max_turnout": 0,
+                "county_name": "Washington"
+            },
+            "time": "2022-11-09T04:05:18.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 796,
+                "Lee": 4032,
+                "total": 4724,
+                "min_turnout": 556,
+                "max_turnout": 303,
+                "county_name": "Total"
+            },
+            "8": {
+                "McMullin": 708,
+                "Lee": 3251,
+                "total": 3959,
+                "min_turnout": 0,
+                "max_turnout": 303,
+                "county_name": "Emery"
+            },
+            "12": {
+                "McMullin": 88,
+                "Lee": 781,
+                "total": 765,
+                "min_turnout": 556,
+                "max_turnout": 0,
+                "county_name": "Juab"
+            },
+            "time": "2022-11-09T04:07:26.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 125,
+                "min_turnout": 84,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "8": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 125,
+                "min_turnout": 84,
+                "max_turnout": 0,
+                "county_name": "Emery"
+            },
+            "time": "2022-11-09T04:07:45.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 127,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "12": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 127,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Juab"
+            },
+            "time": "2022-11-09T04:08:14.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 41,
+                "max_turnout": 435,
+                "county_name": "Total"
+            },
+            "8": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 41,
+                "max_turnout": 0,
+                "county_name": "Emery"
+            },
+            "12": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": 435,
+                "county_name": "Juab"
+            },
+            "time": "2022-11-09T04:11:03.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 11577,
+                "Lee": 18154,
+                "total": 29731,
+                "min_turnout": -5688,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "3": {
+                "McMullin": 10334,
+                "Lee": 15854,
+                "total": 26188,
+                "min_turnout": -5087,
+                "max_turnout": 0,
+                "county_name": "Cache"
+            },
+            "19": {
+                "McMullin": 1243,
+                "Lee": 2300,
+                "total": 3543,
+                "min_turnout": -601,
+                "max_turnout": 0,
+                "county_name": "San Juan"
+            },
+            "time": "2022-11-09T04:11:21.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 1360,
+                "min_turnout": 0,
+                "max_turnout": -1516,
+                "county_name": "Total"
+            },
+            "3": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 1025,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Cache"
+            },
+            "6": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -1585,
+                "county_name": "Davis"
+            },
+            "19": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 335,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "San Juan"
+            },
+            "27": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": 69,
+                "county_name": "Washington"
+            },
+            "time": "2022-11-09T04:13:41.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -442,
+                "county_name": "Total"
+            },
+            "14": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -442,
+                "county_name": "Millard"
+            },
+            "time": "2022-11-09T04:14:08.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 21344,
+                "Lee": 26447,
+                "total": 47791,
+                "min_turnout": -8879,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "29": {
+                "McMullin": 21344,
+                "Lee": 26447,
+                "total": 47791,
+                "min_turnout": -8879,
+                "max_turnout": 0,
+                "county_name": "Weber"
+            },
+            "time": "2022-11-09T04:14:35.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -89,
+                "max_turnout": -149,
+                "county_name": "Total"
+            },
+            "1": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -77,
+                "max_turnout": -77,
+                "county_name": "Beaver"
+            },
+            "9": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -8,
+                "max_turnout": 0,
+                "county_name": "Garfield"
+            },
+            "16": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -4,
+                "max_turnout": 0,
+                "county_name": "Piute"
+            },
+            "17": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -72,
+                "county_name": "Rich"
+            },
+            "time": "2022-11-09T04:14:55.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -33,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "1": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -33,
+                "max_turnout": 0,
+                "county_name": "Beaver"
+            },
+            "time": "2022-11-09T04:21:18.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 6354,
+                "Lee": 10740,
+                "total": 20118,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "23": {
+                "McMullin": 6354,
+                "Lee": 10740,
+                "total": 18036,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Tooele"
+            },
+            "29": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 2082,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Weber"
+            },
+            "time": "2022-11-09T04:24:26.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -5624,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "23": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -5624,
+                "max_turnout": 0,
+                "county_name": "Tooele"
+            },
+            "time": "2022-11-09T04:25:13.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 868,
+                "Lee": 2253,
+                "total": 3233,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "6": {
+                "McMullin": 868,
+                "Lee": 2253,
+                "total": 3233,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Davis"
+            },
+            "time": "2022-11-09T04:26:10.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -870,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "27": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -870,
+                "max_turnout": 0,
+                "county_name": "Washington"
+            },
+            "time": "2022-11-09T04:26:19.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -24,
+                "county_name": "Total"
+            },
+            "1": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -24,
+                "county_name": "Beaver"
+            },
+            "time": "2022-11-09T04:31:31.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -3491,
+                "county_name": "Total"
+            },
+            "23": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -3491,
+                "county_name": "Tooele"
+            },
+            "time": "2022-11-09T04:32:29.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 45535,
+                "Lee": 82908,
+                "total": 128443,
+                "min_turnout": -38543,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "2": {
+                "McMullin": 3447,
+                "Lee": 10131,
+                "total": 13578,
+                "min_turnout": -2088,
+                "max_turnout": 0,
+                "county_name": "Box Elder"
+            },
+            "6": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -931,
+                "max_turnout": 0,
+                "county_name": "Davis"
+            },
+            "25": {
+                "McMullin": 42088,
+                "Lee": 72777,
+                "total": 114865,
+                "min_turnout": -35524,
+                "max_turnout": 0,
+                "county_name": "Utah"
+            },
+            "time": "2022-11-09T04:33:06.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 3758,
+                "min_turnout": 0,
+                "max_turnout": -6758,
+                "county_name": "Total"
+            },
+            "2": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 470,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Box Elder"
+            },
+            "25": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 3288,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Utah"
+            },
+            "29": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -6758,
+                "county_name": "Weber"
+            },
+            "time": "2022-11-09T04:33:44.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -10102,
+                "county_name": "Total"
+            },
+            "3": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -650,
+                "county_name": "Cache"
+            },
+            "6": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -9452,
+                "county_name": "Davis"
+            },
+            "time": "2022-11-09T04:34:13.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 890,
+                "Lee": 2303,
+                "total": 3334,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "13": {
+                "McMullin": 890,
+                "Lee": 2303,
+                "total": 3334,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Kane"
+            },
+            "time": "2022-11-09T04:34:41.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -164,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "13": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -164,
+                "max_turnout": 0,
+                "county_name": "Kane"
+            },
+            "time": "2022-11-09T04:35:37.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 106484,
+                "Lee": 67142,
+                "total": 179783,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "18": {
+                "McMullin": 106484,
+                "Lee": 67142,
+                "total": 179783,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Salt Lake"
+            },
+            "time": "2022-11-09T04:36:16.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 844,
+                "Lee": 2061,
+                "total": 3073,
+                "min_turnout": 0,
+                "max_turnout": 107,
+                "county_name": "Total"
+            },
+            "6": {
+                "McMullin": 844,
+                "Lee": 2061,
+                "total": 3073,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Davis"
+            },
+            "13": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": 107,
+                "county_name": "Kane"
+            },
+            "time": "2022-11-09T04:38:27.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -12084,
+                "max_turnout": -12084,
+                "county_name": "Total"
+            },
+            "18": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -12084,
+                "max_turnout": -12084,
+                "county_name": "Salt Lake"
+            },
+            "time": "2022-11-09T04:38:55.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 2335,
+                "Lee": 1840,
+                "total": 4175,
+                "min_turnout": 198,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "6": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 504,
+                "max_turnout": 0,
+                "county_name": "Davis"
+            },
+            "10": {
+                "McMullin": 2335,
+                "Lee": 1840,
+                "total": 4175,
+                "min_turnout": -306,
+                "max_turnout": 0,
+                "county_name": "Grand"
+            },
+            "time": "2022-11-09T04:39:05.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 293,
+                "min_turnout": 74,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "10": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 293,
+                "min_turnout": 74,
+                "max_turnout": 0,
+                "county_name": "Grand"
+            },
+            "time": "2022-11-09T04:40:40.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -25980,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "18": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -25980,
+                "max_turnout": 0,
+                "county_name": "Salt Lake"
+            },
+            "time": "2022-11-09T04:43:38.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -187,
+                "county_name": "Total"
+            },
+            "10": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -187,
+                "county_name": "Grand"
+            },
+            "time": "2022-11-09T04:45:11.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -629,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "3": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -629,
+                "max_turnout": 0,
+                "county_name": "Cache"
+            },
+            "time": "2022-11-09T04:46:15.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 1051,
+                "Lee": 5748,
+                "total": 6799,
+                "min_turnout": -928,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "21": {
+                "McMullin": 1051,
+                "Lee": 5748,
+                "total": 6799,
+                "min_turnout": -928,
+                "max_turnout": 0,
+                "county_name": "Sevier"
+            },
+            "time": "2022-11-09T04:49:30.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 30,
+                "Lee": 0,
+                "total": 30,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "2": {
+                "McMullin": 30,
+                "Lee": 0,
+                "total": 30,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Box Elder"
+            },
+            "time": "2022-11-09T04:50:47.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 178,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "21": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 178,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Sevier"
+            },
+            "time": "2022-11-09T04:52:50.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 412,
+                "Lee": 1042,
+                "total": 1454,
+                "min_turnout": -20,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "28": {
+                "McMullin": 412,
+                "Lee": 1042,
+                "total": 1454,
+                "min_turnout": -20,
+                "max_turnout": 0,
+                "county_name": "Wayne"
+            },
+            "time": "2022-11-09T04:53:17.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 43,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "28": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 43,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Wayne"
+            },
+            "time": "2022-11-09T04:53:56.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -34,
+                "max_turnout": -20,
+                "county_name": "Total"
+            },
+            "28": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -34,
+                "max_turnout": -20,
+                "county_name": "Wayne"
+            },
+            "time": "2022-11-09T04:54:34.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 1261,
+                "Lee": 4937,
+                "total": 6348,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "20": {
+                "McMullin": 1261,
+                "Lee": 4937,
+                "total": 6348,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Sanpete"
+            },
+            "time": "2022-11-09T04:55:59.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -2064,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "20": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -2064,
+                "max_turnout": 0,
+                "county_name": "Sanpete"
+            },
+            "time": "2022-11-09T04:57:33.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -1261,
+                "county_name": "Total"
+            },
+            "6": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -1261,
+                "county_name": "Davis"
+            },
+            "time": "2022-11-09T05:00:27.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 1511,
+                "Lee": 8709,
+                "total": 10220,
+                "min_turnout": -795,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "24": {
+                "McMullin": 1511,
+                "Lee": 8709,
+                "total": 10220,
+                "min_turnout": -795,
+                "max_turnout": 0,
+                "county_name": "Uintah"
+            },
+            "time": "2022-11-09T05:11:26.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 352,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "24": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 352,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Uintah"
+            },
+            "time": "2022-11-09T05:14:08.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": 195,
+                "county_name": "Total"
+            },
+            "24": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": 195,
+                "county_name": "Uintah"
+            },
+            "time": "2022-11-09T05:20:22.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -83,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "21": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -83,
+                "max_turnout": 0,
+                "county_name": "Sevier"
+            },
+            "time": "2022-11-09T05:26:10.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 1332,
+                "Lee": 3574,
+                "total": 4906,
+                "min_turnout": -894,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "15": {
+                "McMullin": 1332,
+                "Lee": 3574,
+                "total": 4906,
+                "min_turnout": -894,
+                "max_turnout": 0,
+                "county_name": "Morgan"
+            },
+            "time": "2022-11-09T05:27:11.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 134,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "15": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 134,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Morgan"
+            },
+            "time": "2022-11-09T05:27:51.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 104,
+                "Lee": 355,
+                "total": 473,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "5": {
+                "McMullin": 104,
+                "Lee": 355,
+                "total": 473,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Daggett"
+            },
+            "time": "2022-11-09T05:42:18.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -2,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "5": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -2,
+                "max_turnout": 0,
+                "county_name": "Daggett"
+            },
+            "time": "2022-11-09T05:43:20.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 221,
+                "Lee": 244,
+                "total": 588,
+                "min_turnout": -5,
+                "max_turnout": -2,
+                "county_name": "Total"
+            },
+            "5": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -5,
+                "max_turnout": -2,
+                "county_name": "Daggett"
+            },
+            "19": {
+                "McMullin": 221,
+                "Lee": 244,
+                "total": 588,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "San Juan"
+            },
+            "time": "2022-11-09T05:47:06.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 2904,
+                "Lee": 9759,
+                "total": 12663,
+                "min_turnout": -2640,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "11": {
+                "McMullin": 2904,
+                "Lee": 9759,
+                "total": 12663,
+                "min_turnout": -2640,
+                "max_turnout": 0,
+                "county_name": "Iron"
+            },
+            "time": "2022-11-09T05:51:22.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 2363,
+                "Lee": 5226,
+                "total": 7529,
+                "min_turnout": -889,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "2": {
+                "McMullin": 329,
+                "Lee": 1126,
+                "total": 985,
+                "min_turnout": -86,
+                "max_turnout": 0,
+                "county_name": "Box Elder"
+            },
+            "4": {
+                "McMullin": 2034,
+                "Lee": 4100,
+                "total": 6134,
+                "min_turnout": -731,
+                "max_turnout": 0,
+                "county_name": "Carbon"
+            },
+            "11": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 410,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Iron"
+            },
+            "19": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -72,
+                "max_turnout": 0,
+                "county_name": "San Juan"
+            },
+            "time": "2022-11-09T05:53:06.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 327,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "4": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 327,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Carbon"
+            },
+            "time": "2022-11-09T05:54:08.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 531,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "2": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 531,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Box Elder"
+            },
+            "time": "2022-11-09T05:55:47.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 412,
+                "Lee": 3368,
+                "total": 3894,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "27": {
+                "McMullin": 412,
+                "Lee": 3368,
+                "total": 3894,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Washington"
+            },
+            "time": "2022-11-09T05:56:51.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 1989,
+                "Lee": 3197,
+                "total": 5552,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "18": {
+                "McMullin": 1989,
+                "Lee": 3197,
+                "total": 5552,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Salt Lake"
+            },
+            "time": "2022-11-09T06:00:35.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 2264,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "18": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 2264,
+                "max_turnout": 0,
+                "county_name": "Salt Lake"
+            },
+            "time": "2022-11-09T06:02:33.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 95,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "27": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 95,
+                "max_turnout": 0,
+                "county_name": "Washington"
+            },
+            "time": "2022-11-09T06:08:59.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 13401,
+                "Lee": 28862,
+                "total": 43833,
+                "min_turnout": -2676,
+                "max_turnout": -27829,
+                "county_name": "Total"
+            },
+            "7": {
+                "McMullin": 879,
+                "Lee": 5036,
+                "total": 6105,
+                "min_turnout": -1071,
+                "max_turnout": -871,
+                "county_name": "Duchesne"
+            },
+            "11": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -1443,
+                "county_name": "Iron"
+            },
+            "18": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -8184,
+                "county_name": "Salt Lake"
+            },
+            "20": {
+                "McMullin": 159,
+                "Lee": 846,
+                "total": 1040,
+                "min_turnout": 69,
+                "max_turnout": -734,
+                "county_name": "Sanpete"
+            },
+            "23": {
+                "McMullin": 168,
+                "Lee": 644,
+                "total": 847,
+                "min_turnout": 191,
+                "max_turnout": -444,
+                "county_name": "Tooele"
+            },
+            "25": {
+                "McMullin": 6920,
+                "Lee": 14743,
+                "total": 22482,
+                "min_turnout": 166,
+                "max_turnout": -14093,
+                "county_name": "Utah"
+            },
+            "26": {
+                "McMullin": 5208,
+                "Lee": 7240,
+                "total": 12932,
+                "min_turnout": -2570,
+                "max_turnout": -2060,
+                "county_name": "Wasatch"
+            },
+            "27": {
+                "McMullin": 67,
+                "Lee": 353,
+                "total": 427,
+                "min_turnout": 539,
+                "max_turnout": 0,
+                "county_name": "Washington"
+            },
+            "time": "2022-11-09T08:52:30.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 16224,
+                "Lee": 15906,
+                "total": 25607,
+                "min_turnout": -4692,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "18": {
+                "McMullin": 8154,
+                "Lee": 11476,
+                "total": 13107,
+                "min_turnout": -3525,
+                "max_turnout": 0,
+                "county_name": "Salt Lake"
+            },
+            "22": {
+                "McMullin": 8070,
+                "Lee": 4430,
+                "total": 12500,
+                "min_turnout": -1167,
+                "max_turnout": 0,
+                "county_name": "Summit"
+            },
+            "time": "2022-11-09T09:09:11.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 355,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "22": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 355,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Summit"
+            },
+            "time": "2022-11-09T09:12:41.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 7895,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "18": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 7895,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Salt Lake"
+            },
+            "time": "2022-11-09T09:16:12.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 17586,
+                "Lee": 14126,
+                "total": 21709,
+                "min_turnout": 1284,
+                "max_turnout": 110,
+                "county_name": "Total"
+            },
+            "1": {
+                "McMullin": 14,
+                "Lee": 99,
+                "total": 9,
+                "min_turnout": 9,
+                "max_turnout": 110,
+                "county_name": "Beaver"
+            },
+            "2": {
+                "McMullin": 465,
+                "Lee": 1560,
+                "total": 1494,
+                "min_turnout": 107,
+                "max_turnout": 0,
+                "county_name": "Box Elder"
+            },
+            "7": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 126,
+                "max_turnout": 0,
+                "county_name": "Duchesne"
+            },
+            "13": {
+                "McMullin": 38,
+                "Lee": 187,
+                "total": 84,
+                "min_turnout": 164,
+                "max_turnout": 0,
+                "county_name": "Kane"
+            },
+            "18": {
+                "McMullin": 12964,
+                "Lee": 8666,
+                "total": 13735,
+                "min_turnout": 998,
+                "max_turnout": 0,
+                "county_name": "Salt Lake"
+            },
+            "22": {
+                "McMullin": 3344,
+                "Lee": 2025,
+                "total": 5014,
+                "min_turnout": -56,
+                "max_turnout": 0,
+                "county_name": "Summit"
+            },
+            "23": {
+                "McMullin": 761,
+                "Lee": 1589,
+                "total": 1373,
+                "min_turnout": -89,
+                "max_turnout": 0,
+                "county_name": "Tooele"
+            },
+            "26": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 25,
+                "max_turnout": 0,
+                "county_name": "Wasatch"
+            },
+            "time": "2022-11-10T00:02:09.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 39,
+                "Lee": 105,
+                "total": 11504,
+                "min_turnout": 42,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "1": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 57,
+                "min_turnout": 42,
+                "max_turnout": 0,
+                "county_name": "Beaver"
+            },
+            "2": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 631,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Box Elder"
+            },
+            "7": {
+                "McMullin": 25,
+                "Lee": 95,
+                "total": 127,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Duchesne"
+            },
+            "13": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 156,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Kane"
+            },
+            "18": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 8744,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Salt Lake"
+            },
+            "22": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 614,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Summit"
+            },
+            "23": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 1146,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Tooele"
+            },
+            "26": {
+                "McMullin": 14,
+                "Lee": 10,
+                "total": 29,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Wasatch"
+            },
+            "time": "2022-11-10T00:04:47.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -1296,
+                "max_turnout": -1223,
+                "county_name": "Total"
+            },
+            "1": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 25,
+                "max_turnout": 0,
+                "county_name": "Beaver"
+            },
+            "22": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -1321,
+                "max_turnout": -1223,
+                "county_name": "Summit"
+            },
+            "time": "2022-11-10T01:16:44.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 948,
+                "Lee": 3271,
+                "total": 3166,
+                "min_turnout": 465,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "11": {
+                "McMullin": 250,
+                "Lee": 889,
+                "total": 729,
+                "min_turnout": 3,
+                "max_turnout": 0,
+                "county_name": "Iron"
+            },
+            "19": {
+                "McMullin": 242,
+                "Lee": 458,
+                "total": 242,
+                "min_turnout": -21,
+                "max_turnout": 0,
+                "county_name": "San Juan"
+            },
+            "20": {
+                "McMullin": 456,
+                "Lee": 1924,
+                "total": 2195,
+                "min_turnout": 483,
+                "max_turnout": 0,
+                "county_name": "Sanpete"
+            },
+            "time": "2022-11-10T02:33:50.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -4005,
+                "max_turnout": -5066,
+                "county_name": "Total"
+            },
+            "3": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -4005,
+                "max_turnout": -5066,
+                "county_name": "Cache"
+            },
+            "time": "2022-11-10T17:05:04.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 9173,
+                "Lee": 14900,
+                "total": 19319,
+                "min_turnout": 115,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "6": {
+                "McMullin": 7711,
+                "Lee": 10463,
+                "total": 14863,
+                "min_turnout": 502,
+                "max_turnout": 0,
+                "county_name": "Davis"
+            },
+            "27": {
+                "McMullin": 1462,
+                "Lee": 4437,
+                "total": 4456,
+                "min_turnout": -387,
+                "max_turnout": 0,
+                "county_name": "Washington"
+            },
+            "time": "2022-11-11T00:03:55.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 11846,
+                "Lee": 21311,
+                "total": 29050,
+                "min_turnout": 873,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "25": {
+                "McMullin": 11846,
+                "Lee": 21311,
+                "total": 29050,
+                "min_turnout": 873,
+                "max_turnout": 0,
+                "county_name": "Utah"
+            },
+            "time": "2022-11-11T00:15:49.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 592,
+                "Lee": 2603,
+                "total": 3098,
+                "min_turnout": 984,
+                "max_turnout": 15,
+                "county_name": "Total"
+            },
+            "11": {
+                "McMullin": 473,
+                "Lee": 1856,
+                "total": 2329,
+                "min_turnout": 743,
+                "max_turnout": 0,
+                "county_name": "Iron"
+            },
+            "14": {
+                "McMullin": 119,
+                "Lee": 747,
+                "total": 769,
+                "min_turnout": 241,
+                "max_turnout": 18,
+                "county_name": "Millard"
+            },
+            "22": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -3,
+                "county_name": "Summit"
+            },
+            "time": "2022-11-11T02:01:47.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 19508,
+                "Lee": 11206,
+                "total": 21970,
+                "min_turnout": 1846,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "18": {
+                "McMullin": 19508,
+                "Lee": 11206,
+                "total": 21970,
+                "min_turnout": 1846,
+                "max_turnout": 0,
+                "county_name": "Salt Lake"
+            },
+            "time": "2022-11-11T02:06:02.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 4394,
+                "Lee": 7731,
+                "total": 11100,
+                "min_turnout": 2029,
+                "max_turnout": 40,
+                "county_name": "Total"
+            },
+            "3": {
+                "McMullin": 4394,
+                "Lee": 7731,
+                "total": 11100,
+                "min_turnout": 2029,
+                "max_turnout": 40,
+                "county_name": "Cache"
+            },
+            "time": "2022-11-11T02:36:06.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 16145,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "6": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 4255,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Davis"
+            },
+            "18": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 10202,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Salt Lake"
+            },
+            "27": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 1688,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Washington"
+            },
+            "time": "2022-11-11T02:36:55.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 1684,
+                "min_turnout": 1684,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "3": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 1684,
+                "min_turnout": 1684,
+                "max_turnout": 0,
+                "county_name": "Cache"
+            },
+            "time": "2022-11-11T03:17:17.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 332,
+                "max_turnout": 72,
+                "county_name": "Total"
+            },
+            "3": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 332,
+                "max_turnout": 72,
+                "county_name": "Cache"
+            },
+            "time": "2022-11-11T03:32:48.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 95,
+                "Lee": 110,
+                "total": 7140,
+                "min_turnout": 150,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "11": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 599,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Iron"
+            },
+            "14": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 141,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Millard"
+            },
+            "19": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 559,
+                "min_turnout": 150,
+                "max_turnout": 0,
+                "county_name": "San Juan"
+            },
+            "20": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 259,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Sanpete"
+            },
+            "22": {
+                "McMullin": 95,
+                "Lee": 110,
+                "total": 211,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Summit"
+            },
+            "25": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 5371,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Utah"
+            },
+            "time": "2022-11-11T03:36:52.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -81,
+                "max_turnout": -451,
+                "county_name": "Total"
+            },
+            "11": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -81,
+                "max_turnout": -451,
+                "county_name": "Iron"
+            },
+            "time": "2022-11-11T03:40:48.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 4521,
+                "Lee": 7982,
+                "total": 13219,
+                "min_turnout": 477,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "29": {
+                "McMullin": 4521,
+                "Lee": 7982,
+                "total": 13219,
+                "min_turnout": 477,
+                "max_turnout": 0,
+                "county_name": "Weber"
+            },
+            "time": "2022-11-11T18:07:15.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 10187,
+                "Lee": 6115,
+                "total": 17118,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "18": {
+                "McMullin": 10187,
+                "Lee": 6115,
+                "total": 17118,
+                "min_turnout": 0,
+                "max_turnout": 0,
+                "county_name": "Salt Lake"
+            },
+            "time": "2022-11-11T23:29:35.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -1112,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "18": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -1112,
+                "max_turnout": 0,
+                "county_name": "Salt Lake"
+            },
+            "time": "2022-11-11T23:42:43.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 375,
+                "Lee": 569,
+                "total": 997,
+                "min_turnout": 235,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "22": {
+                "McMullin": 375,
+                "Lee": 569,
+                "total": 997,
+                "min_turnout": 235,
+                "max_turnout": 0,
+                "county_name": "Summit"
+            },
+            "time": "2022-11-12T00:05:08.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 1633,
+                "Lee": 5406,
+                "total": 5351,
+                "min_turnout": 2841,
+                "max_turnout": -103,
+                "county_name": "Total"
+            },
+            "22": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 0,
+                "max_turnout": -103,
+                "county_name": "Summit"
+            },
+            "27": {
+                "McMullin": 1633,
+                "Lee": 5406,
+                "total": 5351,
+                "min_turnout": 2841,
+                "max_turnout": 0,
+                "county_name": "Washington"
+            },
+            "time": "2022-11-12T00:05:49.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -1147,
+                "max_turnout": -11467,
+                "county_name": "Total"
+            },
+            "22": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 199,
+                "max_turnout": 0,
+                "county_name": "Summit"
+            },
+            "27": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -1346,
+                "max_turnout": -11467,
+                "county_name": "Washington"
+            },
+            "time": "2022-11-12T00:09:15.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 2009,
+                "min_turnout": 113,
+                "max_turnout": 0,
+                "county_name": "Total"
+            },
+            "27": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 2009,
+                "min_turnout": 113,
+                "max_turnout": 0,
+                "county_name": "Washington"
+            },
+            "time": "2022-11-12T00:13:23.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -2868,
+                "max_turnout": -5601,
+                "county_name": "Total"
+            },
+            "6": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -3511,
+                "max_turnout": -5601,
+                "county_name": "Davis"
+            },
+            "27": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": 643,
+                "max_turnout": 0,
+                "county_name": "Washington"
+            },
+            "time": "2022-11-12T01:17:10.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -1151,
+                "max_turnout": -2067,
+                "county_name": "Total"
+            },
+            "2": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -1151,
+                "max_turnout": -2067,
+                "county_name": "Box Elder"
+            },
+            "time": "2022-11-12T01:21:19.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -6368,
+                "max_turnout": -1644,
+                "county_name": "Total"
+            },
+            "29": {
+                "McMullin": 0,
+                "Lee": 0,
+                "total": 0,
+                "min_turnout": -6368,
+                "max_turnout": -1644,
+                "county_name": "Weber"
+            },
+            "time": "2022-11-12T01:57:19.000Z"
+        },
+        {
+            "0": {
+                "McMullin": 82234,
+                "Lee": 75744,
+                "total": 168381
+            },
+            "1": {
+                "McMullin": 3,
+                "Lee": 6,
+                "total": 9
+            },
+            "2": {
+                "McMullin": 454,
+                "Lee": 1617,
+                "total": 2184
+            },
+            "3": {
+                "McMullin": 852,
+                "Lee": 1003,
+                "total": 1993
+            },
+            "4": {
+                "McMullin": 80,
+                "Lee": 165,
+                "total": 268
+            },
+            "5": {
+                "McMullin": 5,
+                "Lee": 22,
+                "total": 28
+            },
+            "6": {
+                "McMullin": 2154,
+                "Lee": 2655,
+                "total": 5138
+            },
+            "7": {
+                "McMullin": 8,
+                "Lee": 39,
+                "total": 51
+            },
+            "8": {
+                "McMullin": 4,
+                "Lee": 18,
+                "total": 23
+            },
+            "9": {
+                "McMullin": 20,
+                "Lee": 66,
+                "total": 90
+            },
+            "10": {
+                "McMullin": 86,
+                "Lee": 61,
+                "total": 175
+            },
+            "11": {
+                "McMullin": 128,
+                "Lee": 419,
+                "total": 579
+            },
+            "12": {
+                "McMullin": 6,
+                "Lee": 18,
+                "total": 28
+            },
+            "13": {
+                "McMullin": 18,
+                "Lee": 63,
+                "total": 85
+            },
+            "14": {
+                "McMullin": 28,
+                "Lee": 175,
+                "total": 212
+            },
+            "15": {
+                "McMullin": 26,
+                "Lee": 91,
+                "total": 117
+            },
+            "17": {
+                "McMullin": 1,
+                "Lee": 13,
+                "total": 14
+            },
+            "18": {
+                "McMullin": 59209,
+                "Lee": 37129,
+                "total": 103089
+            },
+            "19": {
+                "McMullin": 109,
+                "Lee": 116,
+                "total": 295
+            },
+            "20": {
+                "McMullin": 36,
+                "Lee": 122,
+                "total": 167
+            },
+            "21": {
+                "McMullin": 101,
+                "Lee": 663,
+                "total": 798
+            },
+            "22": {
+                "McMullin": 441,
+                "Lee": 171,
+                "total": 667
+            },
+            "23": {
+                "McMullin": 204,
+                "Lee": 398,
+                "total": 672
+            },
+            "24": {
+                "McMullin": 48,
+                "Lee": 196,
+                "total": 261
+            },
+            "25": {
+                "McMullin": 11384,
+                "Lee": 18265,
+                "total": 31044
+            },
+            "26": {
+                "McMullin": 207,
+                "Lee": 278,
+                "total": 503
+            },
+            "27": {
+                "McMullin": 1219,
+                "Lee": 4383,
+                "total": 5901
+            },
+            "28": {
+                "McMullin": 3,
+                "Lee": 14,
+                "total": 17
+            },
+            "29": {
+                "McMullin": 5400,
+                "Lee": 7578,
+                "total": 13973
+            },
+            "time": "2024-10-30T01:44:32.555Z"
+        }
+    ],
+    "margin_history": [
+        {
+            "time": "2022-11-08T20:22:25.000Z",
+            "margin": 0,
+            "total": 0
+        },
+        {
+            "time": "2022-11-09T03:41:04.000Z",
+            "margin": -2467,
+            "total": 3811
+        },
+        {
+            "time": "2022-11-09T03:42:38.000Z",
+            "margin": -3931,
+            "total": 6183
+        },
+        {
+            "time": "2022-11-09T03:55:47.000Z",
+            "margin": -3931,
+            "total": 6183
+        },
+        {
+            "time": "2022-11-09T03:56:06.000Z",
+            "margin": -3931,
+            "total": 6183
+        },
+        {
+            "time": "2022-11-09T04:04:08.000Z",
+            "margin": -35403,
+            "total": 153329
+        },
+        {
+            "time": "2022-11-09T04:05:18.000Z",
+            "margin": -35403,
+            "total": 153329
+        },
+        {
+            "time": "2022-11-09T04:07:26.000Z",
+            "margin": -38639,
+            "total": 158053
+        },
+        {
+            "time": "2022-11-09T04:07:45.000Z",
+            "margin": -38639,
+            "total": 158178
+        },
+        {
+            "time": "2022-11-09T04:08:14.000Z",
+            "margin": -38639,
+            "total": 158305
+        },
+        {
+            "time": "2022-11-09T04:11:03.000Z",
+            "margin": -38639,
+            "total": 158305
+        },
+        {
+            "time": "2022-11-09T04:11:21.000Z",
+            "margin": -45216,
+            "total": 188036
+        },
+        {
+            "time": "2022-11-09T04:13:41.000Z",
+            "margin": -45216,
+            "total": 189396
+        },
+        {
+            "time": "2022-11-09T04:14:08.000Z",
+            "margin": -45216,
+            "total": 189396
+        },
+        {
+            "time": "2022-11-09T04:14:35.000Z",
+            "margin": -50319,
+            "total": 237187
+        },
+        {
+            "time": "2022-11-09T04:14:55.000Z",
+            "margin": -50319,
+            "total": 237187
+        },
+        {
+            "time": "2022-11-09T04:21:18.000Z",
+            "margin": -50319,
+            "total": 237187
+        },
+        {
+            "time": "2022-11-09T04:24:26.000Z",
+            "margin": -54705,
+            "total": 257305
+        },
+        {
+            "time": "2022-11-09T04:25:13.000Z",
+            "margin": -54705,
+            "total": 257305
+        },
+        {
+            "time": "2022-11-09T04:26:10.000Z",
+            "margin": -56090,
+            "total": 260538
+        },
+        {
+            "time": "2022-11-09T04:26:19.000Z",
+            "margin": -56090,
+            "total": 260538
+        },
+        {
+            "time": "2022-11-09T04:31:31.000Z",
+            "margin": -56090,
+            "total": 260538
+        },
+        {
+            "time": "2022-11-09T04:32:29.000Z",
+            "margin": -56090,
+            "total": 260538
+        },
+        {
+            "time": "2022-11-09T04:33:06.000Z",
+            "margin": -93463,
+            "total": 388981
+        },
+        {
+            "time": "2022-11-09T04:33:44.000Z",
+            "margin": -93463,
+            "total": 392739
+        },
+        {
+            "time": "2022-11-09T04:34:13.000Z",
+            "margin": -93463,
+            "total": 392739
+        },
+        {
+            "time": "2022-11-09T04:34:41.000Z",
+            "margin": -94876,
+            "total": 396073
+        },
+        {
+            "time": "2022-11-09T04:35:37.000Z",
+            "margin": -94876,
+            "total": 396073
+        },
+        {
+            "time": "2022-11-09T04:36:16.000Z",
+            "margin": -55534,
+            "total": 575856
+        },
+        {
+            "time": "2022-11-09T04:38:27.000Z",
+            "margin": -56751,
+            "total": 578929
+        },
+        {
+            "time": "2022-11-09T04:38:55.000Z",
+            "margin": -56751,
+            "total": 578929
+        },
+        {
+            "time": "2022-11-09T04:39:05.000Z",
+            "margin": -56256,
+            "total": 583104
+        },
+        {
+            "time": "2022-11-09T04:40:40.000Z",
+            "margin": -56256,
+            "total": 583397
+        },
+        {
+            "time": "2022-11-09T04:43:38.000Z",
+            "margin": -56256,
+            "total": 583397
+        },
+        {
+            "time": "2022-11-09T04:45:11.000Z",
+            "margin": -56256,
+            "total": 583397
+        },
+        {
+            "time": "2022-11-09T04:46:15.000Z",
+            "margin": -56256,
+            "total": 583397
+        },
+        {
+            "time": "2022-11-09T04:49:30.000Z",
+            "margin": -60953,
+            "total": 590196
+        },
+        {
+            "time": "2022-11-09T04:50:47.000Z",
+            "margin": -60923,
+            "total": 590226
+        },
+        {
+            "time": "2022-11-09T04:52:50.000Z",
+            "margin": -60923,
+            "total": 590404
+        },
+        {
+            "time": "2022-11-09T04:53:17.000Z",
+            "margin": -61553,
+            "total": 591858
+        },
+        {
+            "time": "2022-11-09T04:53:56.000Z",
+            "margin": -61553,
+            "total": 591901
+        },
+        {
+            "time": "2022-11-09T04:54:34.000Z",
+            "margin": -61553,
+            "total": 591901
+        },
+        {
+            "time": "2022-11-09T04:55:59.000Z",
+            "margin": -65229,
+            "total": 598249
+        },
+        {
+            "time": "2022-11-09T04:57:33.000Z",
+            "margin": -65229,
+            "total": 598249
+        },
+        {
+            "time": "2022-11-09T05:00:27.000Z",
+            "margin": -65229,
+            "total": 598249
+        },
+        {
+            "time": "2022-11-09T05:11:26.000Z",
+            "margin": -72427,
+            "total": 608469
+        },
+        {
+            "time": "2022-11-09T05:14:08.000Z",
+            "margin": -72427,
+            "total": 608821
+        },
+        {
+            "time": "2022-11-09T05:20:22.000Z",
+            "margin": -72427,
+            "total": 608821
+        },
+        {
+            "time": "2022-11-09T05:26:10.000Z",
+            "margin": -72427,
+            "total": 608821
+        },
+        {
+            "time": "2022-11-09T05:27:11.000Z",
+            "margin": -74669,
+            "total": 613727
+        },
+        {
+            "time": "2022-11-09T05:27:51.000Z",
+            "margin": -74669,
+            "total": 613861
+        },
+        {
+            "time": "2022-11-09T05:42:18.000Z",
+            "margin": -74920,
+            "total": 614334
+        },
+        {
+            "time": "2022-11-09T05:43:20.000Z",
+            "margin": -74920,
+            "total": 614334
+        },
+        {
+            "time": "2022-11-09T05:47:06.000Z",
+            "margin": -74943,
+            "total": 614922
+        },
+        {
+            "time": "2022-11-09T05:51:22.000Z",
+            "margin": -81798,
+            "total": 627585
+        },
+        {
+            "time": "2022-11-09T05:53:06.000Z",
+            "margin": -84661,
+            "total": 635114
+        },
+        {
+            "time": "2022-11-09T05:54:08.000Z",
+            "margin": -84661,
+            "total": 635441
+        },
+        {
+            "time": "2022-11-09T05:55:47.000Z",
+            "margin": -84661,
+            "total": 635972
+        },
+        {
+            "time": "2022-11-09T05:56:51.000Z",
+            "margin": -87617,
+            "total": 639866
+        },
+        {
+            "time": "2022-11-09T06:00:35.000Z",
+            "margin": -88825,
+            "total": 645418
+        },
+        {
+            "time": "2022-11-09T06:02:33.000Z",
+            "margin": -88825,
+            "total": 645418
+        },
+        {
+            "time": "2022-11-09T06:08:59.000Z",
+            "margin": -88825,
+            "total": 645418
+        },
+        {
+            "time": "2022-11-09T08:52:30.000Z",
+            "margin": -104286,
+            "total": 689251
+        },
+        {
+            "time": "2022-11-09T09:09:11.000Z",
+            "margin": -103968,
+            "total": 714858
+        },
+        {
+            "time": "2022-11-09T09:12:41.000Z",
+            "margin": -103968,
+            "total": 715213
+        },
+        {
+            "time": "2022-11-09T09:16:12.000Z",
+            "margin": -103968,
+            "total": 723108
+        },
+        {
+            "time": "2022-11-10T00:02:09.000Z",
+            "margin": -100508,
+            "total": 744817
+        },
+        {
+            "time": "2022-11-10T00:04:47.000Z",
+            "margin": -100574,
+            "total": 756321
+        },
+        {
+            "time": "2022-11-10T01:16:44.000Z",
+            "margin": -100574,
+            "total": 756321
+        },
+        {
+            "time": "2022-11-10T02:33:50.000Z",
+            "margin": -102897,
+            "total": 759487
+        },
+        {
+            "time": "2022-11-10T17:05:04.000Z",
+            "margin": -102897,
+            "total": 759487
+        },
+        {
+            "time": "2022-11-11T00:03:55.000Z",
+            "margin": -108624,
+            "total": 778806
+        },
+        {
+            "time": "2022-11-11T00:15:49.000Z",
+            "margin": -118089,
+            "total": 807856
+        },
+        {
+            "time": "2022-11-11T02:01:47.000Z",
+            "margin": -120100,
+            "total": 810954
+        },
+        {
+            "time": "2022-11-11T02:06:02.000Z",
+            "margin": -111798,
+            "total": 832924
+        },
+        {
+            "time": "2022-11-11T02:36:06.000Z",
+            "margin": -115135,
+            "total": 844024
+        },
+        {
+            "time": "2022-11-11T02:36:55.000Z",
+            "margin": -115135,
+            "total": 860169
+        },
+        {
+            "time": "2022-11-11T03:17:17.000Z",
+            "margin": -115135,
+            "total": 861853
+        },
+        {
+            "time": "2022-11-11T03:32:48.000Z",
+            "margin": -115135,
+            "total": 861853
+        },
+        {
+            "time": "2022-11-11T03:36:52.000Z",
+            "margin": -115150,
+            "total": 868993
+        },
+        {
+            "time": "2022-11-11T03:40:48.000Z",
+            "margin": -115150,
+            "total": 868993
+        },
+        {
+            "time": "2022-11-11T18:07:15.000Z",
+            "margin": -118611,
+            "total": 882212
+        },
+        {
+            "time": "2022-11-11T23:29:35.000Z",
+            "margin": -114539,
+            "total": 899330
+        },
+        {
+            "time": "2022-11-11T23:42:43.000Z",
+            "margin": -114539,
+            "total": 899330
+        },
+        {
+            "time": "2022-11-12T00:05:08.000Z",
+            "margin": -114733,
+            "total": 900327
+        },
+        {
+            "time": "2022-11-12T00:05:49.000Z",
+            "margin": -118506,
+            "total": 905678
+        },
+        {
+            "time": "2022-11-12T00:09:15.000Z",
+            "margin": -118506,
+            "total": 905678
+        },
+        {
+            "time": "2022-11-12T00:13:23.000Z",
+            "margin": -118506,
+            "total": 907687
+        },
+        {
+            "time": "2022-11-12T01:17:10.000Z",
+            "margin": -118506,
+            "total": 907687
+        },
+        {
+            "time": "2022-11-12T01:21:19.000Z",
+            "margin": -118506,
+            "total": 907687
+        },
+        {
+            "time": "2022-11-12T01:57:19.000Z",
+            "margin": -118506,
+            "total": 907687
+        },
+        {
+            "time": "2024-10-30T01:44:32.555Z",
+            "margin": -112016,
+            "total": 1076068
+        }
+    ]
+}

@@ -68,8 +68,10 @@ class App extends React.Component {
       <Router>
         <Navigator/>
         <Routes>
-          <Route exact path="/" element={<Dashboard/>}/>
-          <Route path="/2024-president" element={<Map/>}/>
+          <Route exact path="/" element={<Dashboard election_list_ids={["2024-pres-elections", "2024-sen-elections", "2024-house-elections"]}/>}/>
+          <Route path="/2024-president" element={<Map year="2024" type="pres"/>}/>
+          <Route path="/2024-senate" element={<Map year="2024" type="sen"/>}/>
+          <Route path="/2022-senate" element={<Map year="2022" type="sen"/>}/>
           <Route path="/results/:election_id" element={<Results/>}/>
         </Routes>
       </Router>

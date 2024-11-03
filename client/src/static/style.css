@@ -33,13 +33,29 @@ td {
   border: 2px solid black;
   padding: 0;
 }
-td.summary-cell {
-  width: 240px;
+td.summary-cell-pres {
+  width: 250px;
   text-align: left;
-  border: 2px solid black;
+  border: 3.2px solid #000000;
   padding: 10px;
   display: inline-block;
   margin: 1px;
+}
+td.summary-cell-sen {
+  width: 250px;
+  text-align: left;
+  border: 2.4px dashed #000000;
+  padding: 10px;
+  display: inline-block;
+  margin: 2px;
+}
+td.summary-cell-house {
+  width: 250px;
+  text-align: left;
+  border: 1.6px dotted #000000;
+  padding: 10px;
+  display: inline-block;
+  margin: 3px;
 }
 td.nyt {
   color: black;
@@ -187,7 +203,7 @@ display: block;
 display: block;
 width: 960px;
 }
-path:hover, circle:hover {
+path.map:hover, circle.map:hover {
 stroke: #00FF00 !important;
 stroke-width:2px;
 stroke-linejoin: round;

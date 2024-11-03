@@ -1,0 +1,83 @@
+{
+    "name": "2022 NY-22 House Election",
+    "candidates": [
+        "Conole",
+        "Williams"
+    ],
+    "sources": [
+        "nyt",
+        "cnn"
+    ],
+    "results": [
+        {
+            "county": "Total",
+            "Conole": 132913,
+            "Williams": 135544,
+            "total": 268608,
+            "margin": -2631,
+            "min_turnout": 268457,
+            "max_turnout": 268608,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": -2630,
+            "max_turnout_margin": -2631
+        },
+        {
+            "county": "Madison",
+            "Conole": 10786,
+            "Williams": 15240,
+            "total": 26058,
+            "margin": -4454,
+            "min_turnout": 26026,
+            "max_turnout": 26058,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": -4449,
+            "max_turnout_margin": -4454
+        },
+        {
+            "county": "Oneida",
+            "Conole": 27835,
+            "Williams": 46143,
+            "total": 74007,
+            "margin": -18308,
+            "min_turnout": 73978,
+            "max_turnout": 74007,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": -18301,
+            "max_turnout_margin": -18308
+        },
+        {
+            "county": "Onondaga",
+            "Conole": 94265,
+            "Williams": 74055,
+            "total": 168410,
+            "margin": 20210,
+            "min_turnout": 168320,
+            "max_turnout": 168410,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": 20199,
+            "max_turnout_margin": 20210
+        },
+        {
+            "county": "Oswego",
+            "Conole": 27,
+            "Williams": 106,
+            "total": 133,
+            "margin": -79,
+            "min_turnout": 133,
+            "max_turnout": 133,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -79,
+            "max_turnout_margin": -79
+        }
+    ]
+}

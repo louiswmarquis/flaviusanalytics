@@ -1,0 +1,41 @@
+{
+    "name": "2022 NY-4 House Election",
+    "candidates": [
+        "Gillen",
+        "D'Esposito"
+    ],
+    "sources": [
+        "nyt",
+        "cnn"
+    ],
+    "results": [
+        {
+            "county": "Total",
+            "Gillen": 130871,
+            "D'Esposito": 140622,
+            "total": 271560,
+            "margin": -9751,
+            "min_turnout": 271493,
+            "max_turnout": 271560,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": -9749,
+            "max_turnout_margin": -9751
+        },
+        {
+            "county": "Nassau",
+            "Gillen": 130871,
+            "D'Esposito": 140622,
+            "total": 271560,
+            "margin": -9751,
+            "min_turnout": 271493,
+            "max_turnout": 271560,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": -9749,
+            "max_turnout_margin": -9751
+        }
+    ]
+}

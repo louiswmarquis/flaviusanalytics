@@ -1,0 +1,90 @@
+{
+    "ca" : {
+        "info" : "Adam Schiff",
+		"color" : "dark-d"
+    },
+    "ct" : {
+        "info" : "Chris Murphy",
+		"color" : "dark-d"
+    },
+    "de" : {
+        "info" : "Lisa Blunt Rochester",
+		"color" : "dark-d"
+    },
+    "hi" : {
+        "info" : "Mazie Hirono",
+		"color" : "dark-d"
+    },
+    "id" : {
+        "info" : "Jim Banks",
+		"color" : "dark-r"
+    },
+    "me" : {
+        "info" : "Angus King",
+		"color" : "dark-d"
+    },
+    "ma" : {
+        "info" : "Elizabeth Warren",
+		"color" : "dark-d"
+    },
+    "mn" : {
+        "info" : "Amy Klobuchar",
+		"color" : "dark-d"
+    },
+    "ms" : {
+        "info" : "Roger Wicker",
+		"color" : "dark-r"
+    },
+    "mo" : {
+        "info" : "Josh Hawley",
+		"color" : "dark-r"
+    },
+    "nj" : {
+        "info" : "Andy Kim",
+		"color" : "dark-d"
+    },
+    "nm" : {
+        "info" : "Martin Heinrich",
+		"color" : "dark-d"
+    },
+    "ny" : {
+        "info" : "Kirsten Gillibrand",
+		"color" : "dark-d"
+    },
+    "nd" : {
+        "info" : "Kevin Cramer",
+		"color" : "dark-r"
+    },
+    "ri" : {
+        "info" : "Sheldon Whitehouse",
+		"color" : "dark-d"
+    },
+    "tn" : {
+        "info" : "Marsha Blackburn",
+		"color" : "dark-r"
+    },
+    "ut" : {
+        "info" : "John Curtis",
+		"color" : "dark-r"
+    },
+    "vt" : {
+        "info" : "Bernie Sanders",
+		"color" : "dark-d"
+    },
+    "va" : {
+        "info" : "Tim Kaine",
+		"color" : "dark-d"
+    },
+    "wa" : {
+        "info" : "Maria Cantwell",
+		"color" : "dark-d"
+    },
+    "wv" : {
+        "info" : "Jim Justice",
+		"color" : "dark-r"
+    },
+    "wy" : {
+        "info" : "John Barrasso",
+		"color" : "dark-r"
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "al" : {
+		"color" : "dark-r"
+    },
+    "ak" : {
+		"color" : "dark-r"
+    },
+    "az" : {
+		"color" : "i"
+    },
+    "ar" : {
+		"color" : "dark-r"
+    },
+    "ca" : {
+		"color" : "dark-d"
+    },
+    "co" : {
+		"color" : "dark-d"
+    },
+    "ct" : {
+		"color" : "dark-d"
+    },
+    "de" : {
+		"color" : "dark-d"
+    },
+    "fl" : {
+		"color" : "dark-r"
+    },
+    "ga" : {
+		"color" : "i"
+    },
+    "hi" : {
+		"color" : "dark-d"
+    },
+    "id" : {
+		"color" : "dark-r"
+    },
+    "il" : {
+		"color" : "dark-d"
+    },
+    "in" : {
+		"color" : "dark-r"
+    },
+    "ia" : {
+		"color" : "dark-r"
+    },
+    "ks" : {
+		"color" : "dark-r"
+    },
+    "ky" : {
+		"color" : "dark-r"
+    },
+    "la" : {
+		"color" : "dark-r"
+    },
+    "me" : {
+		"color" : "dark-d"
+    },
+    "md" : {
+		"color" : "dark-d"
+    },
+    "ma" : {
+		"color" : "dark-d"
+    },
+    "mi" : {
+		"color" : "i"
+    },
+    "mn" : {
+		"color" : "dark-d"
+    },
+    "ms" : {
+		"color" : "dark-r"
+    },
+    "mo" : {
+		"color" : "dark-r"
+    },
+    "mt" : {
+		"color" : "dark-r"
+    },
+    "me" : {
+		"color" : "dark-r"
+    },
+    "ne" : {
+		"color" : "dark-r"
+    },
+    "nv" : {
+		"color" : "i"
+    },
+    "nh" : {
+		"color" : "dark-d"
+    },
+    "nj" : {
+		"color" : "dark-d"
+    },
+    "nm" : {
+		"color" : "dark-d"
+    },
+    "ny" : {
+		"color" : "dark-d"
+    },
+    "nc" : {
+		"color" : "i"
+    },
+    "nd" : {
+		"color" : "dark-r"
+    },
+    "oh" : {
+		"color" : "dark-r"
+    },
+    "ok" : {
+		"color" : "dark-r"
+    },
+    "or" : {
+		"color" : "dark-d"
+    },
+    "pa" : {
+		"color" : "i"
+    },
+    "ri" : {
+		"color" : "dark-d"
+    },
+    "sc" : {
+		"color" : "dark-r"
+    },
+    "sd" : {
+		"color" : "dark-r"
+    },
+    "tn" : {
+		"color" : "dark-r"
+    },
+    "tx" : {
+		"color" : "dark-r"
+    },
+    "ut" : {
+		"color" : "dark-r"
+    },
+    "vt" : {
+		"color" : "dark-d"
+    },
+    "va" : {
+		"color" : "dark-d"
+    },
+    "wa" : {
+		"color" : "dark-d"
+    },
+    "wv" : {
+		"color" : "dark-r"
+    },
+    "wi" : {
+		"color" : "i"
+    },
+    "wy" : {
+		"color" : "dark-r"
+    }
+}

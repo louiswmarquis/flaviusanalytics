@@ -1,0 +1,69 @@
+{
+    "name": "2022 NE-2 House Election",
+    "candidates": [
+        "Vargas",
+        "Bacon"
+    ],
+    "sources": [
+        "nyt",
+        "cnn"
+    ],
+    "results": [
+        {
+            "county": "Total",
+            "Vargas": 106807,
+            "Bacon": 112663,
+            "total": 219470,
+            "margin": -5856,
+            "min_turnout": 219470,
+            "max_turnout": 219470,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": -5856,
+            "max_turnout_margin": -5856
+        },
+        {
+            "county": "Douglas",
+            "Vargas": 98055,
+            "Bacon": 93363,
+            "total": 191418,
+            "margin": 4692,
+            "min_turnout": 191418,
+            "max_turnout": 191418,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": 4692,
+            "max_turnout_margin": 4692
+        },
+        {
+            "county": "Sarpy",
+            "Vargas": 6457,
+            "Bacon": 12189,
+            "total": 18646,
+            "margin": -5732,
+            "min_turnout": 18646,
+            "max_turnout": 18646,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -5732,
+            "max_turnout_margin": -5732
+        },
+        {
+            "county": "Saunders",
+            "Vargas": 2295,
+            "Bacon": 7111,
+            "total": 9406,
+            "margin": -4816,
+            "min_turnout": 9406,
+            "max_turnout": 9406,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -4816,
+            "max_turnout_margin": -4816
+        }
+    ]
+}

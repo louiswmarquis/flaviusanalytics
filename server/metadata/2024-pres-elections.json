@@ -1,0 +1,222 @@
+{
+    "2024-az-pres-election" : {
+        "name" : "2024 Arizona President Election",
+        "candidates" : ["Harris", "Trump"],
+        "date" : [2024, 11, 5],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-arizona-president.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-AZ.json"
+        },
+		"prev" : "2020-az-pres-election",
+		"kalshi" : "https://kalshi.com/markets/prespartyaz",
+		"kalshi_margin" : "https://kalshi.com/markets/popvotemovaz"
+    },
+    "2024-ga-pres-election" : {
+        "name" : "2024 Georgia President Election",
+        "candidates" : ["Harris", "Trump"],
+        "date" : [2024, 11, 5],
+		"time" : 7,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-georgia-president.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-GA.json"
+        },
+		"prev" : "2020-ga-pres-election",
+		"kalshi" : "https://kalshi.com/markets/prespartyga",
+		"kalshi_margin" : "https://kalshi.com/markets/popvotemovga"
+    },
+    "2024-mi-pres-election" : {
+        "name" : "2024 Michigan President Election",
+        "candidates" : ["Harris", "Trump"],
+        "date" : [2024, 11, 5],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-michigan-president.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-MI.json"
+        },
+		"prev" : "2020-mi-pres-election",
+		"kalshi" : "https://kalshi.com/markets/prespartymi",
+		"kalshi_margin" : "https://kalshi.com/markets/popvotemovmi"
+    },
+    "2024-nv-pres-election" : {
+        "name" : "2024 Nevada President Election",
+        "candidates" : ["Harris", "Trump"],
+        "date" : [2024, 11, 5],
+		"time" : 10,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-nevada-president.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-NV.json"
+        },
+		"prev" : "2020-nv-pres-election",
+		"kalshi" : "https://kalshi.com/markets/prespartynv",
+		"kalshi_margin" : "https://kalshi.com/markets/popvotemovnv"
+    },
+    "2024-nc-pres-election" : {
+        "name" : "2024 North Carolina President Election",
+        "candidates" : ["Harris", "Trump"],
+        "date" : [2024, 11, 5],
+		"time" : 7.5,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-north-carolina-president.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-NC.json"
+        },
+		"prev" : "2020-nc-pres-election",
+		"kalshi" : "https://kalshi.com/markets/prespartync",
+		"kalshi_margin" : "https://kalshi.com/markets/popvotemovnc"
+    },
+    "2024-pa-pres-election" : {
+        "name" : "2024 Pennsylvania President Election",
+        "candidates" : ["Harris", "Trump"],
+        "date" : [2024, 11, 5],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-pennsylvania-president.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-PA.json"
+        },
+		"prev" : "2020-pa-pres-election",
+		"kalshi" : "https://kalshi.com/markets/prespartypa",
+		"kalshi_margin" : "https://kalshi.com/markets/popvotemovpa"
+    },
+    "2024-wi-pres-election" : {
+        "name" : "2024 Wisconsin President Election",
+        "candidates" : ["Harris", "Trump"],
+        "date" : [2024, 11, 5],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-wisconsin-president.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-WI.json"
+        },
+		"prev" : "2020-wi-pres-election",
+		"kalshi" : "https://kalshi.com/markets/prespartywi",
+		"kalshi_margin" : "https://kalshi.com/markets/popvotemovwi"
+    },
+    "2024-fl-pres-election" : {
+        "name" : "2024 Florida President Election",
+        "candidates" : ["Harris", "Trump"],
+        "date" : [2024, 11, 5],
+		"time" : 7,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-florida-president.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-FL.json"
+        },
+		"prev" : "2020-fl-pres-election",
+		"kalshi" : "https://kalshi.com/markets/prespartyfl",
+		"kalshi_margin" : "https://kalshi.com/markets/popvotemovfl"
+    },
+    "2024-tx-pres-election" : {
+        "name" : "2024 Texas President Election",
+        "candidates" : ["Harris", "Trump"],
+        "date" : [2024, 11, 5],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-texas-president.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-TX.json"
+        },
+		"prev" : "2020-tx-pres-election",
+		"kalshi" : "https://kalshi.com/markets/prespartytx",
+		"kalshi_margin" : "https://kalshi.com/markets/popvotedjttx"
+    },
+    "2024-va-pres-election" : {
+        "name" : "2024 Virginia President Election",
+        "candidates" : ["Harris", "Trump"],
+        "date" : [2024, 11, 5],
+		"time" : 7,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-d",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-virginia-president.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-VA.json"
+        },
+		"prev" : "2020-va-pres-election",
+		"kalshi" : "https://kalshi.com/markets/prespartyva",
+		"kalshi_margin" : "https://kalshi.com/markets/popvotekhva"
+    },
+    "2024-ak-pres-election" : {
+        "name" : "2024 Alaska President Election",
+        "candidates" : ["Harris", "Trump"],
+        "date" : [2024, 11, 5],
+		"time" : 12,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-alaska-president.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-AK.json"
+        },
+		"prev" : "2020-ak-pres-election",
+		"kalshi" : "https://kalshi.com/markets/prespartyva",
+		"kalshi_margin" : "https://kalshi.com/markets/popvotedjtak"
+    },
+    "2024-oh-pres-election" : {
+        "name" : "2024 Ohio President Election",
+        "candidates" : ["Harris", "Trump"],
+        "date" : [2024, 11, 5],
+		"time" : 7.5,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-ohio-president.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-OH.json"
+        },
+		"prev" : "2020-oh-pres-election",
+		"kalshi" : "https://kalshi.com/markets/prespartyoh",
+		"kalshi_margin" : "https://kalshi.com/markets/popvotedjtoh"
+    },
+    "2024-in-pres-election" : {
+        "name" : "2024 Indiana President Election",
+        "candidates" : ["Harris", "Trump"],
+        "date" : [2024, 11, 5],
+		"time" : 6,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-indiana-president.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-IN.json"
+        },
+		"prev" : "2020-in-pres-election"
+    },
+    "2024-ky-pres-election" : {
+        "name" : "2024 Kentucky President Election",
+        "candidates" : ["Harris", "Trump"],
+        "date" : [2024, 11, 5],
+		"time" : 6,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-kentucky-president.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-KY.json"
+        },
+		"prev" : "2020-ky-pres-election"
+    }
+}

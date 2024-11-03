@@ -1,158 +1,314 @@
 {
-    "2022-or-house-5-election" : {
-        "name" : "2022 Oregon Fifth House District Election",
-        "candidates" : ["McLeod-Skinner", "Chavez-DeRemer"],
-        "date" : [2022, 11, 8],
-        "when" : "past",
-        "notify" : "False",
-		"color" : "light-d",
-        "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-oregon-us-house-district-5.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-OR-5.json"
-        },
-        "graph-percents" : [0]
-    },
-    "2022-co-house-3-election" : {
-        "name" : "2022 Colorado Third House District Election",
-        "candidates" : ["Frisch", "Boebert"],
-        "date" : [2022, 11, 8],
-        "when" : "past",
-        "notify" : "False",
-		"color" : "dark-r",
-        "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-colorado-us-house-district-3.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CO-3.json"
-        },
-        "graph-percents" : [0]
-    },
-    "2022-wa-house-3-election" : {
-        "name" : "2022 Washington Third House District Election",
-        "candidates" : ["Perez", "Kent"],
-        "date" : [2022, 11, 8],
-        "when" : "past",
-        "notify" : "False",
-		"color" : "dark-r",
-        "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-washington-us-house-district-3.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-WA-3.json"
-        },
-        "graph-percents" : [0]
-    },
-    "2022-ny-house-22-election" : {
-        "name" : "2022 New York 22nd House District Election",
-        "candidates" : ["Conole", "Williams"],
-        "date" : [2022, 11, 8],
-        "when" : "past",
-        "notify" : "False",
-		"color" : "light-r",
-        "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-york-us-house-district-22.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-NY-22.json"
-        },
-        "graph-percents" : [0]
-    },
-    "2022-az-house-6-election" : {
-        "name" : "2022 Arizona Sixth House District Election",
-        "candidates" : ["Engel", "Ciscomani"],
-        "date" : [2022, 11, 8],
-        "when" : "past",
-        "notify" : "False",
-		"color" : "dark-r",
-        "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-arizona-us-house-district-6.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-AZ-6.json"
-        },
-        "graph-percents" : [0]
-    },
-    "2022-ca-house-3-election" : {
-        "name" : "2022 California Third House District Election",
-        "candidates" : ["Jones", "Kiley"],
-        "date" : [2022, 11, 8],
-        "when" : "past",
-        "notify" : "False",
-		"color" : "light-r",
-        "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-3.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-3.json"
-        },
-        "graph-percents" : [0]
-    },
-    "2022-ca-house-41-election" : {
-        "name" : "2022 California 41st House District Election",
-        "candidates" : ["Rollins", "Calvert"],
-        "date" : [2022, 11, 8],
-        "when" : "past",
-        "notify" : "False",
-		"color" : "light-r",
-        "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-41.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-41.json"
-        },
-        "graph-percents" : [0]
-    },
-    "2022-ca-house-45-election" : {
-        "name" : "2022 California 45th House District Election",
-        "candidates" : ["Chen", "Steel"],
-        "date" : [2022, 11, 8],
-        "when" : "past",
-        "notify" : "False",
-		"color" : "light-r",
-        "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-45.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-45.json"
-        },
-        "graph-percents" : [0]
-    },
-    "2022-az-house-1-election" : {
-        "name" : "2022 Arizona First House District Election",
+    "2022-az-1-house-election" : {
+        "name" : "2022 AZ-1 House Election",
         "candidates" : ["Hodge", "Schweikert"],
         "date" : [2022, 11, 8],
+		"time" : 9,
         "when" : "past",
         "notify" : "False",
-		"color" : "light-r",
         "sources" : {
 			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-arizona-us-house-district-1.json", 0],
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-AZ-1.json"
-        },
-        "graph-percents" : [0]
+        }
     },
-    "2022-ca-house-13-election" : {
-        "name" : "2022 California Thirteenth House District Election",
-        "candidates" : ["Gray", "Duarte"],
+    "2022-az-6-house-election" : {
+        "name" : "2022 AZ-6 House Election",
+        "candidates" : ["Engel", "Ciscomani"],
         "date" : [2022, 11, 8],
+		"time" : 9,
         "when" : "past",
         "notify" : "False",
-		"color" : "light-d",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-arizona-us-house-district-6.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-AZ-6.json"
+        }
+    },
+    "2022-ca-13-house-election" : {
+        "name" : "2022 CA-13 House Election",
+        "candidates" : ["Gray", "Duarte"],
+        "date" : [2022, 11, 8],
+		"time" : 11,
+        "when" : "past",
+        "notify" : "False",
         "sources" : {
 			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-13.json", 0],
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-13.json"
-        },
-        "graph-percents" : [0]
+        }
     },
-    "2022-ca-house-22-election" : {
-        "name" : "2022 California 22nd House District Election",
+    "2022-ca-22-house-election" : {
+        "name" : "2022 CA-22 House Election",
         "candidates" : ["Salas", "Valadao"],
         "date" : [2022, 11, 8],
+		"time" : 11,
         "when" : "past",
         "notify" : "False",
-		"color" : "light-r",
         "sources" : {
 			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-22.json", 0],
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-22.json"
-        },
-        "graph-percents" : [0]
+        }
     },
-    "2022-ca-house-27-election" : {
-        "name" : "2022 California 27th House District Election",
+    "2022-ca-27-house-election" : {
+        "name" : "2022 CA-27 House Election",
         "candidates" : ["Smith", "Garcia"],
         "date" : [2022, 11, 8],
+		"time" : 11,
         "when" : "past",
         "notify" : "False",
-		"color" : "light-r",
         "sources" : {
 			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-27.json", 0],
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-27.json"
-        },
-        "graph-percents" : [0]
+        }
+    },
+    "2022-ca-41-house-election" : {
+        "name" : "2022 CA-41 House Election",
+        "candidates" : ["Rollins", "Calvert"],
+        "date" : [2022, 11, 8],
+		"time" : 11,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-41.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-41.json"
+        }
+    },
+    "2022-ca-45-house-election" : {
+        "name" : "2022 CA-45 House Election",
+        "candidates" : ["Chen", "Steel"],
+        "date" : [2022, 11, 8],
+		"time" : 11,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-45.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-45.json"
+        }
+    },
+    "2022-co-8-house-election" : {
+        "name" : "2022 CO-8th House Election",
+        "candidates" : ["Caraveo", "Kirkmeyer"],
+        "date" : [2022, 11, 8],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-45.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-45.json"
+        }
+    },
+    "2022-fl-13-house-election" : {
+        "name" : "2022 FL-13 House Election",
+        "candidates" : ["Lynn", "Luna"],
+        "date" : [2022, 11, 8],
+		"time" : 7,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-florida-us-house-district-13.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-FL-13.json"
+        }
+    },
+    "2022-ia-3-house-election" : {
+        "name" : "2022 IA-3 House Election",
+        "candidates" : ["Axne", "Nunn"],
+        "date" : [2022, 11, 8],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-iowa-us-house-district-3.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-IA-3.json"
+        }
+    },
+    "2022-mi-7-house-election" : {
+        "name" : "2022 MI-7 House Election",
+        "candidates" : ["Slotkin", "Barrett"],
+        "date" : [2022, 11, 8],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-michigan-us-house-district-7.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-MI-7.json"
+        }
+    },
+    "2022-mi-8-house-election" : {
+        "name" : "2022 MI-8 House Election",
+        "candidates" : ["Kildee", "Junge"],
+        "date" : [2022, 11, 8],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-michigan-us-house-district-8.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-MI-8.json"
+        }
+    },
+    "2022-ne-2-house-election" : {
+        "name" : "2022 NE-2 House Election",
+        "candidates" : ["Vargas", "Bacon"],
+        "date" : [2022, 11, 8],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-nebraska-us-house-district-2.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-NE-2.json"
+        }
+    },
+    "2022-ny-4-house-election" : {
+        "name" : "2022 NY-4 House Election",
+        "candidates" : ["Gillen", "D'Esposito"],
+        "date" : [2022, 11, 8],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-york-us-house-district-4.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-NY-4.json"
+        }
+    },
+    "2022-ny-17-house-election" : {
+        "name" : "2022 NY-17 House Election",
+        "candidates" : ["Maloney", "Lawler"],
+        "date" : [2022, 11, 8],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-york-us-house-district-17.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-NY-17.json"
+        }
+    },
+    "2022-ny-19-house-election" : {
+        "name" : "2022 NY-19 House Election",
+        "candidates" : ["Riley", "Molinaro"],
+        "date" : [2022, 11, 8],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-york-us-house-district-19.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-NY-19.json"
+        }
+    },
+    "2022-ny-22-house-election" : {
+        "name" : "2022 NY-22 House Election",
+        "candidates" : ["Conole", "Williams"],
+        "date" : [2022, 11, 8],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-york-us-house-district-22.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-NY-22.json"
+        }
+    },
+    "2022-oh-1-house-election" : {
+        "name" : "2022 OH-1 House Election",
+        "candidates" : ["Landsman", "Chabot"],
+        "date" : [2022, 11, 8],
+		"time" : 7.5,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-ohio-us-house-district-1.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-OH-1.json"
+        }
+    },
+    "2022-oh-9-house-election" : {
+        "name" : "2022 OH-9 House Election",
+        "candidates" : ["Kaptur", "Majewski"],
+        "date" : [2022, 11, 8],
+		"time" : 7.5,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-ohio-us-house-district-9.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-OH-9.json"
+        }
+    },
+    "2022-oh-13-house-election" : {
+        "name" : "2022 OH-13 House Election",
+        "candidates" : ["Sykes", "Gesiotto Gilbert"],
+        "date" : [2022, 11, 8],
+		"time" : 7.5,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-ohio-us-house-district-13.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-OH-13.json"
+        }
+    },
+    "2022-or-5-house-election" : {
+        "name" : "2022 OR-5 House Election",
+        "candidates" : ["McLeod-Skinner", "Chavez-DeRemer"],
+        "date" : [2022, 11, 8],
+		"time" : 11,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-oregon-us-house-district-5.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-OR-5.json"
+        }
+    },
+    "2022-pa-7-house-election" : {
+        "name" : "2022 PA-7 House Election",
+        "candidates" : ["Wild", "Scheller"],
+        "date" : [2022, 11, 8],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-pennsylvania-us-house-district-7.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-PA-7.json"
+        }
+    },
+    "2022-pa-8-house-election" : {
+        "name" : "2022 PA-8 House Election",
+        "candidates" : ["Cartwright", "Bognet"],
+        "date" : [2022, 11, 8],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-pennsylvania-us-house-district-8.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-PA-8.json"
+        }
+    },
+    "2022-pa-10-house-election" : {
+        "name" : "2022 PA-10 House Election",
+        "candidates" : ["Daniels", "Perry"],
+        "date" : [2022, 11, 8],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-pennsylvania-us-house-district-10.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-PA-10.json"
+        }
+    },
+    "2022-va-7-house-election" : {
+        "name" : "2022 VA-7 House Election",
+        "candidates" : ["Spanberger", "Vega"],
+        "date" : [2022, 11, 8],
+		"time" : 7,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-virginia-us-house-district-7.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-VA-7.json"
+        }
+    },
+    "2022-wa-3-house-election" : {
+        "name" : "2022 WA-3 House Election",
+        "candidates" : ["Gluesenkamp Perez", "Kent"],
+        "date" : [2022, 11, 8],
+		"time" : 11,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-washington-us-house-district-3.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-WA-3.json"
+        }
     }
 }

@@ -1,0 +1,97 @@
+{
+    "name": "2022 PA-8 House Election",
+    "candidates": [
+        "Cartwright",
+        "Bognet"
+    ],
+    "sources": [
+        "nyt",
+        "cnn"
+    ],
+    "results": [
+        {
+            "county": "Total",
+            "Cartwright": 146956,
+            "Bognet": 139930,
+            "total": 286886,
+            "margin": 7026,
+            "min_turnout": 286886,
+            "max_turnout": 286886,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 7026,
+            "max_turnout_margin": 7026
+        },
+        {
+            "county": "Lackawanna",
+            "Cartwright": 52590,
+            "Bognet": 36483,
+            "total": 89073,
+            "margin": 16107,
+            "min_turnout": 89073,
+            "max_turnout": 89073,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": 16107,
+            "max_turnout_margin": 16107
+        },
+        {
+            "county": "Luzerne",
+            "Cartwright": 47305,
+            "Bognet": 49897,
+            "total": 97202,
+            "margin": -2592,
+            "min_turnout": 97202,
+            "max_turnout": 97202,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -2592,
+            "max_turnout_margin": -2592
+        },
+        {
+            "county": "Monroe",
+            "Cartwright": 29119,
+            "Bognet": 24135,
+            "total": 53254,
+            "margin": 4984,
+            "min_turnout": 53254,
+            "max_turnout": 53254,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": 4984,
+            "max_turnout_margin": 4984
+        },
+        {
+            "county": "Pike",
+            "Cartwright": 10030,
+            "Bognet": 14844,
+            "total": 24874,
+            "margin": -4814,
+            "min_turnout": 24874,
+            "max_turnout": 24874,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -4814,
+            "max_turnout_margin": -4814
+        },
+        {
+            "county": "Wayne",
+            "Cartwright": 7912,
+            "Bognet": 14571,
+            "total": 22483,
+            "margin": -6659,
+            "min_turnout": 22483,
+            "max_turnout": 22483,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -6659,
+            "max_turnout_margin": -6659
+        }
+    ]
+}

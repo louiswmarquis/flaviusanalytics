@@ -1,0 +1,48 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-02T19:55:34.729Z",
+            "margin": -7299,
+            "total": 351233
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "McLeod-Skinner": 171514,
+                "Chavez-DeRemer": 178813,
+                "total": 351233
+            },
+            "1": {
+                "McLeod-Skinner": 74957,
+                "Chavez-DeRemer": 72529,
+                "total": 147915
+            },
+            "2": {
+                "McLeod-Skinner": 49112,
+                "Chavez-DeRemer": 43857,
+                "total": 93143
+            },
+            "3": {
+                "McLeod-Skinner": 3,
+                "total": 3
+            },
+            "4": {
+                "McLeod-Skinner": 19088,
+                "Chavez-DeRemer": 39918,
+                "total": 59205
+            },
+            "5": {
+                "McLeod-Skinner": 7845,
+                "Chavez-DeRemer": 17318,
+                "total": 25225
+            },
+            "6": {
+                "McLeod-Skinner": 20509,
+                "Chavez-DeRemer": 5191,
+                "total": 25742
+            },
+            "time": "2024-11-02T19:55:34.729Z"
+        }
+    ]
+}

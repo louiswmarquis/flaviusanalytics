@@ -1,0 +1,74 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-02T19:55:35.472Z",
+            "margin": 12771,
+            "total": 274590
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Spanberger": 143357,
+                "Vega": 130586,
+                "total": 274590
+            },
+            "1": {
+                "Spanberger": 7,
+                "Vega": 14,
+                "total": 21
+            },
+            "2": {
+                "Spanberger": 5244,
+                "Vega": 6350,
+                "total": 11609
+            },
+            "3": {
+                "Spanberger": 7979,
+                "Vega": 12198,
+                "total": 20217
+            },
+            "4": {
+                "Spanberger": 3307,
+                "Vega": 5114,
+                "total": 8436
+            },
+            "5": {
+                "Spanberger": 3913,
+                "Vega": 6590,
+                "total": 10530
+            },
+            "6": {
+                "Spanberger": 2320,
+                "Vega": 4143,
+                "total": 6471
+            },
+            "7": {
+                "Spanberger": 6432,
+                "Vega": 9695,
+                "total": 16155
+            },
+            "8": {
+                "Spanberger": 53964,
+                "Vega": 25220,
+                "total": 79389
+            },
+            "9": {
+                "Spanberger": 25424,
+                "Vega": 29390,
+                "total": 54956
+            },
+            "10": {
+                "Spanberger": 28685,
+                "Vega": 28806,
+                "total": 57637
+            },
+            "11": {
+                "Spanberger": 6082,
+                "Vega": 3066,
+                "total": 9169
+            },
+            "time": "2024-11-02T19:55:35.472Z"
+        }
+    ]
+}

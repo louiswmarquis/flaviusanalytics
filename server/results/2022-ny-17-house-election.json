@@ -1,0 +1,83 @@
+{
+    "name": "2022 NY-17 House Election",
+    "candidates": [
+        "Maloney",
+        "Lawler"
+    ],
+    "sources": [
+        "nyt",
+        "cnn"
+    ],
+    "results": [
+        {
+            "county": "Total",
+            "Maloney": 141730,
+            "Lawler": 143550,
+            "total": 285430,
+            "margin": -1820,
+            "min_turnout": 285280,
+            "max_turnout": 285430,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": -1812,
+            "max_turnout_margin": -1820
+        },
+        {
+            "county": "Dutchess",
+            "Maloney": 6771,
+            "Lawler": 11335,
+            "total": 18109,
+            "margin": -4564,
+            "min_turnout": 18106,
+            "max_turnout": 18109,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": -4563,
+            "max_turnout_margin": -4564
+        },
+        {
+            "county": "Putnam",
+            "Maloney": 16933,
+            "Lawler": 24071,
+            "total": 41011,
+            "margin": -7138,
+            "min_turnout": 41004,
+            "max_turnout": 41011,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": -7137,
+            "max_turnout_margin": -7138
+        },
+        {
+            "county": "Rockland",
+            "Maloney": 48725,
+            "Lawler": 59120,
+            "total": 107957,
+            "margin": -10395,
+            "min_turnout": 107845,
+            "max_turnout": 107957,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": -10384,
+            "max_turnout_margin": -10395
+        },
+        {
+            "county": "Westchester",
+            "Maloney": 69301,
+            "Lawler": 49024,
+            "total": 118353,
+            "margin": 20277,
+            "min_turnout": 118325,
+            "max_turnout": 118353,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": 20272,
+            "max_turnout_margin": 20277
+        }
+    ]
+}

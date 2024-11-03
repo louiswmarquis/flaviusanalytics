@@ -1,0 +1,44 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-03T15:27:03.012Z",
+            "margin": -5232,
+            "total": 349294
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Engel": 171969,
+                "Ciscomani": 177201,
+                "total": 349294
+            },
+            "1": {
+                "Engel": 12405,
+                "Ciscomani": 26180,
+                "total": 38616
+            },
+            "2": {
+                "Engel": 2329,
+                "Ciscomani": 7938,
+                "total": 10278
+            },
+            "3": {
+                "Engel": 878,
+                "Ciscomani": 1540,
+                "total": 2418
+            },
+            "4": {
+                "Engel": 143239,
+                "Ciscomani": 124199,
+                "total": 267517
+            },
+            "5": {
+                "Engel": 13118,
+                "Ciscomani": 17344,
+                "total": 30465
+            },
+            "time": "2024-11-03T15:27:03.012Z"
+        }
+    ]
+}

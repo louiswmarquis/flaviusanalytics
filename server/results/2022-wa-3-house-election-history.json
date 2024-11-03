@@ -1,0 +1,54 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-02T20:00:00.950Z",
+            "margin": 2629,
+            "total": 319759
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Gluesenkamp Perez": 160314,
+                "Kent": 157685,
+                "total": 319759
+            },
+            "1": {
+                "Gluesenkamp Perez": 112989,
+                "Kent": 90802,
+                "total": 205045
+            },
+            "2": {
+                "Gluesenkamp Perez": 19647,
+                "Kent": 24902,
+                "total": 44749
+            },
+            "3": {
+                "Gluesenkamp Perez": 12507,
+                "Kent": 22981,
+                "total": 35664
+            },
+            "4": {
+                "Gluesenkamp Perez": 6048,
+                "Kent": 5793,
+                "total": 11882
+            },
+            "5": {
+                "Gluesenkamp Perez": 2886,
+                "Kent": 3280,
+                "total": 6199
+            },
+            "6": {
+                "Gluesenkamp Perez": 5112,
+                "Kent": 8511,
+                "total": 13669
+            },
+            "7": {
+                "Gluesenkamp Perez": 1125,
+                "Kent": 1416,
+                "total": 2551
+            },
+            "time": "2024-11-02T20:00:00.950Z"
+        }
+    ]
+}

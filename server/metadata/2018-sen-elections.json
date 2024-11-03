@@ -1,0 +1,157 @@
+{
+    "2018-az-sen-election" : {
+        "name" : "2018 Arizona Senate Election",
+        "candidates" : ["Sinema", "McSally"],
+        "date" : [2018, 11, 6],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2018-SG-AZ.json"
+        }
+    },
+    "2018-mi-sen-election" : {
+        "name" : "2018 Michigan Senate Election",
+        "candidates" : ["Stabenow", "James"],
+        "date" : [2018, 11, 6],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2018-SG-MI.json"
+        }
+    },
+    "2018-mt-sen-election" : {
+        "name" : "2018 Montana Senate Election",
+        "candidates" : ["Tester", "Rosendale"],
+        "date" : [2018, 11, 6],
+		"time" : 10,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "light-r",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2018-SG-MT.json"
+        }
+    },
+    "2018-nv-sen-election" : {
+        "name" : "2018 Nevada Senate Election",
+        "candidates" : ["Rosen", "Heller"],
+        "date" : [2018, 11, 6],
+		"time" : 10,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2018-SG-NV.json"
+        }
+    },
+    "2020-nc-gov-election" : {
+        "name" : "2020 North Carolina Governor Election",
+        "candidates" : ["Cooper", "Forest"],
+        "date" : [2020, 11, 3],
+		"time" : 7.5,
+        "when" : "past",
+        "notify" : "False",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2020-GG-NC.json"
+        }
+    },
+    "2018-oh-sen-election" : {
+        "name" : "2018 Ohio Senate Election",
+        "candidates" : ["Brown", "Renacci"],
+        "date" : [2018, 11, 6],
+		"time" : 7.5,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2018-SG-OH.json"
+        }
+    },
+    "2018-pa-sen-election" : {
+        "name" : "2018 Pennsylvania Senate Election",
+        "candidates" : ["Casey", "Barletta"],
+        "date" : [2018, 11, 6],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2018-SG-PA.json"
+        }
+    },
+    "2018-wi-sen-election" : {
+        "name" : "2018 Wisconsin Senate Election",
+        "candidates" : ["Baldwin", "Vukmir"],
+        "date" : [2018, 11, 6],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2018-SG-WI.json"
+        }
+    },
+    "2018-fl-sen-election" : {
+        "name" : "2018 Florida Senate Election",
+        "candidates" : ["Nelson", "Scott"],
+        "date" : [2018, 11, 6],
+		"time" : 7,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "light-r",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2018-SG-FL.json"
+        }
+    },
+    "2018-ne-sen-election" : {
+        "name" : "2018 Nebraska Senate Election",
+        "candidates" : ["Raybould", "Fischer"],
+        "date" : [2018, 11, 6],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "light-r",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2018-SG-NE.json"
+        }
+    },
+    "2018-tx-sen-election" : {
+        "name" : "2018 Texas Senate Election",
+        "candidates" : ["O'Rourke", "Cruz"],
+        "date" : [2018, 11, 6],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "light-r",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2018-SG-TX.json"
+        }
+    },
+    "2018-md-sen-election" : {
+        "name" : "2018 Maryland Senate Election",
+        "candidates" : ["Cardin", "Campbell"],
+        "date" : [2018, 11, 6],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "light-d",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2018-SG-MD.json"
+        }
+    },
+    "2018-va-sen-election" : {
+        "name" : "2018 Virginia Senate Election",
+        "candidates" : ["Kaine", "Stewart"],
+        "date" : [2018, 11, 6],
+		"time" : 7,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-d",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2018-SG-VA.json"
+        }
+    }
+}

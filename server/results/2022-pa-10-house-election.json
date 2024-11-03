@@ -1,0 +1,69 @@
+{
+    "name": "2022 PA-10 House Election",
+    "candidates": [
+        "Daniels",
+        "Perry"
+    ],
+    "sources": [
+        "nyt",
+        "cnn"
+    ],
+    "results": [
+        {
+            "county": "Total",
+            "Daniels": 145215,
+            "Perry": 169331,
+            "total": 314546,
+            "margin": -24116,
+            "min_turnout": 314546,
+            "max_turnout": 314546,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": -24116,
+            "max_turnout_margin": -24116
+        },
+        {
+            "county": "Cumberland",
+            "Daniels": 48604,
+            "Perry": 58706,
+            "total": 107310,
+            "margin": -10102,
+            "min_turnout": 107310,
+            "max_turnout": 107310,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -10102,
+            "max_turnout_margin": -10102
+        },
+        {
+            "county": "Dauphin",
+            "Daniels": 58919,
+            "Perry": 55140,
+            "total": 114059,
+            "margin": 3779,
+            "min_turnout": 114059,
+            "max_turnout": 114059,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": 3779,
+            "max_turnout_margin": 3779
+        },
+        {
+            "county": "York",
+            "Daniels": 37692,
+            "Perry": 55485,
+            "total": 93177,
+            "margin": -17793,
+            "min_turnout": 93177,
+            "max_turnout": 93177,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -17793,
+            "max_turnout_margin": -17793
+        }
+    ]
+}

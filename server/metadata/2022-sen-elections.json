@@ -185,20 +185,6 @@
         },
         "graph-percents" : [0]
     },
-    "2022-mo-sen-election" : {
-        "name" : "2022 Missouri Senate Election",
-        "candidates" : ["Valentine", "Schmitt"],
-        "date" : [2022, 11, 8],
-        "when" : "past",
-        "notify" : "False",
-		"color" : "dark-r",
-        "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-missouri-us-senate.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-MO.json",
-            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/19030/results/county", {"Valentine" : "27326", "Schmitt" : "27348"}]
-        },
-        "graph-percents" : [0]
-    },
     "2022-oh-sen-election" : {
         "name" : "2022 Ohio Senate Election",
         "candidates" : ["Ryan", "Vance"],

@@ -1,0 +1,125 @@
+{
+    "name": "2022 WA-3 House Election",
+    "candidates": [
+        "Gluesenkamp Perez",
+        "Kent"
+    ],
+    "sources": [
+        "nyt",
+        "cnn"
+    ],
+    "results": [
+        {
+            "county": "Total",
+            "Gluesenkamp Perez": 160314,
+            "Kent": 157685,
+            "total": 319759,
+            "margin": 2629,
+            "min_turnout": 318013,
+            "max_turnout": 319759,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 2582,
+            "max_turnout_margin": 2629
+        },
+        {
+            "county": "Clark",
+            "Gluesenkamp Perez": 112989,
+            "Kent": 90802,
+            "total": 205045,
+            "margin": 22187,
+            "min_turnout": 203801,
+            "max_turnout": 205045,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": 22052,
+            "max_turnout_margin": 22187
+        },
+        {
+            "county": "Cowlitz",
+            "Gluesenkamp Perez": 19647,
+            "Kent": 24902,
+            "total": 44749,
+            "margin": -5255,
+            "min_turnout": 44551,
+            "max_turnout": 44749,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": -5232,
+            "max_turnout_margin": -5255
+        },
+        {
+            "county": "Lewis",
+            "Gluesenkamp Perez": 12507,
+            "Kent": 22981,
+            "total": 35664,
+            "margin": -10474,
+            "min_turnout": 35488,
+            "max_turnout": 35664,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": -10422,
+            "max_turnout_margin": -10474
+        },
+        {
+            "county": "Pacific",
+            "Gluesenkamp Perez": 6048,
+            "Kent": 5793,
+            "total": 11882,
+            "margin": 255,
+            "min_turnout": 11841,
+            "max_turnout": 11882,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": 254,
+            "max_turnout_margin": 255
+        },
+        {
+            "county": "Skamania",
+            "Gluesenkamp Perez": 2886,
+            "Kent": 3280,
+            "total": 6199,
+            "margin": -394,
+            "min_turnout": 6167,
+            "max_turnout": 6199,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": -392,
+            "max_turnout_margin": -394
+        },
+        {
+            "county": "Thurston",
+            "Gluesenkamp Perez": 5112,
+            "Kent": 8511,
+            "total": 13669,
+            "margin": -3399,
+            "min_turnout": 13624,
+            "max_turnout": 13669,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": -3388,
+            "max_turnout_margin": -3399
+        },
+        {
+            "county": "Wahkiakum",
+            "Gluesenkamp Perez": 1125,
+            "Kent": 1416,
+            "total": 2551,
+            "margin": -291,
+            "min_turnout": 2541,
+            "max_turnout": 2551,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": -290,
+            "max_turnout_margin": -291
+        }
+    ]
+}

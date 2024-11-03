@@ -1,0 +1,74 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-02T19:55:33.879Z",
+            "margin": -4495,
+            "total": 287618
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Riley": 141509,
+                "Molinaro": 146004,
+                "total": 287618
+            },
+            "1": {
+                "Riley": 32906,
+                "Molinaro": 34789,
+                "total": 67724
+            },
+            "2": {
+                "Riley": 5747,
+                "Molinaro": 10948,
+                "total": 16707
+            },
+            "3": {
+                "Riley": 16118,
+                "Molinaro": 13428,
+                "total": 29553
+            },
+            "4": {
+                "Riley": 7232,
+                "Molinaro": 8775,
+                "total": 16015
+            },
+            "5": {
+                "Riley": 7011,
+                "Molinaro": 11440,
+                "total": 18453
+            },
+            "6": {
+                "Riley": 7693,
+                "Molinaro": 12261,
+                "total": 19959
+            },
+            "7": {
+                "Riley": 5812,
+                "Molinaro": 6850,
+                "total": 12667
+            },
+            "8": {
+                "Riley": 9767,
+                "Molinaro": 14529,
+                "total": 24301
+            },
+            "9": {
+                "Riley": 6957,
+                "Molinaro": 11893,
+                "total": 18855
+            },
+            "10": {
+                "Riley": 25933,
+                "Molinaro": 9200,
+                "total": 35147
+            },
+            "11": {
+                "Riley": 16333,
+                "Molinaro": 11891,
+                "total": 28237
+            },
+            "time": "2024-11-02T19:55:33.879Z"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "name": "2022 AZ-6 House Election",
+    "candidates": [
+        "Engel",
+        "Ciscomani"
+    ],
+    "sources": [
+        "nyt",
+        "cnn"
+    ],
+    "results": [
+        {
+            "county": "Total",
+            "Engel": 171969,
+            "Ciscomani": 177201,
+            "total": 349294,
+            "margin": -5232,
+            "min_turnout": 349170,
+            "max_turnout": 349294,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": -5221,
+            "max_turnout_margin": -5232
+        },
+        {
+            "county": "Cochise",
+            "Engel": 12405,
+            "Ciscomani": 26180,
+            "total": 38616,
+            "margin": -13775,
+            "min_turnout": 38585,
+            "max_turnout": 38616,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": -13764,
+            "max_turnout_margin": -13775
+        },
+        {
+            "county": "Graham",
+            "Engel": 2329,
+            "Ciscomani": 7938,
+            "total": 10278,
+            "margin": -5609,
+            "min_turnout": 10267,
+            "max_turnout": 10278,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": -5603,
+            "max_turnout_margin": -5609
+        },
+        {
+            "county": "Greenlee",
+            "Engel": 878,
+            "Ciscomani": 1540,
+            "total": 2418,
+            "margin": -662,
+            "min_turnout": 2418,
+            "max_turnout": 2418,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -662,
+            "max_turnout_margin": -662
+        },
+        {
+            "county": "Pima",
+            "Engel": 143239,
+            "Ciscomani": 124199,
+            "total": 267517,
+            "margin": 19040,
+            "min_turnout": 267438,
+            "max_turnout": 267517,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": 19034,
+            "max_turnout_margin": 19040
+        },
+        {
+            "county": "Pinal",
+            "Engel": 13118,
+            "Ciscomani": 17344,
+            "total": 30465,
+            "margin": -4226,
+            "min_turnout": 30462,
+            "max_turnout": 30465,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": -4226,
+            "max_turnout_margin": -4226
+        }
+    ]
+}

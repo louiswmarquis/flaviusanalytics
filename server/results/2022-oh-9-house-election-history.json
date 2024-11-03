@@ -1,0 +1,59 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-02T19:55:34.406Z",
+            "margin": 35293,
+            "total": 266017
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Kaptur": 150655,
+                "Majewski": 115362,
+                "total": 266017
+            },
+            "1": {
+                "Kaptur": 5272,
+                "Majewski": 7914,
+                "total": 13186
+            },
+            "2": {
+                "Kaptur": 15249,
+                "Majewski": 13498,
+                "total": 28747
+            },
+            "3": {
+                "Kaptur": 6544,
+                "Majewski": 9584,
+                "total": 16128
+            },
+            "4": {
+                "Kaptur": 86676,
+                "Majewski": 44972,
+                "total": 131648
+            },
+            "5": {
+                "Kaptur": 8906,
+                "Majewski": 9400,
+                "total": 18306
+            },
+            "6": {
+                "Kaptur": 9523,
+                "Majewski": 11607,
+                "total": 21130
+            },
+            "7": {
+                "Kaptur": 4732,
+                "Majewski": 7947,
+                "total": 12679
+            },
+            "8": {
+                "Kaptur": 13753,
+                "Majewski": 10440,
+                "total": 24193
+            },
+            "time": "2024-11-02T19:55:34.406Z"
+        }
+    ]
+}

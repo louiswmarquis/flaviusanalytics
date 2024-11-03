@@ -1,0 +1,54 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-02T19:55:33.019Z",
+            "margin": 20185,
+            "total": 372708
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Slotkin": 192809,
+                "Barrett": 172624,
+                "total": 372708
+            },
+            "1": {
+                "Slotkin": 19424,
+                "Barrett": 20761,
+                "total": 40935
+            },
+            "2": {
+                "Slotkin": 25892,
+                "Barrett": 23883,
+                "total": 50780
+            },
+            "3": {
+                "Slotkin": 29,
+                "Barrett": 56,
+                "total": 85
+            },
+            "4": {
+                "Slotkin": 79415,
+                "Barrett": 36471,
+                "total": 118206
+            },
+            "5": {
+                "Slotkin": 44439,
+                "Barrett": 61530,
+                "total": 107967
+            },
+            "6": {
+                "Slotkin": 10247,
+                "Barrett": 12063,
+                "total": 22699
+            },
+            "7": {
+                "Slotkin": 13363,
+                "Barrett": 17860,
+                "total": 32036
+            },
+            "time": "2024-11-02T19:55:33.019Z"
+        }
+    ]
+}

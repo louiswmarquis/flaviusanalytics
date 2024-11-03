@@ -1,0 +1,1284 @@
+{
+    "results": [
+        {
+            "county_name": "Total",
+            "Warnock": 1814847,
+            "Walker": 1719393,
+            "total": 3534240,
+            "min_turnout": 3569863,
+            "max_turnout": 3570082
+        },
+        {
+            "county_name": "Appling",
+            "Warnock": 1222,
+            "Walker": 5043,
+            "total": 6265,
+            "min_turnout": 6328,
+            "max_turnout": 6328
+        },
+        {
+            "county_name": "Atkinson",
+            "Warnock": 485,
+            "Walker": 1524,
+            "total": 2009,
+            "min_turnout": 2029,
+            "max_turnout": 2029
+        },
+        {
+            "county_name": "Bacon",
+            "Warnock": 440,
+            "Walker": 3047,
+            "total": 3487,
+            "min_turnout": 3522,
+            "max_turnout": 3522
+        },
+        {
+            "county_name": "Baker",
+            "Warnock": 479,
+            "Walker": 651,
+            "total": 1130,
+            "min_turnout": 1141,
+            "max_turnout": 1141
+        },
+        {
+            "county_name": "Baldwin",
+            "Warnock": 7007,
+            "Walker": 6854,
+            "total": 13861,
+            "min_turnout": 14001,
+            "max_turnout": 14001
+        },
+        {
+            "county_name": "Banks",
+            "Warnock": 698,
+            "Walker": 5828,
+            "total": 6526,
+            "min_turnout": 6591,
+            "max_turnout": 6592
+        },
+        {
+            "county_name": "Barrow",
+            "Warnock": 7449,
+            "Walker": 17945,
+            "total": 25394,
+            "min_turnout": 25650,
+            "max_turnout": 25651
+        },
+        {
+            "county_name": "Bartow",
+            "Warnock": 8546,
+            "Walker": 26739,
+            "total": 35285,
+            "min_turnout": 35641,
+            "max_turnout": 35641
+        },
+        {
+            "county_name": "Ben Hill",
+            "Warnock": 1718,
+            "Walker": 3022,
+            "total": 4740,
+            "min_turnout": 4787,
+            "max_turnout": 4788
+        },
+        {
+            "county_name": "Berrien",
+            "Warnock": 843,
+            "Walker": 4706,
+            "total": 5549,
+            "min_turnout": 5605,
+            "max_turnout": 5605
+        },
+        {
+            "county_name": "Bibb",
+            "Warnock": 30744,
+            "Walker": 18318,
+            "total": 49062,
+            "min_turnout": 49557,
+            "max_turnout": 49558
+        },
+        {
+            "county_name": "Bleckley",
+            "Warnock": 1011,
+            "Walker": 3456,
+            "total": 4467,
+            "min_turnout": 4512,
+            "max_turnout": 4512
+        },
+        {
+            "county_name": "Brantley",
+            "Warnock": 467,
+            "Walker": 5038,
+            "total": 5505,
+            "min_turnout": 5560,
+            "max_turnout": 5561
+        },
+        {
+            "county_name": "Brooks",
+            "Warnock": 1843,
+            "Walker": 3208,
+            "total": 5051,
+            "min_turnout": 5102,
+            "max_turnout": 5102
+        },
+        {
+            "county_name": "Bryan",
+            "Warnock": 5189,
+            "Walker": 10242,
+            "total": 15431,
+            "min_turnout": 15586,
+            "max_turnout": 15587
+        },
+        {
+            "county_name": "Bulloch",
+            "Warnock": 7760,
+            "Walker": 13548,
+            "total": 21308,
+            "min_turnout": 21523,
+            "max_turnout": 21523
+        },
+        {
+            "county_name": "Burke",
+            "Warnock": 3775,
+            "Walker": 4146,
+            "total": 7921,
+            "min_turnout": 8001,
+            "max_turnout": 8001
+        },
+        {
+            "county_name": "Butts",
+            "Warnock": 2497,
+            "Walker": 6220,
+            "total": 8717,
+            "min_turnout": 8805,
+            "max_turnout": 8805
+        },
+        {
+            "county_name": "Calhoun",
+            "Warnock": 925,
+            "Walker": 664,
+            "total": 1589,
+            "min_turnout": 1605,
+            "max_turnout": 1605
+        },
+        {
+            "county_name": "Camden",
+            "Warnock": 5600,
+            "Walker": 10823,
+            "total": 16423,
+            "min_turnout": 16588,
+            "max_turnout": 16589
+        },
+        {
+            "county_name": "Candler",
+            "Warnock": 937,
+            "Walker": 2341,
+            "total": 3278,
+            "min_turnout": 3311,
+            "max_turnout": 3311
+        },
+        {
+            "county_name": "Carroll",
+            "Warnock": 11985,
+            "Walker": 27556,
+            "total": 39541,
+            "min_turnout": 39940,
+            "max_turnout": 39940
+        },
+        {
+            "county_name": "Catoosa",
+            "Warnock": 4813,
+            "Walker": 16881,
+            "total": 21694,
+            "min_turnout": 21913,
+            "max_turnout": 21913
+        },
+        {
+            "county_name": "Charlton",
+            "Warnock": 730,
+            "Walker": 2377,
+            "total": 3107,
+            "min_turnout": 3138,
+            "max_turnout": 3138
+        },
+        {
+            "county_name": "Chatham",
+            "Warnock": 59668,
+            "Walker": 36729,
+            "total": 96397,
+            "min_turnout": 97370,
+            "max_turnout": 97371
+        },
+        {
+            "county_name": "Chattahoochee",
+            "Warnock": 434,
+            "Walker": 468,
+            "total": 902,
+            "min_turnout": 911,
+            "max_turnout": 911
+        },
+        {
+            "county_name": "Chattooga",
+            "Warnock": 1343,
+            "Walker": 5500,
+            "total": 6843,
+            "min_turnout": 6912,
+            "max_turnout": 6912
+        },
+        {
+            "county_name": "Cherokee",
+            "Warnock": 32121,
+            "Walker": 71774,
+            "total": 103895,
+            "min_turnout": 104944,
+            "max_turnout": 104944
+        },
+        {
+            "county_name": "Clarke",
+            "Warnock": 27372,
+            "Walker": 9734,
+            "total": 37106,
+            "min_turnout": 37480,
+            "max_turnout": 37481
+        },
+        {
+            "county_name": "Clay",
+            "Warnock": 536,
+            "Walker": 485,
+            "total": 1021,
+            "min_turnout": 1031,
+            "max_turnout": 1031
+        },
+        {
+            "county_name": "Clayton",
+            "Warnock": 65923,
+            "Walker": 8036,
+            "total": 73959,
+            "min_turnout": 74706,
+            "max_turnout": 74706
+        },
+        {
+            "county_name": "Clinch",
+            "Warnock": 463,
+            "Walker": 1514,
+            "total": 1977,
+            "min_turnout": 1996,
+            "max_turnout": 1997
+        },
+        {
+            "county_name": "Cobb",
+            "Warnock": 165690,
+            "Walker": 112584,
+            "total": 278274,
+            "min_turnout": 281084,
+            "max_turnout": 281085
+        },
+        {
+            "county_name": "Coffee",
+            "Warnock": 3148,
+            "Walker": 7839,
+            "total": 10987,
+            "min_turnout": 11097,
+            "max_turnout": 11098
+        },
+        {
+            "county_name": "Colquitt",
+            "Warnock": 2790,
+            "Walker": 8674,
+            "total": 11464,
+            "min_turnout": 11579,
+            "max_turnout": 11580
+        },
+        {
+            "county_name": "Columbia",
+            "Warnock": 21631,
+            "Walker": 36315,
+            "total": 57946,
+            "min_turnout": 58531,
+            "max_turnout": 58531
+        },
+        {
+            "county_name": "Cook",
+            "Warnock": 1451,
+            "Walker": 3689,
+            "total": 5140,
+            "min_turnout": 5191,
+            "max_turnout": 5192
+        },
+        {
+            "county_name": "Coweta",
+            "Warnock": 17485,
+            "Walker": 35098,
+            "total": 52583,
+            "min_turnout": 53114,
+            "max_turnout": 53114
+        },
+        {
+            "county_name": "Crawford",
+            "Warnock": 1225,
+            "Walker": 3194,
+            "total": 4419,
+            "min_turnout": 4463,
+            "max_turnout": 4464
+        },
+        {
+            "county_name": "Crisp",
+            "Warnock": 2033,
+            "Walker": 3731,
+            "total": 5764,
+            "min_turnout": 5822,
+            "max_turnout": 5822
+        },
+        {
+            "county_name": "Dade",
+            "Warnock": 901,
+            "Walker": 4195,
+            "total": 5096,
+            "min_turnout": 5147,
+            "max_turnout": 5147
+        },
+        {
+            "county_name": "Dawson",
+            "Warnock": 2097,
+            "Walker": 10153,
+            "total": 12250,
+            "min_turnout": 12373,
+            "max_turnout": 12374
+        },
+        {
+            "county_name": "DeKalb",
+            "Warnock": 236448,
+            "Walker": 36115,
+            "total": 272563,
+            "min_turnout": 275316,
+            "max_turnout": 275316
+        },
+        {
+            "county_name": "Decatur",
+            "Warnock": 3079,
+            "Walker": 4872,
+            "total": 7951,
+            "min_turnout": 8031,
+            "max_turnout": 8031
+        },
+        {
+            "county_name": "Dodge",
+            "Warnock": 1619,
+            "Walker": 4633,
+            "total": 6252,
+            "min_turnout": 6315,
+            "max_turnout": 6315
+        },
+        {
+            "county_name": "Dooly",
+            "Warnock": 1408,
+            "Walker": 1645,
+            "total": 3053,
+            "min_turnout": 3083,
+            "max_turnout": 3084
+        },
+        {
+            "county_name": "Dougherty",
+            "Warnock": 17818,
+            "Walker": 7084,
+            "total": 24902,
+            "min_turnout": 25153,
+            "max_turnout": 25154
+        },
+        {
+            "county_name": "Douglas",
+            "Warnock": 32305,
+            "Walker": 16117,
+            "total": 48422,
+            "min_turnout": 48911,
+            "max_turnout": 48911
+        },
+        {
+            "county_name": "Early",
+            "Warnock": 1651,
+            "Walker": 2009,
+            "total": 3660,
+            "min_turnout": 3696,
+            "max_turnout": 3697
+        },
+        {
+            "county_name": "Echols",
+            "Warnock": 88,
+            "Walker": 861,
+            "total": 949,
+            "min_turnout": 958,
+            "max_turnout": 959
+        },
+        {
+            "county_name": "Effingham",
+            "Warnock": 5981,
+            "Walker": 16662,
+            "total": 22643,
+            "min_turnout": 22871,
+            "max_turnout": 22872
+        },
+        {
+            "county_name": "Elbert",
+            "Warnock": 1938,
+            "Walker": 4712,
+            "total": 6650,
+            "min_turnout": 6717,
+            "max_turnout": 6717
+        },
+        {
+            "county_name": "Emanuel",
+            "Warnock": 2089,
+            "Walker": 5022,
+            "total": 7111,
+            "min_turnout": 7182,
+            "max_turnout": 7183
+        },
+        {
+            "county_name": "Evans",
+            "Warnock": 938,
+            "Walker": 2172,
+            "total": 3110,
+            "min_turnout": 3141,
+            "max_turnout": 3141
+        },
+        {
+            "county_name": "Fannin",
+            "Warnock": 2041,
+            "Walker": 9110,
+            "total": 11151,
+            "min_turnout": 11263,
+            "max_turnout": 11264
+        },
+        {
+            "county_name": "Fayette",
+            "Warnock": 26568,
+            "Walker": 27059,
+            "total": 53627,
+            "min_turnout": 54168,
+            "max_turnout": 54169
+        },
+        {
+            "county_name": "Floyd",
+            "Warnock": 8340,
+            "Walker": 19950,
+            "total": 28290,
+            "min_turnout": 28575,
+            "max_turnout": 28576
+        },
+        {
+            "county_name": "Forsyth",
+            "Warnock": 30390,
+            "Walker": 58240,
+            "total": 88630,
+            "min_turnout": 89525,
+            "max_turnout": 89525
+        },
+        {
+            "county_name": "Franklin",
+            "Warnock": 1076,
+            "Walker": 6925,
+            "total": 8001,
+            "min_turnout": 8081,
+            "max_turnout": 8082
+        },
+        {
+            "county_name": "Fulton",
+            "Warnock": 279423,
+            "Walker": 85735,
+            "total": 365158,
+            "min_turnout": 368846,
+            "max_turnout": 368846
+        },
+        {
+            "county_name": "Gilmer",
+            "Warnock": 2339,
+            "Walker": 10372,
+            "total": 12711,
+            "min_turnout": 12839,
+            "max_turnout": 12839
+        },
+        {
+            "county_name": "Glascock",
+            "Warnock": 105,
+            "Walker": 1118,
+            "total": 1223,
+            "min_turnout": 1235,
+            "max_turnout": 1235
+        },
+        {
+            "county_name": "Glynn",
+            "Warnock": 11410,
+            "Walker": 18886,
+            "total": 30296,
+            "min_turnout": 30602,
+            "max_turnout": 30602
+        },
+        {
+            "county_name": "Gordon",
+            "Warnock": 3030,
+            "Walker": 14044,
+            "total": 17074,
+            "min_turnout": 17246,
+            "max_turnout": 17246
+        },
+        {
+            "county_name": "Grady",
+            "Warnock": 2446,
+            "Walker": 5065,
+            "total": 7511,
+            "min_turnout": 7586,
+            "max_turnout": 7587
+        },
+        {
+            "county_name": "Greene",
+            "Warnock": 3398,
+            "Walker": 6277,
+            "total": 9675,
+            "min_turnout": 9772,
+            "max_turnout": 9773
+        },
+        {
+            "county_name": "Gwinnett",
+            "Warnock": 164896,
+            "Walker": 100524,
+            "total": 265420,
+            "min_turnout": 268101,
+            "max_turnout": 268101
+        },
+        {
+            "county_name": "Habersham",
+            "Warnock": 2714,
+            "Walker": 12662,
+            "total": 15376,
+            "min_turnout": 15531,
+            "max_turnout": 15531
+        },
+        {
+            "county_name": "Hall",
+            "Warnock": 17773,
+            "Walker": 47424,
+            "total": 65197,
+            "min_turnout": 65855,
+            "max_turnout": 65856
+        },
+        {
+            "county_name": "Hancock",
+            "Warnock": 2356,
+            "Walker": 909,
+            "total": 3265,
+            "min_turnout": 3297,
+            "max_turnout": 3298
+        },
+        {
+            "county_name": "Haralson",
+            "Warnock": 1372,
+            "Walker": 9051,
+            "total": 10423,
+            "min_turnout": 10528,
+            "max_turnout": 10528
+        },
+        {
+            "county_name": "Harris",
+            "Warnock": 4390,
+            "Walker": 11136,
+            "total": 15526,
+            "min_turnout": 15682,
+            "max_turnout": 15683
+        },
+        {
+            "county_name": "Hart",
+            "Warnock": 2270,
+            "Walker": 7505,
+            "total": 9775,
+            "min_turnout": 9873,
+            "max_turnout": 9874
+        },
+        {
+            "county_name": "Heard",
+            "Warnock": 639,
+            "Walker": 3405,
+            "total": 4044,
+            "min_turnout": 4084,
+            "max_turnout": 4085
+        },
+        {
+            "county_name": "Henry",
+            "Warnock": 54590,
+            "Walker": 27900,
+            "total": 82490,
+            "min_turnout": 83323,
+            "max_turnout": 83323
+        },
+        {
+            "county_name": "Houston",
+            "Warnock": 24596,
+            "Walker": 29429,
+            "total": 54025,
+            "min_turnout": 54570,
+            "max_turnout": 54571
+        },
+        {
+            "county_name": "Irwin",
+            "Warnock": 705,
+            "Walker": 2427,
+            "total": 3132,
+            "min_turnout": 3163,
+            "max_turnout": 3164
+        },
+        {
+            "county_name": "Jackson",
+            "Warnock": 5851,
+            "Walker": 21608,
+            "total": 27459,
+            "min_turnout": 27736,
+            "max_turnout": 27736
+        },
+        {
+            "county_name": "Jasper",
+            "Warnock": 1339,
+            "Walker": 4567,
+            "total": 5906,
+            "min_turnout": 5965,
+            "max_turnout": 5966
+        },
+        {
+            "county_name": "Jeff Davis",
+            "Warnock": 742,
+            "Walker": 3471,
+            "total": 4213,
+            "min_turnout": 4255,
+            "max_turnout": 4256
+        },
+        {
+            "county_name": "Jefferson",
+            "Warnock": 3078,
+            "Walker": 2895,
+            "total": 5973,
+            "min_turnout": 6033,
+            "max_turnout": 6033
+        },
+        {
+            "county_name": "Jenkins",
+            "Warnock": 874,
+            "Walker": 1647,
+            "total": 2521,
+            "min_turnout": 2546,
+            "max_turnout": 2546
+        },
+        {
+            "county_name": "Johnson",
+            "Warnock": 967,
+            "Walker": 2419,
+            "total": 3386,
+            "min_turnout": 3420,
+            "max_turnout": 3420
+        },
+        {
+            "county_name": "Jones",
+            "Warnock": 3744,
+            "Walker": 7499,
+            "total": 11243,
+            "min_turnout": 11356,
+            "max_turnout": 11357
+        },
+        {
+            "county_name": "Lamar",
+            "Warnock": 2007,
+            "Walker": 4906,
+            "total": 6913,
+            "min_turnout": 6982,
+            "max_turnout": 6983
+        },
+        {
+            "county_name": "Lanier",
+            "Warnock": 701,
+            "Walker": 1752,
+            "total": 2453,
+            "min_turnout": 2477,
+            "max_turnout": 2478
+        },
+        {
+            "county_name": "Laurens",
+            "Warnock": 6060,
+            "Walker": 11353,
+            "total": 17413,
+            "min_turnout": 17588,
+            "max_turnout": 17589
+        },
+        {
+            "county_name": "Lee",
+            "Warnock": 3560,
+            "Walker": 8740,
+            "total": 12300,
+            "min_turnout": 12424,
+            "max_turnout": 12424
+        },
+        {
+            "county_name": "Liberty",
+            "Warnock": 9200,
+            "Walker": 5020,
+            "total": 14220,
+            "min_turnout": 14363,
+            "max_turnout": 14364
+        },
+        {
+            "county_name": "Lincoln",
+            "Warnock": 1043,
+            "Walker": 2658,
+            "total": 3701,
+            "min_turnout": 3738,
+            "max_turnout": 3738
+        },
+        {
+            "county_name": "Long",
+            "Warnock": 1472,
+            "Walker": 2443,
+            "total": 3915,
+            "min_turnout": 3954,
+            "max_turnout": 3955
+        },
+        {
+            "county_name": "Lowndes",
+            "Warnock": 13088,
+            "Walker": 18423,
+            "total": 31511,
+            "min_turnout": 31829,
+            "max_turnout": 31829
+        },
+        {
+            "county_name": "Lumpkin",
+            "Warnock": 2330,
+            "Walker": 8988,
+            "total": 11318,
+            "min_turnout": 11432,
+            "max_turnout": 11432
+        },
+        {
+            "county_name": "Macon",
+            "Warnock": 2185,
+            "Walker": 1361,
+            "total": 3546,
+            "min_turnout": 3582,
+            "max_turnout": 3732
+        },
+        {
+            "county_name": "Madison",
+            "Warnock": 2712,
+            "Walker": 8694,
+            "total": 11406,
+            "min_turnout": 11521,
+            "max_turnout": 11521
+        },
+        {
+            "county_name": "Marion",
+            "Warnock": 1029,
+            "Walker": 1655,
+            "total": 2684,
+            "min_turnout": 2711,
+            "max_turnout": 2711
+        },
+        {
+            "county_name": "McDuffie",
+            "Warnock": 2993,
+            "Walker": 4716,
+            "total": 7709,
+            "min_turnout": 7786,
+            "max_turnout": 7787
+        },
+        {
+            "county_name": "McIntosh",
+            "Warnock": 2015,
+            "Walker": 3181,
+            "total": 5196,
+            "min_turnout": 5248,
+            "max_turnout": 5248
+        },
+        {
+            "county_name": "Meriwether",
+            "Warnock": 3244,
+            "Walker": 5019,
+            "total": 8263,
+            "min_turnout": 8346,
+            "max_turnout": 8346
+        },
+        {
+            "county_name": "Miller",
+            "Warnock": 442,
+            "Walker": 1493,
+            "total": 1935,
+            "min_turnout": 1954,
+            "max_turnout": 1955
+        },
+        {
+            "county_name": "Mitchell",
+            "Warnock": 2798,
+            "Walker": 3716,
+            "total": 6514,
+            "min_turnout": 6579,
+            "max_turnout": 6579
+        },
+        {
+            "county_name": "Monroe",
+            "Warnock": 3609,
+            "Walker": 9016,
+            "total": 12625,
+            "min_turnout": 12752,
+            "max_turnout": 12753
+        },
+        {
+            "county_name": "Montgomery",
+            "Warnock": 751,
+            "Walker": 2286,
+            "total": 3037,
+            "min_turnout": 3067,
+            "max_turnout": 3068
+        },
+        {
+            "county_name": "Morgan",
+            "Warnock": 2649,
+            "Walker": 6845,
+            "total": 9494,
+            "min_turnout": 9589,
+            "max_turnout": 9590
+        },
+        {
+            "county_name": "Murray",
+            "Warnock": 1339,
+            "Walker": 8893,
+            "total": 10232,
+            "min_turnout": 10335,
+            "max_turnout": 10335
+        },
+        {
+            "county_name": "Muscogee",
+            "Warnock": 35462,
+            "Walker": 19432,
+            "total": 54894,
+            "min_turnout": 55448,
+            "max_turnout": 55448
+        },
+        {
+            "county_name": "Newton",
+            "Warnock": 22277,
+            "Walker": 15591,
+            "total": 37868,
+            "min_turnout": 38250,
+            "max_turnout": 38251
+        },
+        {
+            "county_name": "Oconee",
+            "Warnock": 6600,
+            "Walker": 13541,
+            "total": 20141,
+            "min_turnout": 20344,
+            "max_turnout": 20344
+        },
+        {
+            "county_name": "Oglethorpe",
+            "Warnock": 1917,
+            "Walker": 4337,
+            "total": 6254,
+            "min_turnout": 6317,
+            "max_turnout": 6317
+        },
+        {
+            "county_name": "Paulding",
+            "Warnock": 22472,
+            "Walker": 36371,
+            "total": 58843,
+            "min_turnout": 59437,
+            "max_turnout": 59437
+        },
+        {
+            "county_name": "Peach",
+            "Warnock": 4426,
+            "Walker": 4751,
+            "total": 9177,
+            "min_turnout": 9269,
+            "max_turnout": 9270
+        },
+        {
+            "county_name": "Pickens",
+            "Warnock": 2353,
+            "Walker": 10984,
+            "total": 13337,
+            "min_turnout": 13471,
+            "max_turnout": 13472
+        },
+        {
+            "county_name": "Pierce",
+            "Warnock": 770,
+            "Walker": 5928,
+            "total": 6698,
+            "min_turnout": 6765,
+            "max_turnout": 6766
+        },
+        {
+            "county_name": "Pike",
+            "Warnock": 1184,
+            "Walker": 7453,
+            "total": 8637,
+            "min_turnout": 8724,
+            "max_turnout": 8724
+        },
+        {
+            "county_name": "Polk",
+            "Warnock": 2470,
+            "Walker": 9497,
+            "total": 11967,
+            "min_turnout": 12087,
+            "max_turnout": 12088
+        },
+        {
+            "county_name": "Pulaski",
+            "Warnock": 985,
+            "Walker": 2205,
+            "total": 3190,
+            "min_turnout": 3222,
+            "max_turnout": 3222
+        },
+        {
+            "county_name": "Putnam",
+            "Warnock": 2690,
+            "Walker": 6589,
+            "total": 9279,
+            "min_turnout": 9372,
+            "max_turnout": 9373
+        },
+        {
+            "county_name": "Quitman",
+            "Warnock": 330,
+            "Walker": 477,
+            "total": 807,
+            "min_turnout": 815,
+            "max_turnout": 815
+        },
+        {
+            "county_name": "Rabun",
+            "Warnock": 1706,
+            "Walker": 5741,
+            "total": 7447,
+            "min_turnout": 7522,
+            "max_turnout": 7522
+        },
+        {
+            "county_name": "Randolph",
+            "Warnock": 1351,
+            "Walker": 1058,
+            "total": 2409,
+            "min_turnout": 2433,
+            "max_turnout": 2433
+        },
+        {
+            "county_name": "Richmond",
+            "Warnock": 41765,
+            "Walker": 18013,
+            "total": 59778,
+            "min_turnout": 60381,
+            "max_turnout": 60382
+        },
+        {
+            "county_name": "Rockdale",
+            "Warnock": 23856,
+            "Walker": 7748,
+            "total": 31604,
+            "min_turnout": 31923,
+            "max_turnout": 31923
+        },
+        {
+            "county_name": "Schley",
+            "Warnock": 346,
+            "Walker": 1380,
+            "total": 1726,
+            "min_turnout": 1743,
+            "max_turnout": 1743
+        },
+        {
+            "county_name": "Screven",
+            "Warnock": 1910,
+            "Walker": 2986,
+            "total": 4896,
+            "min_turnout": 4945,
+            "max_turnout": 4945
+        },
+        {
+            "county_name": "Seminole",
+            "Warnock": 793,
+            "Walker": 1954,
+            "total": 2747,
+            "min_turnout": 2774,
+            "max_turnout": 2775
+        },
+        {
+            "county_name": "Spalding",
+            "Warnock": 8898,
+            "Walker": 12619,
+            "total": 21517,
+            "min_turnout": 21734,
+            "max_turnout": 21734
+        },
+        {
+            "county_name": "Stephens",
+            "Warnock": 1662,
+            "Walker": 6701,
+            "total": 8363,
+            "min_turnout": 8447,
+            "max_turnout": 8447
+        },
+        {
+            "county_name": "Stewart",
+            "Warnock": 898,
+            "Walker": 534,
+            "total": 1432,
+            "min_turnout": 1446,
+            "max_turnout": 1446
+        },
+        {
+            "county_name": "Sumter",
+            "Warnock": 4647,
+            "Walker": 4203,
+            "total": 8850,
+            "min_turnout": 8939,
+            "max_turnout": 8939
+        },
+        {
+            "county_name": "Talbot",
+            "Warnock": 1605,
+            "Walker": 1061,
+            "total": 2666,
+            "min_turnout": 2692,
+            "max_turnout": 2693
+        },
+        {
+            "county_name": "Taliaferro",
+            "Warnock": 431,
+            "Walker": 284,
+            "total": 715,
+            "min_turnout": 722,
+            "max_turnout": 722
+        },
+        {
+            "county_name": "Tattnall",
+            "Warnock": 1438,
+            "Walker": 4562,
+            "total": 6000,
+            "min_turnout": 6060,
+            "max_turnout": 6061
+        },
+        {
+            "county_name": "Taylor",
+            "Warnock": 1125,
+            "Walker": 1879,
+            "total": 3004,
+            "min_turnout": 3034,
+            "max_turnout": 3034
+        },
+        {
+            "county_name": "Telfair",
+            "Warnock": 1037,
+            "Walker": 2182,
+            "total": 3219,
+            "min_turnout": 3251,
+            "max_turnout": 3252
+        },
+        {
+            "county_name": "Terrell",
+            "Warnock": 1776,
+            "Walker": 1570,
+            "total": 3346,
+            "min_turnout": 3379,
+            "max_turnout": 3380
+        },
+        {
+            "county_name": "Thomas",
+            "Warnock": 6034,
+            "Walker": 9430,
+            "total": 15464,
+            "min_turnout": 15620,
+            "max_turnout": 15620
+        },
+        {
+            "county_name": "Tift",
+            "Warnock": 3794,
+            "Walker": 8242,
+            "total": 12036,
+            "min_turnout": 12157,
+            "max_turnout": 12158
+        },
+        {
+            "county_name": "Toombs",
+            "Warnock": 1970,
+            "Walker": 5776,
+            "total": 7746,
+            "min_turnout": 7824,
+            "max_turnout": 7824
+        },
+        {
+            "county_name": "Towns",
+            "Warnock": 1275,
+            "Walker": 5193,
+            "total": 6468,
+            "min_turnout": 6533,
+            "max_turnout": 6533
+        },
+        {
+            "county_name": "Treutlen",
+            "Warnock": 682,
+            "Walker": 1643,
+            "total": 2325,
+            "min_turnout": 2348,
+            "max_turnout": 2348
+        },
+        {
+            "county_name": "Troup",
+            "Warnock": 8332,
+            "Walker": 12749,
+            "total": 21081,
+            "min_turnout": 21293,
+            "max_turnout": 21294
+        },
+        {
+            "county_name": "Turner",
+            "Warnock": 1046,
+            "Walker": 1742,
+            "total": 2788,
+            "min_turnout": 2816,
+            "max_turnout": 2816
+        },
+        {
+            "county_name": "Twiggs",
+            "Warnock": 1583,
+            "Walker": 1799,
+            "total": 3382,
+            "min_turnout": 3415,
+            "max_turnout": 3416
+        },
+        {
+            "county_name": "Union",
+            "Warnock": 2424,
+            "Walker": 10212,
+            "total": 12636,
+            "min_turnout": 12763,
+            "max_turnout": 12764
+        },
+        {
+            "county_name": "Upson",
+            "Warnock": 2872,
+            "Walker": 6043,
+            "total": 8915,
+            "min_turnout": 9003,
+            "max_turnout": 9005
+        },
+        {
+            "county_name": "Walker",
+            "Warnock": 3904,
+            "Walker": 15502,
+            "total": 19406,
+            "min_turnout": 19602,
+            "max_turnout": 19602
+        },
+        {
+            "county_name": "Walton",
+            "Warnock": 10086,
+            "Walker": 28139,
+            "total": 38225,
+            "min_turnout": 38611,
+            "max_turnout": 38611
+        },
+        {
+            "county_name": "Ware",
+            "Warnock": 2861,
+            "Walker": 7003,
+            "total": 9864,
+            "min_turnout": 9963,
+            "max_turnout": 9964
+        },
+        {
+            "county_name": "Warren",
+            "Warnock": 1063,
+            "Walker": 959,
+            "total": 2022,
+            "min_turnout": 2042,
+            "max_turnout": 2042
+        },
+        {
+            "county_name": "Washington",
+            "Warnock": 3753,
+            "Walker": 3665,
+            "total": 7418,
+            "min_turnout": 7492,
+            "max_turnout": 7493
+        },
+        {
+            "county_name": "Wayne",
+            "Warnock": 1942,
+            "Walker": 7284,
+            "total": 9226,
+            "min_turnout": 9319,
+            "max_turnout": 9319
+        },
+        {
+            "county_name": "Webster",
+            "Warnock": 420,
+            "Walker": 616,
+            "total": 1036,
+            "min_turnout": 1046,
+            "max_turnout": 1046
+        },
+        {
+            "county_name": "Wheeler",
+            "Warnock": 492,
+            "Walker": 1231,
+            "total": 1723,
+            "min_turnout": 1740,
+            "max_turnout": 1740
+        },
+        {
+            "county_name": "White",
+            "Warnock": 1893,
+            "Walker": 9414,
+            "total": 11307,
+            "min_turnout": 11421,
+            "max_turnout": 11421
+        },
+        {
+            "county_name": "Whitfield",
+            "Warnock": 6055,
+            "Walker": 17716,
+            "total": 23771,
+            "min_turnout": 24011,
+            "max_turnout": 24011
+        },
+        {
+            "county_name": "Wilcox",
+            "Warnock": 615,
+            "Walker": 1765,
+            "total": 2380,
+            "min_turnout": 2404,
+            "max_turnout": 2404
+        },
+        {
+            "county_name": "Wilkes",
+            "Warnock": 1609,
+            "Walker": 2228,
+            "total": 3837,
+            "min_turnout": 3875,
+            "max_turnout": 3876
+        },
+        {
+            "county_name": "Wilkinson",
+            "Warnock": 1678,
+            "Walker": 2105,
+            "total": 3783,
+            "min_turnout": 3821,
+            "max_turnout": 3821
+        },
+        {
+            "county_name": "Worth",
+            "Warnock": 1759,
+            "Walker": 5096,
+            "total": 6855,
+            "min_turnout": 6924,
+            "max_turnout": 6924
+        }
+    ]
+}

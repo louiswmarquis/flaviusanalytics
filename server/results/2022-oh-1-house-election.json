@@ -1,0 +1,55 @@
+{
+    "name": "2022 OH-1 House Election",
+    "candidates": [
+        "Landsman",
+        "Chabot"
+    ],
+    "sources": [
+        "nyt",
+        "cnn"
+    ],
+    "results": [
+        {
+            "county": "Total",
+            "Landsman": 156416,
+            "Chabot": 140058,
+            "total": 296474,
+            "margin": 16358,
+            "min_turnout": 296474,
+            "max_turnout": 296474,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 16358,
+            "max_turnout_margin": 16358
+        },
+        {
+            "county": "Hamilton",
+            "Landsman": 122041,
+            "Chabot": 73198,
+            "total": 195239,
+            "margin": 48843,
+            "min_turnout": 195239,
+            "max_turnout": 195239,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": 48843,
+            "max_turnout_margin": 48843
+        },
+        {
+            "county": "Warren",
+            "Landsman": 34375,
+            "Chabot": 66860,
+            "total": 101235,
+            "margin": -32485,
+            "min_turnout": 101235,
+            "max_turnout": 101235,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -32485,
+            "max_turnout_margin": -32485
+        }
+    ]
+}

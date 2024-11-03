@@ -1,0 +1,152 @@
+{
+    "al" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "ak" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "az" : {
+		"color" : "i"
+    },
+    "ar" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "ca" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "co" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "ct" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "de" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "fl" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "ga" : {
+		"color" : "i"
+    },
+    "hi" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "id" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "il" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "in" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "ia" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "ks" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "ky" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "la" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "me" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "md" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "ma" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "mi" : {
+		"color" : "i"
+    },
+    "mn" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "ms" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "mo" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "mt" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "ne" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "nv" : {
+		"color" : "i"
+    },
+    "nh" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "nj" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "nm" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "ny" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "nc" : {
+		"color" : "i"
+    },
+    "nd" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "oh" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "ok" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "or" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "pa" : {
+		"color" : "i"
+    },
+    "ri" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "sc" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "sd" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "tn" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "tx" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "ut" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "vt" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "va" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "wa" : {
+		"color" : "dark-d", "info" : "Harris"
+    },
+    "wv" : {
+		"color" : "dark-r", "info" : "Trump"
+    },
+    "wi" : {
+		"color" : "i"
+    },
+    "wy" : {
+		"color" : "dark-r", "info" : "Trump"
+    }
+}

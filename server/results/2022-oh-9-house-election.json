@@ -1,0 +1,139 @@
+{
+    "name": "2022 OH-9 House Election",
+    "candidates": [
+        "Kaptur",
+        "Majewski"
+    ],
+    "sources": [
+        "nyt",
+        "cnn"
+    ],
+    "results": [
+        {
+            "county": "Total",
+            "Kaptur": 150655,
+            "Majewski": 115362,
+            "total": 266017,
+            "margin": 35293,
+            "min_turnout": 266017,
+            "max_turnout": 266017,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 35293,
+            "max_turnout_margin": 35293
+        },
+        {
+            "county": "Defiance",
+            "Kaptur": 5272,
+            "Majewski": 7914,
+            "total": 13186,
+            "margin": -2642,
+            "min_turnout": 13186,
+            "max_turnout": 13186,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -2642,
+            "max_turnout_margin": -2642
+        },
+        {
+            "county": "Erie",
+            "Kaptur": 15249,
+            "Majewski": 13498,
+            "total": 28747,
+            "margin": 1751,
+            "min_turnout": 28747,
+            "max_turnout": 28747,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": 1751,
+            "max_turnout_margin": 1751
+        },
+        {
+            "county": "Fulton",
+            "Kaptur": 6544,
+            "Majewski": 9584,
+            "total": 16128,
+            "margin": -3040,
+            "min_turnout": 16128,
+            "max_turnout": 16128,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -3040,
+            "max_turnout_margin": -3040
+        },
+        {
+            "county": "Lucas",
+            "Kaptur": 86676,
+            "Majewski": 44972,
+            "total": 131648,
+            "margin": 41704,
+            "min_turnout": 131648,
+            "max_turnout": 131648,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": 41704,
+            "max_turnout_margin": 41704
+        },
+        {
+            "county": "Ottawa",
+            "Kaptur": 8906,
+            "Majewski": 9400,
+            "total": 18306,
+            "margin": -494,
+            "min_turnout": 18306,
+            "max_turnout": 18306,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -494,
+            "max_turnout_margin": -494
+        },
+        {
+            "county": "Sandusky",
+            "Kaptur": 9523,
+            "Majewski": 11607,
+            "total": 21130,
+            "margin": -2084,
+            "min_turnout": 21130,
+            "max_turnout": 21130,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -2084,
+            "max_turnout_margin": -2084
+        },
+        {
+            "county": "Williams",
+            "Kaptur": 4732,
+            "Majewski": 7947,
+            "total": 12679,
+            "margin": -3215,
+            "min_turnout": 12679,
+            "max_turnout": 12679,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -3215,
+            "max_turnout_margin": -3215
+        },
+        {
+            "county": "Wood",
+            "Kaptur": 13753,
+            "Majewski": 10440,
+            "total": 24193,
+            "margin": 3313,
+            "min_turnout": 24193,
+            "max_turnout": 24193,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": 3313,
+            "max_turnout_margin": 3313
+        }
+    ]
+}

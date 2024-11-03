@@ -1,0 +1,170 @@
+{
+    "2020-az-pres-election" : {
+        "name" : "2020 Arizona President Election",
+        "candidates" : ["Biden", "Trump"],
+        "date" : [2020, 11, 3],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2020-PG-AZ.json"
+        }
+    },
+    "2020-ga-pres-election" : {
+        "name" : "2020 Georgia President Election",
+        "candidates" : ["Biden", "Trump"],
+        "date" : [2020, 11, 3],
+		"time" : 7,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2020-PG-GA.json"
+        }
+    },
+    "2020-mi-pres-election" : {
+        "name" : "2020 Michigan President Election",
+        "candidates" : ["Biden", "Trump"],
+        "date" : [2020, 11, 3],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2020-PG-MI.json"
+        }
+    },
+    "2020-nv-pres-election" : {
+        "name" : "2020 Nevada President Election",
+        "candidates" : ["Biden", "Trump"],
+        "date" : [2020, 11, 3],
+		"time" : 10,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2020-PG-NV.json"
+        }
+    },
+    "2020-nc-pres-election" : {
+        "name" : "2020 North Carolina President Election",
+        "candidates" : ["Biden", "Trump"],
+        "date" : [2020, 11, 3],
+		"time" : 7.5,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2020-PG-NC.json"
+        }
+    },
+    "2020-pa-pres-election" : {
+        "name" : "2020 Pennsylvania President Election",
+        "candidates" : ["Biden", "Trump"],
+        "date" : [2020, 11, 3],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2020-PG-PA.json"
+        }
+    },
+    "2020-wi-pres-election" : {
+        "name" : "2020 Wisconsin President Election",
+        "candidates" : ["Biden", "Trump"],
+        "date" : [2020, 11, 3],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "i",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2020-PG-WI.json"
+        }
+    },
+    "2020-fl-pres-election" : {
+        "name" : "2020 Florida President Election",
+        "candidates" : ["Biden", "Trump"],
+        "date" : [2020, 11, 3],
+		"time" : 7,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2020-PG-FL.json"
+        }
+    },
+    "2020-tx-pres-election" : {
+        "name" : "2020 Texas President Election",
+        "candidates" : ["Biden", "Trump"],
+        "date" : [2020, 11, 3],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2020-PG-TX.json"
+        }
+    },
+    "2020-va-pres-election" : {
+        "name" : "2020 Virginia President Election",
+        "candidates" : ["Biden", "Trump"],
+        "date" : [2020, 11, 3],
+		"time" : 7,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-d",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2020-PG-VA.json"
+        }
+    },
+    "2020-ak-pres-election" : {
+        "name" : "2020 Alaska President Election",
+        "candidates" : ["Biden", "Trump"],
+        "date" : [2020, 11, 3],
+		"time" : 12,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2020-PG-AK.json"
+        }
+    },
+    "2020-oh-pres-election" : {
+        "name" : "2020 Ohio President Election",
+        "candidates" : ["Biden", "Trump"],
+        "date" : [2020, 11, 3],
+		"time" : 7.5,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2020-PG-OH.json"
+        }
+    },
+    "2020-in-pres-election" : {
+        "name" : "2020 Indiana President Election",
+        "candidates" : ["Biden", "Trump"],
+        "date" : [2020, 11, 3],
+		"time" : 6,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2020-PG-IN.json"
+        }
+    },
+    "2020-ky-pres-election" : {
+        "name" : "2020 Kentucky President Election",
+        "candidates" : ["Biden", "Trump"],
+        "date" : [2020, 11, 3],
+		"time" : 6,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sources" : {
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2020-PG-KY.json"
+        }
+    }
+}

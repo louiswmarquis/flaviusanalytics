@@ -1,0 +1,125 @@
+{
+    "name": "2022 MI-7 House Election",
+    "candidates": [
+        "Slotkin",
+        "Barrett"
+    ],
+    "sources": [
+        "nyt",
+        "cnn"
+    ],
+    "results": [
+        {
+            "county": "Total",
+            "Slotkin": 192809,
+            "Barrett": 172624,
+            "total": 372708,
+            "margin": 20185,
+            "min_turnout": 372708,
+            "max_turnout": 372708,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 20185,
+            "max_turnout_margin": 20185
+        },
+        {
+            "county": "Clinton",
+            "Slotkin": 19424,
+            "Barrett": 20761,
+            "total": 40935,
+            "margin": -1337,
+            "min_turnout": 40935,
+            "max_turnout": 40935,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -1337,
+            "max_turnout_margin": -1337
+        },
+        {
+            "county": "Eaton",
+            "Slotkin": 25892,
+            "Barrett": 23883,
+            "total": 50780,
+            "margin": 2009,
+            "min_turnout": 50780,
+            "max_turnout": 50780,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": 2009,
+            "max_turnout_margin": 2009
+        },
+        {
+            "county": "Genesee",
+            "Slotkin": 29,
+            "Barrett": 56,
+            "total": 85,
+            "margin": -27,
+            "min_turnout": 85,
+            "max_turnout": 85,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -27,
+            "max_turnout_margin": -27
+        },
+        {
+            "county": "Ingham",
+            "Slotkin": 79415,
+            "Barrett": 36471,
+            "total": 118206,
+            "margin": 42944,
+            "min_turnout": 118206,
+            "max_turnout": 118206,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": 42944,
+            "max_turnout_margin": 42944
+        },
+        {
+            "county": "Livingston",
+            "Slotkin": 44439,
+            "Barrett": 61530,
+            "total": 107967,
+            "margin": -17091,
+            "min_turnout": 107967,
+            "max_turnout": 107967,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -17091,
+            "max_turnout_margin": -17091
+        },
+        {
+            "county": "Oakland",
+            "Slotkin": 10247,
+            "Barrett": 12063,
+            "total": 22699,
+            "margin": -1816,
+            "min_turnout": 22699,
+            "max_turnout": 22699,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -1816,
+            "max_turnout_margin": -1816
+        },
+        {
+            "county": "Shiawassee",
+            "Slotkin": 13363,
+            "Barrett": 17860,
+            "total": 32036,
+            "margin": -4497,
+            "min_turnout": 32036,
+            "max_turnout": 32036,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -4497,
+            "max_turnout_margin": -4497
+        }
+    ]
+}

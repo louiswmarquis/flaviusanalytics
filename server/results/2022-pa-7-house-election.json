@@ -1,0 +1,83 @@
+{
+    "name": "2022 PA-7 House Election",
+    "candidates": [
+        "Wild",
+        "Scheller"
+    ],
+    "sources": [
+        "nyt",
+        "cnn"
+    ],
+    "results": [
+        {
+            "county": "Total",
+            "Wild": 151364,
+            "Scheller": 145527,
+            "total": 296891,
+            "margin": 5837,
+            "min_turnout": 296891,
+            "max_turnout": 296891,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 5837,
+            "max_turnout_margin": 5837
+        },
+        {
+            "county": "Carbon",
+            "Wild": 9189,
+            "Scheller": 16844,
+            "total": 26033,
+            "margin": -7655,
+            "min_turnout": 26033,
+            "max_turnout": 26033,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -7655,
+            "max_turnout_margin": -7655
+        },
+        {
+            "county": "Lehigh",
+            "Wild": 73756,
+            "Scheller": 62343,
+            "total": 136099,
+            "margin": 11413,
+            "min_turnout": 136099,
+            "max_turnout": 136099,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": 11413,
+            "max_turnout_margin": 11413
+        },
+        {
+            "county": "Monroe",
+            "Wild": 1762,
+            "Scheller": 3540,
+            "total": 5302,
+            "margin": -1778,
+            "min_turnout": 5302,
+            "max_turnout": 5302,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": -1778,
+            "max_turnout_margin": -1778
+        },
+        {
+            "county": "Northampton",
+            "Wild": 66657,
+            "Scheller": 62800,
+            "total": 129457,
+            "margin": 3857,
+            "min_turnout": 129457,
+            "max_turnout": 129457,
+            "main_source": "cnn",
+            "min_source": "cnn",
+            "max_source": "cnn",
+            "min_turnout_margin": 3857,
+            "max_turnout_margin": 3857
+        }
+    ]
+}
