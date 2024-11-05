@@ -128,6 +128,7 @@ app.listen(process.env.PORT || PORT || 5000, () => {
 });
 
 if (process.env.NODE_ENV === 'production') {
+  console.log("SKEET")
   // Exprees will serve up production assets
   app.use(express.static('../client/build'));
 
