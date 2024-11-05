@@ -31,6 +31,7 @@ class Dashboard extends React.Component {
         if (this.state.content === "") {
             return <p>Loading...</p>
         }
+        try {
         const rows = Object.keys(this.state.content).map((time) => (Number(time))).toSorted((a, b) => a - b).map((time) => {
             const hour = Math.floor(time)
             const minute = time - Math.floor(time)
@@ -60,7 +61,12 @@ class Dashboard extends React.Component {
                     </tr>)}
                 </table>
             </div>
-        })
+        }
+    
+    )
+    } catch (error) {
+        const rows = [<div>{error.message}</div>]
+    }
         return (
             <section class="content">
                 <header>

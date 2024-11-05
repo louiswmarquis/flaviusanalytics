@@ -54,7 +54,6 @@ class Results extends React.Component {
         const candidates = aggregate_data["candidates"]
         const results = aggregate_data["results"]
         let rows = []
-        try{
         for (const county_data of results) {
             let row = [<td class={county_data["main_source"]} style={{textAlign : "left"}}><p>{county_data["county"]}</p></td>]
             for (let i = 0; i < candidates.length; i++) {
@@ -75,9 +74,6 @@ class Results extends React.Component {
             if (county_data["county"] === "Total") {
                 rows.push(<tr><td class="blank"></td></tr>)
             }
-        }
-        catch(error) {
-            rows = [<div></div>]
         }
         return <section class="content">
             <header style={{width: "1200px", height: "100px"}}>
