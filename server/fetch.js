@@ -33,7 +33,7 @@ async function fetch_data() {
                         console.log("Failed to fetch from " + source + " for " + election_id + ".")
                     }
                     else if (error.message === "429") {
-                        console.log("Failed to fetch from " + source + " for " + election_id + ".")
+                        console.log("429 in " + source + " for " + election_id + ".")
                         send_text("429 in " + election_id)
                         wait[source] = 10
                         get_out = true
