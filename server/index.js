@@ -40,7 +40,7 @@ app.get("/get_map_totals", (req, res) => {
   res.json(content)
 });
 
-app.get("/results/:election_id", (req, res) => {
+app.get("/get_results/:election_id", (req, res) => {
   const fs = require("fs");
   let aggregate_data = {}
   try {
@@ -123,7 +123,16 @@ setInterval(() => {
   fetch_data();
 }, 10000);
 
-app.listen(process.env.PORT || 5000, () => {
+app.listen(PORT || 5000, () => {
   console.log(`Server listening on ${PORT}`);
 });
 
+if (process.env.NODE_ENV === 'production') {
+  // Exprees will serve up production assets
+  app.use(express.static('../client/build'));
+
+  // Express serve up index.html file if it doesn't recognize route
+  app.get('*', (req, res) => {
+    res.sendFile(__dirname + "../client/build/index.html")
+  })
+}
