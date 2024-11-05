@@ -129,12 +129,10 @@ app.listen(process.env.PORT || PORT || 5000, () => {
 
 if (process.env.NODE_ENV === 'production') {
   // Exprees will serve up production assets
-  console.log(__dirname)
-  console.log(__dirname.substr(-7))
-  app.use(express.static(__dirname.substr(-14) + '/client/build'));
+  app.use(express.static(__dirname.slice(0, -7) + '/client/build'));
 
   // Express serve up index.html file if it doesn't recognize route
   app.get('/', (req, res) => {
-    res.sendFile(__dirname.substr(-14) + "/client/build/index.html")
+    res.sendFile(__dirname.slice(0, -7) + "/client/build/index.html")
   })
 }
