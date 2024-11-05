@@ -4,6 +4,7 @@ async function fetch_data() {
     console.log("Starting fetch sequence!")
     const fs = require("fs");
     const election_list_ids = ["2024-pres-elections", "2024-sen-elections", "2024-house-elections"]
+    const wait = {"nyt" : 1, "cnn" : 1, "ddhq" : 1, "ap" : 1, "sos" : 1}
     for (const election_list_id of election_list_ids) {
         const election_list = JSON.parse(fs.readFileSync(__dirname + "/metadata/" + election_list_id + ".json"));
         for (const election_id of Object.keys(election_list)) {
@@ -16,16 +17,27 @@ async function fetch_data() {
             console.log("Querying " + election_id)
             const source_fetchers = {"nyt" : fetch_nyt, "cnn" : fetch_cnn, "ddhq" : fetch_ddhq, "ap" : fetch_ap, "sos" : fetch_sos}
             let results = {}
+            let get_out = false
             for (const [source, url] of Object.entries(election_metadata["sources"])) {
                 try {
-                    let result = await source_fetchers[source](url)
-                    if (result != null) {
-                        results[source] = result
+                    if (Math.floor(Math.random() * wait[source]) === 0) {
+                        let result = await source_fetchers[source](url)
+                        if (result != null) {
+                            results[source] = result
+                            wait[source] = 1
+                        }
                     }
                 }
                 catch (error) {
                     if (error instanceof SyntaxError || error.message === "The server can not find the requested resource.") {
                         console.log("Failed to fetch from " + source + " for " + election_id + ".")
+                    }
+                    else if (error.message === "429") {
+                        console.log("Failed to fetch from " + source + " for " + election_id + ".")
+                        send_text("429 in " + election_id)
+                        wait[source] = 10
+                        get_out = true
+                        break
                     }
                     else {
                         send_text("FETCH ERROR in " + election_id)
@@ -33,7 +45,7 @@ async function fetch_data() {
                     }
                 }
             }
-            if (Object.keys(results).length === 0) {
+            if (get_out || Object.keys(results).length === 0) {
                 continue
             }
             try {
@@ -44,6 +56,10 @@ async function fetch_data() {
             }
         }
     }
+}
+
+function standardize_name(name) {
+    return name.replace(" Jr.", "")
 }
 
 function fetch_nyt(url) {
@@ -110,7 +126,7 @@ function fetch_ddhq(url) {
         .then((data) => {
             const candidates = {}
             for (const candidate_metadata of data["candidates"]) {
-                candidates[candidate_metadata["cand_id"]] = candidate_metadata["last_name"]
+                candidates[candidate_metadata["cand_id"]] = standardize_name(candidate_metadata["last_name"])
             }
             let results = {}
             for (const county_data of data["vcus"]) {
@@ -131,14 +147,29 @@ function fetch_ddhq(url) {
 
 function fetch_ap(url) {
     return fetch(url[0])
-        .then((response) => response.json())
+        .then((res) => {
+            if (res.ok) {
+                return res.json()
+            } else if (res.status === 429) {
+                throw new Error("429")
+            } else {
+                throw new Error("Bad Response")
+            }
+        })
         .then((data) => {
             const results = {}
             for (const county_data of Object.values(data)){
                 const fips = county_data["fipsCode"]
                 results[fips] = {}
+                
+                try {
                 for (const candidate_data of county_data["candidates"]) {
                     results[fips][url[1][candidate_data["candidateID"]]] = candidate_data["voteCount"]
+                }
+            } catch (error) {
+                    console.log(county_data)
+                    console.log(county_data["candidates"])
+                    throw error
                 }
                 results[fips]["total"] = county_data["parameters"]["vote"]["total"]
                 results[fips]["turnout"] = county_data["parameters"]["vote"]["expected"]["actual"]
