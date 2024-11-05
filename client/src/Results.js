@@ -46,7 +46,7 @@ class Results extends React.Component {
             return <p>Either this is not a valid link or no sources are out yet! Patience, my friend!</p>
         }
         function format_with_percent(a, b) {
-            return a + "\n(" + (a / b * 100).toFixed(2).toString() + "%)"
+            return a + "\n(" + (a / Math.max(1, b) * 100).toFixed(2).toString() + "%)"
         }
         const margin_history = this.state.content["margin_history"]
         const history_table = this.state.content["history_table"]
@@ -57,21 +57,34 @@ class Results extends React.Component {
         for (const county_data of results) {
             let row = [<td class={county_data["main_source"]} style={{textAlign : "left"}}><p>{county_data["county"]}</p></td>]
             for (let i = 0; i < candidates.length; i++) {
-                row.push(<td class={county_data["main_source"]} style={{backgroundColor : county_data[candidates[i]] > county_data[candidates[1 - i]] ? "#00ff00" : "white"}}><p>{format_with_percent(county_data[candidates[i]], county_data["total"])}</p></td>)
+                row.push(<td class={county_data["main_source"]} style={{backgroundColor : county_data[candidates[i]] > county_data[candidates[1 - i]] ? (i === 0 ? "#92BDE0" : "#EAA9A9") : "white"}}><p>{format_with_percent(county_data[candidates[i]], county_data["total"])}</p></td>)
             }
             row.push(<td class={county_data["main_source"]}><p>{county_data["total"]}</p></td>)
-            row.push(<td class={county_data["main_source"]}><p>{format_with_percent(county_data["margin"], county_data["total"])}</p></td>)
+            row.push(<td class={county_data["main_source"]} /*style={{backgroundColor : county_data["margin"] > 0 ? "#92BDE0" : (county_data["margin"] < 0 ? "#EAA9A9" : "#FFFFFF")}}*/><p>{format_with_percent(county_data["margin"], county_data["total"])}</p></td>)
             row.push(<td class={county_data["min_source"]}><p>{county_data["min_turnout"]}</p></td>)
             row.push(<td class={county_data["max_source"]}><p>{county_data["max_turnout"]}</p></td>)
             row.push(<td class={county_data["min_source"]}><p>{format_with_percent(county_data["min_turnout_margin"], county_data["min_turnout"])}</p></td>)
             row.push(<td class={county_data["max_source"]}><p>{format_with_percent(county_data["max_turnout_margin"], county_data["min_turnout"])}</p></td>)
+            row.push(<td class="nyt" style={{backgroundColor : county_data["prev_margin"] > 0 ? "#92BDE0" : (county_data["prev_margin"] < 0 ? "#EAA9A9" : "#FFFFFF")}}><p>{county_data["prev_total"] === undefined ? null : format_with_percent(county_data["prev_margin"], county_data["prev_total"])}</p></td>)
+            const percent_overperformance = county_data["margin"] / Math.max(1, county_data["total"]) * 100 - county_data["prev_margin"] / Math.max(1, county_data["prev_total"]) * 100
+            row.push(<td class="nyt" style={{backgroundColor : percent_overperformance === 0 || county_data["prev_total"] === undefined || county_data["total"] === 0 ? "#FFFFFF" : percent_overperformance > 0 ? "#92BDE0" : "#EAA9A9"}}>
+                <p>{county_data["prev_total"] === undefined || county_data["total"] === 0 ? null : (percent_overperformance).toFixed(2).toString() + "%"}</p>
+                </td>)
             rows.push(<tr style={{fontWeight : county_data["county"] === "Total" ? "bolder" : "normal"}}>{row}</tr>)
             if (county_data["county"] === "Total") {
                 rows.push(<tr><td class="blank"></td></tr>)
             }
         }
         return <section class="content">
-            <header><h1>{aggregate_data["name"] + " Results"}</h1></header>
+            <header style={{width: "1200px", height: "100px"}}>
+                <h1 style={{display: "inline-block"}}>{aggregate_data["name"] + " Results"}</h1>
+                <span style={{float : "right"}}>
+                    <h1 style={{display: "inline-block", textDecoration : "none", fontWeight : "bold", fontFamily : "Courier New", margin: "0px"}}>
+                        {aggregate_data["kalshi"] === undefined ? null : <a href={aggregate_data["kalshi"]} target="_blank" style={{display: "inline-block", backgroundColor : "#00d991", color : "black", textDecoration : "none", fontWeight : "bold", padding : "20px"}}><div>K</div></a>}
+                        {aggregate_data["kalshi_margin"] === undefined ? null : <a href={aggregate_data["kalshi_margin"]} target="_blank" style={{display: "inline-block", backgroundColor : "#00d991", color : "black", textDecoration : "none", fontWeight : "bold", padding : "20px"}}><div>M</div></a>}
+                    </h1>
+                </span>
+            </header>
             <div class="graphics">
                 <div class="graph">
                     <Graph margin_history={margin_history} min_turnout={aggregate_data["results"]["0"]["min_turnout"]} max_turnout={aggregate_data["results"]["0"]["max_turnout"]}/>
@@ -98,7 +111,10 @@ class Results extends React.Component {
                 </div>
             </div>
             <div id="table">
+                <div>
+                </div>
                 <p>{"Source(s): " + aggregate_data["sources"]}</p>
+                <p>Note: The "Compare Margin" column lists the margin from a different election. Pres. and house elections are compared with the previous cycle (2024 for pres, 2022 for house), and senate elections are compared with the concurrent 2024 pres one.</p>
                 <table>
                     <tbody>
                         <tr>
@@ -110,6 +126,8 @@ class Results extends React.Component {
                             <th>Max. Turnout</th>
                             <th>Min. Turnout Margin</th>
                             <th>Max. Turnout Margin</th>
+                            <th>Compare Margin</th>
+                            <th>Over-Performance</th>
                         </tr>
                         {rows}
                     </tbody>

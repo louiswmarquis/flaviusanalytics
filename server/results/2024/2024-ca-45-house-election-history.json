@@ -1,0 +1,29 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-04T00:43:22.996Z",
+            "margin": 0,
+            "total": 0
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Tran": 0,
+                "Steel": 0,
+                "total": 0
+            },
+            "1": {
+                "Tran": 0,
+                "Steel": 0,
+                "total": 0
+            },
+            "2": {
+                "Tran": 0,
+                "Steel": 0,
+                "total": 0
+            },
+            "time": "2024-11-04T00:43:22.996Z"
+        }
+    ]
+}

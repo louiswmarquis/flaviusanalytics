@@ -1,0 +1,39 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-04T01:02:28.486Z",
+            "margin": 0,
+            "total": 0
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Wild": 0,
+                "Mackenzie": 0,
+                "total": 0
+            },
+            "1": {
+                "Wild": 0,
+                "Mackenzie": 0,
+                "total": 0
+            },
+            "2": {
+                "Wild": 0,
+                "Mackenzie": 0,
+                "total": 0
+            },
+            "3": {
+                "Wild": 0,
+                "Mackenzie": 0,
+                "total": 0
+            },
+            "4": {
+                "Wild": 0,
+                "Mackenzie": 0,
+                "total": 0
+            },
+            "time": "2024-11-04T01:02:28.486Z"
+        }
+    ]
+}

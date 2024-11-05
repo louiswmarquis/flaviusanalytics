@@ -1,0 +1,44 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-04T01:02:27.041Z",
+            "margin": 0,
+            "total": 0
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Mannion": 0,
+                "Williams": 0,
+                "total": 0
+            },
+            "1": {
+                "Mannion": 0,
+                "Williams": 0,
+                "total": 0
+            },
+            "2": {
+                "Mannion": 0,
+                "Williams": 0,
+                "total": 0
+            },
+            "3": {
+                "Mannion": 0,
+                "Williams": 0,
+                "total": 0
+            },
+            "4": {
+                "Mannion": 0,
+                "Williams": 0,
+                "total": 0
+            },
+            "5": {
+                "Mannion": 0,
+                "Williams": 0,
+                "total": 0
+            },
+            "time": "2024-11-04T01:02:27.041Z"
+        }
+    ]
+}

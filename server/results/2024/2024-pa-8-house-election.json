@@ -1,0 +1,111 @@
+{
+    "name": "2024 PA-8 House Election",
+    "candidates": [
+        "Cartwright",
+        "Bresnahan"
+    ],
+    "sources": [
+        "cnn",
+        "ddhq",
+        "ap"
+    ],
+    "kalshi": "https://kalshi.com/markets/housepa8",
+    "results": [
+        {
+            "county": "Total",
+            "Cartwright": 0,
+            "Bresnahan": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 340216,
+            "max_turnout": 373497,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 7026,
+            "prev_total": 286886
+        },
+        {
+            "county": "Lackawanna",
+            "Cartwright": 0,
+            "Bresnahan": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 105970,
+            "max_turnout": 111732,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 16107,
+            "prev_total": 89073
+        },
+        {
+            "county": "Luzerne",
+            "Cartwright": 0,
+            "Bresnahan": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 114972,
+            "max_turnout": 127449,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -2592,
+            "prev_total": 97202
+        },
+        {
+            "county": "Monroe",
+            "Cartwright": 0,
+            "Bresnahan": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 66161,
+            "max_turnout": 74066,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 4984,
+            "prev_total": 53254
+        },
+        {
+            "county": "Pike",
+            "Cartwright": 0,
+            "Bresnahan": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 27772,
+            "max_turnout": 31841,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -4814,
+            "prev_total": 24874
+        },
+        {
+            "county": "Wayne",
+            "Cartwright": 0,
+            "Bresnahan": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 25341,
+            "max_turnout": 28409,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -6659,
+            "prev_total": 22483
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-04T01:02:28.664Z",
+            "margin": 0,
+            "total": 0
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Cartwright": 0,
+                "Bresnahan": 0,
+                "total": 0
+            },
+            "1": {
+                "Cartwright": 0,
+                "Bresnahan": 0,
+                "total": 0
+            },
+            "2": {
+                "Cartwright": 0,
+                "Bresnahan": 0,
+                "total": 0
+            },
+            "3": {
+                "Cartwright": 0,
+                "Bresnahan": 0,
+                "total": 0
+            },
+            "4": {
+                "Cartwright": 0,
+                "Bresnahan": 0,
+                "total": 0
+            },
+            "5": {
+                "Cartwright": 0,
+                "Bresnahan": 0,
+                "total": 0
+            },
+            "time": "2024-11-04T01:02:28.664Z"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "name": "2024 OH-13 House Election",
+    "candidates": [
+        "Sykes",
+        "Coughlin"
+    ],
+    "sources": [
+        "cnn",
+        "ddhq",
+        "ap"
+    ],
+    "results": [
+        {
+            "county": "Total",
+            "Sykes": 0,
+            "Coughlin": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 378623,
+            "max_turnout": 404197,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 15223,
+            "prev_total": 284409
+        },
+        {
+            "county": "Portage",
+            "Sykes": 0,
+            "Coughlin": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 1528,
+            "max_turnout": 1580,
+            "main_source": "ap",
+            "min_source": "ap",
+            "max_source": "ddhq",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -221,
+            "prev_total": 1215
+        },
+        {
+            "county": "Stark",
+            "Sykes": 0,
+            "Coughlin": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 116062,
+            "max_turnout": 126488,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -9291,
+            "prev_total": 86731
+        },
+        {
+            "county": "Summit",
+            "Sykes": 0,
+            "Coughlin": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 261033,
+            "max_turnout": 276129,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 24735,
+            "prev_total": 196463
+        }
+    ]
+}

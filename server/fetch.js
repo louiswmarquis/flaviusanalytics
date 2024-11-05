@@ -1,42 +1,53 @@
+const { error } = require("console");
+
 async function fetch_data() {
     console.log("Starting fetch sequence!")
     const fs = require("fs");
-    const election_list_ids = ["2022-house-elections", "2022-gov-elections", "2022-sen-elections"]
+    const election_list_ids = ["2024-pres-elections", "2024-sen-elections", "2024-house-elections"]
     for (const election_list_id of election_list_ids) {
         const election_list = JSON.parse(fs.readFileSync("server\\metadata\\" + election_list_id + ".json"));
         for (const election_id of Object.keys(election_list)) {
-            console.log("Querying " + election_id)
 
             const election_metadata = election_list[election_id]
-            const source_fetchers = {"nyt" : fetch_nyt, "cnn" : fetch_cnn, "ddhq" : fetch_ddhq, "sos" : fetch_sos}
+            if (election_metadata["importance"] !== undefined && Math.floor(Math.random() * election_metadata["importance"]) !== 0) {
+                console.log("Not querying " + election_id)
+                continue
+            }
+            console.log("Querying " + election_id)
+            const source_fetchers = {"nyt" : fetch_nyt, "cnn" : fetch_cnn, "ddhq" : fetch_ddhq, "ap" : fetch_ap, "sos" : fetch_sos}
             let results = {}
             for (const [source, url] of Object.entries(election_metadata["sources"])) {
                 try {
                     let result = await source_fetchers[source](url)
                     if (result != null) {
                         results[source] = result
-                        if (election_id === "2022-mo-sen-election") {
-                            console.log(result)
-                        }
                     }
                 }
-                catch (e) {
-                    if (e instanceof SyntaxError) {
+                catch (error) {
+                    if (error instanceof SyntaxError || error.message === "The server can not find the requested resource.") {
                         console.log("Failed to fetch from " + source + " for " + election_id + ".")
+                    }
+                    else {
+                        send_text("FETCH ERROR in " + election_id)
+                        throw error
                     }
                 }
             }
             if (Object.keys(results).length === 0) {
                 continue
             }
-            const aggregate_results = aggregate_sources(election_id, election_metadata, results)
-            update_storage(election_id, election_metadata, aggregate_results)
+            try {
+                const aggregate_results = aggregate_sources(election_id, election_metadata, results)
+                update_storage(election_id, election_metadata, aggregate_results)
+            } catch (error) {
+                send_text("AGGREGATION ERROR in " + election_id)
+            }
         }
     }
 }
 
 function fetch_nyt(url) {
-    return fetch(url[0])
+    return fetch(url)
         .then((response) => response.json())
         .then((data) => data["races"][0])
         .then((data) => {
@@ -60,6 +71,9 @@ function fetch_cnn(url) {
     return fetch(url)
         .then((response) => response.json())
         .then((data) => {
+            if (data.message !== undefined && data.message === "The server can not find the requested resource.") {
+                throw Error("The server can not find the requested resource.")
+            }
             const results = {}
             for (const county_data of data){
                 const fips = county_data["countyFipsCode"]
@@ -91,21 +105,43 @@ function fetch_cnn(url) {
 }
 
 function fetch_ddhq(url) {
-    return fetch(url[0])
+    return fetch(url)
         .then((response) => response.json())
         .then((data) => {
+            const candidates = {}
+            for (const candidate_metadata of data["candidates"]) {
+                candidates[candidate_metadata["cand_id"]] = candidate_metadata["last_name"]
+            }
             let results = {}
-            for (county_data of data["countyResults"]["counties"]) {
+            for (const county_data of data["vcus"]) {
                 let fips = county_data["fips"]
-                if (fips === "2") {
+                if (fips === "02") {
                     fips = "02000"
                 }
                 results[fips] = {}
-                for (const [candidate, ddhqid] of Object.entries(url[1])) {
-                    results[fips][candidate] = county_data["votes"][ddhqid]
+                for (const candidate_data of county_data["candidates"]) {
+                    results[fips][candidates[candidate_data["cand_id"]]] = candidate_data["votes"]
                 }
-                results[fips]["total"] = Object.values(county_data["votes"]).reduce((a, b) => a + b, 0)
+                results[fips]["total"] = county_data["total_votes"]
                 results[fips]["turnout"] = county_data["estimated_votes"]["estimated_votes_mid"]
+            }
+            return results
+        })
+}
+
+function fetch_ap(url) {
+    return fetch(url[0])
+        .then((response) => response.json())
+        .then((data) => {
+            const results = {}
+            for (const county_data of Object.values(data)){
+                const fips = county_data["fipsCode"]
+                results[fips] = {}
+                for (const candidate_data of county_data["candidates"]) {
+                    results[fips][url[1][candidate_data["candidateID"]]] = candidate_data["voteCount"]
+                }
+                results[fips]["total"] = county_data["parameters"]["vote"]["total"]
+                results[fips]["turnout"] = county_data["parameters"]["vote"]["expected"]["actual"]
             }
             return results
         })
@@ -117,7 +153,7 @@ function fetch_sos(url) {
 
 function aggregate_sources(election_id, election_metadata, results) {
     const sources = Object.keys(results)
-    const aggregate_results = {"name" : election_metadata["name"], "candidates" : election_metadata["candidates"], "sources" : Object.keys(results)}
+    const aggregate_results = {"name" : election_metadata["name"], "candidates" : election_metadata["candidates"], "sources" : Object.keys(results), "kalshi" : election_metadata?.["kalshi"], "kalshi_margin" : election_metadata?.["kalshi_margin"]}
     const fs = require("fs");
     const counties_list = JSON.parse(fs.readFileSync("server\\metadata\\fips\\fips_" + election_id.split('-')[1] + ".json"))
     aggregate_results["results"] = Object.fromEntries(Object.entries(counties_list).concat([["00000", "Total"]]).map(([fips, county]) => ([fips, {
@@ -134,7 +170,7 @@ function aggregate_sources(election_id, election_metadata, results) {
         "max_turnout_margin" : 0
     }])))
     aggregate_results["results"]["00000"]["min_turnout"] = 0
-    for (fips of Object.keys(counties_list)) {
+    for (const fips of Object.keys(counties_list)) {
         if (Object.values(results).map((result) => result[fips] === undefined).every(Boolean)) {
             delete aggregate_results["results"][fips]
             continue
@@ -146,7 +182,7 @@ function aggregate_sources(election_id, election_metadata, results) {
         max_source  = sources.reduce((a, b) => results[a][fips]["turnout"] > results[b][fips]["turnout"] ? a : b)
         aggregate_results["results"][fips]["max_source"] = max_source
         
-        for (candidate of election_metadata["candidates"]) {
+        for (const candidate of election_metadata["candidates"]) {
             aggregate_results["results"][fips][candidate] = results[main_source][fips][candidate]
             aggregate_results["results"]["00000"][candidate] += results[main_source][fips][candidate]
         }
@@ -174,7 +210,7 @@ function aggregate_sources(election_id, election_metadata, results) {
     aggregate_results["results"] = Object.keys(aggregate_results["results"]).toSorted().map((fips) => aggregate_results["results"][fips])
     if (election_metadata["prev"] !== undefined) {
       try {
-        const prev_aggregate_results = JSON.parse(fs.readFileSync("server\\results\\" + election_metadata["prev"] + ".json"))
+        const prev_aggregate_results = JSON.parse(fs.readFileSync("server\\results\\" + election_metadata["prev"].substring(0, 4) + "\\" + election_metadata["prev"] + ".json"))
         for (let i = 0; i < aggregate_results["results"].length; i++) {
             aggregate_results["results"][i]["prev_margin"] = prev_aggregate_results["results"][i]["margin"]
             aggregate_results["results"][i]["prev_total"] = prev_aggregate_results["results"][i]["total"]
@@ -209,7 +245,7 @@ function update_storage(election_id, election_metadata, aggregate_results) {
     const fs = require("fs")
     let prev_aggregate_results = {}
     try {
-        prev_aggregate_results = JSON.parse(fs.readFileSync("server\\results\\" + election_id + ".json"))
+        prev_aggregate_results = JSON.parse(fs.readFileSync("server\\results\\" + election_id.substring(0, 4) + "\\" + election_id + ".json"))
     } catch (error) {
         if (error.code === "ENOENT") {
             prev_aggregate_results = {"results" : Object.fromEntries(Object.keys(aggregate_results["results"]).map((i) => [i, {...Object.fromEntries(election_metadata["candidates"].map((candidate) => ([candidate, 0]))), "total" : 0}]))}
@@ -220,7 +256,7 @@ function update_storage(election_id, election_metadata, aggregate_results) {
     }
     let results_history = {}
     try {
-        results_history = JSON.parse(fs.readFileSync("server\\results\\" + election_id + "-history.json"))
+        results_history = JSON.parse(fs.readFileSync("server\\results\\" + election_id.substring(0, 4) + "\\" + election_id + "-history.json"))
     } catch (error) {
         if (error.code === "ENOENT") {
             results_history = {"margin_history" : [], "diffs" : []}
@@ -235,14 +271,10 @@ function update_storage(election_id, election_metadata, aggregate_results) {
         const new_results_row = {}
 
         for (const candidate of election_metadata["candidates"]) {
-            if (aggregate_results["results"][i][candidate] !== prev_aggregate_results["results"][i][candidate]) {
-                new_results_row[candidate] = aggregate_results["results"][i][candidate] - prev_aggregate_results["results"][i][candidate]
-            }
+            new_results_row[candidate] = aggregate_results["results"][i][candidate] - prev_aggregate_results["results"][i][candidate]
         }
-        if (aggregate_results["results"][i]["total"] !== prev_aggregate_results["results"][i]["total"]) {
-            new_results_row["total"] = aggregate_results["results"][i]["total"] - prev_aggregate_results["results"][i]["total"]
-        }
-        if (Object.keys(new_results_row).length !== 0) {
+        new_results_row["total"] = aggregate_results["results"][i]["total"] - prev_aggregate_results["results"][i]["total"]
+        if (!Object.values(new_results_row).every(item => item === 0) || results_history["margin_history"].length === 0) {
             diffs[String(i)] = new_results_row
         }
     }
@@ -251,9 +283,9 @@ function update_storage(election_id, election_metadata, aggregate_results) {
         send_text(election_metadata["name"])
         results_history["diffs"].push(diffs)
         results_history["margin_history"].push({"time" : current_time, "margin" : aggregate_results["results"][0]["margin"], "total" : aggregate_results["results"][0]["total"]})
-        fs.writeFileSync("server\\results\\" + election_id + "-history.json", JSON.stringify(results_history, null, 4));
+        fs.writeFileSync("server\\results\\" + election_id.substring(0, 4) + "\\" + election_id + "-history.json", JSON.stringify(results_history, null, 4));
     }
-    fs.writeFileSync("server\\results\\" + election_id + ".json", JSON.stringify(aggregate_results, null, 4));
+    fs.writeFileSync("server\\results\\" + election_id.substring(0, 4) + "\\" + election_id + ".json", JSON.stringify(aggregate_results, null, 4));
 }
 
-module.exports = fetch_data
+module.exports = {fetch : fetch_data, text : send_text}

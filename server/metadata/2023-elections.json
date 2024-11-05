@@ -8,7 +8,7 @@
         "notify" : "False",
 		"color" : "light-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2023-11-07/results-kentucky-governor.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2023-11-07/results-kentucky-governor.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2023-GG-KY.json",
             "ddhq" : ["https://data.ddhq.io/24420", {"Beshear" : "11540", "Cameron" : "11868"}]
         },
@@ -23,7 +23,7 @@
         "notify" : "False",
 		"color" : "dark-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2023-11-07/results-mississippi-governor.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2023-11-07/results-mississippi-governor.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2023-GG-MS.json",
             "ddhq" : ["https://data.ddhq.io/24460", {"Presley" : "50273", "Reeves" : "11638"}]
         },

@@ -1,0 +1,47 @@
+{
+    "name": "2024 CA-27 House Election",
+    "candidates": [
+        "Whitesides",
+        "Garcia"
+    ],
+    "sources": [
+        "cnn",
+        "ddhq",
+        "ap"
+    ],
+    "kalshi": "https://kalshi.com/markets/houseca27",
+    "results": [
+        {
+            "county": "Total",
+            "Whitesides": 0,
+            "Garcia": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 285756,
+            "max_turnout": 316346,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -12732,
+            "prev_total": 196516
+        },
+        {
+            "county": "Los Angeles",
+            "Whitesides": 0,
+            "Garcia": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 285756,
+            "max_turnout": 316346,
+            "main_source": "ap",
+            "min_source": "ap",
+            "max_source": "ddhq",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -12732,
+            "prev_total": 196516
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-04T00:43:22.148Z",
+            "margin": 0,
+            "total": 0
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Salas": 0,
+                "Valadao": 0,
+                "total": 0
+            },
+            "1": {
+                "Salas": 0,
+                "Valadao": 0,
+                "total": 0
+            },
+            "2": {
+                "Salas": 0,
+                "Valadao": 0,
+                "total": 0
+            },
+            "3": {
+                "Salas": 0,
+                "Valadao": 0,
+                "total": 0
+            },
+            "time": "2024-11-04T00:43:22.148Z"
+        }
+    ]
+}

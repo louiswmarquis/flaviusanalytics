@@ -1,0 +1,34 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-04T00:50:35.356Z",
+            "margin": 0,
+            "total": 0
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Caraveo": 0,
+                "Evans": 0,
+                "total": 0
+            },
+            "1": {
+                "Caraveo": 0,
+                "Evans": 0,
+                "total": 0
+            },
+            "2": {
+                "Caraveo": 0,
+                "Evans": 0,
+                "total": 0
+            },
+            "3": {
+                "Caraveo": 0,
+                "Evans": 0,
+                "total": 0
+            },
+            "time": "2024-11-04T00:50:35.356Z"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "name": "2024 CA-22 House Election",
+    "candidates": [
+        "Salas",
+        "Valadao"
+    ],
+    "sources": [
+        "cnn",
+        "ddhq",
+        "ap"
+    ],
+    "kalshi": "https://kalshi.com/markets/houseca22",
+    "results": [
+        {
+            "county": "Total",
+            "Salas": 0,
+            "Valadao": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 152050,
+            "max_turnout": 172982,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -3132,
+            "prev_total": 102856
+        },
+        {
+            "county": "Kern",
+            "Salas": 0,
+            "Valadao": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 98398,
+            "max_turnout": 111547,
+            "main_source": "ap",
+            "min_source": "ap",
+            "max_source": "ddhq",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 3404,
+            "prev_total": 64702
+        },
+        {
+            "county": "Kings",
+            "Salas": 0,
+            "Valadao": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 17356,
+            "max_turnout": 19210,
+            "main_source": "ap",
+            "min_source": "ap",
+            "max_source": "ddhq",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -1525,
+            "prev_total": 11865
+        },
+        {
+            "county": "Tulare",
+            "Salas": 0,
+            "Valadao": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 36296,
+            "max_turnout": 42225,
+            "main_source": "ap",
+            "min_source": "ap",
+            "max_source": "ddhq",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -5011,
+            "prev_total": 26289
+        }
+    ]
+}

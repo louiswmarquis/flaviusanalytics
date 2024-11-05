@@ -8,7 +8,7 @@
         "notify" : "False",
 		"color" : "light-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-alaska-us-senate.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-alaska-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-AK.json",
             "ddhq" : ["https://embeds.ddhq.io/api/v2/race/15865/results/county", {"Murkowski" : "1019", "Tshibaka" : "32142"}]
         },
@@ -24,7 +24,7 @@
         "notify" : "False",
 		"color" : "light-d",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-arizona-us-senate.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-arizona-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-AZ.json",
             "ddhq" : ["https://embeds.ddhq.io/api/v2/race/15941/results/county", {"Kelly" : "14737", "Masters" : "26311", "Victor" : "44228"}],
 			"sos" : "https://cdn1.arizona.vote/data/33/0/all_county_races_33_0_en_9733.json"
@@ -41,7 +41,7 @@
         "notify" : "False",
 		"color" : "light-d",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-georgia-us-senate.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-georgia-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-GA.json",
             "ddhq" : ["https://embeds.ddhq.io/api/v2/race/17003/results/county", {"Warnock" : "13483", "Walker" : "21580", "Oliver" : "14810"}]
         },
@@ -57,7 +57,7 @@
         "notify" : "False",
 		"color" : "light-d",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-12-06/results-georgia-us-senate-runoff.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-12-06/results-georgia-us-senate-runoff.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SW-GA.json"
         },
         "graph-percents" : [0, 1, 2, 2.5, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20]
@@ -71,7 +71,7 @@
         "notify" : "False",
 		"color" : "light-d",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-nevada-us-senate.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-nevada-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-NV.json",
             "ddhq" : ["https://embeds.ddhq.io/api/v2/race/19253/results/county", {"Cortez Masto" : "44242", "Laxalt" : "9709"}]
         },
@@ -87,7 +87,7 @@
         "notify" : "False",
 		"color" : "dark-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-north-carolina-us-senate.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-north-carolina-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-NC.json",
             "ddhq" : ["https://embeds.ddhq.io/api/v2/race/19896/results/county", {"Beasley" : "20215", "Budd" : "20252"}]
         },
@@ -103,7 +103,7 @@
         "notify" : "False",
 		"color" : "light-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-pennsylvania-us-senate.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-pennsylvania-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-PA.json",
             "ddhq" : ["https://embeds.ddhq.io/api/v2/race/20494/results/county", {"Fetterman" : "20566", "Oz" : "20591"}]
         },
@@ -119,7 +119,7 @@
         "notify" : "False",
 		"color" : "dark-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-wisconsin-us-senate.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-wisconsin-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-WI.json",
             "ddhq" : ["https://embeds.ddhq.io/api/v2/race/21821/results/county", {"Barnes" : "29124", "Johnson" : "339"}]
         },
@@ -135,7 +135,7 @@
         "notify" : "False",
 		"color" : "dark-d",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-colorado-us-senate.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-colorado-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-CO.json",
             "ddhq" : ["https://embeds.ddhq.io/api/v2/race/16344/results/county", {"Bennet" : "315", "O'Dea" : "24669"}]
         },
@@ -150,7 +150,7 @@
         "notify" : "False",
 		"color" : "dark-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-florida-us-senate.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-florida-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-FL.json",
             "ddhq" : ["https://embeds.ddhq.io/api/v2/race/16744/results/county", {"Demings" : "648", "Rubio" : "4"}]
         },
@@ -165,7 +165,7 @@
         "notify" : "False",
 		"color" : "dark-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-indiana-us-senate.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-indiana-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-IN.json",
             "ddhq" : ["https://embeds.ddhq.io/api/v2/race/17522/results/county", {"McDermott" : "44237", "Young" : "1029"}]
         },
@@ -179,7 +179,7 @@
         "notify" : "False",
 		"color" : "dark-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-iowa-us-senate.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-iowa-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-IA.json",
             "ddhq" : ["https://embeds.ddhq.io/api/v2/race/17667/results/county", {"Franken" : "12863", "Grassley" : "22707"}]
         },
@@ -194,7 +194,7 @@
         "notify" : "False",
 		"color" : "dark-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-ohio-us-senate.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-ohio-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-OH.json",
             "ddhq" : ["https://embeds.ddhq.io/api/v2/race/20108/results/county", {"Ryan" : "1540", "Vance" : "19151"}]
         },
@@ -209,7 +209,7 @@
         "notify" : "False",
 		"color" : "dark-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-utah-us-senate.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-utah-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-UT.json",
             "ddhq" : ["https://embeds.ddhq.io/api/v2/race/21298/results/county", {"McMullin" : "1792", "Lee" : "1042"}]
         },
@@ -224,7 +224,7 @@
         "notify" : "False",
 		"color" : "dark-d",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-washington-us-senate.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-washington-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-WA.json",
             "ddhq" : ["https://embeds.ddhq.io/api/v2/race/21573/results/county", {"Murray" : "1016", "Smiley" : "27752"}]
         },

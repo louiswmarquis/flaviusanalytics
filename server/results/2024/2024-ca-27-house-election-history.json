@@ -1,0 +1,24 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-04T00:43:22.416Z",
+            "margin": 0,
+            "total": 0
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Whitesides": 0,
+                "Garcia": 0,
+                "total": 0
+            },
+            "1": {
+                "Whitesides": 0,
+                "Garcia": 0,
+                "total": 0
+            },
+            "time": "2024-11-04T00:43:22.416Z"
+        }
+    ]
+}

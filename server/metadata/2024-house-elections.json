@@ -1,15 +1,19 @@
 {
     "2024-ak-house-election" : {
-        "name" : "2024 AZ-1 House Election",
+        "name" : "2024 AK House Election",
         "candidates" : ["Peltola", "Begich"],
         "date" : [2024, 11, 5],
 		"time" : 12,
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-alaska-us-house-district-1.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-AZ-1.json"
-        }
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-alaska-us-house-district-1.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-AK-1.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52893",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/AK/20241105AK2015/detail.json",
+                {"70718" : "Peltola", "70724" : "Begich"}]
+        },
+        "kalshi" : "https://kalshi.com/markets/houseakal"
     },
     "2024-az-1-house-election" : {
         "name" : "2024 AZ-1 House Election",
@@ -19,10 +23,14 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-arizona-us-house-district-1.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-AZ-1.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-arizona-us-house-district-1.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-AZ-1.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52894",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/AZ/20241105AZ3004/detail.json",
+                {"101869" : "Shah", "5397" : "Schweikert"}]
         },
-		"prev" : "2022-az-1-house-election"
+		"prev" : "2022-az-1-house-election",
+        "kalshi" : "https://kalshi.com/markets/houseaz1"
     },
     "2024-az-6-house-election" : {
         "name" : "2024 AZ-6 House Election",
@@ -32,10 +40,14 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-arizona-us-house-district-6.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-AZ-6.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-arizona-us-house-district-6.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-AZ-6.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52899",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/AZ/20241105AZ3544/detail.json",
+                {"70975" : "Engel", "70979" : "Ciscomani"}]
         },
-		"prev" : "2022-az-6-house-election"
+		"prev" : "2022-az-6-house-election",
+        "kalshi" : "https://kalshi.com/markets/houseaz6"
     },
     "2024-ca-13-house-election" : {
         "name" : "2024 CA-13 House Election",
@@ -45,10 +57,14 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-california-us-house-district-13.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CA-13.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-california-us-house-district-13.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CA-13.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52919",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/CA/20241105CA5703/detail.json",
+                {"70545" : "Gray", "70543" : "Duarte"}]
         },
-		"prev" : "2022-ca-13-house-election"
+		"prev" : "2022-ca-13-house-election",
+        "kalshi" : "https://kalshi.com/markets/houseca13"
     },
     "2024-ca-22-house-election" : {
         "name" : "2024 CA-22 House Election",
@@ -58,10 +74,14 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-california-us-house-district-22.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CA-22.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-california-us-house-district-22.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CA-22.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52928",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/CA/20241105CA5712/detail.json",
+                {"70573" : "Salas", "62229" : "Valadao"}]
         },
-		"prev" : "2022-ca-22-house-election"
+		"prev" : "2022-ca-22-house-election",
+        "kalshi" : "https://kalshi.com/markets/houseca22"
     },
     "2024-ca-27-house-election" : {
         "name" : "2024 CA-27 House Election",
@@ -71,10 +91,14 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-california-us-house-district-27.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CA-27.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-california-us-house-district-27.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CA-27.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52933",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/CA/20241105CA5717/detail.json",
+                {"161079" : "Whitesides", "68109" : "Garcia"}]
         },
-		"prev" : "2022-ca-27-house-election"
+		"prev" : "2022-ca-27-house-election",
+        "kalshi" : "https://kalshi.com/markets/houseca27"
     },
     "2024-ca-41-house-election" : {
         "name" : "2024 CA-41 House Election",
@@ -84,10 +108,14 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-california-us-house-district-41.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CA-41.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-california-us-house-district-41.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CA-41.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52947",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/CA/20241105CA5731/detail.json",
+                {"70639" : "Rollins", "132" : "Calvert"}]
         },
-		"prev" : "2022-ca-41-house-election"
+		"prev" : "2022-ca-41-house-election",
+        "kalshi" : "https://kalshi.com/markets/houseca41"
     },
     "2024-ca-45-house-election" : {
         "name" : "2024 CA-45 House Election",
@@ -97,23 +125,31 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-california-us-house-district-45.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CA-45.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-california-us-house-district-45.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CA-45.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52951",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/CA/20241105CA5735/detail.json",
+                {"161118" : "Tran", "68079" : "Steel"}]
         },
-		"prev" : "2022-ca-45-house-election"
+		"prev" : "2022-ca-45-house-election",
+        "kalshi" : "https://kalshi.com/markets/houseca45"
     },
     "2024-co-8-house-election" : {
-        "name" : "2024 CO-8th House Election",
+        "name" : "2024 CO-8 House Election",
         "candidates" : ["Caraveo", "Evans"],
         "date" : [2024, 11, 5],
 		"time" : 9,
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-california-us-house-district-45.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CA-45.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-colorado-us-house-district-8.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CO-8.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52966",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/CO/20241105CO7727/detail.json",
+                {"70803" : "Caraveo", "104836" : "Evans"}]
         },
-		"prev" : "2022-co-8-house-election"
+		"prev" : "2022-co-8-house-election",
+        "kalshi" : "https://kalshi.com/markets/houseco8"
     },
     "2024-fl-13-house-election" : {
         "name" : "2024 FL-13 House Election",
@@ -123,9 +159,13 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-florida-us-house-district-13.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-FL-13.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-florida-us-house-district-13.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-FL-13.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52985",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/FL/20241105FL10031/detail.json",
+                {"166318" : "Fox", "69410" : "Luna"}]
         },
+        "importance" : 10,
 		"prev" : "2022-fl-13-house-election"
     },
     "2024-ia-3-house-election" : {
@@ -136,36 +176,48 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-iowa-us-house-district-3.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-IA-3.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-iowa-us-house-district-3.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-IA-3.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53047",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/IA/20241105IA17073/detail.json",
+                {"163750" : "Baccam", "70417" : "Nunn"}]
         },
-		"prev" : "2022-ia-3-house-election"
+		"prev" : "2022-ia-3-house-election",
+        "kalshi" : "https://kalshi.com/markets/houseia3"
     },
     "2024-mi-7-house-election" : {
         "name" : "2024 MI-7 House Election",
-        "candidates" : ["Dailey", "Barrett"],
+        "candidates" : ["Hertel", "Barrett"],
         "date" : [2024, 11, 5],
 		"time" : 8,
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-michigan-us-house-district-7.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-MI-7.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-michigan-us-house-district-7.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-MI-7.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53090",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/MI/20241105MI23811/detail.json",
+                {"24090" : "Hertel", "70830" : "Barrett"}]
         },
-		"prev" : "2022-mi-7-house-election"
+		"prev" : "2022-mi-7-house-election",
+        "kalshi" : "https://kalshi.com/markets/housemi7"
     },
     "2024-mi-8-house-election" : {
         "name" : "2024 MI-8 House Election",
-        "candidates" : ["McDonald", "Junge"],
+        "candidates" : ["McDonald Rivet", "Junge"],
         "date" : [2024, 11, 5],
 		"time" : 8,
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-michigan-us-house-district-8.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-MI-8.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-michigan-us-house-district-8.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-MI-8.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53091",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/MI/20241105MI23812/detail.json",
+                {"129761" : "McDonald Rivet", "69079" : "Junge"}]
         },
-		"prev" : "2022-mi-8-house-election"
+		"prev" : "2022-mi-8-house-election",
+        "kalshi" : "https://kalshi.com/markets/housemi8"
     },
     "2024-ne-2-house-election" : {
         "name" : "2024 NE-2 House Election",
@@ -175,10 +227,14 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-nebraska-us-house-district-2.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NE-2.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-nebraska-us-house-district-2.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NE-2.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53120",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NE/20241105NE28385/detail.json",
+                {"69967" : "Vargas", "64838" : "Bacon"}]
         },
-		"prev" : "2022-ne-2-house-election"
+		"prev" : "2022-ne-2-house-election",
+        "kalshi" : "https://kalshi.com/markets/housene2"
     },
     "2024-ny-4-house-election" : {
         "name" : "2024 NY-4 House Election",
@@ -188,10 +244,13 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-new-york-us-house-district-4.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NY-4.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-new-york-us-house-district-4.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NY-4.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53146",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NY/20241105NY36584/detail.json",
+                {"164121" : "Gillen", "71420" : "D'Esposito"}]
         },
-		"prev" : "2022-ny-4-house-election"
+        "kalshi" : "https://kalshi.com/markets/houseny4"
     },
     "2024-ny-17-house-election" : {
         "name" : "2024 NY-17 House Election",
@@ -201,10 +260,12 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-new-york-us-house-district-17.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NY-17.json"
-        },
-		"prev" : "2022-ny-17-house-election"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-new-york-us-house-district-17.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NY-17.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53159",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NY/20241105NY36597/detail.json",
+                {"69024" : "Jones", "71449" : "Lawler"}]
+        }
     },
     "2024-ny-19-house-election" : {
         "name" : "2024 NY-19 House Election",
@@ -214,10 +275,13 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-new-york-us-house-district-19.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NY-19.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-new-york-us-house-district-19.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NY-19.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53161",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NY/20241105NY36599/detail.json",
+                {"71456" : "Riley", "67747" : "Molinaro"}]
         },
-		"prev" : "2022-ny-19-house-election"
+        "kalshi" : "https://kalshi.com/markets/houseny19"
     },
     "2024-ny-22-house-election" : {
         "name" : "2024 NY-22 House Election",
@@ -227,10 +291,13 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-new-york-us-house-district-22.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NY-22.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-new-york-us-house-district-22.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NY-22.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53164",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NY/20241105NY36602/detail.json",
+                {"158604" : "Mannion", "71464" : "Williams"}]
         },
-		"prev" : "2022-ny-22-house-election"
+        "kalshi" : "https://kalshi.com/markets/houseny22"
     },
     "2024-nc-1-house-election" : {
         "name" : "2024 NC-1 House Election",
@@ -240,10 +307,14 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-north-carolina-us-house-district-1.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NC-1.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-north-carolina-us-house-district-1.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NC-1.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53169",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NC/20241105NC35385/detail.json",
+                {"70238" : "Davis", "160568" : "Buckhout"}]
         },
-		"prev" : "2022-nc-1-house-election"
+		"prev" : "2022-nc-1-house-election",
+        "kalshi" : "https://kalshi.com/markets/housenc1"
     },
     "2024-oh-1-house-election" : {
         "name" : "2024 OH-1 House Election",
@@ -253,8 +324,11 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-ohio-us-house-district-1.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-OH-1.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-ohio-us-house-district-1.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-OH-1.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53184",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/OH/20241105OH36015/detail.json",
+                {"70105" : "Landsman", "142860" : "Sonza"}]
         },
 		"prev" : "2022-oh-1-house-election"
     },
@@ -266,8 +340,11 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-ohio-us-house-district-9.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-OH-9.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-ohio-us-house-district-9.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-OH-9.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53192",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/OH/20241105OH36031/detail.json",
+                {"405" : "Kaptur", "142329" : "Merrin"}]
         },
 		"prev" : "2022-oh-9-house-election"
     },
@@ -279,8 +356,11 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-ohio-us-house-district-13.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-OH-13.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-ohio-us-house-district-13.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-OH-13.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53196",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/OH/20241105OH36039/detail.json",
+                {"70115" : "Sykes", "57268" : "Coughlin"}]
         },
 		"prev" : "2022-oh-13-house-election"
     },
@@ -292,10 +372,14 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-oregon-us-house-district-5.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-OR-5.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-oregon-us-house-district-5.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-OR-5.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53208",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/OR/20241105OR38532/detail.json",
+                {"140239" : "Bynum", "70186" : "Chavez-DeRemer"}]
         },
-		"prev" : "2022-or-5-house-election"
+		"prev" : "2022-or-5-house-election",
+        "kalshi" : "https://kalshi.com/markets/houseor5"
     },
     "2024-pa-7-house-election" : {
         "name" : "2024 PA-7 House Election",
@@ -305,10 +389,14 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-pennsylvania-us-house-district-7.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-PA-7.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-pennsylvania-us-house-district-7.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-PA-7.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53216",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/PA/20241105PA39014/detail.json",
+                {"66430" : "Wild", "145268" : "Mackenzie"}]
         },
-		"prev" : "2022-pa-7-house-election"
+		"prev" : "2022-pa-7-house-election",
+        "kalshi" : "https://kalshi.com/markets/housepa7"
     },
     "2024-pa-8-house-election" : {
         "name" : "2024 PA-8 House Election",
@@ -318,10 +406,14 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-pennsylvania-us-house-district-8.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-PA-8.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-pennsylvania-us-house-district-8.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-PA-8.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53217",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/PA/20241105PA39015/detail.json",
+                {"61612" : "Cartwright", "161765" : "Bresnahan"}]
         },
-		"prev" : "2022-pa-8-house-election"
+		"prev" : "2022-pa-8-house-election",
+        "kalshi" : "https://kalshi.com/markets/housepa8"
     },
     "2024-pa-10-house-election" : {
         "name" : "2024 PA-10 House Election",
@@ -331,10 +423,14 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-pennsylvania-us-house-district-10.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-PA-10.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-pennsylvania-us-house-district-10.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-PA-10.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53219",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/PA/20241105PA39017/detail.json",
+                {"161767" : "Stelson", "61618" : "Perry"}]
         },
-		"prev" : "2022-pa-10-house-election"
+		"prev" : "2022-pa-10-house-election",
+        "kalshi" : "https://kalshi.com/markets/housepa10"
     },
     "2024-va-7-house-election" : {
         "name" : "2024 VA-7 House Election",
@@ -344,10 +440,14 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-virginia-us-house-district-7.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-VA-7.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-virginia-us-house-district-7.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-VA-7.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53295",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/VA/20241105VA47013/detail.json",
+                {"163798" : "Vindman", "70905" : "Anderson"}]
         },
-		"prev" : "2022-va-7-house-election"
+		"prev" : "2022-va-7-house-election",
+        "kalshi" : "https://kalshi.com/markets/houseva7"
     },
     "2024-wa-3-house-election" : {
         "name" : "2024 WA-3 House Election",
@@ -357,9 +457,13 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-washington-us-house-district-3.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-WA-3.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-washington-us-house-district-3.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-WA-3.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/53302",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/WA/20241105WA48009/detail.json",
+                {"71012" : "Gluesenkamp Perez", "71013" : "Kent"}]
         },
-		"prev" : "2022-wa-3-house-election"
+		"prev" : "2022-wa-3-house-election",
+        "kalshi" : "https://kalshi.com/markets/housewa3"
     }
 }

@@ -1,0 +1,43 @@
+{
+    "name": "2024 NY-4 House Election",
+    "candidates": [
+        "Gillen",
+        "D'Esposito"
+    ],
+    "sources": [
+        "cnn",
+        "ddhq",
+        "ap"
+    ],
+    "kalshi": "https://kalshi.com/markets/houseny4",
+    "results": [
+        {
+            "county": "Total",
+            "Gillen": 0,
+            "D'Esposito": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 357999,
+            "max_turnout": 366874,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0
+        },
+        {
+            "county": "Nassau",
+            "Gillen": 0,
+            "D'Esposito": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 357999,
+            "max_turnout": 366874,
+            "main_source": "ap",
+            "min_source": "ap",
+            "max_source": "ddhq",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0
+        }
+    ]
+}

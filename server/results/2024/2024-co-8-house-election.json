@@ -1,0 +1,79 @@
+{
+    "name": "2024 CO-8 House Election",
+    "candidates": [
+        "Caraveo",
+        "Evans"
+    ],
+    "sources": [
+        "cnn",
+        "ddhq",
+        "ap"
+    ],
+    "kalshi": "https://kalshi.com/markets/houseco8",
+    "results": [
+        {
+            "county": "Total",
+            "Caraveo": 0,
+            "Evans": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 312889,
+            "max_turnout": 353499,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 1632,
+            "prev_total": 236501
+        },
+        {
+            "county": "Adams",
+            "Caraveo": 0,
+            "Evans": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 191938,
+            "max_turnout": 219565,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 20257,
+            "prev_total": 141714
+        },
+        {
+            "county": "Larimer",
+            "Caraveo": 0,
+            "Evans": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 11506,
+            "max_turnout": 12993,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -986,
+            "prev_total": 9630
+        },
+        {
+            "county": "Weld",
+            "Caraveo": 0,
+            "Evans": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 109445,
+            "max_turnout": 120941,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -17639,
+            "prev_total": 85157
+        }
+    ]
+}

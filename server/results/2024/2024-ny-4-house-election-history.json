@@ -1,0 +1,24 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-04T01:02:26.429Z",
+            "margin": 0,
+            "total": 0
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Gillen": 0,
+                "D'Esposito": 0,
+                "total": 0
+            },
+            "1": {
+                "Gillen": 0,
+                "D'Esposito": 0,
+                "total": 0
+            },
+            "time": "2024-11-04T01:02:26.429Z"
+        }
+    ]
+}

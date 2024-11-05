@@ -8,8 +8,10 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-arizona-president.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-AZ.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-arizona-president.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-AZ.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52795",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/AZ/20241105AZ0/detail.json", {"64984" : "Harris", "8639" : "Trump"}]
         },
 		"prev" : "2020-az-pres-election",
 		"kalshi" : "https://kalshi.com/markets/prespartyaz",
@@ -24,8 +26,10 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-georgia-president.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-GA.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-georgia-president.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-GA.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52803",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/GA/20241105GA0/detail.json", {"64984" : "Harris", "8639" : "Trump"}]
         },
 		"prev" : "2020-ga-pres-election",
 		"kalshi" : "https://kalshi.com/markets/prespartyga",
@@ -40,8 +44,10 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-michigan-president.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-MI.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-michigan-president.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-MI.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52815",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/MI/20241105MI0/detail.json", {"64984" : "Harris", "8639" : "Trump"}]
         },
 		"prev" : "2020-mi-pres-election",
 		"kalshi" : "https://kalshi.com/markets/prespartymi",
@@ -56,8 +62,10 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-nevada-president.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-NV.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-nevada-president.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-NV.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52821",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NV/20241105NV0/detail.json", {"64984" : "Harris", "8639" : "Trump"}]
         },
 		"prev" : "2020-nv-pres-election",
 		"kalshi" : "https://kalshi.com/markets/prespartynv",
@@ -72,8 +80,10 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-north-carolina-president.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-NC.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-north-carolina-president.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-NC.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52826",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NC/20241105NC0/detail.json", {"64984" : "Harris", "8639" : "Trump"}]
         },
 		"prev" : "2020-nc-pres-election",
 		"kalshi" : "https://kalshi.com/markets/prespartync",
@@ -88,8 +98,10 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-pennsylvania-president.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-PA.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-pennsylvania-president.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-PA.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52831",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/PA/20241105PA0/detail.json", {"64984" : "Harris", "8639" : "Trump"}]
         },
 		"prev" : "2020-pa-pres-election",
 		"kalshi" : "https://kalshi.com/markets/prespartypa",
@@ -104,8 +116,10 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-wisconsin-president.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-WI.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-wisconsin-president.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-WI.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52842",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/WI/20241105WI0/detail.json", {"64984" : "Harris", "8639" : "Trump"}]
         },
 		"prev" : "2020-wi-pres-election",
 		"kalshi" : "https://kalshi.com/markets/prespartywi",
@@ -120,8 +134,10 @@
         "notify" : "False",
 		"color" : "dark-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-florida-president.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-FL.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-florida-president.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-FL.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52802",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/FL/20241105FL0/detail.json", {"64984" : "Harris", "8639" : "Trump"}]
         },
 		"prev" : "2020-fl-pres-election",
 		"kalshi" : "https://kalshi.com/markets/prespartyfl",
@@ -136,9 +152,12 @@
         "notify" : "False",
 		"color" : "dark-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-texas-president.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-TX.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-texas-president.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-TX.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52836",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/TX/20241105TX0/detail.json", {"64984" : "Harris", "8639" : "Trump"}]
         },
+        "importance" : 10,
 		"prev" : "2020-tx-pres-election",
 		"kalshi" : "https://kalshi.com/markets/prespartytx",
 		"kalshi_margin" : "https://kalshi.com/markets/popvotedjttx"
@@ -152,9 +171,12 @@
         "notify" : "False",
 		"color" : "dark-d",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-virginia-president.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-VA.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-virginia-president.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-VA.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52839",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/VA/20241105VA0/detail.json", {"64984" : "Harris", "8639" : "Trump"}]
         },
+        "importance" : 10,
 		"prev" : "2020-va-pres-election",
 		"kalshi" : "https://kalshi.com/markets/prespartyva",
 		"kalshi_margin" : "https://kalshi.com/markets/popvotekhva"
@@ -168,9 +190,12 @@
         "notify" : "False",
 		"color" : "dark-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-alaska-president.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-AK.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-alaska-president.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-AK.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52794",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/AK/20241105AK0/detail.json", {"64984" : "Harris", "8639" : "Trump"}]
         },
+        "importance" : 10,
 		"prev" : "2020-ak-pres-election",
 		"kalshi" : "https://kalshi.com/markets/prespartyva",
 		"kalshi_margin" : "https://kalshi.com/markets/popvotedjtak"
@@ -184,8 +209,10 @@
         "notify" : "False",
 		"color" : "dark-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-ohio-president.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-OH.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-ohio-president.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-OH.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52828",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/OH/20241105OH0/detail.json", {"64984" : "Harris", "8639" : "Trump"}]
         },
 		"prev" : "2020-oh-pres-election",
 		"kalshi" : "https://kalshi.com/markets/prespartyoh",
@@ -200,8 +227,10 @@
         "notify" : "False",
 		"color" : "dark-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-indiana-president.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-IN.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-indiana-president.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-IN.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52807",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/IN/20241105IN0/detail.json", {"64984" : "Harris", "8639" : "Trump"}]
         },
 		"prev" : "2020-in-pres-election"
     },
@@ -214,8 +243,10 @@
         "notify" : "False",
 		"color" : "dark-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-kentucky-president.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-KY.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-kentucky-president.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-KY.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52810",
+            "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/KY/20241105KY0/detail.json", {"64984" : "Harris", "8639" : "Trump"}]
         },
 		"prev" : "2020-ky-pres-election"
     }

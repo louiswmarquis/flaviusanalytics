@@ -39,16 +39,9 @@ function Navigator() {
           </a>
         </li>
         <li>
-          <a href="/2022-house" style={{textDecoration:"none", display:"flex"}}>
+          <a href="/2022-senate" style={{textDecoration:"none", display:"flex"}}>
             <div style={{color: "black", fontWeight: "bold"}}>
-              <p>2024 House Elections</p>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a href="/past-elections" style={{textDecoration:"none", display:"flex"}}>
-            <div style={{color: "black", fontWeight: "bold"}}>
-              <p>Past Elections</p>
+              <p>2022 Senate Map (Past)</p>
             </div>
           </a>
         </li>
@@ -74,6 +67,8 @@ class App extends React.Component {
           <Route path="/2022-senate" element={<Map year="2022" type="sen"/>}/>
           <Route path="/results/:election_id" element={<Results/>}/>
         </Routes>
+        <p>Built by Louis Marquis (MIT 2025) in the last two weeks before Election 2024.</p>
+        <p>Contact: flavius (at) mit (dot) edu</p>
       </Router>
 
     );

@@ -1,0 +1,99 @@
+{
+    "name": "2024 NY-22 House Election",
+    "candidates": [
+        "Mannion",
+        "Williams"
+    ],
+    "sources": [
+        "cnn",
+        "ddhq",
+        "ap"
+    ],
+    "kalshi": "https://kalshi.com/markets/houseny22",
+    "results": [
+        {
+            "county": "Total",
+            "Mannion": 0,
+            "Williams": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 341246,
+            "max_turnout": 368901,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0
+        },
+        {
+            "county": "Cayuga",
+            "Mannion": 0,
+            "Williams": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 23099,
+            "max_turnout": 24856,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0
+        },
+        {
+            "county": "Cortland",
+            "Mannion": 0,
+            "Williams": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 14756,
+            "max_turnout": 14768,
+            "main_source": "ap",
+            "min_source": "ap",
+            "max_source": "ddhq",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0
+        },
+        {
+            "county": "Madison",
+            "Mannion": 0,
+            "Williams": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 31435,
+            "max_turnout": 32866,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0
+        },
+        {
+            "county": "Oneida",
+            "Mannion": 0,
+            "Williams": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 54830,
+            "max_turnout": 62831,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0
+        },
+        {
+            "county": "Onondaga",
+            "Mannion": 0,
+            "Williams": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 217126,
+            "max_turnout": 233580,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0
+        }
+    ]
+}

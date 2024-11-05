@@ -1,0 +1,39 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-04T01:02:26.656Z",
+            "margin": 0,
+            "total": 0
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Jones": 0,
+                "Lawler": 0,
+                "total": 0
+            },
+            "1": {
+                "Jones": 0,
+                "Lawler": 0,
+                "total": 0
+            },
+            "2": {
+                "Jones": 0,
+                "Lawler": 0,
+                "total": 0
+            },
+            "3": {
+                "Jones": 0,
+                "Lawler": 0,
+                "total": 0
+            },
+            "4": {
+                "Jones": 0,
+                "Lawler": 0,
+                "total": 0
+            },
+            "time": "2024-11-04T01:02:26.656Z"
+        }
+    ]
+}

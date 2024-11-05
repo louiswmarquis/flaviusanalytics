@@ -1,0 +1,47 @@
+{
+    "name": "2024 CA-41 House Election",
+    "candidates": [
+        "Rollins",
+        "Calvert"
+    ],
+    "sources": [
+        "cnn",
+        "ddhq",
+        "ap"
+    ],
+    "kalshi": "https://kalshi.com/markets/houseca41",
+    "results": [
+        {
+            "county": "Total",
+            "Rollins": 0,
+            "Calvert": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 272392,
+            "max_turnout": 350819,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -11100,
+            "prev_total": 236638
+        },
+        {
+            "county": "Riverside",
+            "Rollins": 0,
+            "Calvert": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 272392,
+            "max_turnout": 350819,
+            "main_source": "ap",
+            "min_source": "ap",
+            "max_source": "ddhq",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -11100,
+            "prev_total": 236638
+        }
+    ]
+}

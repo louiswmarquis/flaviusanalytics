@@ -1,0 +1,79 @@
+{
+    "name": "2024 PA-10 House Election",
+    "candidates": [
+        "Stelson",
+        "Perry"
+    ],
+    "sources": [
+        "cnn",
+        "ddhq",
+        "ap"
+    ],
+    "kalshi": "https://kalshi.com/markets/housepa10",
+    "results": [
+        {
+            "county": "Total",
+            "Stelson": 0,
+            "Perry": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 368829,
+            "max_turnout": 403934,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -24116,
+            "prev_total": 314546
+        },
+        {
+            "county": "Cumberland",
+            "Stelson": 0,
+            "Perry": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 121950,
+            "max_turnout": 127152,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -10102,
+            "prev_total": 107310
+        },
+        {
+            "county": "Dauphin",
+            "Stelson": 0,
+            "Perry": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 134416,
+            "max_turnout": 152286,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 3779,
+            "prev_total": 114059
+        },
+        {
+            "county": "York",
+            "Stelson": 0,
+            "Perry": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 112463,
+            "max_turnout": 124496,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -17793,
+            "prev_total": 93177
+        }
+    ]
+}

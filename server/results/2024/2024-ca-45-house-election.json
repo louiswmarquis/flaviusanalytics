@@ -1,0 +1,63 @@
+{
+    "name": "2024 CA-45 House Election",
+    "candidates": [
+        "Tran",
+        "Steel"
+    ],
+    "sources": [
+        "cnn",
+        "ddhq",
+        "ap"
+    ],
+    "kalshi": "https://kalshi.com/markets/houseca45",
+    "results": [
+        {
+            "county": "Total",
+            "Tran": 0,
+            "Steel": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 296018,
+            "max_turnout": 330746,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -10494,
+            "prev_total": 217426
+        },
+        {
+            "county": "Los Angeles",
+            "Tran": 0,
+            "Steel": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 33800,
+            "max_turnout": 37416,
+            "main_source": "ap",
+            "min_source": "ap",
+            "max_source": "ddhq",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 3523,
+            "prev_total": 22719
+        },
+        {
+            "county": "Orange",
+            "Tran": 0,
+            "Steel": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 262218,
+            "max_turnout": 293330,
+            "main_source": "ap",
+            "min_source": "ap",
+            "max_source": "ddhq",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -14017,
+            "prev_total": 194707
+        }
+    ]
+}

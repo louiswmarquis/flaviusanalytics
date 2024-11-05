@@ -8,10 +8,14 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-arizona-us-senate.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-AZ.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-arizona-us-senate.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-AZ.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52844",
+			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/AZ/20241105AZ4021/detail.json",
+				{"64361" : "Gallego", "70992" : "Lake"}]
         },
-		"prev" : "2018-az-sen-election"
+		"prev" : "2024-az-pres-election",
+		"kalshi" : "https://kalshi.com/markets/senateaz"
     },
     "2024-mi-sen-election" : {
         "name" : "2024 Michigan Senate Election",
@@ -22,10 +26,14 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-michigan-us-senate.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-MI.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-michigan-us-senate.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-MI.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52855",
+			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/MI/20241105MI24453/detail.json",
+				{"67164" : "Slotkin", "1169" : "Rogers"}]
         },
-		"prev" : "2018-mi-sen-election"
+		"prev" : "2024-mi-pres-election",
+		"kalshi" : "https://kalshi.com/markets/senatemi"
     },
     "2024-mt-sen-election" : {
         "name" : "2024 Montana Senate Election",
@@ -36,10 +44,14 @@
         "notify" : "False",
 		"color" : "light-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-montana-us-senate.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-MT.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-montana-us-senate.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-MT.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52860",
+			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/MT/20241105MT28089/detail.json",
+				{"55866" : "Tester", "163465" : "Sheehy"}]
         },
-		"prev" : "2018-mt-sen-election"
+		"prev" : "2024-mt-pres-election",
+		"kalshi" : "https://kalshi.com/markets/senatemt"
     },
     "2024-nv-sen-election" : {
         "name" : "2024 Nevada Senate Election",
@@ -50,10 +62,14 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-nevada-us-senate.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-NV.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-nevada-us-senate.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-NV.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52864",
+			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NV/20241105NV29866/detail.json",
+				{"65163" : "Rosen", "70756" : "Brown"}]
         },
-		"prev" : "2018-nv-sen-election"
+		"prev" : "2024-nv-pres-election",
+		"kalshi" : "https://kalshi.com/markets/senatenv"
     },
     "2024-nc-gov-election" : {
         "name" : "2024 North Carolina Governor Election",
@@ -63,10 +79,15 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-north-carolina-governor.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-GG-NC.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-north-carolina-governor.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-GG-NC.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52868",
+			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NC/20241105NC35392/detail.json",
+				{"134769" : "Stein", "136491" : "Robinson"}]
         },
-		"prev" : "2018-nc-sen-election"
+        "importance" : 5,
+		"prev" : "2024-nc-pres-election",
+		"kalshi" : "https://kalshi.com/markets/senatenc"
     },
     "2024-oh-sen-election" : {
         "name" : "2024 Ohio Senate Election",
@@ -77,10 +98,14 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-ohio-us-senate.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-OH.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-ohio-us-senate.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-OH.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52871",
+			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/OH/20241105OH37213/detail.json",
+				{"1384" : "Brown", "161550" : "Moreno"}]
         },
-		"prev" : "2018-oh-sen-election"
+		"prev" : "2024-oh-pres-election",
+		"kalshi" : "https://kalshi.com/markets/senateoh"
     },
     "2024-pa-sen-election" : {
         "name" : "2024 Pennsylvania Senate Election",
@@ -91,10 +116,14 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-pennsylvania-us-senate.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-PA.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-pennsylvania-us-senate.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-PA.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52872",
+			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/PA/20241105PA40100/detail.json",
+				{"39527" : "Casey", "70075" : "McCormick"}]
         },
-		"prev" : "2018-pa-sen-election"
+		"prev" : "2024-pa-pres-election",
+		"kalshi" : "https://kalshi.com/markets/senatepa"
     },
     "2024-wi-sen-election" : {
         "name" : "2024 Wisconsin Senate Election",
@@ -105,10 +134,14 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-wisconsin-us-senate.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-WI.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-wisconsin-us-senate.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-WI.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52884",
+			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/WI/20241105WI50807/detail.json",
+				{"1092" : "Baldwin", "62528" : "Hovde"}]
         },
-		"prev" : "2018-wi-sen-election"
+		"prev" : "2024-wi-pres-election",
+		"kalshi" : "https://kalshi.com/markets/senatewi"
     },
     "2024-fl-sen-election" : {
         "name" : "2024 Florida Senate Election",
@@ -119,10 +152,15 @@
         "notify" : "False",
 		"color" : "light-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-florida-us-senate.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-florida-us-senate.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52848",
+			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/FL/20241105FL10005/detail.json",
+				{"67658" : "Mucarsel-Powell", "61149" : "Scott"}]
         },
-		"prev" : "2018-fl-sen-election"
+        "importance" : 5,
+		"prev" : "2024-fl-pres-election",
+		"kalshi" : "https://kalshi.com/markets/senatefl"
     },
     "2024-ne-sen-election" : {
         "name" : "2024 Nebraska Senate Election",
@@ -133,10 +171,15 @@
         "notify" : "False",
 		"color" : "light-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-nebraska-us-senate.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-NE.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-nebraska-us-senate.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-NE.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52862",
+			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NE/20241105NE28944/detail.json",
+				{"168007" : "Osborn", "61800" : "Fischer"}]
         },
-		"prev" : "2018-ne-sen-election"
+        "importance" : 5,
+		"prev" : "2024-ne-pres-election",
+		"kalshi" : "https://kalshi.com/markets/senatene"
     },
     "2024-tx-sen-election" : {
         "name" : "2024 Texas Senate Election",
@@ -147,10 +190,15 @@
         "notify" : "False",
 		"color" : "light-r",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-texas-us-senate.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-TX.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-texas-us-senate.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-TX.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52875",
+			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/TX/20241105TX45870/detail.json",
+				{"65997" : "Allred", "61815" : "Cruz"}]
         },
-		"prev" : "2018-tx-sen-election"
+        "importance" : 5,
+		"prev" : "2024-tx-pres-election",
+		"kalshi" : "https://kalshi.com/markets/senatetx"
     },
     "2024-md-sen-election" : {
         "name" : "2024 Maryland Senate Election",
@@ -161,10 +209,15 @@
         "notify" : "False",
 		"color" : "light-d",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-maryland-us-senate.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-MD.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-maryland-us-senate.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-MD.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52853",
+			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/MD/20241105MD22452/detail.json",
+				{"122357" : "Alsobrooks", "63859" : "Hogan"}]
         },
-		"prev" : "2018-md-sen-election"
+        "importance" : 10,
+		"prev" : "2024-md-pres-election",
+		"kalshi" : "https://kalshi.com/markets/senatemd"
     },
     "2024-va-sen-election" : {
         "name" : "2024 Virginia Senate Election",
@@ -175,9 +228,14 @@
         "notify" : "False",
 		"color" : "dark-d",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-virginia-us-senate.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-VA.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-virginia-us-senate.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-VA.json",
+            "ddhq" : "https://embed-api.ddhq.io/v2/races/52880",
+			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/VA/20241105VA47806/detail.json",
+				{"51423" : "Kaine", "71716" : "Cao"}]
         },
-		"prev" : "2018-va-sen-election"
+        "importance" : 10,
+		"prev" : "2020-va-pres-election",
+		"kalshi" : "https://kalshi.com/markets/senateva"
     }
 }

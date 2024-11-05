@@ -1,0 +1,111 @@
+{
+    "name": "2024 MI-8 House Election",
+    "candidates": [
+        "McDonald Rivet",
+        "Junge"
+    ],
+    "sources": [
+        "cnn",
+        "ddhq",
+        "ap"
+    ],
+    "kalshi": "https://kalshi.com/markets/housemi8",
+    "results": [
+        {
+            "county": "Total",
+            "McDonald Rivet": 0,
+            "Junge": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 390764,
+            "max_turnout": 505579,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 34472,
+            "prev_total": 335829
+        },
+        {
+            "county": "Bay",
+            "McDonald Rivet": 0,
+            "Junge": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 55533,
+            "max_turnout": 68896,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 1076,
+            "prev_total": 48686
+        },
+        {
+            "county": "Genesee",
+            "McDonald Rivet": 0,
+            "Junge": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 201322,
+            "max_turnout": 258514,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 30136,
+            "prev_total": 169602
+        },
+        {
+            "county": "Midland",
+            "McDonald Rivet": 0,
+            "Junge": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 39952,
+            "max_turnout": 53955,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -1684,
+            "prev_total": 36395
+        },
+        {
+            "county": "Saginaw",
+            "McDonald Rivet": 0,
+            "Junge": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 93264,
+            "max_turnout": 123345,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 5039,
+            "prev_total": 80578
+        },
+        {
+            "county": "Tuscola",
+            "McDonald Rivet": 0,
+            "Junge": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 693,
+            "max_turnout": 869,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -95,
+            "prev_total": 568
+        }
+    ]
+}

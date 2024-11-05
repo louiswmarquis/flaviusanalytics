@@ -34,7 +34,7 @@ td {
   padding: 0;
 }
 td.summary-cell-pres {
-  width: 250px;
+  width: 260px;
   text-align: left;
   border: 3.2px solid #000000;
   padding: 10px;
@@ -42,7 +42,7 @@ td.summary-cell-pres {
   margin: 1px;
 }
 td.summary-cell-sen {
-  width: 250px;
+  width: 260px;
   text-align: left;
   border: 2.4px dashed #000000;
   padding: 10px;
@@ -50,7 +50,7 @@ td.summary-cell-sen {
   margin: 2px;
 }
 td.summary-cell-house {
-  width: 250px;
+  width: 260px;
   text-align: left;
   border: 1.6px dotted #000000;
   padding: 10px;
@@ -64,6 +64,10 @@ td.nyt {
 td.cnn {
   color: black;
   border: 2px solid red;
+}
+td.ap {
+  color: black;
+  border: 2px dashed red;
 }
 td.ddhq {
   color: black;
@@ -157,7 +161,6 @@ display: block;
 .graphics {
   height: auto;
   max-width: 1920px;
-  padding: 20px;
 }
 .graph {
   border: 1px solid black;

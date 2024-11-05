@@ -1,0 +1,69 @@
+{
+    "name": "2022 CO-8th House Election",
+    "candidates": [
+        "Caraveo",
+        "Kirkmeyer"
+    ],
+    "sources": [
+        "nyt",
+        "cnn"
+    ],
+    "results": [
+        {
+            "county": "Total",
+            "Caraveo": 114377,
+            "Kirkmeyer": 112745,
+            "total": 236501,
+            "margin": 1632,
+            "min_turnout": 236402,
+            "max_turnout": 236501,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 1630,
+            "max_turnout_margin": 1632
+        },
+        {
+            "county": "Adams",
+            "Caraveo": 78113,
+            "Kirkmeyer": 57856,
+            "total": 141714,
+            "margin": 20257,
+            "min_turnout": 141653,
+            "max_turnout": 141714,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": 20248,
+            "max_turnout_margin": 20257
+        },
+        {
+            "county": "Larimer",
+            "Caraveo": 4154,
+            "Kirkmeyer": 5140,
+            "total": 9630,
+            "margin": -986,
+            "min_turnout": 9623,
+            "max_turnout": 9630,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": -985,
+            "max_turnout_margin": -986
+        },
+        {
+            "county": "Weld",
+            "Caraveo": 32110,
+            "Kirkmeyer": 49749,
+            "total": 85157,
+            "margin": -17639,
+            "min_turnout": 85126,
+            "max_turnout": 85157,
+            "main_source": "cnn",
+            "min_source": "nyt",
+            "max_source": "cnn",
+            "min_turnout_margin": -17633,
+            "max_turnout_margin": -17639
+        }
+    ]
+}

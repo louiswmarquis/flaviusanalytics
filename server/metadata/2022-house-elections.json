@@ -7,7 +7,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-arizona-us-house-district-1.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-arizona-us-house-district-1.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-AZ-1.json"
         }
     },
@@ -19,7 +19,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-arizona-us-house-district-6.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-arizona-us-house-district-6.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-AZ-6.json"
         }
     },
@@ -31,7 +31,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-13.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-13.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-13.json"
         }
     },
@@ -43,7 +43,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-22.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-22.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-22.json"
         }
     },
@@ -55,7 +55,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-27.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-27.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-27.json"
         }
     },
@@ -67,7 +67,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-41.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-41.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-41.json"
         }
     },
@@ -79,7 +79,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-45.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-45.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-45.json"
         }
     },
@@ -91,8 +91,8 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-45.json", 0],
-            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-45.json"
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-colorado-us-house-district-8.json",
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CO-8.json"
         }
     },
     "2022-fl-13-house-election" : {
@@ -103,7 +103,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-florida-us-house-district-13.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-florida-us-house-district-13.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-FL-13.json"
         }
     },
@@ -115,7 +115,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-iowa-us-house-district-3.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-iowa-us-house-district-3.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-IA-3.json"
         }
     },
@@ -127,7 +127,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-michigan-us-house-district-7.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-michigan-us-house-district-7.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-MI-7.json"
         }
     },
@@ -139,7 +139,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-michigan-us-house-district-8.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-michigan-us-house-district-8.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-MI-8.json"
         }
     },
@@ -151,7 +151,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-nebraska-us-house-district-2.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-nebraska-us-house-district-2.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-NE-2.json"
         }
     },
@@ -163,7 +163,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-york-us-house-district-4.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-york-us-house-district-4.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-NY-4.json"
         }
     },
@@ -175,7 +175,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-york-us-house-district-17.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-york-us-house-district-17.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-NY-17.json"
         }
     },
@@ -187,7 +187,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-york-us-house-district-19.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-york-us-house-district-19.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-NY-19.json"
         }
     },
@@ -199,7 +199,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-york-us-house-district-22.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-york-us-house-district-22.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-NY-22.json"
         }
     },
@@ -211,7 +211,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-ohio-us-house-district-1.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-ohio-us-house-district-1.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-OH-1.json"
         }
     },
@@ -223,7 +223,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-ohio-us-house-district-9.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-ohio-us-house-district-9.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-OH-9.json"
         }
     },
@@ -235,7 +235,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-ohio-us-house-district-13.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-ohio-us-house-district-13.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-OH-13.json"
         }
     },
@@ -247,7 +247,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-oregon-us-house-district-5.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-oregon-us-house-district-5.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-OR-5.json"
         }
     },
@@ -259,7 +259,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-pennsylvania-us-house-district-7.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-pennsylvania-us-house-district-7.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-PA-7.json"
         }
     },
@@ -271,7 +271,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-pennsylvania-us-house-district-8.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-pennsylvania-us-house-district-8.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-PA-8.json"
         }
     },
@@ -283,7 +283,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-pennsylvania-us-house-district-10.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-pennsylvania-us-house-district-10.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-PA-10.json"
         }
     },
@@ -295,7 +295,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-virginia-us-house-district-7.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-virginia-us-house-district-7.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-VA-7.json"
         }
     },
@@ -307,7 +307,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-washington-us-house-district-3.json", 0],
+			"nyt" : "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-washington-us-house-district-3.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-WA-3.json"
         }
     }

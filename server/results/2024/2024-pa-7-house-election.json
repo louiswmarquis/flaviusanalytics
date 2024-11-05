@@ -1,0 +1,95 @@
+{
+    "name": "2024 PA-7 House Election",
+    "candidates": [
+        "Wild",
+        "Mackenzie"
+    ],
+    "sources": [
+        "cnn",
+        "ddhq",
+        "ap"
+    ],
+    "kalshi": "https://kalshi.com/markets/housepa7",
+    "results": [
+        {
+            "county": "Total",
+            "Wild": 0,
+            "Mackenzie": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 364205,
+            "max_turnout": 389934,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 5837,
+            "prev_total": 296891
+        },
+        {
+            "county": "Carbon",
+            "Wild": 0,
+            "Mackenzie": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 31447,
+            "max_turnout": 32626,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -7655,
+            "prev_total": 26033
+        },
+        {
+            "county": "Lehigh",
+            "Wild": 0,
+            "Mackenzie": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 169316,
+            "max_turnout": 187736,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 11413,
+            "prev_total": 136099
+        },
+        {
+            "county": "Monroe",
+            "Wild": 0,
+            "Mackenzie": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 6497,
+            "max_turnout": 7273,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -1778,
+            "prev_total": 5302
+        },
+        {
+            "county": "Northampton",
+            "Wild": 0,
+            "Mackenzie": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 156945,
+            "max_turnout": 162299,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 3857,
+            "prev_total": 129457
+        }
+    ]
+}

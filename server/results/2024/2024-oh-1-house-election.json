@@ -1,0 +1,62 @@
+{
+    "name": "2024 OH-1 House Election",
+    "candidates": [
+        "Landsman",
+        "Sonza"
+    ],
+    "sources": [
+        "cnn",
+        "ddhq",
+        "ap"
+    ],
+    "results": [
+        {
+            "county": "Total",
+            "Landsman": 0,
+            "Sonza": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 377888,
+            "max_turnout": 425621,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 16358,
+            "prev_total": 296474
+        },
+        {
+            "county": "Hamilton",
+            "Landsman": 0,
+            "Sonza": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 249209,
+            "max_turnout": 284011,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 48843,
+            "prev_total": 195239
+        },
+        {
+            "county": "Warren",
+            "Landsman": 0,
+            "Sonza": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 128679,
+            "max_turnout": 141610,
+            "main_source": "ap",
+            "min_source": "ddhq",
+            "max_source": "ap",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -32485,
+            "prev_total": 101235
+        }
+    ]
+}

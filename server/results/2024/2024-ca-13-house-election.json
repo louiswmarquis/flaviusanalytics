@@ -1,0 +1,111 @@
+{
+    "name": "2024 CA-13 House Election",
+    "candidates": [
+        "Gray",
+        "Duarte"
+    ],
+    "sources": [
+        "cnn",
+        "ddhq",
+        "ap"
+    ],
+    "kalshi": "https://kalshi.com/markets/houseca13",
+    "results": [
+        {
+            "county": "Total",
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 183264,
+            "max_turnout": 212167,
+            "main_source": "nyt",
+            "min_source": "nyt",
+            "max_source": "nyt",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -564,
+            "prev_total": 133556
+        },
+        {
+            "county": "Fresno",
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 18414,
+            "max_turnout": 21163,
+            "main_source": "ap",
+            "min_source": "ap",
+            "max_source": "ddhq",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -1326,
+            "prev_total": 13504
+        },
+        {
+            "county": "Madera",
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 30061,
+            "max_turnout": 33269,
+            "main_source": "ap",
+            "min_source": "ap",
+            "max_source": "ddhq",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": -3631,
+            "prev_total": 21653
+        },
+        {
+            "county": "Merced",
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 69839,
+            "max_turnout": 83259,
+            "main_source": "ap",
+            "min_source": "ap",
+            "max_source": "ddhq",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 2469,
+            "prev_total": 54685
+        },
+        {
+            "county": "San Joaquin",
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 12717,
+            "max_turnout": 14851,
+            "main_source": "ap",
+            "min_source": "ap",
+            "max_source": "ddhq",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 505,
+            "prev_total": 8689
+        },
+        {
+            "county": "Stanislaus",
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "margin": 0,
+            "min_turnout": 52233,
+            "max_turnout": 59625,
+            "main_source": "ap",
+            "min_source": "ap",
+            "max_source": "ddhq",
+            "min_turnout_margin": 0,
+            "max_turnout_margin": 0,
+            "prev_margin": 1419,
+            "prev_total": 35025
+        }
+    ]
+}

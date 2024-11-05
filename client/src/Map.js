@@ -61,6 +61,7 @@ class Map extends React.Component {
         const colors = { "dark-d" : "#244999", "medium-d" : "#577CCC", "light-d" : "#8AAFFF", "i" : "#9932CC", "light-r" : "#FF8B98", "medium-r" : "#FF5865", "dark-r" : "#D22532", "none" : "#D3D3D3" }
         return (
             <div>
+                <p>States with green borders are ones that are being tracked (click on/hover over them!)</p>
                 <div id="info-box" style={{display: this.state.d, left: this.state.x + 10, top: this.state.y - 30}}>
                     {this.state.info.map((line) => <div>{line}</div>)}
                 </div>

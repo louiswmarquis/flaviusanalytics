@@ -21,7 +21,7 @@ app.get("/get_map_totals", (req, res) => {
   for (const election_id of Object.keys(election_list)) {
     content[election_id] = {}
     try {
-      const results = JSON.parse(fs.readFileSync("server\\results\\" + election_id + ".json"))
+      const results = JSON.parse(fs.readFileSync("server\\results\\" + election_id.substring(0, 4) + "\\" + election_id + ".json"))
       content[election_id]["total"] = results["results"][0]
       content[election_id]["winner"] = results["results"][0]["margin"] >= 0 ? results["candidates"][0] : results["candidates"][1]
     } catch (error) {
@@ -44,7 +44,7 @@ app.get("/results/:election_id", (req, res) => {
   const fs = require("fs");
   let aggregate_data = {}
   try {
-    aggregate_data = JSON.parse(fs.readFileSync("server\\results\\" + req.params.election_id + ".json"));
+    aggregate_data = JSON.parse(fs.readFileSync("server\\results\\" + req.params.election_id.substring(0, 4) + "\\" + req.params.election_id + ".json"));
   }
   catch (error) {
     if (error.code === "ENOENT") {
@@ -56,11 +56,11 @@ app.get("/results/:election_id", (req, res) => {
     }
   }
 
-  const results_history = JSON.parse(fs.readFileSync("server\\results\\" + req.params.election_id + "-history.json"));
+  const results_history = JSON.parse(fs.readFileSync("server\\results\\" + req.params.election_id.substring(0, 4) + "\\" + req.params.election_id + "-history.json"));
   const history_table = []
   for (let i = 0; i < Math.min(100, results_history["diffs"].length); i++) {
     const row = results_history["diffs"][results_history["diffs"].length - 1 - i]
-    if (row["0"]["total"] === 0) {
+    if (row["0"] === undefined || row["0"]["total"] === 0) {
       continue
     }
     const table_row = [moment(row["time"]).format("MM/DD HH:mm")]
@@ -92,11 +92,11 @@ app.get("/get_totals", (req, res) => {
       if (content[time][election_list_id] === undefined) {
         content[time][election_list_id] = []
       }
-      const box_content = {"election_id" : election_id, "name" : election_list[election_id]["name"], "candidates" : election_list[election_id]["candidates"]}
+      const box_content = {"election_id" : election_id, "name" : election_list[election_id]["name"], "candidates" : election_list[election_id]["candidates"], "kalshi" : election_list[election_id]["kalshi"], "kalshi_margin" : election_list[election_id]["kalshi_margin"]}
       try {
-        const results = JSON.parse(fs.readFileSync("server\\results\\" + election_id + ".json"))
+        const results = JSON.parse(fs.readFileSync("server\\results\\" + election_id.substring(0, 4) + "\\" + election_id + ".json"))
         box_content["total"] = results["results"][0]
-        box_content["winner"] = results["results"][0]["margin"] >= 0 ? results["candidates"][0] : results["candidates"][1]
+        box_content["winner"] = results["results"][0]["margin"] > 0 ? results["candidates"][0] : (results["results"][0]["margin"] < 0 ? results["candidates"][1] : undefined)
       } catch (error) {
         if (error.code === "ENOENT") {
           box_content["total"] = {"total" : 0, "margin" : 0, "min_turnout" : 0, "max_turnout" : 0}
@@ -115,7 +115,9 @@ app.get("/get_totals", (req, res) => {
   res.json(content)
 });
 
-const fetch_data = require("./fetch")
+send_text = require("./fetch").text
+send_text("Starting server!")
+const fetch_data = require("./fetch").fetch
 fetch_data();
 setInterval(() => {
   fetch_data();

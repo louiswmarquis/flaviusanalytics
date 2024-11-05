@@ -1,0 +1,29 @@
+{
+    "margin_history": [
+        {
+            "time": "2024-11-04T01:02:27.395Z",
+            "margin": 0,
+            "total": 0
+        }
+    ],
+    "diffs": [
+        {
+            "0": {
+                "Landsman": 0,
+                "Sonza": 0,
+                "total": 0
+            },
+            "1": {
+                "Landsman": 0,
+                "Sonza": 0,
+                "total": 0
+            },
+            "2": {
+                "Landsman": 0,
+                "Sonza": 0,
+                "total": 0
+            },
+            "time": "2024-11-04T01:02:27.395Z"
+        }
+    ]
+}
