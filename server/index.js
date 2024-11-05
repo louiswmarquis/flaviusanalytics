@@ -128,12 +128,11 @@ app.listen(process.env.PORT || PORT || 5000, () => {
 });
 
 if (process.env.NODE_ENV === 'production') {
-  console.log("SKEET")
   // Exprees will serve up production assets
-  app.use(express.static('../client/build'));
+  app.use(express.static(appRoot + '/client/build'));
 
   // Express serve up index.html file if it doesn't recognize route
   app.get('/', (req, res) => {
-    res.sendFile(__dirname + "/../client/build/index.html")
+    res.sendFile(appRoot + "/client/build/index.html")
   })
 }
