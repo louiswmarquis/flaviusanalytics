@@ -136,16 +136,16 @@ function fetch_ddhq(url) {
                 }
                 results[fips] = {}
                 try {
-                for (const candidate_data of county_data["candidates"]) {
-                    results[fips][candidates[candidate_data["cand_id"]]] = candidate_data["votes"]
+                    for (const candidate_data of county_data["candidates"]) {
+                        results[fips][candidates[candidate_data["cand_id"]]] = candidate_data["votes"]
+                    }
                 }
-            }
-            catch (error) {
-                console.log(county_data)
-                console.log(county_data["candidates"])
-                console.log(data)
-                throw error
-            }
+                catch (error) {
+                    console.log(county_data)
+                    console.log(county_data["candidates"])
+                    console.log(data)
+                    throw error
+                }
                 results[fips]["total"] = county_data["total_votes"]
                 results[fips]["turnout"] = county_data["estimated_votes"]["estimated_votes_mid"]
             }
