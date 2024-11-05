@@ -123,7 +123,7 @@ setInterval(() => {
   fetch_data();
 }, 10000);
 
-app.listen(PORT, () => {
+app.listen(process.env.PORT || 5000, () => {
   console.log(`Server listening on ${PORT}`);
 });
 
