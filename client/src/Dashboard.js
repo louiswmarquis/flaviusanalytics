@@ -51,7 +51,7 @@ class Dashboard extends React.Component {
                                         {results["kalshi_margin"] === undefined ? null : <a href={results["kalshi_margin"]} target="_blank" style={{display: "inline-block", backgroundColor : "#00d991", color : "black", textDecoration : "none", fontWeight : "bold"}}><div>M</div></a>}
                                     </p>
                                 </span>
-                                {[...Array(results["candidates"].length).keys().map((c) =>
+                                {[...[0,1].map((c) =>
                                     (<p style={{backgroundColor : results["candidates"][c] === results["winner"] ? "#00ff00" : "#ffffff", color : c === 0 ? "#244999" : "#D22532"}}>{results["candidates"][c]}<span style={{float:"right"}}>
                                         {results["total"]["total"] === 0 ? "0%" : (results["candidates"][c] === results["winner"] ? ("(+" + String((100 * Math.abs(results["total"]["margin"]) / results["total"]["total"]).toFixed(1).toString()) + "%) ") : "") + String((100 * Math.abs(results["total"][results["candidates"][c]] / results["total"]["total"], 1)).toFixed(1).toString()) + "%"}
                                     </span></p>)
