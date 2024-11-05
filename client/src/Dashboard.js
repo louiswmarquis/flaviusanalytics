@@ -12,8 +12,16 @@ class Dashboard extends React.Component {
     componentDidMount() {
         const fetch_data = () => {
             fetch("/get_totals?" + this.state.election_list_ids.map((election_list_id) => ("election_list_ids[]=" + election_list_id)).join('&'))
-            .then((res) => res.status === 500 ? {} : res.json())
-            .then((data) => {return this.setState(prevState => ({...prevState, content : data}));});
+            .then((res) => {
+                if (res.ok) {
+                    return res.json()
+                } else {
+                    throw new Error("No sources out yet")
+                }
+            })
+            .then((data) => {
+                this.setState(prevState => ({...prevState, content : data}))
+            });
         }
         fetch_data();
         setInterval(fetch_data, 1000);

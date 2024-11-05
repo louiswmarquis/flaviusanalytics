@@ -24,7 +24,9 @@ class Map extends React.Component {
         const fetch_totals = () => {
             fetch("/get_map_totals?election_list_id=" + this.state.year + "-" + this.state.type + "-elections")
                 .then((res) => res.status === 500 ? {} : res.json())
-                .then((data) => {console.log("TOTES", data); return this.setState(prevState => ({...prevState, "totals" : data}));});
+                .then((data) => {
+                    this.setState(prevState => ({...prevState, "totals" : data}))
+                });
         }
         fetch_totals()
         setInterval(fetch_totals, 10000)
