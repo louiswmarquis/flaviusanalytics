@@ -132,7 +132,7 @@ if (process.env.NODE_ENV === 'production') {
   app.use(express.static(__dirname.slice(0, -7) + '/client/build'));
 
   // Express serve up index.html file if it doesn't recognize route
-  app.get('/', (req, res) => {
+  app.get('*', (req, res) => {
     res.sendFile(__dirname.slice(0, -7) + "/client/build/index.html")
   })
 }
