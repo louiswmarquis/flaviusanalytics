@@ -292,7 +292,7 @@ async function send_text(election_name) {
             description: election_name, // A more descriptive message. It's optional
             type: "success", // info, error, warning or success
         })
-    }).then((res) => console.log(res))
+    })
 }
 
 function update_storage(election_id, election_metadata, aggregate_results) {

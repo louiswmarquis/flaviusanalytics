@@ -245,7 +245,6 @@
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-kentucky-president.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-KY.json",
-            "ddhq" : "https://embed-api.ddhq.io/v2/races/52810",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/KY/20241105KY0/detail.json", {"64984" : "Harris", "8639" : "Trump"}]
         },
 		"prev" : "2020-ky-pres-election"

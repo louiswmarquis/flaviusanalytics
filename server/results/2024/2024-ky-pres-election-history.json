@@ -1,17 +1,17 @@
 {
     "margin_history": [
         {
-            "time": "2024-11-03T22:23:40.377Z",
-            "margin": 0,
-            "total": 0
+            "time": "2024-11-05T23:11:21.029Z",
+            "margin": -13231,
+            "total": 43049
         }
     ],
     "diffs": [
         {
             "0": {
-                "Harris": 0,
-                "Trump": 0,
-                "total": 0
+                "Harris": 14655,
+                "Trump": 27886,
+                "total": 43049
             },
             "1": {
                 "Harris": 0,
@@ -189,9 +189,9 @@
                 "total": 0
             },
             "36": {
-                "Harris": 0,
-                "Trump": 0,
-                "total": 0
+                "Harris": 766,
+                "Trump": 3048,
+                "total": 3873
             },
             "37": {
                 "Harris": 0,
@@ -304,9 +304,9 @@
                 "total": 0
             },
             "59": {
-                "Harris": 0,
-                "Trump": 0,
-                "total": 0
+                "Harris": 12405,
+                "Trump": 18151,
+                "total": 30942
             },
             "60": {
                 "Harris": 0,
@@ -324,9 +324,9 @@
                 "total": 0
             },
             "63": {
-                "Harris": 0,
-                "Trump": 0,
-                "total": 0
+                "Harris": 1484,
+                "Trump": 6687,
+                "total": 8234
             },
             "64": {
                 "Harris": 0,
@@ -613,7 +613,7 @@
                 "Trump": 0,
                 "total": 0
             },
-            "time": "2024-11-03T22:23:40.377Z"
+            "time": "2024-11-05T23:11:21.029Z"
         }
     ]
 }
