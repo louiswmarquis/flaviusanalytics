@@ -7,8 +7,8 @@ const app = express();
 
 app.get("/get_map_data/:election_list_id", (req, res) => {
   const fs = require("fs");
-  const election_list = JSON.parse(fs.readFileSync("server\\metadata\\" + req.params.election_list_id + ".json"));
-  const election_list_other = JSON.parse(fs.readFileSync("server\\metadata\\" + req.params.election_list_id + "-other.json"));
+  const election_list = JSON.parse(fs.readFileSync(__dirname + "\\metadata\\" + req.params.election_list_id + ".json"));
+  const election_list_other = JSON.parse(fs.readFileSync(__dirname + "\\metadata\\" + req.params.election_list_id + "-other.json"));
   const map_data = {"other" : election_list_other, "main" : Object.fromEntries(Object.entries(election_list).map(([election_id, election_metadata]) => [election_id.substring(5, 7), election_metadata]))}
   res.json(map_data)
 });
@@ -17,11 +17,11 @@ app.get("/get_map_totals", (req, res) => {
   const fs = require("fs");
   const election_list_id = req.query.election_list_id
   const content = {}
-  const election_list = JSON.parse(fs.readFileSync("server\\metadata\\" + election_list_id + ".json"))
+  const election_list = JSON.parse(fs.readFileSync(__dirname + "\\metadata\\" + election_list_id + ".json"))
   for (const election_id of Object.keys(election_list)) {
     content[election_id] = {}
     try {
-      const results = JSON.parse(fs.readFileSync("server\\results\\" + election_id.substring(0, 4) + "\\" + election_id + ".json"))
+      const results = JSON.parse(fs.readFileSync(__dirname + "\\results\\" + election_id.substring(0, 4) + "\\" + election_id + ".json"))
       content[election_id]["total"] = results["results"][0]
       content[election_id]["winner"] = results["results"][0]["margin"] >= 0 ? results["candidates"][0] : results["candidates"][1]
     } catch (error) {
@@ -44,7 +44,7 @@ app.get("/results/:election_id", (req, res) => {
   const fs = require("fs");
   let aggregate_data = {}
   try {
-    aggregate_data = JSON.parse(fs.readFileSync("server\\results\\" + req.params.election_id.substring(0, 4) + "\\" + req.params.election_id + ".json"));
+    aggregate_data = JSON.parse(fs.readFileSync(__dirname + "\\results\\" + req.params.election_id.substring(0, 4) + "\\" + req.params.election_id + ".json"));
   }
   catch (error) {
     if (error.code === "ENOENT") {
@@ -56,7 +56,7 @@ app.get("/results/:election_id", (req, res) => {
     }
   }
 
-  const results_history = JSON.parse(fs.readFileSync("server\\results\\" + req.params.election_id.substring(0, 4) + "\\" + req.params.election_id + "-history.json"));
+  const results_history = JSON.parse(fs.readFileSync(__dirname + "\\results\\" + req.params.election_id.substring(0, 4) + "\\" + req.params.election_id + "-history.json"));
   const history_table = []
   for (let i = 0; i < Math.min(100, results_history["diffs"].length); i++) {
     const row = results_history["diffs"][results_history["diffs"].length - 1 - i]
@@ -80,7 +80,7 @@ app.get("/get_totals", (req, res) => {
   const election_list_ids = req.query.election_list_ids
   const content = {}
   for (const election_list_id of election_list_ids){
-    const election_list = JSON.parse(fs.readFileSync("server\\metadata\\" + election_list_id + ".json"))
+    const election_list = JSON.parse(fs.readFileSync(__dirname + "\\metadata\\" + election_list_id + ".json"))
     for (const election_id of Object.keys(election_list)) {
       const time = election_list[election_id]["time"]
       if (time === undefined) {
@@ -94,7 +94,7 @@ app.get("/get_totals", (req, res) => {
       }
       const box_content = {"election_id" : election_id, "name" : election_list[election_id]["name"], "candidates" : election_list[election_id]["candidates"], "kalshi" : election_list[election_id]["kalshi"], "kalshi_margin" : election_list[election_id]["kalshi_margin"]}
       try {
-        const results = JSON.parse(fs.readFileSync("server\\results\\" + election_id.substring(0, 4) + "\\" + election_id + ".json"))
+        const results = JSON.parse(fs.readFileSync(__dirname + "\\results\\" + election_id.substring(0, 4) + "\\" + election_id + ".json"))
         box_content["total"] = results["results"][0]
         box_content["winner"] = results["results"][0]["margin"] > 0 ? results["candidates"][0] : (results["results"][0]["margin"] < 0 ? results["candidates"][1] : undefined)
       } catch (error) {

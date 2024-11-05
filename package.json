@@ -2,9 +2,7 @@
   "dependencies": {
     "@observablehq/plot": "^0.6.16",
     "express": "^4.21.1",
-    "moment": "^2.30.1",
-    "textnow.js": "^0.1.6",
-    "twilio": "^5.3.5"
+    "moment": "^2.30.1"
   },
   "scripts": {
     "start": "node server/index.js"

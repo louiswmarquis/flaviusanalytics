@@ -5,7 +5,7 @@ async function fetch_data() {
     const fs = require("fs");
     const election_list_ids = ["2024-pres-elections", "2024-sen-elections", "2024-house-elections"]
     for (const election_list_id of election_list_ids) {
-        const election_list = JSON.parse(fs.readFileSync("server\\metadata\\" + election_list_id + ".json"));
+        const election_list = JSON.parse(fs.readFileSync(__dirname + "\\metadata\\" + election_list_id + ".json"));
         for (const election_id of Object.keys(election_list)) {
 
             const election_metadata = election_list[election_id]
@@ -155,7 +155,7 @@ function aggregate_sources(election_id, election_metadata, results) {
     const sources = Object.keys(results)
     const aggregate_results = {"name" : election_metadata["name"], "candidates" : election_metadata["candidates"], "sources" : Object.keys(results), "kalshi" : election_metadata?.["kalshi"], "kalshi_margin" : election_metadata?.["kalshi_margin"]}
     const fs = require("fs");
-    const counties_list = JSON.parse(fs.readFileSync("server\\metadata\\fips\\fips_" + election_id.split('-')[1] + ".json"))
+    const counties_list = JSON.parse(fs.readFileSync(__dirname + "\\metadata\\fips\\fips_" + election_id.split('-')[1] + ".json"))
     aggregate_results["results"] = Object.fromEntries(Object.entries(counties_list).concat([["00000", "Total"]]).map(([fips, county]) => ([fips, {
         "county" : county,
         ...Object.fromEntries(election_metadata["candidates"].map((candidate) => ([candidate, 0]))),
@@ -210,7 +210,7 @@ function aggregate_sources(election_id, election_metadata, results) {
     aggregate_results["results"] = Object.keys(aggregate_results["results"]).toSorted().map((fips) => aggregate_results["results"][fips])
     if (election_metadata["prev"] !== undefined) {
       try {
-        const prev_aggregate_results = JSON.parse(fs.readFileSync("server\\results\\" + election_metadata["prev"].substring(0, 4) + "\\" + election_metadata["prev"] + ".json"))
+        const prev_aggregate_results = JSON.parse(fs.readFileSync(__dirname + "\\results\\" + election_metadata["prev"].substring(0, 4) + "\\" + election_metadata["prev"] + ".json"))
         for (let i = 0; i < aggregate_results["results"].length; i++) {
             aggregate_results["results"][i]["prev_margin"] = prev_aggregate_results["results"][i]["margin"]
             aggregate_results["results"][i]["prev_total"] = prev_aggregate_results["results"][i]["total"]
@@ -245,7 +245,7 @@ function update_storage(election_id, election_metadata, aggregate_results) {
     const fs = require("fs")
     let prev_aggregate_results = {}
     try {
-        prev_aggregate_results = JSON.parse(fs.readFileSync("server\\results\\" + election_id.substring(0, 4) + "\\" + election_id + ".json"))
+        prev_aggregate_results = JSON.parse(fs.readFileSync(__dirname + "\\results\\" + election_id.substring(0, 4) + "\\" + election_id + ".json"))
     } catch (error) {
         if (error.code === "ENOENT") {
             prev_aggregate_results = {"results" : Object.fromEntries(Object.keys(aggregate_results["results"]).map((i) => [i, {...Object.fromEntries(election_metadata["candidates"].map((candidate) => ([candidate, 0]))), "total" : 0}]))}
@@ -256,7 +256,7 @@ function update_storage(election_id, election_metadata, aggregate_results) {
     }
     let results_history = {}
     try {
-        results_history = JSON.parse(fs.readFileSync("server\\results\\" + election_id.substring(0, 4) + "\\" + election_id + "-history.json"))
+        results_history = JSON.parse(fs.readFileSync(__dirname + "\\results\\" + election_id.substring(0, 4) + "\\" + election_id + "-history.json"))
     } catch (error) {
         if (error.code === "ENOENT") {
             results_history = {"margin_history" : [], "diffs" : []}
@@ -283,9 +283,9 @@ function update_storage(election_id, election_metadata, aggregate_results) {
         send_text(election_metadata["name"])
         results_history["diffs"].push(diffs)
         results_history["margin_history"].push({"time" : current_time, "margin" : aggregate_results["results"][0]["margin"], "total" : aggregate_results["results"][0]["total"]})
-        fs.writeFileSync("server\\results\\" + election_id.substring(0, 4) + "\\" + election_id + "-history.json", JSON.stringify(results_history, null, 4));
+        fs.writeFileSync(__dirname + "\\results\\" + election_id.substring(0, 4) + "\\" + election_id + "-history.json", JSON.stringify(results_history, null, 4));
     }
-    fs.writeFileSync("server\\results\\" + election_id.substring(0, 4) + "\\" + election_id + ".json", JSON.stringify(aggregate_results, null, 4));
+    fs.writeFileSync(__dirname + "\\results\\" + election_id.substring(0, 4) + "\\" + election_id + ".json", JSON.stringify(aggregate_results, null, 4));
 }
 
 module.exports = {fetch : fetch_data, text : send_text}
