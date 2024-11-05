@@ -74,6 +74,7 @@ class Dashboard extends React.Component {
                 <h1>2024 Elections Grand Dashboard</h1>
                 </header>
                 <p><b>Click races for detailed results</b></p>
+                <p>Note that we always list the Democratic candidate first, then the Republican one. It makes sense because the Democrat is the one on the "left" (and Republicans "right"). All margins are calculated as Democrat minus Republican for the sake of data processing. Please do not take any of this to imply a personal endorsement of either party. Because it is not.</p>
                 <p class="blank"></p>
                 {rows}
             </section>
