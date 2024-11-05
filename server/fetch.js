@@ -322,6 +322,7 @@ function update_storage(election_id, election_metadata, aggregate_results) {
     }
     const current_time = (new Date()).toISOString()
     const diffs = {"time" : current_time}
+    const counties = []
     for (let i = 0; i < aggregate_results["results"].length; i++) {
         const new_results_row = {}
 
@@ -336,12 +337,13 @@ function update_storage(election_id, election_metadata, aggregate_results) {
 
         if (!Object.values(new_results_row).every(item => item === 0) || results_history["margin_history"].length === 0) {
             diffs[String(i)] = new_results_row
+            counties.push(aggregate_results["results"][i]["county"])
         }
     }
     if (Object.keys(diffs).length !== 1) {
         console.log("Update for " + election_id + "!")
-        if (election_metadata["notify"]){
-            send_text(election_metadata["name"])
+        if (election_metadata["notify"] && process.env.NODE_ENV !== 'production'){
+            send_text(election_metadata["name"] + "\n" + counties.toString())
         }
         results_history["diffs"].push(diffs)
         results_history["margin_history"].push({"time" : current_time, "margin" : aggregate_results["results"][0]["margin"], "total" : aggregate_results["results"][0]["total"]})
