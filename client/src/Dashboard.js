@@ -44,19 +44,19 @@ class Dashboard extends React.Component {
                     <tr>
                         {results_type_list.map((results) => (
                             <td class={"summary-cell-" + election_list_id.split("-").at(1)}>
-                                <a href={"results/".concat(results["election_id"])} style={{color : "#000000", textDecoration : "none", fontWeight : "bold", display : "inline-block"}}><p>{results["name"].slice(5, -9)}</p></a>
-                                <span style={{float : "right"}}>
-                                    <p style={{display: "inline-block", textDecoration : "none", fontWeight : "bold", fontFamily : "Courier New"}}>
-                                        {results["kalshi"] === undefined ? null : <a href={results["kalshi"]} target="_blank" style={{display: "inline-block", backgroundColor : "#00d991", color : "black", textDecoration : "none", fontWeight : "bold", "margin-right" : "10px"}}><div>K</div></a>}
-                                        {results["kalshi_margin"] === undefined ? null : <a href={results["kalshi_margin"]} target="_blank" style={{display: "inline-block", backgroundColor : "#00d991", color : "black", textDecoration : "none", fontWeight : "bold"}}><div>M</div></a>}
-                                    </p>
-                                </span>
+                                <a href={"results/".concat(results["election_id"])} style={{color : "#000000", textDecoration : "none", fontWeight : "bold"}}><p>{results["name"].slice(5, -9)}</p></a>
                                 {[...[0,1].map((c) =>
                                     (<p style={{backgroundColor : results["candidates"][c] === results["winner"] ? "#00ff00" : "#ffffff", color : c === 0 ? "#244999" : "#D22532"}}>{results["candidates"][c]}<span style={{float:"right"}}>
                                         {results["total"]["total"] === 0 ? "0%" : (results["candidates"][c] === results["winner"] ? ("(+" + String((100 * Math.abs(results["total"]["margin"]) / results["total"]["total"]).toFixed(1).toString()) + "%) ") : "") + String((100 * Math.abs(results["total"][results["candidates"][c]] / results["total"]["total"], 1)).toFixed(1).toString()) + "%"}
                                     </span></p>)
                                 )]}
-                                <p>{(results["total"]["min_turnout"] === 0 ? "0" : (String(Math.round(100 * results["total"]["total"] / results["total"]["max_turnout"])) + (results["total"]["min_turnout"] !== results["total"]["max_turnout"] ? ("-" + String(Math.round(100 * results["total"]["total"] / results["total"]["min_turnout"]))) : ""))) + "% in"}</p>
+                                <p style={{display : "inline-block"}}>{(results["total"]["min_turnout"] === 0 ? "0" : (String(Math.round(100 * results["total"]["total"] / results["total"]["max_turnout"])) + (results["total"]["min_turnout"] !== results["total"]["max_turnout"] ? ("-" + String(Math.round(100 * results["total"]["total"] / results["total"]["min_turnout"]))) : ""))) + "% in"}</p>
+                                <span style={{float : "right"}}>
+                                    <p style={{display: "inline-block", textDecoration : "none", fontWeight : "bold", fontFamily : "Courier New"}}>
+                                        {results["kalshi"] === undefined ? null : <a href={results["kalshi"]} target="_blank" style={{display: "inline-block", backgroundColor : "#00d991", color : "black", textDecoration : "none", fontWeight : "bold", marginRight : "10px"}}>K</a>}
+                                        {results["kalshi_margin"] === undefined ? null : <a href={results["kalshi_margin"]} target="_blank" style={{display: "inline-block", backgroundColor : "#00d991", color : "black", textDecoration : "none", fontWeight : "bold"}}>M</a>}
+                                    </p>
+                                </span>
                             </td>
                         ))}
                     </tr>)}
@@ -74,9 +74,9 @@ class Dashboard extends React.Component {
                 <h1>2024 Elections Grand Dashboard</h1>
                 </header>
                 <p><b>Click races for detailed results</b></p>
-                <p>Note that we always list the Democratic candidate first, then the Republican one. It makes sense because the Democrat is the one on the "left" (and Republicans "right"). All margins are calculated as Democrat minus Republican for the sake of data processing. Please do not take any of this to imply a personal endorsement of either party. Because it is not.</p>
                 <p class="blank"></p>
                 {rows}
+                <p>Note that we always list the Democratic candidate first, then the Republican one. It makes sense because the Democrat is the one on the "left" (and Republicans "right"). When calculating margins, positive means the Democrat is (currently) winning, negative means Republican. It just makes the data processing easier. Please do not take any of this to imply a personal endorsement of either party. Because it is not.</p>
             </section>
         )
     }

@@ -15,12 +15,12 @@ async function fetch_data() {
                 continue
             }
             console.log("Querying " + election_id)
-            const source_fetchers = {"nyt" : fetch_nyt, "cnn" : fetch_cnn, "ddhq" : fetch_ddhq, "ap" : fetch_ap, "sos" : fetch_sos}
+            const source_fetchers = {"cnn" : fetch_cnn, "ddhq" : fetch_ddhq, "ap" : fetch_ap}
             let results = {}
             let get_out = false
             for (const [source, url] of Object.entries(election_metadata["sources"])) {
                 try {
-                    if (Math.floor(Math.random() * wait[source]) === 0) {
+                    if (Math.floor(Math.random() * wait[source]) === 0 && source_fetchers[source] !== undefined) {
                         let result = await source_fetchers[source](url)
                         if (result != null) {
                             results[source] = result
@@ -135,16 +135,8 @@ function fetch_ddhq(url) {
                     fips = "02000"
                 }
                 results[fips] = {}
-                try {
-                    for (const candidate_data of county_data["candidates"]) {
-                        results[fips][candidates[candidate_data["cand_id"]]] = candidate_data["votes"]
-                    }
-                }
-                catch (error) {
-                    console.log(county_data)
-                    console.log(county_data["candidates"])
-                    console.log(data)
-                    throw error
+                for (const candidate_data of county_data["candidates"]) {
+                    results[fips][candidates[candidate_data["cand_id"]]] = candidate_data["votes"]
                 }
                 results[fips]["total"] = county_data["total_votes"]
                 results[fips]["turnout"] = county_data["estimated_votes"]["estimated_votes_mid"]
