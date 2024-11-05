@@ -1,4 +1,5 @@
 const { error } = require("console");
+const moment = require("moment")
 
 async function fetch_data() {
     console.log("Starting fetch sequence!")
@@ -10,8 +11,16 @@ async function fetch_data() {
         for (const election_id of Object.keys(election_list)) {
 
             const election_metadata = election_list[election_id]
-            if (election_metadata["importance"] !== undefined && Math.floor(Math.random() * election_metadata["importance"]) !== 0) {
-                console.log("Not querying " + election_id)
+            const time = Number(election_metadata["time"])
+            const hour = Math.floor(Number(election_metadata["time"]))
+            const closing = moment("202411051200", "YYYYMMDDhhmm").add(hour, "hours").add(hour == time ? 0 : 30, "minutes")
+            const now = moment()
+            const until = closing.diff(now, "minutes")
+            if (election_metadata["importance"] !== undefined && Math.floor(Math.random() * election_metadata["importance"]) !== 0 || until > 0) {
+                console.log("Not querying " + election_id + ". There are " + until + " more minutes.")
+                continue
+            }
+            if (!election_metadata["fetch"]) {
                 continue
             }
             console.log("Querying " + election_id)
@@ -34,10 +43,9 @@ async function fetch_data() {
                     }
                     else if (error.message === "429") {
                         console.log("429 in " + source + " for " + election_id + ".")
-                        send_text("429 in " + election_id)
-                        wait[source] = 10
+                        send_text("429 in " + source + " for " + election_id + ".")
+                        wait[source] = 100
                         get_out = true
-                        break
                     }
                     else {
                         send_text("FETCH ERROR in " + election_id)
@@ -64,7 +72,15 @@ function standardize_name(name) {
 
 function fetch_nyt(url) {
     return fetch(url)
-        .then((response) => response.json())
+        .then((res) => {
+            if (res.ok) {
+                return res.json()
+            } else if (res.status === 429) {
+                throw new Error("429")
+            } else {
+                throw new Error("Bad Response")
+            }
+        })
         .then((data) => data["races"][0])
         .then((data) => {
             const results = {}
@@ -122,7 +138,15 @@ function fetch_cnn(url) {
 
 function fetch_ddhq(url) {
     return fetch(url)
-        .then((response) => response.json())
+        .then((res) => {
+            if (res.ok) {
+                return res.json()
+            } else if (res.status === 429) {
+                throw new Error("429")
+            } else {
+                throw new Error("Bad Response")
+            }
+        })
         .then((data) => {
             const candidates = {}
             for (const candidate_metadata of data["candidates"]) {
@@ -305,13 +329,20 @@ function update_storage(election_id, election_metadata, aggregate_results) {
             new_results_row[candidate] = aggregate_results["results"][i][candidate] - prev_aggregate_results["results"][i][candidate]
         }
         new_results_row["total"] = aggregate_results["results"][i]["total"] - prev_aggregate_results["results"][i]["total"]
+        if (aggregate_results["results"][i]["total"] < prev_aggregate_results["results"][i]["total"] && !(prev_aggregate_results["results"][i]["main_source"] in aggregate_results["sources"])) {
+            aggregate_results["results"][i] = prev_aggregate_results["results"][i]
+            continue
+        }
+
         if (!Object.values(new_results_row).every(item => item === 0) || results_history["margin_history"].length === 0) {
             diffs[String(i)] = new_results_row
         }
     }
     if (Object.keys(diffs).length !== 1) {
         console.log("Update for " + election_id + "!")
-        send_text(election_metadata["name"])
+        if (election_metadata["notify"]){
+            send_text(election_metadata["name"])
+        }
         results_history["diffs"].push(diffs)
         results_history["margin_history"].push({"time" : current_time, "margin" : aggregate_results["results"][0]["margin"], "total" : aggregate_results["results"][0]["total"]})
         fs.writeFileSync(__dirname + "/results/" + election_id.substring(0, 4) + "/" + election_id + "-history.json", JSON.stringify(results_history, null, 4));

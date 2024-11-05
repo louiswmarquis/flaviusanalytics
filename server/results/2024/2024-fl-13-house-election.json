@@ -7,7 +7,6 @@
     "sources": [
         "nyt",
         "cnn",
-        "ddhq",
         "ap"
     ],
     "results": [
@@ -17,7 +16,7 @@
             "Luna": 0,
             "total": 0,
             "margin": 0,
-            "min_turnout": 401222,
+            "min_turnout": 424828,
             "max_turnout": 424828,
             "main_source": "nyt",
             "min_source": "nyt",
@@ -33,10 +32,10 @@
             "Luna": 0,
             "total": 0,
             "margin": 0,
-            "min_turnout": 401222,
+            "min_turnout": 424828,
             "max_turnout": 424828,
             "main_source": "ap",
-            "min_source": "ddhq",
+            "min_source": "ap",
             "max_source": "ap",
             "min_turnout_margin": 0,
             "max_turnout_margin": 0,
