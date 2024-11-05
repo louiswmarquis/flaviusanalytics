@@ -5,6 +5,7 @@
         "Anderson"
     ],
     "sources": [
+        "nyt",
         "cnn",
         "ddhq",
         "ap"

@@ -5,6 +5,7 @@
         "Steel"
     ],
     "sources": [
+        "nyt",
         "cnn",
         "ddhq",
         "ap"
@@ -18,7 +19,7 @@
             "total": 0,
             "margin": 0,
             "min_turnout": 296018,
-            "max_turnout": 330746,
+            "max_turnout": 327439,
             "main_source": "nyt",
             "min_source": "nyt",
             "max_source": "nyt",
@@ -34,7 +35,7 @@
             "total": 0,
             "margin": 0,
             "min_turnout": 33800,
-            "max_turnout": 37416,
+            "max_turnout": 37042,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "ddhq",
@@ -50,7 +51,7 @@
             "total": 0,
             "margin": 0,
             "min_turnout": 262218,
-            "max_turnout": 293330,
+            "max_turnout": 290397,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "ddhq",

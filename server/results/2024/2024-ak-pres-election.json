@@ -5,6 +5,7 @@
         "Trump"
     ],
     "sources": [
+        "nyt",
         "cnn",
         "ddhq",
         "ap"
@@ -18,7 +19,7 @@
             "Trump": 0,
             "total": 0,
             "margin": 0,
-            "min_turnout": 336519,
+            "min_turnout": 340000,
             "max_turnout": 390000,
             "main_source": "nyt",
             "min_source": "nyt",
@@ -34,7 +35,7 @@
             "Trump": 0,
             "total": 0,
             "margin": 0,
-            "min_turnout": 336519,
+            "min_turnout": 340000,
             "max_turnout": 390000,
             "main_source": "ap",
             "min_source": "ddhq",

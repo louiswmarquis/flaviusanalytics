@@ -5,6 +5,7 @@
         "Lawler"
     ],
     "sources": [
+        "nyt",
         "cnn",
         "ddhq",
         "ap"

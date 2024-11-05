@@ -5,6 +5,7 @@
         "Schweikert"
     ],
     "sources": [
+        "nyt",
         "cnn",
         "ddhq",
         "ap"
@@ -17,7 +18,7 @@
             "Schweikert": 0,
             "total": 0,
             "margin": 0,
-            "min_turnout": 384352,
+            "min_turnout": 415100,
             "max_turnout": 427245,
             "main_source": "nyt",
             "min_source": "nyt",
@@ -33,7 +34,7 @@
             "Schweikert": 0,
             "total": 0,
             "margin": 0,
-            "min_turnout": 384352,
+            "min_turnout": 415100,
             "max_turnout": 427245,
             "main_source": "ap",
             "min_source": "ddhq",

@@ -8,7 +8,7 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-arizona-us-senate.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-arizona-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-AZ.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52844",
 			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/AZ/20241105AZ4021/detail.json",
@@ -26,7 +26,7 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-michigan-us-senate.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-michigan-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-MI.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52855",
 			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/MI/20241105MI24453/detail.json",
@@ -44,7 +44,7 @@
         "notify" : "False",
 		"color" : "light-r",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-montana-us-senate.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-montana-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-MT.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52860",
 			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/MT/20241105MT28089/detail.json",
@@ -62,7 +62,7 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-nevada-us-senate.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-nevada-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-NV.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52864",
 			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NV/20241105NV29866/detail.json",
@@ -79,7 +79,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-north-carolina-governor.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-north-carolina-governor.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-GG-NC.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52868",
 			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NC/20241105NC35392/detail.json",
@@ -98,7 +98,7 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-ohio-us-senate.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-ohio-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-OH.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52871",
 			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/OH/20241105OH37213/detail.json",
@@ -116,7 +116,7 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-pennsylvania-us-senate.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-pennsylvania-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-PA.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52872",
 			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/PA/20241105PA40100/detail.json",
@@ -134,7 +134,7 @@
         "notify" : "False",
 		"color" : "i",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-wisconsin-us-senate.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-wisconsin-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-WI.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52884",
 			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/WI/20241105WI50807/detail.json",
@@ -152,7 +152,7 @@
         "notify" : "False",
 		"color" : "light-r",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-florida-us-senate.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-florida-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-FL.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52848",
 			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/FL/20241105FL10005/detail.json",
@@ -171,7 +171,7 @@
         "notify" : "False",
 		"color" : "light-r",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-nebraska-us-senate.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-nebraska-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-NE.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52862",
 			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NE/20241105NE28944/detail.json",
@@ -190,7 +190,7 @@
         "notify" : "False",
 		"color" : "light-r",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-texas-us-senate.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-texas-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-TX.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52875",
 			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/TX/20241105TX45870/detail.json",
@@ -209,7 +209,7 @@
         "notify" : "False",
 		"color" : "light-d",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-maryland-us-senate.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-maryland-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-MD.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52853",
 			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/MD/20241105MD22452/detail.json",
@@ -228,7 +228,7 @@
         "notify" : "False",
 		"color" : "dark-d",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-virginia-us-senate.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-virginia-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-VA.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52880",
 			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/VA/20241105VA47806/detail.json",

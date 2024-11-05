@@ -5,6 +5,7 @@
         "Valadao"
     ],
     "sources": [
+        "nyt",
         "cnn",
         "ddhq",
         "ap"
@@ -18,7 +19,7 @@
             "total": 0,
             "margin": 0,
             "min_turnout": 152050,
-            "max_turnout": 172982,
+            "max_turnout": 171253,
             "main_source": "nyt",
             "min_source": "nyt",
             "max_source": "nyt",
@@ -34,7 +35,7 @@
             "total": 0,
             "margin": 0,
             "min_turnout": 98398,
-            "max_turnout": 111547,
+            "max_turnout": 110432,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "ddhq",
@@ -50,7 +51,7 @@
             "total": 0,
             "margin": 0,
             "min_turnout": 17356,
-            "max_turnout": 19210,
+            "max_turnout": 19018,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "ddhq",
@@ -66,7 +67,7 @@
             "total": 0,
             "margin": 0,
             "min_turnout": 36296,
-            "max_turnout": 42225,
+            "max_turnout": 41803,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "ddhq",

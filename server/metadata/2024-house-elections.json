@@ -7,7 +7,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-alaska-us-house-district-1.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-alaska-us-house-at-large.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-AK-1.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52893",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/AK/20241105AK2015/detail.json",
@@ -23,7 +23,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-arizona-us-house-district-1.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-arizona-us-house-1.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-AZ-1.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52894",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/AZ/20241105AZ3004/detail.json",
@@ -40,7 +40,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-arizona-us-house-district-6.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-arizona-us-house-6.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-AZ-6.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52899",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/AZ/20241105AZ3544/detail.json",
@@ -57,7 +57,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-california-us-house-district-13.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-california-us-house-13.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CA-13.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52919",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/CA/20241105CA5703/detail.json",
@@ -74,7 +74,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-california-us-house-district-22.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-california-us-house-22.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CA-22.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52928",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/CA/20241105CA5712/detail.json",
@@ -91,7 +91,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-california-us-house-district-27.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-california-us-house-27.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CA-27.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52933",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/CA/20241105CA5717/detail.json",
@@ -108,7 +108,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-california-us-house-district-41.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-california-us-house-41.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CA-41.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52947",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/CA/20241105CA5731/detail.json",
@@ -125,7 +125,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-california-us-house-district-45.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-california-us-house-45.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CA-45.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52951",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/CA/20241105CA5735/detail.json",
@@ -142,7 +142,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-colorado-us-house-district-8.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-colorado-us-house-8.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-CO-8.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52966",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/CO/20241105CO7727/detail.json",
@@ -159,7 +159,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-florida-us-house-district-13.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-florida-us-house-13.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-FL-13.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/52985",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/FL/20241105FL10031/detail.json",
@@ -176,7 +176,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-iowa-us-house-district-3.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-iowa-us-house-3.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-IA-3.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53047",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/IA/20241105IA17073/detail.json",
@@ -193,7 +193,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-michigan-us-house-district-7.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-michigan-us-house-7.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-MI-7.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53090",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/MI/20241105MI23811/detail.json",
@@ -210,7 +210,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-michigan-us-house-district-8.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-michigan-us-house-8.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-MI-8.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53091",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/MI/20241105MI23812/detail.json",
@@ -227,7 +227,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-nebraska-us-house-district-2.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-nebraska-us-house-2.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NE-2.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53120",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NE/20241105NE28385/detail.json",
@@ -244,7 +244,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-new-york-us-house-district-4.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-new-york-us-house-4.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NY-4.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53146",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NY/20241105NY36584/detail.json",
@@ -260,7 +260,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-new-york-us-house-district-17.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-new-york-us-house-17.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NY-17.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53159",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NY/20241105NY36597/detail.json",
@@ -275,7 +275,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-new-york-us-house-district-19.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-new-york-us-house-19.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NY-19.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53161",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NY/20241105NY36599/detail.json",
@@ -291,7 +291,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-new-york-us-house-district-22.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-new-york-us-house-22.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NY-22.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53164",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NY/20241105NY36602/detail.json",
@@ -307,7 +307,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-north-carolina-us-house-district-1.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-north-carolina-us-house-1.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NC-1.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53169",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/NC/20241105NC35385/detail.json",
@@ -324,7 +324,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-ohio-us-house-district-1.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-ohio-us-house-1.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-OH-1.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53184",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/OH/20241105OH36015/detail.json",
@@ -340,7 +340,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-ohio-us-house-district-9.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-ohio-us-house-9.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-OH-9.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53192",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/OH/20241105OH36031/detail.json",
@@ -356,7 +356,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-ohio-us-house-district-13.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-ohio-us-house-13.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-OH-13.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53196",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/OH/20241105OH36039/detail.json",
@@ -372,7 +372,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-oregon-us-house-district-5.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-oregon-us-house-5.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-OR-5.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53208",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/OR/20241105OR38532/detail.json",
@@ -389,7 +389,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-pennsylvania-us-house-district-7.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-pennsylvania-us-house-7.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-PA-7.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53216",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/PA/20241105PA39014/detail.json",
@@ -406,7 +406,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-pennsylvania-us-house-district-8.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-pennsylvania-us-house-8.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-PA-8.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53217",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/PA/20241105PA39015/detail.json",
@@ -423,7 +423,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-pennsylvania-us-house-district-10.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-pennsylvania-us-house-10.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-PA-10.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53219",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/PA/20241105PA39017/detail.json",
@@ -440,7 +440,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-virginia-us-house-district-7.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-virginia-us-house-7.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-VA-7.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53295",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/VA/20241105VA47013/detail.json",
@@ -457,7 +457,7 @@
         "when" : "past",
         "notify" : "False",
         "sources" : {
-			"nyt" : "https://static01.nyt.com/elections-assets/2024/data/2024-11-05/results-washington-us-house-district-3.json",
+			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-washington-us-house-3.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-WA-3.json",
             "ddhq" : "https://embed-api.ddhq.io/v2/races/53302",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/WA/20241105WA48009/detail.json",

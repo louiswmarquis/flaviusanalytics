@@ -5,6 +5,7 @@
         "Sonza"
     ],
     "sources": [
+        "nyt",
         "cnn",
         "ddhq",
         "ap"
@@ -16,7 +17,7 @@
             "Sonza": 0,
             "total": 0,
             "margin": 0,
-            "min_turnout": 377888,
+            "min_turnout": 396782,
             "max_turnout": 425621,
             "main_source": "nyt",
             "min_source": "nyt",
@@ -32,7 +33,7 @@
             "Sonza": 0,
             "total": 0,
             "margin": 0,
-            "min_turnout": 249209,
+            "min_turnout": 261669,
             "max_turnout": 284011,
             "main_source": "ap",
             "min_source": "ddhq",
@@ -48,7 +49,7 @@
             "Sonza": 0,
             "total": 0,
             "margin": 0,
-            "min_turnout": 128679,
+            "min_turnout": 135113,
             "max_turnout": 141610,
             "main_source": "ap",
             "min_source": "ddhq",

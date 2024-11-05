@@ -15,7 +15,7 @@ async function fetch_data() {
                 continue
             }
             console.log("Querying " + election_id)
-            const source_fetchers = {"cnn" : fetch_cnn, "ddhq" : fetch_ddhq, "ap" : fetch_ap}
+            const source_fetchers = {"nyt" : fetch_nyt, "cnn" : fetch_cnn, "ddhq" : fetch_ddhq, "ap" : fetch_ap}
             let results = {}
             let get_out = false
             for (const [source, url] of Object.entries(election_metadata["sources"])) {

@@ -5,6 +5,7 @@
         "Cao"
     ],
     "sources": [
+        "nyt",
         "cnn",
         "ddhq",
         "ap"

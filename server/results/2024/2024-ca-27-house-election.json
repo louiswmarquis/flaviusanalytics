@@ -5,6 +5,7 @@
         "Garcia"
     ],
     "sources": [
+        "nyt",
         "cnn",
         "ddhq",
         "ap"
@@ -18,7 +19,7 @@
             "total": 0,
             "margin": 0,
             "min_turnout": 285756,
-            "max_turnout": 316346,
+            "max_turnout": 313183,
             "main_source": "nyt",
             "min_source": "nyt",
             "max_source": "nyt",
@@ -34,7 +35,7 @@
             "total": 0,
             "margin": 0,
             "min_turnout": 285756,
-            "max_turnout": 316346,
+            "max_turnout": 313183,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "ddhq",

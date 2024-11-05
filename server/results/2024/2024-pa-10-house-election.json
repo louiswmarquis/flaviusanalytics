@@ -5,6 +5,7 @@
         "Perry"
     ],
     "sources": [
+        "nyt",
         "cnn",
         "ddhq",
         "ap"
@@ -17,7 +18,7 @@
             "Perry": 0,
             "total": 0,
             "margin": 0,
-            "min_turnout": 368829,
+            "min_turnout": 379525,
             "max_turnout": 403934,
             "main_source": "nyt",
             "min_source": "nyt",
@@ -33,7 +34,7 @@
             "Perry": 0,
             "total": 0,
             "margin": 0,
-            "min_turnout": 121950,
+            "min_turnout": 125487,
             "max_turnout": 127152,
             "main_source": "ap",
             "min_source": "ddhq",
@@ -49,7 +50,7 @@
             "Perry": 0,
             "total": 0,
             "margin": 0,
-            "min_turnout": 134416,
+            "min_turnout": 138314,
             "max_turnout": 152286,
             "main_source": "ap",
             "min_source": "ddhq",
@@ -65,7 +66,7 @@
             "Perry": 0,
             "total": 0,
             "margin": 0,
-            "min_turnout": 112463,
+            "min_turnout": 115724,
             "max_turnout": 124496,
             "main_source": "ap",
             "min_source": "ddhq",
