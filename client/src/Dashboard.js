@@ -31,8 +31,9 @@ class Dashboard extends React.Component {
         if (this.state.content === "") {
             return <p>Loading...</p>
         }
+        let rows = []
         try {
-        const rows = Object.keys(this.state.content).map((time) => (Number(time))).toSorted((a, b) => a - b).map((time) => {
+        rows = Object.keys(this.state.content).map((time) => (Number(time))).toSorted((a, b) => a - b).map((time) => {
             const hour = Math.floor(time)
             const minute = time - Math.floor(time)
             const heading = String(hour) + (minute !== 0 ? ":30" : "") + " " + (hour === 12 ? "AM" : "PM") + " Poll Closings:"
@@ -65,7 +66,7 @@ class Dashboard extends React.Component {
     
     )
     } catch (error) {
-        const rows = [<div>{error.message}</div>]
+        rows = [<div>{error.message}</div>]
     }
         return (
             <section class="content">
