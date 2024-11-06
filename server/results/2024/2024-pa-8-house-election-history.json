@@ -99,6 +99,86 @@
             "time": "2024-11-06T02:25:47.928Z",
             "margin": 24547,
             "total": 182777
+        },
+        {
+            "time": "2024-11-06T02:29:58.698Z",
+            "margin": 23350,
+            "total": 191934
+        },
+        {
+            "time": "2024-11-06T02:34:38.196Z",
+            "margin": 23435,
+            "total": 200583
+        },
+        {
+            "time": "2024-11-06T02:37:39.688Z",
+            "margin": 21662,
+            "total": 208168
+        },
+        {
+            "time": "2024-11-06T02:38:08.799Z",
+            "margin": 21368,
+            "total": 209304
+        },
+        {
+            "time": "2024-11-06T02:38:59.549Z",
+            "margin": 21795,
+            "total": 216593
+        },
+        {
+            "time": "2024-11-06T02:46:59.413Z",
+            "margin": 21123,
+            "total": 223799
+        },
+        {
+            "time": "2024-11-06T02:47:40.055Z",
+            "margin": 19999,
+            "total": 230081
+        },
+        {
+            "time": "2024-11-06T02:52:40.656Z",
+            "margin": 19910,
+            "total": 231748
+        },
+        {
+            "time": "2024-11-06T02:58:41.354Z",
+            "margin": 18200,
+            "total": 238726
+        },
+        {
+            "time": "2024-11-06T03:00:21.991Z",
+            "margin": 17489,
+            "total": 246183
+        },
+        {
+            "time": "2024-11-06T03:06:52.317Z",
+            "margin": 17481,
+            "total": 247169
+        },
+        {
+            "time": "2024-11-06T03:07:22.455Z",
+            "margin": 15016,
+            "total": 253030
+        },
+        {
+            "time": "2024-11-06T03:20:43.356Z",
+            "margin": 13674,
+            "total": 259486
+        },
+        {
+            "time": "2024-11-06T03:24:54.466Z",
+            "margin": 13140,
+            "total": 268816
+        },
+        {
+            "time": "2024-11-06T03:29:45.269Z",
+            "margin": 13046,
+            "total": 272718
+        },
+        {
+            "time": "2024-11-06T03:38:20.396Z",
+            "margin": 13049,
+            "total": 286485
         }
     ],
     "diffs": [
@@ -386,6 +466,214 @@
                 "total": 3065
             },
             "time": "2024-11-06T02:25:47.928Z"
+        },
+        {
+            "0": {
+                "Cartwright": 3980,
+                "Bresnahan": 5177,
+                "total": 9157
+            },
+            "2": {
+                "Cartwright": 3980,
+                "Bresnahan": 5177,
+                "total": 9157
+            },
+            "time": "2024-11-06T02:29:58.698Z"
+        },
+        {
+            "0": {
+                "Cartwright": 4367,
+                "Bresnahan": 4282,
+                "total": 8649
+            },
+            "1": {
+                "Cartwright": 4367,
+                "Bresnahan": 4282,
+                "total": 8649
+            },
+            "time": "2024-11-06T02:34:38.196Z"
+        },
+        {
+            "0": {
+                "Cartwright": 2906,
+                "Bresnahan": 4679,
+                "total": 7585
+            },
+            "2": {
+                "Cartwright": 2906,
+                "Bresnahan": 4679,
+                "total": 7585
+            },
+            "time": "2024-11-06T02:37:39.688Z"
+        },
+        {
+            "0": {
+                "Cartwright": 421,
+                "Bresnahan": 715,
+                "total": 1136
+            },
+            "1": {
+                "Cartwright": 421,
+                "Bresnahan": 715,
+                "total": 1136
+            },
+            "time": "2024-11-06T02:38:08.799Z"
+        },
+        {
+            "0": {
+                "Cartwright": 3858,
+                "Bresnahan": 3431,
+                "total": 7289
+            },
+            "3": {
+                "Cartwright": 3858,
+                "Bresnahan": 3431,
+                "total": 7289
+            },
+            "time": "2024-11-06T02:38:59.549Z"
+        },
+        {
+            "0": {
+                "Cartwright": 3267,
+                "Bresnahan": 3939,
+                "total": 7206
+            },
+            "1": {
+                "Cartwright": 3267,
+                "Bresnahan": 3939,
+                "total": 7206
+            },
+            "time": "2024-11-06T02:46:59.413Z"
+        },
+        {
+            "0": {
+                "Cartwright": 2579,
+                "Bresnahan": 3703,
+                "total": 6282
+            },
+            "2": {
+                "Cartwright": 2579,
+                "Bresnahan": 3703,
+                "total": 6282
+            },
+            "time": "2024-11-06T02:47:40.055Z"
+        },
+        {
+            "0": {
+                "Cartwright": 789,
+                "Bresnahan": 878,
+                "total": 1667
+            },
+            "1": {
+                "Cartwright": 789,
+                "Bresnahan": 878,
+                "total": 1667
+            },
+            "time": "2024-11-06T02:52:40.656Z"
+        },
+        {
+            "0": {
+                "Cartwright": 2634,
+                "Bresnahan": 4344,
+                "total": 6978
+            },
+            "2": {
+                "Cartwright": 2634,
+                "Bresnahan": 4344,
+                "total": 6978
+            },
+            "time": "2024-11-06T02:58:41.354Z"
+        },
+        {
+            "0": {
+                "Cartwright": 3373,
+                "Bresnahan": 4084,
+                "total": 7457
+            },
+            "3": {
+                "Cartwright": 3373,
+                "Bresnahan": 4084,
+                "total": 7457
+            },
+            "time": "2024-11-06T03:00:21.991Z"
+        },
+        {
+            "0": {
+                "Cartwright": 489,
+                "Bresnahan": 497,
+                "total": 986
+            },
+            "1": {
+                "Cartwright": 489,
+                "Bresnahan": 497,
+                "total": 986
+            },
+            "time": "2024-11-06T03:06:52.317Z"
+        },
+        {
+            "0": {
+                "Cartwright": 1698,
+                "Bresnahan": 4163,
+                "total": 5861
+            },
+            "5": {
+                "Cartwright": 1698,
+                "Bresnahan": 4163,
+                "total": 5861
+            },
+            "time": "2024-11-06T03:07:22.455Z"
+        },
+        {
+            "0": {
+                "Cartwright": 2557,
+                "Bresnahan": 3899,
+                "total": 6456
+            },
+            "2": {
+                "Cartwright": 2557,
+                "Bresnahan": 3899,
+                "total": 6456
+            },
+            "time": "2024-11-06T03:20:43.356Z"
+        },
+        {
+            "0": {
+                "Cartwright": 4398,
+                "Bresnahan": 4932,
+                "total": 9330
+            },
+            "3": {
+                "Cartwright": 4398,
+                "Bresnahan": 4932,
+                "total": 9330
+            },
+            "time": "2024-11-06T03:24:54.466Z"
+        },
+        {
+            "0": {
+                "Cartwright": 1904,
+                "Bresnahan": 1998,
+                "total": 3902
+            },
+            "2": {
+                "Cartwright": 1904,
+                "Bresnahan": 1998,
+                "total": 3902
+            },
+            "time": "2024-11-06T03:29:45.269Z"
+        },
+        {
+            "0": {
+                "Cartwright": 6885,
+                "Bresnahan": 6882,
+                "total": 13767
+            },
+            "4": {
+                "Cartwright": 6885,
+                "Bresnahan": 6882,
+                "total": 13767
+            },
+            "time": "2024-11-06T03:38:20.396Z"
         }
     ]
 }

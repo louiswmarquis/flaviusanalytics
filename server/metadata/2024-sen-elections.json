@@ -206,7 +206,7 @@
         "date" : [2024, 11, 5],
 		"time" : 8,
         "fetch" : "true",
-        "notify" : "true",
+        "notify" : "false",
 		"color" : "light-d",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-maryland-us-senate.json",
