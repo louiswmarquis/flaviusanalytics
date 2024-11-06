@@ -346,7 +346,7 @@ function update_storage(election_id, election_metadata, aggregate_results) {
     }
     if (Object.keys(diffs).length !== 1) {
         console.log("Update for " + election_id + "!")
-        if (election_metadata["notify"] && process.env.NODE_ENV !== 'production'){
+        if (election_metadata["notify"] === "true" && process.env.NODE_ENV !== 'production'){
             send_text(election_metadata["name"] + "\n" + counties.toString())
         }
         results_history["diffs"].push(diffs)
