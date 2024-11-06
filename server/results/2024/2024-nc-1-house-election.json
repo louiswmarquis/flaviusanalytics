@@ -14,17 +14,17 @@
     "results": [
         {
             "county": "Total",
-            "Davis": 154612,
-            "Buckhout": 139579,
-            "total": 302298,
-            "margin": 15033,
-            "min_turnout": 375784,
-            "max_turnout": 415583,
+            "Davis": 159282,
+            "Buckhout": 152476,
+            "total": 320512,
+            "margin": 6806,
+            "min_turnout": 375480,
+            "max_turnout": 415511,
             "main_source": "nyt",
             "min_source": "nyt",
             "max_source": "nyt",
-            "min_turnout_margin": 16758,
-            "max_turnout_margin": 18867
+            "min_turnout_margin": 9228,
+            "max_turnout_margin": 9954
         },
         {
             "county": "Bertie",
@@ -32,12 +32,12 @@
             "Buckhout": 3544,
             "total": 8989,
             "margin": 1700,
-            "min_turnout": 9261,
+            "min_turnout": 9080,
             "max_turnout": 10452,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "cnn",
-            "min_turnout_margin": 1751,
+            "min_turnout_margin": 1717,
             "max_turnout_margin": 1977
         },
         {
@@ -70,17 +70,17 @@
         },
         {
             "county": "Currituck",
-            "Davis": 0,
-            "Buckhout": 0,
-            "total": 0,
-            "margin": 0,
+            "Davis": 4386,
+            "Buckhout": 12599,
+            "total": 17600,
+            "margin": -8213,
             "min_turnout": 15392,
-            "max_turnout": 19626,
+            "max_turnout": 18526,
             "main_source": "ap",
             "min_source": "ddhq",
-            "max_source": "ap",
-            "min_turnout_margin": 0,
-            "max_turnout_margin": 0
+            "max_source": "cnn",
+            "min_turnout_margin": -7183,
+            "max_turnout_margin": -8645
         },
         {
             "county": "Edgecombe",
@@ -102,12 +102,12 @@
             "Buckhout": 3304,
             "total": 5718,
             "margin": -1046,
-            "min_turnout": 5850,
+            "min_turnout": 5776,
             "max_turnout": 6353,
             "main_source": "ap",
-            "min_source": "ddhq",
+            "min_source": "ap",
             "max_source": "cnn",
-            "min_turnout_margin": -1070,
+            "min_turnout_margin": -1057,
             "max_turnout_margin": -1162
         },
         {
@@ -186,12 +186,12 @@
             "Buckhout": 5859,
             "total": 11813,
             "margin": -273,
-            "min_turnout": 11981,
+            "min_turnout": 11932,
             "max_turnout": 13273,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "cnn",
-            "min_turnout_margin": -277,
+            "min_turnout_margin": -276,
             "max_turnout_margin": -307
         },
         {
@@ -322,17 +322,17 @@
         },
         {
             "county": "Wilson",
-            "Davis": 3791,
-            "Buckhout": 3210,
-            "total": 7292,
-            "margin": 581,
+            "Davis": 4075,
+            "Buckhout": 3508,
+            "total": 7906,
+            "margin": 567,
             "min_turnout": 41172,
-            "max_turnout": 42894,
+            "max_turnout": 43922,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "cnn",
-            "min_turnout_margin": 3280,
-            "max_turnout_margin": 3418
+            "min_turnout_margin": 2953,
+            "max_turnout_margin": 3150
         }
     ]
 }

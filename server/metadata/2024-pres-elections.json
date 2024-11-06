@@ -118,7 +118,6 @@
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-wisconsin-president.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-PG-WI.json",
-            "ddhq" : "https://embed-api.ddhq.io/v2/races/52842",
             "ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/WI/20241105WI0/detail.json", {"64984" : "Harris", "8639" : "Trump"}]
         },
 		"prev" : "2020-wi-pres-election",

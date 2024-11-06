@@ -136,7 +136,6 @@
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-wisconsin-us-senate.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-SG-WI.json",
-            "ddhq" : "https://embed-api.ddhq.io/v2/races/52884",
 			"ap" : ["https://interactives.apelections.org/election-results/data-live/2024-11-05/results/races/WI/20241105WI50807/detail.json",
 				{"1092" : "Baldwin", "62528" : "Hovde"}]
         },

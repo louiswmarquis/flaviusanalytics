@@ -14,45 +14,45 @@
     "results": [
         {
             "county": "Total",
-            "Mannion": 136862,
-            "Williams": 119155,
-            "total": 256017,
-            "margin": 17707,
+            "Mannion": 149808,
+            "Williams": 130658,
+            "total": 280466,
+            "margin": 19150,
             "min_turnout": 341246,
-            "max_turnout": 372922,
+            "max_turnout": 371477,
             "main_source": "nyt",
             "min_source": "nyt",
             "max_source": "nyt",
-            "min_turnout_margin": 32708,
-            "max_turnout_margin": 35148
+            "min_turnout_margin": 30641,
+            "max_turnout_margin": 32602
         },
         {
             "county": "Cayuga",
-            "Mannion": 9213,
-            "Williams": 9241,
-            "total": 18454,
-            "margin": -28,
+            "Mannion": 10912,
+            "Williams": 12207,
+            "total": 23119,
+            "margin": -1295,
             "min_turnout": 23099,
-            "max_turnout": 24927,
+            "max_turnout": 24859,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "cnn",
-            "min_turnout_margin": -35,
-            "max_turnout_margin": -38
+            "min_turnout_margin": -1294,
+            "max_turnout_margin": -1392
         },
         {
             "county": "Cortland",
-            "Mannion": 6527,
-            "Williams": 5743,
-            "total": 12270,
-            "margin": 784,
+            "Mannion": 7397,
+            "Williams": 7087,
+            "total": 14484,
+            "margin": 310,
             "min_turnout": 14756,
-            "max_turnout": 16360,
+            "max_turnout": 16274,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "cnn",
-            "min_turnout_margin": 943,
-            "max_turnout_margin": 1045
+            "min_turnout_margin": 316,
+            "max_turnout_margin": 348
         },
         {
             "county": "Madison",
@@ -61,12 +61,12 @@
             "total": 31897,
             "margin": -4193,
             "min_turnout": 31435,
-            "max_turnout": 33757,
+            "max_turnout": 33933,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "cnn",
             "min_turnout_margin": -4132,
-            "max_turnout_margin": -4438
+            "max_turnout_margin": -4461
         },
         {
             "county": "Oneida",
@@ -84,17 +84,17 @@
         },
         {
             "county": "Onondaga",
-            "Mannion": 82419,
-            "Williams": 56259,
-            "total": 138678,
-            "margin": 26160,
+            "Mannion": 92796,
+            "Williams": 63452,
+            "total": 156248,
+            "margin": 29344,
             "min_turnout": 217126,
-            "max_turnout": 235047,
+            "max_turnout": 233580,
             "main_source": "ap",
             "min_source": "ddhq",
-            "max_source": "cnn",
-            "min_turnout_margin": 40958,
-            "max_turnout_margin": 44339
+            "max_source": "ap",
+            "min_turnout_margin": 40777,
+            "max_turnout_margin": 43867
         }
     ]
 }

@@ -14,17 +14,17 @@
     "results": [
         {
             "county": "Total",
-            "Tester": 11573,
-            "Sheehy": 15572,
-            "total": 27600,
-            "margin": -3999,
-            "min_turnout": 574413,
-            "max_turnout": 622836,
+            "Tester": 14587,
+            "Sheehy": 19037,
+            "total": 34186,
+            "margin": -4450,
+            "min_turnout": 571247,
+            "max_turnout": 622653,
             "main_source": "nyt",
             "min_source": "nyt",
             "max_source": "nyt",
-            "min_turnout_margin": -6084,
-            "max_turnout_margin": -6866
+            "min_turnout_margin": -7711,
+            "max_turnout_margin": -8966
         },
         {
             "county": "Beaverhead",
@@ -84,17 +84,17 @@
         },
         {
             "county": "Carbon",
-            "Tester": 0,
-            "Sheehy": 0,
-            "total": 0,
-            "margin": 0,
-            "min_turnout": 6971,
+            "Tester": 1671,
+            "Sheehy": 2046,
+            "total": 3767,
+            "margin": -375,
+            "min_turnout": 3805,
             "max_turnout": 7507,
             "main_source": "ap",
-            "min_source": "ddhq",
-            "max_source": "ap",
-            "min_turnout_margin": 0,
-            "max_turnout_margin": 0
+            "min_source": "ap",
+            "max_source": "nyt",
+            "min_turnout_margin": -379,
+            "max_turnout_margin": -747
         },
         {
             "county": "Carter",
@@ -126,17 +126,17 @@
         },
         {
             "county": "Chouteau",
-            "Tester": 125,
-            "Sheehy": 195,
-            "total": 326,
-            "margin": -70,
+            "Tester": 364,
+            "Sheehy": 206,
+            "total": 576,
+            "margin": 158,
             "min_turnout": 2716,
-            "max_turnout": 2964,
+            "max_turnout": 3032,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "cnn",
-            "min_turnout_margin": -583,
-            "max_turnout_margin": -636
+            "min_turnout_margin": 745,
+            "max_turnout_margin": 832
         },
         {
             "county": "Custer",
@@ -182,17 +182,17 @@
         },
         {
             "county": "Deer Lodge",
-            "Tester": 1250,
-            "Sheehy": 477,
-            "total": 1753,
-            "margin": 773,
+            "Tester": 2030,
+            "Sheehy": 1014,
+            "total": 3090,
+            "margin": 1016,
             "min_turnout": 4573,
-            "max_turnout": 5009,
+            "max_turnout": 4905,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "cnn",
-            "min_turnout_margin": 2017,
-            "max_turnout_margin": 2209
+            "min_turnout_margin": 1504,
+            "max_turnout_margin": 1613
         },
         {
             "county": "Fallon",
@@ -378,17 +378,17 @@
         },
         {
             "county": "Liberty",
-            "Tester": 0,
-            "Sheehy": 0,
-            "total": 0,
-            "margin": 0,
+            "Tester": 164,
+            "Sheehy": 369,
+            "total": 538,
+            "margin": -205,
             "min_turnout": 967,
-            "max_turnout": 1045,
+            "max_turnout": 1098,
             "main_source": "ap",
             "min_source": "ddhq",
-            "max_source": "ap",
-            "min_turnout_margin": 0,
-            "max_turnout_margin": 0
+            "max_source": "cnn",
+            "min_turnout_margin": -368,
+            "max_turnout_margin": -418
         },
         {
             "county": "Lincoln",
@@ -492,15 +492,15 @@
             "county": "Park",
             "Tester": 4081,
             "Sheehy": 3255,
-            "total": 7406,
+            "total": 7412,
             "margin": 826,
             "min_turnout": 11180,
             "max_turnout": 12897,
-            "main_source": "ap",
+            "main_source": "cnn",
             "min_source": "ddhq",
             "max_source": "ap",
-            "min_turnout_margin": 1247,
-            "max_turnout_margin": 1438
+            "min_turnout_margin": 1246,
+            "max_turnout_margin": 1437
         },
         {
             "county": "Petroleum",
@@ -728,17 +728,17 @@
         },
         {
             "county": "Toole",
-            "Tester": 30,
-            "Sheehy": 28,
-            "total": 124,
-            "margin": 2,
+            "Tester": 89,
+            "Sheehy": 301,
+            "total": 403,
+            "margin": -212,
             "min_turnout": 1943,
             "max_turnout": 2174,
-            "main_source": "nyt",
+            "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
-            "min_turnout_margin": 31,
-            "max_turnout_margin": 35
+            "min_turnout_margin": -1022,
+            "max_turnout_margin": -1144
         },
         {
             "county": "Treasure",

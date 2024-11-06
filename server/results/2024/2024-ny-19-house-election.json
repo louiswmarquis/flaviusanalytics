@@ -14,31 +14,31 @@
     "results": [
         {
             "county": "Total",
-            "Riley": 160684,
-            "Molinaro": 132521,
-            "total": 293205,
-            "margin": 28163,
+            "Riley": 173808,
+            "Molinaro": 150114,
+            "total": 323922,
+            "margin": 23694,
             "min_turnout": 346160,
-            "max_turnout": 397862,
+            "max_turnout": 397668,
             "main_source": "nyt",
             "min_source": "nyt",
             "max_source": "nyt",
-            "min_turnout_margin": 30191,
-            "max_turnout_margin": 35064
+            "min_turnout_margin": 23154,
+            "max_turnout_margin": 26950
         },
         {
             "county": "Broome",
-            "Riley": 39764,
-            "Molinaro": 28320,
-            "total": 68084,
-            "margin": 11444,
+            "Riley": 39349,
+            "Molinaro": 36512,
+            "total": 75861,
+            "margin": 2837,
             "min_turnout": 83780,
             "max_turnout": 94405,
-            "main_source": "nyt",
+            "main_source": "ddhq",
             "min_source": "ddhq",
             "max_source": "ap",
-            "min_turnout_margin": 14082,
-            "max_turnout_margin": 15868
+            "min_turnout_margin": 3133,
+            "max_turnout_margin": 3530
         },
         {
             "county": "Chenango",
@@ -56,45 +56,45 @@
         },
         {
             "county": "Columbia",
-            "Riley": 16618,
-            "Molinaro": 11905,
-            "total": 28523,
-            "margin": 4713,
+            "Riley": 18058,
+            "Molinaro": 13934,
+            "total": 31992,
+            "margin": 4124,
             "min_turnout": 33023,
             "max_turnout": 38174,
             "main_source": "ddhq",
             "min_source": "ddhq",
             "max_source": "ap",
-            "min_turnout_margin": 5457,
-            "max_turnout_margin": 6308
+            "min_turnout_margin": 4257,
+            "max_turnout_margin": 4921
         },
         {
             "county": "Cortland",
-            "Riley": 1390,
-            "Molinaro": 2402,
-            "total": 3792,
-            "margin": -1012,
+            "Riley": 1704,
+            "Molinaro": 3172,
+            "total": 4876,
+            "margin": -1468,
             "min_turnout": 4902,
-            "max_turnout": 5195,
+            "max_turnout": 5187,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "cnn",
-            "min_turnout_margin": -1308,
-            "max_turnout_margin": -1386
+            "min_turnout_margin": -1476,
+            "max_turnout_margin": -1562
         },
         {
             "county": "Delaware",
-            "Riley": 6756,
-            "Molinaro": 8861,
-            "total": 15617,
-            "margin": -2105,
+            "Riley": 8795,
+            "Molinaro": 13097,
+            "total": 21892,
+            "margin": -4302,
             "min_turnout": 21165,
-            "max_turnout": 22769,
+            "max_turnout": 23044,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "cnn",
-            "min_turnout_margin": -2853,
-            "max_turnout_margin": -3069
+            "min_turnout_margin": -4159,
+            "max_turnout_margin": -4528
         },
         {
             "county": "Greene",
@@ -140,31 +140,31 @@
         },
         {
             "county": "Sullivan",
-            "Riley": 13859,
-            "Molinaro": 18423,
-            "total": 32282,
-            "margin": -4564,
+            "Riley": 13932,
+            "Molinaro": 18553,
+            "total": 32485,
+            "margin": -4621,
             "min_turnout": 32327,
             "max_turnout": 36033,
-            "main_source": "ddhq",
+            "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
-            "min_turnout_margin": -4570,
-            "max_turnout_margin": -5094
+            "min_turnout_margin": -4599,
+            "max_turnout_margin": -5126
         },
         {
             "county": "Tompkins",
-            "Riley": 30140,
-            "Molinaro": 10721,
-            "total": 40861,
-            "margin": 19419,
+            "Riley": 31958,
+            "Molinaro": 11043,
+            "total": 43001,
+            "margin": 20915,
             "min_turnout": 39395,
-            "max_turnout": 45423,
+            "max_turnout": 45264,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "cnn",
-            "min_turnout_margin": 18722,
-            "max_turnout_margin": 21587
+            "min_turnout_margin": 19161,
+            "max_turnout_margin": 22016
         },
         {
             "county": "Ulster",
@@ -173,12 +173,12 @@
             "total": 27964,
             "margin": 10192,
             "min_turnout": 28841,
-            "max_turnout": 32137,
+            "max_turnout": 31835,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "cnn",
             "min_turnout_margin": 10512,
-            "max_turnout_margin": 11713
+            "max_turnout_margin": 11603
         }
     ]
 }
