@@ -14,17 +14,17 @@
     "results": [
         {
             "county": "Total",
-            "Osborn": 152573,
-            "Fischer": 120567,
-            "total": 273140,
-            "margin": 32006,
-            "min_turnout": 826407,
-            "max_turnout": 983050,
+            "Osborn": 156156,
+            "Fischer": 127498,
+            "total": 283654,
+            "margin": 28658,
+            "min_turnout": 826406,
+            "max_turnout": 983152,
             "main_source": "nyt",
             "min_source": "nyt",
             "max_source": "nyt",
-            "min_turnout_margin": 56397,
-            "max_turnout_margin": 79943
+            "min_turnout_margin": 45378,
+            "max_turnout_margin": 68344
         },
         {
             "county": "Adams",
@@ -168,17 +168,17 @@
         },
         {
             "county": "Burt",
-            "Osborn": 0,
-            "Fischer": 0,
-            "total": 0,
-            "margin": 0,
+            "Osborn": 317,
+            "Fischer": 394,
+            "total": 711,
+            "margin": -77,
             "min_turnout": 3698,
             "max_turnout": 3768,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "ddhq",
-            "min_turnout_margin": 0,
-            "max_turnout_margin": 0
+            "min_turnout_margin": -400,
+            "max_turnout_margin": -408
         },
         {
             "county": "Butler",
@@ -224,17 +224,17 @@
         },
         {
             "county": "Chase",
-            "Osborn": 0,
-            "Fischer": 0,
-            "total": 0,
-            "margin": 0,
+            "Osborn": 75,
+            "Fischer": 313,
+            "total": 388,
+            "margin": -238,
             "min_turnout": 1971,
             "max_turnout": 2058,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
-            "min_turnout_margin": 0,
-            "max_turnout_margin": 0
+            "min_turnout_margin": -1209,
+            "max_turnout_margin": -1262
         },
         {
             "county": "Cherry",
@@ -280,17 +280,17 @@
         },
         {
             "county": "Colfax",
-            "Osborn": 0,
-            "Fischer": 0,
-            "total": 0,
-            "margin": 0,
+            "Osborn": 264,
+            "Fischer": 456,
+            "total": 720,
+            "margin": -192,
             "min_turnout": 3592,
-            "max_turnout": 3687,
+            "max_turnout": 3789,
             "main_source": "ap",
             "min_source": "ap",
-            "max_source": "ddhq",
-            "min_turnout_margin": 0,
-            "max_turnout_margin": 0
+            "max_source": "cnn",
+            "min_turnout_margin": -958,
+            "max_turnout_margin": -1010
         },
         {
             "county": "Cuming",
@@ -392,17 +392,17 @@
         },
         {
             "county": "Dodge",
-            "Osborn": 0,
-            "Fischer": 0,
-            "total": 0,
-            "margin": 0,
+            "Osborn": 1825,
+            "Fischer": 3061,
+            "total": 4886,
+            "margin": -1236,
             "min_turnout": 16368,
             "max_turnout": 17317,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "ddhq",
-            "min_turnout_margin": 0,
-            "max_turnout_margin": 0
+            "min_turnout_margin": -4141,
+            "max_turnout_margin": -4381
         },
         {
             "county": "Douglas",
@@ -434,17 +434,17 @@
         },
         {
             "county": "Fillmore",
-            "Osborn": 0,
-            "Fischer": 0,
-            "total": 0,
-            "margin": 0,
-            "min_turnout": 3205,
+            "Osborn": 296,
+            "Fischer": 441,
+            "total": 737,
+            "margin": -145,
+            "min_turnout": 3204,
             "max_turnout": 3243,
             "main_source": "ap",
-            "min_source": "ddhq",
+            "min_source": "cnn",
             "max_source": "ap",
-            "min_turnout_margin": 0,
-            "max_turnout_margin": 0
+            "min_turnout_margin": -630,
+            "max_turnout_margin": -638
         },
         {
             "county": "Franklin",
@@ -462,17 +462,17 @@
         },
         {
             "county": "Frontier",
-            "Osborn": 0,
-            "Fischer": 0,
-            "total": 0,
-            "margin": 0,
+            "Osborn": 29,
+            "Fischer": 146,
+            "total": 175,
+            "margin": -117,
             "min_turnout": 1445,
             "max_turnout": 1498,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
-            "min_turnout_margin": 0,
-            "max_turnout_margin": 0
+            "min_turnout_margin": -966,
+            "max_turnout_margin": -1002
         },
         {
             "county": "Furnas",
@@ -602,17 +602,17 @@
         },
         {
             "county": "Harlan",
-            "Osborn": 0,
-            "Fischer": 0,
-            "total": 0,
-            "margin": 0,
+            "Osborn": 419,
+            "Fischer": 1368,
+            "total": 1787,
+            "margin": -949,
             "min_turnout": 1880,
             "max_turnout": 1974,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
-            "min_turnout_margin": 0,
-            "max_turnout_margin": 0
+            "min_turnout_margin": -998,
+            "max_turnout_margin": -1048
         },
         {
             "county": "Hayes",
@@ -630,17 +630,17 @@
         },
         {
             "county": "Hitchcock",
-            "Osborn": 0,
-            "Fischer": 0,
-            "total": 0,
-            "margin": 0,
+            "Osborn": 75,
+            "Fischer": 282,
+            "total": 357,
+            "margin": -207,
             "min_turnout": 1468,
             "max_turnout": 1601,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
-            "min_turnout_margin": 0,
-            "max_turnout_margin": 0
+            "min_turnout_margin": -851,
+            "max_turnout_margin": -928
         },
         {
             "county": "Holt",
@@ -714,17 +714,17 @@
         },
         {
             "county": "Kearney",
-            "Osborn": 0,
-            "Fischer": 0,
-            "total": 0,
-            "margin": 0,
+            "Osborn": 283,
+            "Fischer": 470,
+            "total": 753,
+            "margin": -187,
             "min_turnout": 3488,
             "max_turnout": 3714,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "ddhq",
-            "min_turnout_margin": 0,
-            "max_turnout_margin": 0
+            "min_turnout_margin": -866,
+            "max_turnout_margin": -922
         },
         {
             "county": "Keith",

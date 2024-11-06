@@ -51,7 +51,7 @@
             "margin": -33873,
             "min_turnout": 135113,
             "max_turnout": 141610,
-            "main_source": "cnn",
+            "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": -37178,

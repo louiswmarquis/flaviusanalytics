@@ -34,6 +34,11 @@
             "time": "2024-11-06T02:21:14.595Z",
             "margin": 32006,
             "total": 273140
+        },
+        {
+            "time": "2024-11-06T02:26:45.612Z",
+            "margin": 28658,
+            "total": 283654
         }
     ],
     "diffs": [
@@ -662,6 +667,59 @@
                 "total": 386
             },
             "time": "2024-11-06T02:21:14.595Z"
+        },
+        {
+            "0": {
+                "Osborn": 3583,
+                "Fischer": 6931,
+                "total": 10514
+            },
+            "11": {
+                "Osborn": 317,
+                "Fischer": 394,
+                "total": 711
+            },
+            "15": {
+                "Osborn": 75,
+                "Fischer": 313,
+                "total": 388
+            },
+            "19": {
+                "Osborn": 264,
+                "Fischer": 456,
+                "total": 720
+            },
+            "27": {
+                "Osborn": 1825,
+                "Fischer": 3061,
+                "total": 4886
+            },
+            "30": {
+                "Osborn": 296,
+                "Fischer": 441,
+                "total": 737
+            },
+            "32": {
+                "Osborn": 29,
+                "Fischer": 146,
+                "total": 175
+            },
+            "42": {
+                "Osborn": 419,
+                "Fischer": 1368,
+                "total": 1787
+            },
+            "44": {
+                "Osborn": 75,
+                "Fischer": 282,
+                "total": 357
+            },
+            "50": {
+                "Osborn": 283,
+                "Fischer": 470,
+                "total": 753
+            },
+            "time": "2024-11-06T02:26:45.612Z"
         }
     ]
 }

@@ -13,17 +13,17 @@
     "results": [
         {
             "county": "Total",
-            "Jones": 16540,
-            "Lawler": 22554,
-            "total": 39889,
-            "margin": -6014,
+            "Jones": 25658,
+            "Lawler": 28370,
+            "total": 55093,
+            "margin": -2712,
             "min_turnout": 347106,
             "max_turnout": 390407,
             "main_source": "nyt",
             "min_source": "nyt",
             "max_source": "nyt",
-            "min_turnout_margin": -11286,
-            "max_turnout_margin": -13100
+            "min_turnout_margin": 18623,
+            "max_turnout_margin": 20614
         },
         {
             "county": "Dutchess",
@@ -55,17 +55,17 @@
         },
         {
             "county": "Rockland",
-            "Jones": 0,
-            "Lawler": 0,
-            "total": 0,
-            "margin": 0,
+            "Jones": 9118,
+            "Lawler": 5816,
+            "total": 15204,
+            "margin": 3302,
             "min_turnout": 137715,
             "max_turnout": 155237,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
-            "min_turnout_margin": 0,
-            "max_turnout_margin": 0
+            "min_turnout_margin": 29909,
+            "max_turnout_margin": 33714
         },
         {
             "county": "Westchester",
