@@ -4,6 +4,36 @@
             "time": "2024-11-04T00:13:14.958Z",
             "margin": 0,
             "total": 0
+        },
+        {
+            "time": "2024-11-06T00:34:23.823Z",
+            "margin": 7,
+            "total": 21
+        },
+        {
+            "time": "2024-11-06T00:36:42.646Z",
+            "margin": 57923,
+            "total": 105572
+        },
+        {
+            "time": "2024-11-06T00:38:13.229Z",
+            "margin": 58859,
+            "total": 109439
+        },
+        {
+            "time": "2024-11-06T00:40:15.518Z",
+            "margin": 58656,
+            "total": 109778
+        },
+        {
+            "time": "2024-11-06T00:42:05.318Z",
+            "margin": 58342,
+            "total": 110342
+        },
+        {
+            "time": "2024-11-06T00:44:27.058Z",
+            "margin": 58404,
+            "total": 110968
         }
     ],
     "diffs": [
@@ -514,6 +544,219 @@
                 "total": 0
             },
             "time": "2024-11-04T00:13:14.958Z"
+        },
+        {
+            "0": {
+                "Stein": 14,
+                "Robinson": 7,
+                "total": 21
+            },
+            "11": {
+                "Stein": 14,
+                "Robinson": 7,
+                "total": 21
+            },
+            "time": "2024-11-06T00:34:23.823Z"
+        },
+        {
+            "0": {
+                "Stein": 79573,
+                "Robinson": 21657,
+                "total": 105551
+            },
+            "2": {
+                "Stein": 230,
+                "Robinson": 200,
+                "total": 449
+            },
+            "4": {
+                "Stein": 142,
+                "Robinson": 42,
+                "total": 198
+            },
+            "7": {
+                "Stein": 438,
+                "Robinson": 284,
+                "total": 760
+            },
+            "10": {
+                "Stein": 4208,
+                "Robinson": 1985,
+                "total": 6561
+            },
+            "11": {
+                "Stein": 8852,
+                "Robinson": 1704,
+                "total": 10924
+            },
+            "13": {
+                "Stein": 4327,
+                "Robinson": 1831,
+                "total": 6491
+            },
+            "18": {
+                "Stein": 1978,
+                "Robinson": 1231,
+                "total": 3389
+            },
+            "22": {
+                "Stein": 136,
+                "Robinson": 145,
+                "total": 292
+            },
+            "32": {
+                "Stein": 7786,
+                "Robinson": 827,
+                "total": 8868
+            },
+            "52": {
+                "Stein": 67,
+                "Robinson": 62,
+                "total": 139
+            },
+            "54": {
+                "Stein": 460,
+                "Robinson": 239,
+                "total": 724
+            },
+            "56": {
+                "Stein": 397,
+                "Robinson": 279,
+                "total": 722
+            },
+            "64": {
+                "Stein": 802,
+                "Robinson": 332,
+                "total": 1170
+            },
+            "65": {
+                "Stein": 4571,
+                "Robinson": 1568,
+                "total": 6410
+            },
+            "68": {
+                "Stein": 5159,
+                "Robinson": 519,
+                "total": 5830
+            },
+            "69": {
+                "Stein": 173,
+                "Robinson": 113,
+                "total": 296
+            },
+            "70": {
+                "Stein": 330,
+                "Robinson": 199,
+                "total": 545
+            },
+            "74": {
+                "Stein": 1766,
+                "Robinson": 628,
+                "total": 2485
+            },
+            "75": {
+                "Stein": 394,
+                "Robinson": 226,
+                "total": 644
+            },
+            "81": {
+                "Stein": 647,
+                "Robinson": 466,
+                "total": 1172
+            },
+            "83": {
+                "Stein": 254,
+                "Robinson": 188,
+                "total": 455
+            },
+            "87": {
+                "Stein": 104,
+                "Robinson": 63,
+                "total": 179
+            },
+            "88": {
+                "Stein": 695,
+                "Robinson": 273,
+                "total": 1007
+            },
+            "92": {
+                "Stein": 33801,
+                "Robinson": 7270,
+                "total": 42879
+            },
+            "95": {
+                "Stein": 874,
+                "Robinson": 392,
+                "total": 1317
+            },
+            "96": {
+                "Stein": 982,
+                "Robinson": 591,
+                "total": 1645
+            },
+            "time": "2024-11-06T00:36:42.646Z"
+        },
+        {
+            "0": {
+                "Stein": 2292,
+                "Robinson": 1356,
+                "total": 3867
+            },
+            "63": {
+                "Stein": 2292,
+                "Robinson": 1356,
+                "total": 3867
+            },
+            "time": "2024-11-06T00:38:13.229Z"
+        },
+        {
+            "0": {
+                "Stein": 68,
+                "Robinson": 271,
+                "total": 339
+            },
+            "28": {
+                "Stein": 68,
+                "Robinson": 271,
+                "total": 339
+            },
+            "time": "2024-11-06T00:40:15.518Z"
+        },
+        {
+            "0": {
+                "Stein": 125,
+                "Robinson": 439,
+                "total": 564
+            },
+            "24": {
+                "Stein": 62,
+                "Robinson": 297,
+                "total": 359
+            },
+            "84": {
+                "Stein": 63,
+                "Robinson": 142,
+                "total": 205
+            },
+            "time": "2024-11-06T00:42:05.318Z"
+        },
+        {
+            "0": {
+                "Stein": 344,
+                "Robinson": 282,
+                "total": 626
+            },
+            "34": {
+                "Stein": 222,
+                "Robinson": 213,
+                "total": 435
+            },
+            "41": {
+                "Stein": 122,
+                "Robinson": 69,
+                "total": 191
+            },
+            "time": "2024-11-06T00:44:27.058Z"
         }
     ]
 }

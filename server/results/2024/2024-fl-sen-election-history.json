@@ -49,6 +49,151 @@
             "time": "2024-11-06T00:12:09.977Z",
             "margin": -160314,
             "total": 4502307
+        },
+        {
+            "time": "2024-11-06T00:12:48.130Z",
+            "margin": -231632,
+            "total": 4712498
+        },
+        {
+            "time": "2024-11-06T00:14:32.724Z",
+            "margin": -275560,
+            "total": 4899942
+        },
+        {
+            "time": "2024-11-06T00:15:48.679Z",
+            "margin": -426777,
+            "total": 5380003
+        },
+        {
+            "time": "2024-11-06T00:18:23.193Z",
+            "margin": -532876,
+            "total": 6305045
+        },
+        {
+            "time": "2024-11-06T00:19:18.761Z",
+            "margin": -538504,
+            "total": 6319315
+        },
+        {
+            "time": "2024-11-06T00:19:59.307Z",
+            "margin": -541534,
+            "total": 6342532
+        },
+        {
+            "time": "2024-11-06T00:21:19.049Z",
+            "margin": -547719,
+            "total": 6352029
+        },
+        {
+            "time": "2024-11-06T00:21:38.483Z",
+            "margin": -551363,
+            "total": 6363909
+        },
+        {
+            "time": "2024-11-06T00:22:34.155Z",
+            "margin": -553814,
+            "total": 6368820
+        },
+        {
+            "time": "2024-11-06T00:22:53.651Z",
+            "margin": -557705,
+            "total": 6374773
+        },
+        {
+            "time": "2024-11-06T00:23:33.951Z",
+            "margin": -527172,
+            "total": 6934078
+        },
+        {
+            "time": "2024-11-06T00:24:03.855Z",
+            "margin": -532457,
+            "total": 6967730
+        },
+        {
+            "time": "2024-11-06T00:24:54.063Z",
+            "margin": -525181,
+            "total": 7121550
+        },
+        {
+            "time": "2024-11-06T00:25:34.071Z",
+            "margin": -539486,
+            "total": 7153761
+        },
+        {
+            "time": "2024-11-06T00:26:42.242Z",
+            "margin": -540742,
+            "total": 7159548
+        },
+        {
+            "time": "2024-11-06T00:27:31.590Z",
+            "margin": -541421,
+            "total": 7162269
+        },
+        {
+            "time": "2024-11-06T00:29:22.271Z",
+            "margin": -552256,
+            "total": 7206990
+        },
+        {
+            "time": "2024-11-06T00:29:52.428Z",
+            "margin": -560961,
+            "total": 7236692
+        },
+        {
+            "time": "2024-11-06T00:30:35.497Z",
+            "margin": -647370,
+            "total": 7651907
+        },
+        {
+            "time": "2024-11-06T00:31:12.632Z",
+            "margin": -657151,
+            "total": 7705585
+        },
+        {
+            "time": "2024-11-06T00:32:06.607Z",
+            "margin": -660309,
+            "total": 7907997
+        },
+        {
+            "time": "2024-11-06T00:32:43.701Z",
+            "margin": -668941,
+            "total": 7929118
+        },
+        {
+            "time": "2024-11-06T00:33:02.487Z",
+            "margin": -671227,
+            "total": 7935987
+        },
+        {
+            "time": "2024-11-06T00:34:24.162Z",
+            "margin": -690713,
+            "total": 8008572
+        },
+        {
+            "time": "2024-11-06T00:37:42.947Z",
+            "margin": -775605,
+            "total": 8380502
+        },
+        {
+            "time": "2024-11-06T00:38:56.111Z",
+            "margin": -776560,
+            "total": 8385024
+        },
+        {
+            "time": "2024-11-06T00:41:45.841Z",
+            "margin": -795164,
+            "total": 8455804
+        },
+        {
+            "time": "2024-11-06T00:42:45.617Z",
+            "margin": -802553,
+            "total": 8478803
+        },
+        {
+            "time": "2024-11-06T00:44:27.338Z",
+            "margin": -832094,
+            "total": 8550042
         }
     ],
     "diffs": [
@@ -636,6 +781,943 @@
                 "total": 2132
             },
             "time": "2024-11-06T00:12:09.977Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 68701,
+                "Scott": 140019,
+                "total": 210191
+            },
+            "8": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 66
+            },
+            "11": {
+                "Mucarsel-Powell": 54011,
+                "Scott": 120332,
+                "total": 175409
+            },
+            "23": {
+                "Mucarsel-Powell": 376,
+                "Scott": 662,
+                "total": 1060
+            },
+            "44": {
+                "Mucarsel-Powell": 13470,
+                "Scott": 17889,
+                "total": 31627
+            },
+            "52": {
+                "Mucarsel-Powell": 844,
+                "Scott": 1136,
+                "total": 2029
+            },
+            "time": "2024-11-06T00:12:48.130Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 70634,
+                "Scott": 114562,
+                "total": 187444
+            },
+            "4": {
+                "Mucarsel-Powell": 863,
+                "Scott": 2706,
+                "total": 3651
+            },
+            "17": {
+                "Mucarsel-Powell": 954,
+                "Scott": 2130,
+                "total": 3168
+            },
+            "37": {
+                "Mucarsel-Powell": 3917,
+                "Scott": 11094,
+                "total": 15262
+            },
+            "40": {
+                "Mucarsel-Powell": 64900,
+                "Scott": 98632,
+                "total": 165363
+            },
+            "time": "2024-11-06T00:14:32.724Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 161623,
+                "Scott": 312840,
+                "total": 480061
+            },
+            "2": {
+                "Mucarsel-Powell": 106,
+                "Scott": 202,
+                "total": 308
+            },
+            "15": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 322
+            },
+            "35": {
+                "Mucarsel-Powell": 105846,
+                "Scott": 207320,
+                "total": 316323
+            },
+            "52": {
+                "Mucarsel-Powell": 2660,
+                "Scott": 4630,
+                "total": 7472
+            },
+            "55": {
+                "Mucarsel-Powell": 52255,
+                "Scott": 98069,
+                "total": 151959
+            },
+            "56": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 150
+            },
+            "58": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 81
+            },
+            "60": {
+                "Mucarsel-Powell": 756,
+                "Scott": 2619,
+                "total": 3446
+            },
+            "time": "2024-11-06T00:15:48.679Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 404317,
+                "Scott": 510416,
+                "total": 925042
+            },
+            "4": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 11
+            },
+            "21": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 1
+            },
+            "33": {
+                "Mucarsel-Powell": 7,
+                "Scott": 12,
+                "total": 22
+            },
+            "34": {
+                "Mucarsel-Powell": 6479,
+                "Scott": 14782,
+                "total": 21723
+            },
+            "39": {
+                "Mucarsel-Powell": 1610,
+                "Scott": 4139,
+                "total": 5812
+            },
+            "43": {
+                "Mucarsel-Powell": 386835,
+                "Scott": 469033,
+                "total": 864781
+            },
+            "51": {
+                "Mucarsel-Powell": 4048,
+                "Scott": 9085,
+                "total": 13594
+            },
+            "64": {
+                "Mucarsel-Powell": 1576,
+                "Scott": 3521,
+                "total": 5261
+            },
+            "65": {
+                "Mucarsel-Powell": 3762,
+                "Scott": 9844,
+                "total": 13837
+            },
+            "time": "2024-11-06T00:18:23.193Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 4049,
+                "Scott": 9677,
+                "total": 14270
+            },
+            "17": {
+                "Mucarsel-Powell": 970,
+                "Scott": 2850,
+                "total": 3910
+            },
+            "26": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 136
+            },
+            "64": {
+                "Mucarsel-Powell": 3079,
+                "Scott": 6827,
+                "total": 10224
+            },
+            "time": "2024-11-06T00:19:18.761Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 9945,
+                "Scott": 12975,
+                "total": 23217
+            },
+            "15": {
+                "Mucarsel-Powell": 8251,
+                "Scott": 10671,
+                "total": 19112
+            },
+            "52": {
+                "Mucarsel-Powell": 1694,
+                "Scott": 2304,
+                "total": 4105
+            },
+            "time": "2024-11-06T00:19:59.307Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 1583,
+                "Scott": 7768,
+                "total": 9497
+            },
+            "14": {
+                "Mucarsel-Powell": 769,
+                "Scott": 4325,
+                "total": 5194
+            },
+            "23": {
+                "Mucarsel-Powell": 589,
+                "Scott": 1832,
+                "total": 2461
+            },
+            "38": {
+                "Mucarsel-Powell": 225,
+                "Scott": 1611,
+                "total": 1836
+            },
+            "39": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 6
+            },
+            "time": "2024-11-06T00:21:19.049Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 3974,
+                "Scott": 7618,
+                "total": 11880
+            },
+            "52": {
+                "Mucarsel-Powell": 3974,
+                "Scott": 7618,
+                "total": 11880
+            },
+            "time": "2024-11-06T00:21:38.483Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 1175,
+                "Scott": 3626,
+                "total": 4911
+            },
+            "60": {
+                "Mucarsel-Powell": 1175,
+                "Scott": 3626,
+                "total": 4911
+            },
+            "time": "2024-11-06T00:22:34.155Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 852,
+                "Scott": 4743,
+                "total": 5953
+            },
+            "11": {
+                "Mucarsel-Powell": 0,
+                "Scott": -10,
+                "total": 64
+            },
+            "34": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 117
+            },
+            "40": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 80
+            },
+            "62": {
+                "Mucarsel-Powell": 852,
+                "Scott": 4753,
+                "total": 5692
+            },
+            "time": "2024-11-06T00:22:53.651Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 292035,
+                "Scott": 261502,
+                "total": 559305
+            },
+            "25": {
+                "Mucarsel-Powell": 1,
+                "Scott": 0,
+                "total": 1
+            },
+            "50": {
+                "Mucarsel-Powell": 292034,
+                "Scott": 261502,
+                "total": 559304
+            },
+            "time": "2024-11-06T00:23:33.951Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 14049,
+                "Scott": 19334,
+                "total": 33652
+            },
+            "6": {
+                "Mucarsel-Powell": 7806,
+                "Scott": 7293,
+                "total": 14912
+            },
+            "17": {
+                "Mucarsel-Powell": 807,
+                "Scott": 1478,
+                "total": 2348
+            },
+            "39": {
+                "Mucarsel-Powell": 544,
+                "Scott": 576,
+                "total": 1138
+            },
+            "52": {
+                "Mucarsel-Powell": 4423,
+                "Scott": 7136,
+                "total": 11879
+            },
+            "63": {
+                "Mucarsel-Powell": 469,
+                "Scott": 2851,
+                "total": 3375
+            },
+            "time": "2024-11-06T00:24:03.855Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 78916,
+                "Scott": 71640,
+                "total": 153820
+            },
+            "1": {
+                "Mucarsel-Powell": 63281,
+                "Scott": 40029,
+                "total": 104795
+            },
+            "11": {
+                "Mucarsel-Powell": 0,
+                "Scott": 10,
+                "total": 10
+            },
+            "12": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 33
+            },
+            "28": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 371
+            },
+            "34": {
+                "Mucarsel-Powell": 6490,
+                "Scott": 13312,
+                "total": 20264
+            },
+            "51": {
+                "Mucarsel-Powell": 4905,
+                "Scott": 11783,
+                "total": 17284
+            },
+            "52": {
+                "Mucarsel-Powell": 4240,
+                "Scott": 6506,
+                "total": 11063
+            },
+            "time": "2024-11-06T00:24:54.063Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 8563,
+                "Scott": 22868,
+                "total": 32211
+            },
+            "5": {
+                "Mucarsel-Powell": 4441,
+                "Scott": 9713,
+                "total": 14589
+            },
+            "18": {
+                "Mucarsel-Powell": 1794,
+                "Scott": 4813,
+                "total": 6722
+            },
+            "20": {
+                "Mucarsel-Powell": 1388,
+                "Scott": 7449,
+                "total": 9004
+            },
+            "36": {
+                "Mucarsel-Powell": 940,
+                "Scott": 893,
+                "total": 1896
+            },
+            "time": "2024-11-06T00:25:34.071Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 2153,
+                "Scott": 3409,
+                "total": 5787
+            },
+            "38": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 25
+            },
+            "52": {
+                "Mucarsel-Powell": 2153,
+                "Scott": 3409,
+                "total": 5742
+            },
+            "54": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 20
+            },
+            "time": "2024-11-06T00:26:42.242Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 1072,
+                "Scott": 1751,
+                "total": 2721
+            },
+            "56": {
+                "Mucarsel-Powell": 1072,
+                "Scott": 1751,
+                "total": 2721
+            },
+            "time": "2024-11-06T00:27:31.590Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 16273,
+                "Scott": 27108,
+                "total": 44721
+            },
+            "5": {
+                "Mucarsel-Powell": 10,
+                "Scott": 0,
+                "total": 239
+            },
+            "15": {
+                "Mucarsel-Powell": 9716,
+                "Scott": 11934,
+                "total": 22245
+            },
+            "39": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 7
+            },
+            "47": {
+                "Mucarsel-Powell": 2709,
+                "Scott": 7706,
+                "total": 10575
+            },
+            "52": {
+                "Mucarsel-Powell": 1520,
+                "Scott": 2310,
+                "total": 3933
+            },
+            "63": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 7
+            },
+            "64": {
+                "Mucarsel-Powell": 2318,
+                "Scott": 5158,
+                "total": 7715
+            },
+            "time": "2024-11-06T00:29:22.271Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 9801,
+                "Scott": 18506,
+                "total": 29702
+            },
+            "5": {
+                "Mucarsel-Powell": 5292,
+                "Scott": 9873,
+                "total": 15496
+            },
+            "19": {
+                "Mucarsel-Powell": 182,
+                "Scott": 151,
+                "total": 938
+            },
+            "33": {
+                "Mucarsel-Powell": 85,
+                "Scott": 205,
+                "total": 298
+            },
+            "51": {
+                "Mucarsel-Powell": 4242,
+                "Scott": 8277,
+                "total": 12970
+            },
+            "time": "2024-11-06T00:29:52.428Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 161324,
+                "Scott": 247733,
+                "total": 415215
+            },
+            "41": {
+                "Mucarsel-Powell": 52913,
+                "Scott": 90296,
+                "total": 145000
+            },
+            "53": {
+                "Mucarsel-Powell": 108411,
+                "Scott": 157437,
+                "total": 270215
+            },
+            "time": "2024-11-06T00:30:35.497Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 21176,
+                "Scott": 30957,
+                "total": 53678
+            },
+            "34": {
+                "Mucarsel-Powell": 2484,
+                "Scott": 4643,
+                "total": 7370
+            },
+            "43": {
+                "Mucarsel-Powell": 14833,
+                "Scott": 20349,
+                "total": 35851
+            },
+            "49": {
+                "Mucarsel-Powell": 3859,
+                "Scott": 5965,
+                "total": 10125
+            },
+            "52": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 319
+            },
+            "65": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 13
+            },
+            "time": "2024-11-06T00:31:12.632Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 98071,
+                "Scott": 101229,
+                "total": 202412
+            },
+            "37": {
+                "Mucarsel-Powell": 248,
+                "Scott": 838,
+                "total": 1132
+            },
+            "52": {
+                "Mucarsel-Powell": 2501,
+                "Scott": 5053,
+                "total": 7446
+            },
+            "59": {
+                "Mucarsel-Powell": 95322,
+                "Scott": 95338,
+                "total": 193834
+            },
+            "time": "2024-11-06T00:32:06.607Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 5787,
+                "Scott": 14419,
+                "total": 21121
+            },
+            "1": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 108
+            },
+            "5": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 255
+            },
+            "14": {
+                "Mucarsel-Powell": 9,
+                "Scott": 131,
+                "total": 145
+            },
+            "18": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 4
+            },
+            "30": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 35
+            },
+            "55": {
+                "Mucarsel-Powell": 5778,
+                "Scott": 14288,
+                "total": 20574
+            },
+            "time": "2024-11-06T00:32:43.701Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 2267,
+                "Scott": 4553,
+                "total": 6869
+            },
+            "40": {
+                "Mucarsel-Powell": 2267,
+                "Scott": 4553,
+                "total": 6869
+            },
+            "time": "2024-11-06T00:33:02.487Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 26308,
+                "Scott": 45794,
+                "total": 72585
+            },
+            "2": {
+                "Mucarsel-Powell": 934,
+                "Scott": 7609,
+                "total": 8665
+            },
+            "17": {
+                "Mucarsel-Powell": 236,
+                "Scott": 182,
+                "total": 434
+            },
+            "19": {
+                "Mucarsel-Powell": 8565,
+                "Scott": 5113,
+                "total": 13228
+            },
+            "27": {
+                "Mucarsel-Powell": 11318,
+                "Scott": 24048,
+                "total": 35776
+            },
+            "36": {
+                "Mucarsel-Powell": 2366,
+                "Scott": 2809,
+                "total": 5284
+            },
+            "51": {
+                "Mucarsel-Powell": 2889,
+                "Scott": 6033,
+                "total": 9198
+            },
+            "time": "2024-11-06T00:34:24.162Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 139591,
+                "Scott": 224483,
+                "total": 371930
+            },
+            "12": {
+                "Mucarsel-Powell": 515,
+                "Scott": 684,
+                "total": 1197
+            },
+            "14": {
+                "Mucarsel-Powell": 122,
+                "Scott": 277,
+                "total": 406
+            },
+            "20": {
+                "Mucarsel-Powell": 164,
+                "Scott": 933,
+                "total": 1118
+            },
+            "32": {
+                "Mucarsel-Powell": 2072,
+                "Scott": 3537,
+                "total": 5664
+            },
+            "34": {
+                "Mucarsel-Powell": 1512,
+                "Scott": 2784,
+                "total": 4432
+            },
+            "35": {
+                "Mucarsel-Powell": 13898,
+                "Scott": 37935,
+                "total": 52761
+            },
+            "42": {
+                "Mucarsel-Powell": 28161,
+                "Scott": 49265,
+                "total": 78224
+            },
+            "48": {
+                "Mucarsel-Powell": 39653,
+                "Scott": 45625,
+                "total": 88288
+            },
+            "49": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 110
+            },
+            "50": {
+                "Mucarsel-Powell": 43287,
+                "Scott": 59164,
+                "total": 104404
+            },
+            "52": {
+                "Mucarsel-Powell": 6127,
+                "Scott": 9877,
+                "total": 16537
+            },
+            "58": {
+                "Mucarsel-Powell": 820,
+                "Scott": 1792,
+                "total": 2581
+            },
+            "60": {
+                "Mucarsel-Powell": 230,
+                "Scott": 819,
+                "total": 1089
+            },
+            "61": {
+                "Mucarsel-Powell": 3030,
+                "Scott": 11791,
+                "total": 15119
+            },
+            "time": "2024-11-06T00:37:42.947Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 1527,
+                "Scott": 2482,
+                "total": 4522
+            },
+            "27": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 25
+            },
+            "33": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 2
+            },
+            "36": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 133
+            },
+            "37": {
+                "Mucarsel-Powell": 193,
+                "Scott": 644,
+                "total": 856
+            },
+            "40": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 89
+            },
+            "52": {
+                "Mucarsel-Powell": 1332,
+                "Scott": 1834,
+                "total": 3267
+            },
+            "59": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 144
+            },
+            "60": {
+                "Mucarsel-Powell": 2,
+                "Scott": 4,
+                "total": 6
+            },
+            "time": "2024-11-06T00:38:56.111Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 25056,
+                "Scott": 43660,
+                "total": 70780
+            },
+            "5": {
+                "Mucarsel-Powell": 6504,
+                "Scott": 10864,
+                "total": 17765
+            },
+            "9": {
+                "Mucarsel-Powell": 5615,
+                "Scott": 17697,
+                "total": 24124
+            },
+            "14": {
+                "Mucarsel-Powell": 11,
+                "Scott": 75,
+                "total": 87
+            },
+            "15": {
+                "Mucarsel-Powell": 11002,
+                "Scott": 10035,
+                "total": 21671
+            },
+            "17": {
+                "Mucarsel-Powell": 452,
+                "Scott": 998,
+                "total": 1499
+            },
+            "21": {
+                "Mucarsel-Powell": 129,
+                "Scott": 293,
+                "total": 430
+            },
+            "22": {
+                "Mucarsel-Powell": 248,
+                "Scott": 613,
+                "total": 893
+            },
+            "23": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 4
+            },
+            "52": {
+                "Mucarsel-Powell": 511,
+                "Scott": 970,
+                "total": 1539
+            },
+            "63": {
+                "Mucarsel-Powell": 584,
+                "Scott": 2115,
+                "total": 2768
+            },
+            "time": "2024-11-06T00:41:45.841Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 7460,
+                "Scott": 14849,
+                "total": 22999
+            },
+            "13": {
+                "Mucarsel-Powell": 2310,
+                "Scott": 5840,
+                "total": 8276
+            },
+            "22": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 3
+            },
+            "32": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 3
+            },
+            "47": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 6
+            },
+            "51": {
+                "Mucarsel-Powell": 2727,
+                "Scott": 5505,
+                "total": 8543
+            },
+            "52": {
+                "Mucarsel-Powell": 2423,
+                "Scott": 3504,
+                "total": 6083
+            },
+            "58": {
+                "Mucarsel-Powell": 0,
+                "Scott": 0,
+                "total": 85
+            },
+            "time": "2024-11-06T00:42:45.617Z"
+        },
+        {
+            "0": {
+                "Mucarsel-Powell": 20278,
+                "Scott": 49819,
+                "total": 71239
+            },
+            "11": {
+                "Mucarsel-Powell": 7634,
+                "Scott": 24638,
+                "total": 32578
+            },
+            "14": {
+                "Mucarsel-Powell": 17,
+                "Scott": 177,
+                "total": 199
+            },
+            "42": {
+                "Mucarsel-Powell": 5834,
+                "Scott": 12653,
+                "total": 18932
+            },
+            "55": {
+                "Mucarsel-Powell": 2040,
+                "Scott": 5028,
+                "total": 7238
+            },
+            "56": {
+                "Mucarsel-Powell": 4753,
+                "Scott": 7323,
+                "total": 12292
+            },
+            "time": "2024-11-06T00:44:27.338Z"
         }
     ]
 }

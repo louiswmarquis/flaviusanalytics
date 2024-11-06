@@ -131,7 +131,7 @@
         "date" : [2024, 11, 5],
 		"time" : 7,
         "fetch" : "true",
-        "notify" : "true",
+        "notify" : "false",
 		"color" : "dark-r",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-florida-president.json",
@@ -168,7 +168,7 @@
         "date" : [2024, 11, 5],
 		"time" : 7,
         "fetch" : "true",
-        "notify" : "true",
+        "notify" : "false",
 		"color" : "dark-d",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-virginia-president.json",
@@ -187,7 +187,7 @@
         "date" : [2024, 11, 5],
 		"time" : 12,
         "fetch" : "true",
-        "notify" : "true",
+        "notify" : "false",
 		"color" : "dark-r",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-alaska-president.json",
@@ -206,7 +206,7 @@
         "date" : [2024, 11, 5],
 		"time" : 7.5,
         "fetch" : "true",
-        "notify" : "true",
+        "notify" : "false",
 		"color" : "dark-r",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-ohio-president.json",

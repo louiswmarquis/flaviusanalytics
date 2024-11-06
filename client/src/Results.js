@@ -59,7 +59,7 @@ class Results extends React.Component {
             for (let i = 0; i < candidates.length; i++) {
                 row.push(<td class={county_data["main_source"]} style={{backgroundColor : county_data[candidates[i]] > county_data[candidates[1 - i]] ? (i === 0 ? "#92BDE0" : "#EAA9A9") : "white"}}><p>{format_with_percent(county_data[candidates[i]], county_data["total"])}</p></td>)
             }
-            row.push(<td class={county_data["main_source"]}><p>{county_data["total"]}</p></td>)
+            row.push(<td class={county_data["main_source"]} style={{fontWeight : "bolder"}}><p>{format_with_percent(county_data["total"], county_data["min_turnout"])}</p></td>)
             row.push(<td class={county_data["main_source"]} /*style={{backgroundColor : county_data["margin"] > 0 ? "#92BDE0" : (county_data["margin"] < 0 ? "#EAA9A9" : "#FFFFFF")}}*/><p>{format_with_percent(county_data["margin"], county_data["total"])}</p></td>)
             row.push(<td class={county_data["min_source"]}><p>{county_data["min_turnout"]}</p></td>)
             row.push(<td class={county_data["max_source"]}><p>{county_data["max_turnout"]}</p></td>)
@@ -87,7 +87,7 @@ class Results extends React.Component {
             </header>
             <div class="graphics">
                 <div class="graph">
-                    <Graph margin_history={margin_history} min_turnout={aggregate_data["results"]["0"]["min_turnout"]} max_turnout={aggregate_data["results"]["0"]["max_turnout"]}/>
+                    <Graph margin_history={margin_history} min_turnout={aggregate_data["results"]["0"]["min_turnout"]} max_turnout={aggregate_data["results"]["0"]["min_turnout"]}/>
                 </div>
                 <div class="history">
                     <div class="scroller">

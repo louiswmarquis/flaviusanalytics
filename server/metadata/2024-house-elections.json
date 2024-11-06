@@ -157,7 +157,7 @@
         "date" : [2024, 11, 5],
 		"time" : 7,
         "fetch" : "true",
-        "notify" : "true",
+        "notify" : "false",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-florida-us-house-13.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-FL-13.json",
@@ -438,7 +438,7 @@
         "date" : [2024, 11, 5],
 		"time" : 7,
         "fetch" : "true",
-        "notify" : "true",
+        "notify" : "false",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-virginia-us-house-7.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-VA-7.json",
