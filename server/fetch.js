@@ -234,8 +234,12 @@ function aggregate_sources(election_id, election_metadata, results) {
         aggregate_results["results"][fips]["main_source"] = main_source
         min_source = sources.reduce((a, b) => results[a][fips]["turnout"] < results[b][fips]["turnout"] ? a : b)
         aggregate_results["results"][fips]["min_source"] = min_source
-        max_source  = sources.reduce((a, b) => results[a][fips]["turnout"] > results[b][fips]["turnout"] ? a : b)
+        max_source = sources.reduce((a, b) => results[a][fips]["turnout"] > results[b][fips]["turnout"] ? a : b)
         aggregate_results["results"][fips]["max_source"] = max_source
+        if (results[max_source][fips]["turnout"] === NaN) {
+            console.log(max_source, fips)
+            max_source = min_source
+        }
         
         for (const candidate of election_metadata["candidates"]) {
             aggregate_results["results"][fips][candidate] = results[main_source][fips][candidate]
