@@ -305,7 +305,7 @@
         "date" : [2024, 11, 5],
 		"time" : 7.5,
         "fetch" : "true",
-        "notify" : "true",
+        "notify" : "false",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-north-carolina-us-house-1.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-NC-1.json",
@@ -322,7 +322,7 @@
         "date" : [2024, 11, 5],
 		"time" : 7.5,
         "fetch" : "true",
-        "notify" : "true",
+        "notify" : "false",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-ohio-us-house-1.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-OH-1.json",
@@ -338,7 +338,7 @@
         "date" : [2024, 11, 5],
 		"time" : 7.5,
         "fetch" : "true",
-        "notify" : "true",
+        "notify" : "false",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-ohio-us-house-9.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-OH-9.json",
@@ -354,7 +354,7 @@
         "date" : [2024, 11, 5],
 		"time" : 7.5,
         "fetch" : "true",
-        "notify" : "true",
+        "notify" : "false",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-ohio-us-house-13.json",
             "cnn" : "https://politics.api.cnn.io/results/county-races/2024-HG-OH-13.json",

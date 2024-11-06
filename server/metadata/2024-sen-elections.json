@@ -95,7 +95,7 @@
         "date" : [2024, 11, 5],
 		"time" : 7.5,
         "fetch" : "true",
-        "notify" : "true",
+        "notify" : "false",
 		"color" : "i",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-ohio-us-senate.json",
@@ -113,7 +113,7 @@
         "date" : [2024, 11, 5],
 		"time" : 8,
         "fetch" : "true",
-        "notify" : "true",
+        "notify" : "false",
 		"color" : "i",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-pennsylvania-us-senate.json",
@@ -187,7 +187,7 @@
         "date" : [2024, 11, 5],
 		"time" : 8,
         "fetch" : "true",
-        "notify" : "true",
+        "notify" : "false",
 		"color" : "light-r",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-texas-us-senate.json",

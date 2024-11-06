@@ -4,6 +4,91 @@
             "time": "2024-11-04T01:02:28.664Z",
             "margin": 0,
             "total": 0
+        },
+        {
+            "time": "2024-11-06T01:26:20.795Z",
+            "margin": -208,
+            "total": 824
+        },
+        {
+            "time": "2024-11-06T01:36:43.356Z",
+            "margin": 12497,
+            "total": 31383
+        },
+        {
+            "time": "2024-11-06T01:37:44.035Z",
+            "margin": 20233,
+            "total": 56609
+        },
+        {
+            "time": "2024-11-06T01:41:53.704Z",
+            "margin": 19648,
+            "total": 65602
+        },
+        {
+            "time": "2024-11-06T01:45:32.371Z",
+            "margin": 28109,
+            "total": 91787
+        },
+        {
+            "time": "2024-11-06T01:52:44.027Z",
+            "margin": 29029,
+            "total": 97165
+        },
+        {
+            "time": "2024-11-06T01:54:23.352Z",
+            "margin": 30384,
+            "total": 105866
+        },
+        {
+            "time": "2024-11-06T01:56:03.122Z",
+            "margin": 30050,
+            "total": 106830
+        },
+        {
+            "time": "2024-11-06T02:03:35.931Z",
+            "margin": 29200,
+            "total": 116108
+        },
+        {
+            "time": "2024-11-06T02:08:56.023Z",
+            "margin": 28359,
+            "total": 121839
+        },
+        {
+            "time": "2024-11-06T02:10:14.778Z",
+            "margin": 29319,
+            "total": 139185
+        },
+        {
+            "time": "2024-11-06T02:10:59.063Z",
+            "margin": 29230,
+            "total": 142992
+        },
+        {
+            "time": "2024-11-06T02:13:05.934Z",
+            "margin": 28020,
+            "total": 146862
+        },
+        {
+            "time": "2024-11-06T02:14:56.675Z",
+            "margin": 28391,
+            "total": 150075
+        },
+        {
+            "time": "2024-11-06T02:17:56.760Z",
+            "margin": 27716,
+            "total": 158672
+        },
+        {
+            "time": "2024-11-06T02:18:17.394Z",
+            "margin": 27982,
+            "total": 162926
+        },
+        {
+            "time": "2024-11-06T02:20:49.504Z",
+            "margin": 25787,
+            "total": 177379
         }
     ],
     "diffs": [
@@ -39,6 +124,232 @@
                 "total": 0
             },
             "time": "2024-11-04T01:02:28.664Z"
+        },
+        {
+            "0": {
+                "Cartwright": 308,
+                "Bresnahan": 516,
+                "total": 824
+            },
+            "4": {
+                "Cartwright": 308,
+                "Bresnahan": 516,
+                "total": 824
+            },
+            "time": "2024-11-06T01:26:20.795Z"
+        },
+        {
+            "0": {
+                "Cartwright": 21632,
+                "Bresnahan": 8927,
+                "total": 30559
+            },
+            "1": {
+                "Cartwright": 21632,
+                "Bresnahan": 8927,
+                "total": 30559
+            },
+            "time": "2024-11-06T01:36:43.356Z"
+        },
+        {
+            "0": {
+                "Cartwright": 16481,
+                "Bresnahan": 8745,
+                "total": 25226
+            },
+            "3": {
+                "Cartwright": 16481,
+                "Bresnahan": 8745,
+                "total": 25226
+            },
+            "time": "2024-11-06T01:37:44.035Z"
+        },
+        {
+            "0": {
+                "Cartwright": 4204,
+                "Bresnahan": 4789,
+                "total": 8993
+            },
+            "5": {
+                "Cartwright": 4204,
+                "Bresnahan": 4789,
+                "total": 8993
+            },
+            "time": "2024-11-06T01:41:53.704Z"
+        },
+        {
+            "0": {
+                "Cartwright": 17323,
+                "Bresnahan": 8862,
+                "total": 26185
+            },
+            "2": {
+                "Cartwright": 17323,
+                "Bresnahan": 8862,
+                "total": 26185
+            },
+            "time": "2024-11-06T01:45:32.371Z"
+        },
+        {
+            "0": {
+                "Cartwright": 3149,
+                "Bresnahan": 2229,
+                "total": 5378
+            },
+            "1": {
+                "Cartwright": 3149,
+                "Bresnahan": 2229,
+                "total": 5378
+            },
+            "time": "2024-11-06T01:52:44.027Z"
+        },
+        {
+            "0": {
+                "Cartwright": 5028,
+                "Bresnahan": 3673,
+                "total": 8701
+            },
+            "1": {
+                "Cartwright": 5028,
+                "Bresnahan": 3673,
+                "total": 8701
+            },
+            "time": "2024-11-06T01:54:23.352Z"
+        },
+        {
+            "0": {
+                "Cartwright": 315,
+                "Bresnahan": 649,
+                "total": 964
+            },
+            "5": {
+                "Cartwright": 315,
+                "Bresnahan": 649,
+                "total": 964
+            },
+            "time": "2024-11-06T01:56:03.122Z"
+        },
+        {
+            "0": {
+                "Cartwright": 4214,
+                "Bresnahan": 5064,
+                "total": 9278
+            },
+            "1": {
+                "Cartwright": 4214,
+                "Bresnahan": 5064,
+                "total": 9278
+            },
+            "time": "2024-11-06T02:03:35.931Z"
+        },
+        {
+            "0": {
+                "Cartwright": 2445,
+                "Bresnahan": 3286,
+                "total": 5731
+            },
+            "2": {
+                "Cartwright": 2445,
+                "Bresnahan": 3286,
+                "total": 5731
+            },
+            "time": "2024-11-06T02:08:56.023Z"
+        },
+        {
+            "0": {
+                "Cartwright": 9153,
+                "Bresnahan": 8193,
+                "total": 17346
+            },
+            "1": {
+                "Cartwright": 9153,
+                "Bresnahan": 8193,
+                "total": 17346
+            },
+            "time": "2024-11-06T02:10:14.778Z"
+        },
+        {
+            "0": {
+                "Cartwright": 1859,
+                "Bresnahan": 1948,
+                "total": 3807
+            },
+            "1": {
+                "Cartwright": 1859,
+                "Bresnahan": 1948,
+                "total": 3807
+            },
+            "time": "2024-11-06T02:10:59.063Z"
+        },
+        {
+            "0": {
+                "Cartwright": 1330,
+                "Bresnahan": 2540,
+                "total": 3870
+            },
+            "2": {
+                "Cartwright": 1330,
+                "Bresnahan": 2540,
+                "total": 3870
+            },
+            "time": "2024-11-06T02:13:05.934Z"
+        },
+        {
+            "0": {
+                "Cartwright": 1792,
+                "Bresnahan": 1421,
+                "total": 3213
+            },
+            "1": {
+                "Cartwright": 1792,
+                "Bresnahan": 1421,
+                "total": 3213
+            },
+            "time": "2024-11-06T02:14:56.675Z"
+        },
+        {
+            "0": {
+                "Cartwright": 3961,
+                "Bresnahan": 4636,
+                "total": 8597
+            },
+            "1": {
+                "Cartwright": 3961,
+                "Bresnahan": 4636,
+                "total": 8597
+            },
+            "time": "2024-11-06T02:17:56.760Z"
+        },
+        {
+            "0": {
+                "Cartwright": 2260,
+                "Bresnahan": 1994,
+                "total": 4254
+            },
+            "3": {
+                "Cartwright": 2260,
+                "Bresnahan": 1994,
+                "total": 4254
+            },
+            "time": "2024-11-06T02:18:17.394Z"
+        },
+        {
+            "0": {
+                "Cartwright": 6129,
+                "Bresnahan": 8324,
+                "total": 14453
+            },
+            "1": {
+                "Cartwright": 2493,
+                "Bresnahan": 2321,
+                "total": 4814
+            },
+            "2": {
+                "Cartwright": 3636,
+                "Bresnahan": 6003,
+                "total": 9639
+            },
+            "time": "2024-11-06T02:20:49.504Z"
         }
     ]
 }
