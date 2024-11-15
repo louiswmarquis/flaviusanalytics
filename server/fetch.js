@@ -20,7 +20,7 @@ async function fetch_data() {
                 console.log("Not querying " + election_id + ". There are " + until + " more minutes.")
                 continue
             }
-            if (!election_metadata["fetch"]) {
+            if (election_metadata["fetch"] === "false") {
                 continue
             }
             console.log("Querying " + election_id)

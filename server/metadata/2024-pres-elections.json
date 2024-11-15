@@ -5,7 +5,7 @@
         "date" : [2024, 11, 5],
 		"time" : 9,
         "fetch" : "true",
-        "notify" : "true",
+        "notify" : "false",
 		"color" : "i",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-arizona-president.json",
@@ -22,8 +22,8 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 7,
-        "fetch" : "true",
-        "notify" : "true",
+        "fetch" : "false",
+        "notify" : "false",
 		"color" : "i",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-georgia-president.json",
@@ -40,8 +40,8 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 8,
-        "fetch" : "true",
-        "notify" : "true",
+        "fetch" : "false",
+        "notify" : "false",
 		"color" : "i",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-michigan-president.json",
@@ -59,7 +59,7 @@
         "date" : [2024, 11, 5],
 		"time" : 10,
         "fetch" : "true",
-        "notify" : "true",
+        "notify" : "false",
 		"color" : "i",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-nevada-president.json",
@@ -76,7 +76,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 7.5,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "i",
         "sources" : {
@@ -94,8 +94,8 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 8,
-        "fetch" : "true",
-        "notify" : "true",
+        "fetch" : "false",
+        "notify" : "false",
 		"color" : "i",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-pennsylvania-president.json",
@@ -112,8 +112,8 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 9,
-        "fetch" : "true",
-        "notify" : "true",
+        "fetch" : "false",
+        "notify" : "false",
 		"color" : "i",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-wisconsin-president.json",
@@ -129,7 +129,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 7,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "dark-r",
         "sources" : {
@@ -147,7 +147,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 8,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "dark-r",
         "sources" : {
@@ -166,7 +166,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 7,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "dark-d",
         "sources" : {
@@ -185,7 +185,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 12,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "dark-r",
         "sources" : {
@@ -204,7 +204,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 7.5,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "dark-r",
         "sources" : {
@@ -222,7 +222,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 6,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "dark-r",
         "sources" : {
@@ -238,7 +238,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 6,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "dark-r",
         "sources" : {

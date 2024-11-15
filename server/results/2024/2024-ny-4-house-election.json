@@ -14,31 +14,31 @@
     "results": [
         {
             "county": "Total",
-            "Gillen": 111376,
-            "D'Esposito": 92242,
-            "total": 203618,
-            "margin": 19134,
-            "min_turnout": 357999,
-            "max_turnout": 391573,
+            "Gillen": 182771,
+            "D'Esposito": 176623,
+            "total": 359394,
+            "margin": 6148,
+            "min_turnout": 366729,
+            "max_turnout": 390646,
             "main_source": "nyt",
             "min_source": "nyt",
             "max_source": "nyt",
-            "min_turnout_margin": 33641,
-            "max_turnout_margin": 36796
+            "min_turnout_margin": 6273,
+            "max_turnout_margin": 6683
         },
         {
             "county": "Nassau",
-            "Gillen": 111376,
-            "D'Esposito": 92242,
-            "total": 203618,
-            "margin": 19134,
-            "min_turnout": 357999,
-            "max_turnout": 391573,
-            "main_source": "cnn",
+            "Gillen": 182771,
+            "D'Esposito": 176623,
+            "total": 359394,
+            "margin": 6148,
+            "min_turnout": 366729,
+            "max_turnout": 390646,
+            "main_source": "ap",
             "min_source": "ap",
             "max_source": "cnn",
-            "min_turnout_margin": 33641,
-            "max_turnout_margin": 36796
+            "min_turnout_margin": 6273,
+            "max_turnout_margin": 6683
         }
     ]
 }

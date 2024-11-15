@@ -49,6 +49,46 @@
             "time": "2024-11-06T03:55:43.712Z",
             "margin": -2819,
             "total": 46457
+        },
+        {
+            "time": "2024-11-06T04:12:45.253Z",
+            "margin": -3503,
+            "total": 51591
+        },
+        {
+            "time": "2024-11-06T04:27:46.885Z",
+            "margin": -2548,
+            "total": 89243
+        },
+        {
+            "time": "2024-11-06T04:28:07.751Z",
+            "margin": -2724,
+            "total": 89674
+        },
+        {
+            "time": "2024-11-06T04:42:28.721Z",
+            "margin": 1343,
+            "total": 107114
+        },
+        {
+            "time": "2024-11-06T04:45:29.100Z",
+            "margin": 1292,
+            "total": 111900
+        },
+        {
+            "time": "2024-11-06T04:54:29.641Z",
+            "margin": -673,
+            "total": 122749
+        },
+        {
+            "time": "2024-11-06T04:54:49.867Z",
+            "margin": -308,
+            "total": 126252
+        },
+        {
+            "time": "2024-11-06T15:25:44.984Z",
+            "margin": 28152,
+            "total": 424160
         }
     ],
     "diffs": [
@@ -201,6 +241,130 @@
                 "total": 2254
             },
             "time": "2024-11-06T03:55:43.712Z"
+        },
+        {
+            "0": {
+                "McDonald Rivet": 2097,
+                "Junge": 2781,
+                "total": 5134
+            },
+            "3": {
+                "McDonald Rivet": 2097,
+                "Junge": 2781,
+                "total": 5134
+            },
+            "time": "2024-11-06T04:12:45.253Z"
+        },
+        {
+            "0": {
+                "McDonald Rivet": 18570,
+                "Junge": 17615,
+                "total": 37652
+            },
+            "2": {
+                "McDonald Rivet": 18570,
+                "Junge": 17615,
+                "total": 37652
+            },
+            "time": "2024-11-06T04:27:46.885Z"
+        },
+        {
+            "0": {
+                "McDonald Rivet": 111,
+                "Junge": 287,
+                "total": 431
+            },
+            "3": {
+                "McDonald Rivet": 111,
+                "Junge": 287,
+                "total": 431
+            },
+            "time": "2024-11-06T04:28:07.751Z"
+        },
+        {
+            "0": {
+                "McDonald Rivet": 10433,
+                "Junge": 6366,
+                "total": 17440
+            },
+            "2": {
+                "McDonald Rivet": 10433,
+                "Junge": 6366,
+                "total": 17440
+            },
+            "time": "2024-11-06T04:42:28.721Z"
+        },
+        {
+            "0": {
+                "McDonald Rivet": 2266,
+                "Junge": 2317,
+                "total": 4786
+            },
+            "2": {
+                "McDonald Rivet": 2266,
+                "Junge": 2317,
+                "total": 4786
+            },
+            "time": "2024-11-06T04:45:29.100Z"
+        },
+        {
+            "0": {
+                "McDonald Rivet": 4288,
+                "Junge": 6253,
+                "total": 10849
+            },
+            "3": {
+                "McDonald Rivet": 4288,
+                "Junge": 6253,
+                "total": 10849
+            },
+            "time": "2024-11-06T04:54:29.641Z"
+        },
+        {
+            "0": {
+                "McDonald Rivet": 1855,
+                "Junge": 1490,
+                "total": 3503
+            },
+            "2": {
+                "McDonald Rivet": 1855,
+                "Junge": 1490,
+                "total": 3503
+            },
+            "time": "2024-11-06T04:54:49.867Z"
+        },
+        {
+            "0": {
+                "McDonald Rivet": 157053,
+                "Junge": 128593,
+                "total": 297908
+            },
+            "1": {
+                "McDonald Rivet": 26415,
+                "Junge": 27115,
+                "total": 55809
+            },
+            "2": {
+                "McDonald Rivet": 69340,
+                "Junge": 48731,
+                "total": 123587
+            },
+            "3": {
+                "McDonald Rivet": 9188,
+                "Junge": 6496,
+                "total": 16152
+            },
+            "4": {
+                "McDonald Rivet": 51825,
+                "Junge": 45774,
+                "total": 101564
+            },
+            "5": {
+                "McDonald Rivet": 285,
+                "Junge": 477,
+                "total": 796
+            },
+            "time": "2024-11-06T15:25:44.984Z"
         }
     ]
 }

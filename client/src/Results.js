@@ -64,7 +64,7 @@ class Results extends React.Component {
             row.push(<td class={county_data["min_source"]}><p>{county_data["min_turnout"]}</p></td>)
             row.push(<td class={county_data["max_source"]}><p>{county_data["max_turnout"]}</p></td>)
             row.push(<td class={county_data["min_source"]}><p>{format_with_percent(county_data["min_turnout_margin"], county_data["min_turnout"])}</p></td>)
-            row.push(<td class={county_data["max_source"]}><p>{format_with_percent(county_data["max_turnout_margin"], county_data["min_turnout"])}</p></td>)
+            row.push(<td class={county_data["max_source"]}><p>{format_with_percent(county_data["max_turnout_margin"], county_data["max_turnout"])}</p></td>)
             row.push(<td class="nyt" style={{backgroundColor : county_data["prev_margin"] > 0 ? "#92BDE0" : (county_data["prev_margin"] < 0 ? "#EAA9A9" : "#FFFFFF")}}><p>{county_data["prev_total"] === undefined ? null : format_with_percent(county_data["prev_margin"], county_data["prev_total"])}</p></td>)
             const percent_overperformance = county_data["margin"] / Math.max(1, county_data["total"]) * 100 - county_data["prev_margin"] / Math.max(1, county_data["prev_total"]) * 100
             row.push(<td class="nyt" style={{backgroundColor : percent_overperformance === 0 || county_data["prev_total"] === undefined || county_data["total"] === 0 ? "#FFFFFF" : percent_overperformance > 0 ? "#92BDE0" : "#EAA9A9"}}>

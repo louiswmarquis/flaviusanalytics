@@ -22,8 +22,8 @@
         "candidates" : ["Slotkin", "Rogers"],
         "date" : [2024, 11, 5],
 		"time" : 8,
-        "fetch" : "true",
-        "notify" : "true",
+        "fetch" : "false",
+        "notify" : "false",
 		"color" : "i",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-michigan-us-senate.json",
@@ -40,7 +40,7 @@
         "candidates" : ["Tester", "Sheehy"],
         "date" : [2024, 11, 5],
 		"time" : 10,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "true",
 		"color" : "light-r",
         "sources" : {
@@ -76,7 +76,7 @@
         "candidates" : ["Stein", "Robinson"],
         "date" : [2024, 11, 5],
 		"time" : 7.5,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-north-carolina-governor.json",
@@ -94,7 +94,7 @@
         "candidates" : ["Brown", "Moreno"],
         "date" : [2024, 11, 5],
 		"time" : 7.5,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "i",
         "sources" : {
@@ -130,8 +130,8 @@
         "candidates" : ["Baldwin", "Hovde"],
         "date" : [2024, 11, 5],
 		"time" : 9,
-        "fetch" : "true",
-        "notify" : "true",
+        "fetch" : "false",
+        "notify" : "false",
 		"color" : "i",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-wisconsin-us-senate.json",
@@ -147,7 +147,7 @@
         "candidates" : ["Mucarsel-Powell", "Scott"],
         "date" : [2024, 11, 5],
 		"time" : 7,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "light-r",
         "sources" : {
@@ -166,8 +166,8 @@
         "candidates" : ["Osborn", "Fischer"],
         "date" : [2024, 11, 5],
 		"time" : 9,
-        "fetch" : "true",
-        "notify" : "true",
+        "fetch" : "false",
+        "notify" : "false",
 		"color" : "light-r",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-nebraska-us-senate.json",
@@ -185,7 +185,7 @@
         "candidates" : ["Allred", "Cruz"],
         "date" : [2024, 11, 5],
 		"time" : 8,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "light-r",
         "sources" : {
@@ -204,7 +204,7 @@
         "candidates" : ["Alsobrooks", "Hogan"],
         "date" : [2024, 11, 5],
 		"time" : 8,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "light-d",
         "sources" : {
@@ -223,7 +223,7 @@
         "candidates" : ["Kaine", "Cao"],
         "date" : [2024, 11, 5],
 		"time" : 7,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "dark-d",
         "sources" : {

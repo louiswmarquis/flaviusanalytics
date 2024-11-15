@@ -14,17 +14,17 @@
     "results": [
         {
             "county": "Total",
-            "Davis": 159282,
-            "Buckhout": 152476,
-            "total": 320512,
-            "margin": 6806,
-            "min_turnout": 375480,
-            "max_turnout": 415511,
+            "Davis": 184993,
+            "Buckhout": 179167,
+            "total": 374111,
+            "margin": 5826,
+            "min_turnout": 374104,
+            "max_turnout": 414456,
             "main_source": "nyt",
             "min_source": "nyt",
             "max_source": "nyt",
-            "min_turnout_margin": 9228,
-            "max_turnout_margin": 9954
+            "min_turnout_margin": 7360,
+            "max_turnout_margin": 8080
         },
         {
             "county": "Bertie",
@@ -224,31 +224,31 @@
         },
         {
             "county": "Pasquotank",
-            "Davis": 2294,
-            "Buckhout": 2841,
-            "total": 5395,
-            "margin": -547,
+            "Davis": 9458,
+            "Buckhout": 9860,
+            "total": 19929,
+            "margin": -402,
             "min_turnout": 19256,
-            "max_turnout": 21580,
+            "max_turnout": 21201,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "cnn",
-            "min_turnout_margin": -1952,
-            "max_turnout_margin": -2188
+            "min_turnout_margin": -388,
+            "max_turnout_margin": -428
         },
         {
             "county": "Perquimans",
-            "Davis": 0,
-            "Buckhout": 0,
-            "total": 0,
-            "margin": 0,
+            "Davis": 2298,
+            "Buckhout": 5076,
+            "total": 7573,
+            "margin": -2778,
             "min_turnout": 7417,
-            "max_turnout": 8021,
+            "max_turnout": 7972,
             "main_source": "ap",
             "min_source": "ddhq",
-            "max_source": "ap",
-            "min_turnout_margin": 0,
-            "max_turnout_margin": 0
+            "max_source": "cnn",
+            "min_turnout_margin": -2721,
+            "max_turnout_margin": -2924
         },
         {
             "county": "Tyrrell",
@@ -322,17 +322,17 @@
         },
         {
             "county": "Wilson",
-            "Davis": 4075,
-            "Buckhout": 3508,
-            "total": 7906,
-            "margin": 567,
-            "min_turnout": 41172,
-            "max_turnout": 43922,
+            "Davis": 20324,
+            "Buckhout": 18104,
+            "total": 39398,
+            "margin": 2220,
+            "min_turnout": 39796,
+            "max_turnout": 43295,
             "main_source": "ap",
-            "min_source": "ddhq",
+            "min_source": "ap",
             "max_source": "cnn",
-            "min_turnout_margin": 2953,
-            "max_turnout_margin": 3150
+            "min_turnout_margin": 2242,
+            "max_turnout_margin": 2440
         }
     ]
 }

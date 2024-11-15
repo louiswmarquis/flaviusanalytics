@@ -4,6 +4,36 @@
             "time": "2024-11-04T01:02:28.159Z",
             "margin": 0,
             "total": 0
+        },
+        {
+            "time": "2024-11-06T04:02:34.187Z",
+            "margin": 9427,
+            "total": 15662
+        },
+        {
+            "time": "2024-11-06T04:02:56.100Z",
+            "margin": 16699,
+            "total": 109645
+        },
+        {
+            "time": "2024-11-06T04:11:47.692Z",
+            "margin": 24888,
+            "total": 188448
+        },
+        {
+            "time": "2024-11-06T04:15:16.884Z",
+            "margin": 9098,
+            "total": 246370
+        },
+        {
+            "time": "2024-11-06T04:15:37.333Z",
+            "margin": 4938,
+            "total": 261146
+        },
+        {
+            "time": "2024-11-06T15:25:47.382Z",
+            "margin": 6973,
+            "total": 308080
         }
     ],
     "diffs": [
@@ -44,6 +74,109 @@
                 "total": 0
             },
             "time": "2024-11-04T01:02:28.159Z"
+        },
+        {
+            "0": {
+                "Bynum": 12167,
+                "Chavez-DeRemer": 2740,
+                "total": 15662
+            },
+            "6": {
+                "Bynum": 12167,
+                "Chavez-DeRemer": 2740,
+                "total": 15662
+            },
+            "time": "2024-11-06T04:02:34.187Z"
+        },
+        {
+            "0": {
+                "Bynum": 47893,
+                "Chavez-DeRemer": 40621,
+                "total": 93983
+            },
+            "1": {
+                "Bynum": 47893,
+                "Chavez-DeRemer": 40621,
+                "total": 93983
+            },
+            "time": "2024-11-06T04:02:56.100Z"
+        },
+        {
+            "0": {
+                "Bynum": 41403,
+                "Chavez-DeRemer": 33214,
+                "total": 78803
+            },
+            "2": {
+                "Bynum": 41403,
+                "Chavez-DeRemer": 33214,
+                "total": 78803
+            },
+            "time": "2024-11-06T04:11:47.692Z"
+        },
+        {
+            "0": {
+                "Bynum": 18436,
+                "Chavez-DeRemer": 34226,
+                "total": 57922
+            },
+            "4": {
+                "Bynum": 18436,
+                "Chavez-DeRemer": 34226,
+                "total": 57922
+            },
+            "time": "2024-11-06T04:15:16.884Z"
+        },
+        {
+            "0": {
+                "Bynum": 4819,
+                "Chavez-DeRemer": 8979,
+                "total": 14776
+            },
+            "3": {
+                "Bynum": 2,
+                "Chavez-DeRemer": 9,
+                "total": 13
+            },
+            "5": {
+                "Bynum": 4817,
+                "Chavez-DeRemer": 8970,
+                "total": 14763
+            },
+            "time": "2024-11-06T04:15:37.333Z"
+        },
+        {
+            "0": {
+                "Bynum": 22274,
+                "Chavez-DeRemer": 20239,
+                "total": 46934
+            },
+            "1": {
+                "Bynum": 6169,
+                "Chavez-DeRemer": 5342,
+                "total": 12480
+            },
+            "2": {
+                "Bynum": 10668,
+                "Chavez-DeRemer": 10134,
+                "total": 23046
+            },
+            "4": {
+                "Bynum": 1755,
+                "Chavez-DeRemer": 3137,
+                "total": 5737
+            },
+            "5": {
+                "Bynum": 414,
+                "Chavez-DeRemer": 994,
+                "total": 1535
+            },
+            "6": {
+                "Bynum": 3268,
+                "Chavez-DeRemer": 632,
+                "total": 4136
+            },
+            "time": "2024-11-06T15:25:47.382Z"
         }
     ]
 }
