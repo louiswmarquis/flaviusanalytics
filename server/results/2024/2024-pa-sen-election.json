@@ -25,8 +25,8 @@
             "max_source": "nyt",
             "min_turnout_margin": -23387,
             "max_turnout_margin": -11337,
-            "prev_margin": -155426,
-            "prev_total": 6810082
+            "prev_margin": -128260,
+            "prev_total": 7004833
         },
         {
             "county": "Adams",
@@ -41,8 +41,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -18592,
             "max_turnout_margin": -18932,
-            "prev_margin": -20398,
-            "prev_total": 60417
+            "prev_margin": -20401,
+            "prev_total": 60857
         },
         {
             "county": "Allegheny",
@@ -57,8 +57,8 @@
             "max_source": "cnn",
             "min_turnout_margin": 151727,
             "max_turnout_margin": 154281,
-            "prev_margin": 139759,
-            "prev_total": 708368
+            "prev_margin": 145065,
+            "prev_total": 717271
         },
         {
             "county": "Armstrong",
@@ -73,8 +73,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -17385,
             "max_turnout_margin": -18439,
-            "prev_margin": -19642,
-            "prev_total": 36794
+            "prev_margin": -19743,
+            "prev_total": 37119
         },
         {
             "county": "Beaver",
@@ -105,8 +105,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -17979,
             "max_turnout_margin": -18412,
-            "prev_margin": -19229,
-            "prev_total": 28084
+            "prev_margin": -19321,
+            "prev_total": 28157
         },
         {
             "county": "Berks",
@@ -121,8 +121,8 @@
             "max_source": "ddhq",
             "min_turnout_margin": -19710,
             "max_turnout_margin": -20620,
-            "prev_margin": -25912,
-            "prev_total": 207451
+            "prev_margin": -25864,
+            "prev_total": 207738
         },
         {
             "county": "Blair",
@@ -137,8 +137,8 @@
             "max_source": "ddhq",
             "min_turnout_margin": -26563,
             "max_turnout_margin": -26635,
-            "prev_margin": -27257,
-            "prev_total": 58236
+            "prev_margin": -28229,
+            "prev_total": 64943
         },
         {
             "county": "Bradford",
@@ -153,8 +153,8 @@
             "max_source": "ddhq",
             "min_turnout_margin": -14118,
             "max_turnout_margin": -14239,
-            "prev_margin": -14842,
-            "prev_total": 30813
+            "prev_margin": -14947,
+            "prev_total": 31192
         },
         {
             "county": "Bucks",
@@ -169,8 +169,8 @@
             "max_source": "cnn",
             "min_turnout_margin": 1778,
             "max_turnout_margin": 1860,
-            "prev_margin": -512,
-            "prev_total": 393589
+            "prev_margin": -788,
+            "prev_total": 400338
         },
         {
             "county": "Butler",
@@ -185,8 +185,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -35336,
             "max_turnout_margin": -36722,
-            "prev_margin": -39101,
-            "prev_total": 120189
+            "prev_margin": -39112,
+            "prev_total": 121440
         },
         {
             "county": "Cambria",
@@ -201,8 +201,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -23992,
             "max_turnout_margin": -24930,
-            "prev_margin": -5188,
-            "prev_total": 24231
+            "prev_margin": -28320,
+            "prev_total": 70948
         },
         {
             "county": "Cameron",
@@ -249,8 +249,8 @@
             "max_source": "ap",
             "min_turnout_margin": 2237,
             "max_turnout_margin": 2360,
-            "prev_margin": -2723,
-            "prev_total": 66694
+            "prev_margin": 2290,
+            "prev_total": 80782
         },
         {
             "county": "Chester",
@@ -265,8 +265,8 @@
             "max_source": "cnn",
             "min_turnout_margin": 40493,
             "max_turnout_margin": 42625,
-            "prev_margin": 42189,
-            "prev_total": 312361
+            "prev_margin": 46927,
+            "prev_total": 324895
         },
         {
             "county": "Clarion",
@@ -281,8 +281,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -9530,
             "max_turnout_margin": -9888,
-            "prev_margin": -10443,
-            "prev_total": 19636
+            "prev_margin": -10474,
+            "prev_total": 19726
         },
         {
             "county": "Clearfield",
@@ -297,8 +297,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -18958,
             "max_turnout_margin": -19143,
-            "prev_margin": -20798,
-            "prev_total": 40314
+            "prev_margin": -20834,
+            "prev_total": 40430
         },
         {
             "county": "Clinton",
@@ -313,8 +313,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -6537,
             "max_turnout_margin": -6870,
-            "prev_margin": -7542,
-            "prev_total": 18436
+            "prev_margin": -7570,
+            "prev_total": 18522
         },
         {
             "county": "Columbia",
@@ -329,8 +329,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -9648,
             "max_turnout_margin": -10156,
-            "prev_margin": -10017,
-            "prev_total": 32016
+            "prev_margin": -10121,
+            "prev_total": 32598
         },
         {
             "county": "Crawford",
@@ -345,8 +345,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -14687,
             "max_turnout_margin": -15634,
-            "prev_margin": -16806,
-            "prev_total": 42420
+            "prev_margin": -16805,
+            "prev_total": 42529
         },
         {
             "county": "Cumberland",
@@ -361,8 +361,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -13414,
             "max_turnout_margin": -14239,
-            "prev_margin": -14278,
-            "prev_total": 147142
+            "prev_margin": -14064,
+            "prev_total": 147517
         },
         {
             "county": "Dauphin",
@@ -377,8 +377,8 @@
             "max_source": "cnn",
             "min_turnout_margin": 10087,
             "max_turnout_margin": 10591,
-            "prev_margin": 8193,
-            "prev_total": 147298
+            "prev_margin": 9973,
+            "prev_total": 150637
         },
         {
             "county": "Delaware",
@@ -393,8 +393,8 @@
             "max_source": "cnn",
             "min_turnout_margin": 75897,
             "max_turnout_margin": 78702,
-            "prev_margin": 75284,
-            "prev_total": 322500
+            "prev_margin": 76691,
+            "prev_total": 324802
         },
         {
             "county": "Elk",
@@ -409,8 +409,8 @@
             "max_source": "ddhq",
             "min_turnout_margin": -7285,
             "max_turnout_margin": -7447,
-            "prev_margin": -8042,
-            "prev_total": 17156
+            "prev_margin": -8061,
+            "prev_total": 17210
         },
         {
             "county": "Erie",
@@ -425,8 +425,8 @@
             "max_source": "cnn",
             "min_turnout_margin": 1752,
             "max_turnout_margin": 1993,
-            "prev_margin": -1935,
-            "prev_total": 134579
+            "prev_margin": -1819,
+            "prev_total": 136351
         },
         {
             "county": "Fayette",
@@ -473,8 +473,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -33714,
             "max_turnout_margin": -35389,
-            "prev_margin": -36137,
-            "prev_total": 83062
+            "prev_margin": -36059,
+            "prev_total": 83840
         },
         {
             "county": "Fulton",
@@ -489,8 +489,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -5595,
             "max_turnout_margin": -5632,
-            "prev_margin": -5902,
-            "prev_total": 8100
+            "prev_margin": -5937,
+            "prev_total": 8177
         },
         {
             "county": "Greene",
@@ -521,8 +521,8 @@
             "max_source": "ddhq",
             "min_turnout_margin": -11445,
             "max_turnout_margin": -11557,
-            "prev_margin": -12229,
-            "prev_total": 23103
+            "prev_margin": -12261,
+            "prev_total": 23154
         },
         {
             "county": "Indiana",
@@ -537,8 +537,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -14590,
             "max_turnout_margin": -15469,
-            "prev_margin": -16501,
-            "prev_total": 42035
+            "prev_margin": -16517,
+            "prev_total": 42218
         },
         {
             "county": "Jefferson",
@@ -569,8 +569,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -6785,
             "max_turnout_margin": -6843,
-            "prev_margin": -7403,
-            "prev_total": 12066
+            "prev_margin": -7431,
+            "prev_total": 12104
         },
         {
             "county": "Lackawanna",
@@ -585,8 +585,8 @@
             "max_source": "cnn",
             "min_turnout_margin": 9731,
             "max_turnout_margin": 10220,
-            "prev_margin": 3212,
-            "prev_total": 115837
+            "prev_margin": 3249,
+            "prev_total": 116590
         },
         {
             "county": "Lancaster",
@@ -601,8 +601,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -43775,
             "max_turnout_margin": -45872,
-            "prev_margin": -46860,
-            "prev_total": 284740
+            "prev_margin": -46196,
+            "prev_total": 289147
         },
         {
             "county": "Lawrence",
@@ -617,8 +617,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -13258,
             "max_turnout_margin": -13870,
-            "prev_margin": -15883,
-            "prev_total": 46912
+            "prev_margin": -15933,
+            "prev_total": 47071
         },
         {
             "county": "Lebanon",
@@ -649,8 +649,8 @@
             "max_source": "cnn",
             "min_turnout_margin": 7707,
             "max_turnout_margin": 8113,
-            "prev_margin": 4531,
-            "prev_total": 186174
+            "prev_margin": 5086,
+            "prev_total": 189707
         },
         {
             "county": "Luzerne",
@@ -697,8 +697,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -8584,
             "max_turnout_margin": -9013,
-            "prev_margin": -9257,
-            "prev_total": 19554
+            "prev_margin": -9281,
+            "prev_total": 19629
         },
         {
             "county": "Mercer",
@@ -713,8 +713,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -16163,
             "max_turnout_margin": -16987,
-            "prev_margin": -17407,
-            "prev_total": 56611
+            "prev_margin": -17588,
+            "prev_total": 58331
         },
         {
             "county": "Mifflin",
@@ -729,8 +729,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -11295,
             "max_turnout_margin": -12031,
-            "prev_margin": -12391,
-            "prev_total": 21893
+            "prev_margin": -12460,
+            "prev_total": 22018
         },
         {
             "county": "Monroe",
@@ -745,8 +745,8 @@
             "max_source": "cnn",
             "min_turnout_margin": 841,
             "max_turnout_margin": 885,
-            "prev_margin": -910,
-            "prev_total": 84250
+            "prev_margin": -658,
+            "prev_total": 85591
         },
         {
             "county": "Montgomery",
@@ -761,8 +761,8 @@
             "max_source": "ddhq",
             "min_turnout_margin": 113082,
             "max_turnout_margin": 117883,
-            "prev_margin": 114864,
-            "prev_total": 507010
+            "prev_margin": 114889,
+            "prev_total": 511923
         },
         {
             "county": "Montour",
@@ -777,8 +777,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -1843,
             "max_turnout_margin": -2141,
-            "prev_margin": -2439,
-            "prev_total": 7237
+            "prev_margin": -2082,
+            "prev_total": 9908
         },
         {
             "county": "Northampton",
@@ -793,8 +793,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -1420,
             "max_turnout_margin": -1478,
-            "prev_margin": -3880,
-            "prev_total": 174152
+            "prev_margin": -3573,
+            "prev_total": 177572
         },
         {
             "county": "Northumberland",
@@ -825,8 +825,8 @@
             "max_source": "ddhq",
             "min_turnout_margin": -11923,
             "max_turnout_margin": -12168,
-            "prev_margin": -12073,
-            "prev_total": 20416
+            "prev_margin": -12688,
+            "prev_total": 25725
         },
         {
             "county": "Philadelphia",
@@ -841,8 +841,8 @@
             "max_source": "cnn",
             "min_turnout_margin": 406589,
             "max_turnout_margin": 442903,
-            "prev_margin": 390660,
-            "prev_total": 670940
+            "prev_margin": 423653,
+            "prev_total": 720447
         },
         {
             "county": "Pike",
@@ -857,8 +857,8 @@
             "max_source": "ddhq",
             "min_turnout_margin": -7934,
             "max_turnout_margin": -8052,
-            "prev_margin": -8305,
-            "prev_total": 34570
+            "prev_margin": -8350,
+            "prev_total": 34784
         },
         {
             "county": "Potter",
@@ -873,8 +873,8 @@
             "max_source": "ddhq",
             "min_turnout_margin": -5414,
             "max_turnout_margin": -5525,
-            "prev_margin": -5639,
-            "prev_total": 9074
+            "prev_margin": -5659,
+            "prev_total": 9085
         },
         {
             "county": "Schuylkill",
@@ -889,8 +889,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -26412,
             "max_turnout_margin": -27709,
-            "prev_margin": -30687,
-            "prev_total": 72782
+            "prev_margin": -30783,
+            "prev_total": 73184
         },
         {
             "county": "Snyder",
@@ -905,8 +905,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -8893,
             "max_turnout_margin": -8992,
-            "prev_margin": -9408,
-            "prev_total": 19954
+            "prev_margin": -9425,
+            "prev_total": 20038
         },
         {
             "county": "Somerset",
@@ -937,8 +937,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -1609,
             "max_turnout_margin": -1677,
-            "prev_margin": -1741,
-            "prev_total": 3677
+            "prev_margin": -1745,
+            "prev_total": 3721
         },
         {
             "county": "Susquehanna",
@@ -953,8 +953,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -9459,
             "max_turnout_margin": -9911,
-            "prev_margin": -9951,
-            "prev_total": 22210
+            "prev_margin": -10021,
+            "prev_total": 22404
         },
         {
             "county": "Tioga",
@@ -969,8 +969,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -10712,
             "max_turnout_margin": -11276,
-            "prev_margin": -11142,
-            "prev_total": 21516
+            "prev_margin": -11172,
+            "prev_total": 21587
         },
         {
             "county": "Union",
@@ -985,8 +985,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -4900,
             "max_turnout_margin": -5133,
-            "prev_margin": -5137,
-            "prev_total": 20313
+            "prev_margin": -4955,
+            "prev_total": 21187
         },
         {
             "county": "Venango",
@@ -1001,8 +1001,8 @@
             "max_source": "ddhq",
             "min_turnout_margin": -9939,
             "max_turnout_margin": -10067,
-            "prev_margin": -11216,
-            "prev_total": 26576
+            "prev_margin": -11256,
+            "prev_total": 26743
         },
         {
             "county": "Warren",
@@ -1017,8 +1017,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -6392,
             "max_turnout_margin": -7618,
-            "prev_margin": -8109,
-            "prev_total": 20603
+            "prev_margin": -8127,
+            "prev_total": 20703
         },
         {
             "county": "Washington",
@@ -1033,8 +1033,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -25015,
             "max_turnout_margin": -27227,
-            "prev_margin": -31105,
-            "prev_total": 120156
+            "prev_margin": -31008,
+            "prev_total": 121584
         },
         {
             "county": "Wayne",
@@ -1049,8 +1049,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -9998,
             "max_turnout_margin": -10469,
-            "prev_margin": -10811,
-            "prev_total": 29306
+            "prev_margin": -10921,
+            "prev_total": 29444
         },
         {
             "county": "Westmoreland",
@@ -1065,8 +1065,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -52192,
             "max_turnout_margin": -54780,
-            "prev_margin": -59817,
-            "prev_total": 210247
+            "prev_margin": -60109,
+            "prev_total": 211413
         },
         {
             "county": "Wyoming",
@@ -1081,8 +1081,8 @@
             "max_source": "ddhq",
             "min_turnout_margin": -5181,
             "max_turnout_margin": -5262,
-            "prev_margin": -5527,
-            "prev_total": 14988
+            "prev_margin": -5544,
+            "prev_total": 15050
         },
         {
             "county": "York",
@@ -1097,8 +1097,8 @@
             "max_source": "ddhq",
             "min_turnout_margin": -56403,
             "max_turnout_margin": -58850,
-            "prev_margin": -63112,
-            "prev_total": 245734
+            "prev_margin": -63129,
+            "prev_total": 248879
         }
     ]
 }

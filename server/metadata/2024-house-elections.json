@@ -4,7 +4,7 @@
         "candidates" : ["Peltola", "Begich"],
         "date" : [2024, 11, 5],
 		"time" : 12,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-alaska-us-house-at-large.json",
@@ -20,7 +20,7 @@
         "candidates" : ["Shah", "Schweikert"],
         "date" : [2024, 11, 5],
 		"time" : 9,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-arizona-us-house-1.json",
@@ -37,7 +37,7 @@
         "candidates" : ["Engel", "Ciscomani"],
         "date" : [2024, 11, 5],
 		"time" : 9,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-arizona-us-house-6.json",
@@ -54,7 +54,7 @@
         "candidates" : ["Gray", "Duarte"],
         "date" : [2024, 11, 5],
 		"time" : 11,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-california-us-house-13.json",
@@ -71,7 +71,7 @@
         "candidates" : ["Salas", "Valadao"],
         "date" : [2024, 11, 5],
 		"time" : 11,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-california-us-house-22.json",
@@ -88,7 +88,7 @@
         "candidates" : ["Whitesides", "Garcia"],
         "date" : [2024, 11, 5],
 		"time" : 11,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-california-us-house-27.json",
@@ -105,7 +105,7 @@
         "candidates" : ["Rollins", "Calvert"],
         "date" : [2024, 11, 5],
 		"time" : 11,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-california-us-house-41.json",
@@ -122,7 +122,7 @@
         "candidates" : ["Tran", "Steel"],
         "date" : [2024, 11, 5],
 		"time" : 11,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-california-us-house-45.json",
@@ -139,7 +139,7 @@
         "candidates" : ["Caraveo", "Evans"],
         "date" : [2024, 11, 5],
 		"time" : 9,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-colorado-us-house-8.json",
@@ -156,7 +156,7 @@
         "candidates" : ["Fox", "Luna"],
         "date" : [2024, 11, 5],
 		"time" : 7,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "false",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-florida-us-house-13.json",
@@ -173,7 +173,7 @@
         "candidates" : ["Baccam", "Nunn"],
         "date" : [2024, 11, 5],
 		"time" : 9,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-iowa-us-house-3.json",
@@ -190,7 +190,7 @@
         "candidates" : ["Hertel", "Barrett"],
         "date" : [2024, 11, 5],
 		"time" : 8,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-michigan-us-house-7.json",
@@ -207,7 +207,7 @@
         "candidates" : ["McDonald Rivet", "Junge"],
         "date" : [2024, 11, 5],
 		"time" : 8,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-michigan-us-house-8.json",
@@ -224,7 +224,7 @@
         "candidates" : ["Vargas", "Bacon"],
         "date" : [2024, 11, 5],
 		"time" : 9,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-nebraska-us-house-2.json",
@@ -241,7 +241,7 @@
         "candidates" : ["Gillen", "D'Esposito"],
         "date" : [2024, 11, 5],
 		"time" : 9,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-new-york-us-house-4.json",
@@ -257,7 +257,7 @@
         "candidates" : ["Jones", "Lawler"],
         "date" : [2024, 11, 5],
 		"time" : 9,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-new-york-us-house-17.json",
@@ -272,7 +272,7 @@
         "candidates" : ["Riley", "Molinaro"],
         "date" : [2024, 11, 5],
 		"time" : 9,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-new-york-us-house-19.json",
@@ -288,7 +288,7 @@
         "candidates" : ["Mannion", "Williams"],
         "date" : [2024, 11, 5],
 		"time" : 9,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-new-york-us-house-22.json",
@@ -304,7 +304,7 @@
         "candidates" : ["Davis", "Buckhout"],
         "date" : [2024, 11, 5],
 		"time" : 7.5,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "false",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-north-carolina-us-house-1.json",
@@ -321,7 +321,7 @@
         "candidates" : ["Landsman", "Sonza"],
         "date" : [2024, 11, 5],
 		"time" : 7.5,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "false",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-ohio-us-house-1.json",
@@ -337,7 +337,7 @@
         "candidates" : ["Kaptur", "Merrin"],
         "date" : [2024, 11, 5],
 		"time" : 7.5,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "false",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-ohio-us-house-9.json",
@@ -353,7 +353,7 @@
         "candidates" : ["Sykes", "Coughlin"],
         "date" : [2024, 11, 5],
 		"time" : 7.5,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "false",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-ohio-us-house-13.json",
@@ -369,7 +369,7 @@
         "candidates" : ["Bynum", "Chavez-DeRemer"],
         "date" : [2024, 11, 5],
 		"time" : 11,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-oregon-us-house-5.json",
@@ -386,7 +386,7 @@
         "candidates" : ["Wild", "Mackenzie"],
         "date" : [2024, 11, 5],
 		"time" : 8,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-pennsylvania-us-house-7.json",
@@ -403,7 +403,7 @@
         "candidates" : ["Cartwright", "Bresnahan"],
         "date" : [2024, 11, 5],
 		"time" : 8,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-pennsylvania-us-house-8.json",
@@ -420,7 +420,7 @@
         "candidates" : ["Stelson", "Perry"],
         "date" : [2024, 11, 5],
 		"time" : 8,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-pennsylvania-us-house-10.json",
@@ -437,7 +437,7 @@
         "candidates" : ["Vindman", "Anderson"],
         "date" : [2024, 11, 5],
 		"time" : 7,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "false",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-virginia-us-house-7.json",
@@ -454,7 +454,7 @@
         "candidates" : ["Gluesenkamp Perez", "Kent"],
         "date" : [2024, 11, 5],
 		"time" : 11,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-washington-us-house-3.json",

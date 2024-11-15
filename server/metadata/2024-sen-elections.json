@@ -22,7 +22,7 @@
         "candidates" : ["Slotkin", "Rogers"],
         "date" : [2024, 11, 5],
 		"time" : 8,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "false",
 		"color" : "i",
         "sources" : {
@@ -40,7 +40,7 @@
         "candidates" : ["Tester", "Sheehy"],
         "date" : [2024, 11, 5],
 		"time" : 10,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "true",
 		"color" : "light-r",
         "sources" : {
@@ -76,7 +76,7 @@
         "candidates" : ["Stein", "Robinson"],
         "date" : [2024, 11, 5],
 		"time" : 7.5,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "false",
         "sources" : {
 			"nyt" : "https://static01.nyt.com/elections-assets/pages/data/2024-11-05/results-north-carolina-governor.json",
@@ -94,7 +94,7 @@
         "candidates" : ["Brown", "Moreno"],
         "date" : [2024, 11, 5],
 		"time" : 7.5,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "false",
 		"color" : "i",
         "sources" : {
@@ -130,7 +130,7 @@
         "candidates" : ["Baldwin", "Hovde"],
         "date" : [2024, 11, 5],
 		"time" : 9,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "false",
 		"color" : "i",
         "sources" : {
@@ -147,7 +147,7 @@
         "candidates" : ["Mucarsel-Powell", "Scott"],
         "date" : [2024, 11, 5],
 		"time" : 7,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "false",
 		"color" : "light-r",
         "sources" : {
@@ -166,7 +166,7 @@
         "candidates" : ["Osborn", "Fischer"],
         "date" : [2024, 11, 5],
 		"time" : 9,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "false",
 		"color" : "light-r",
         "sources" : {
@@ -185,7 +185,7 @@
         "candidates" : ["Allred", "Cruz"],
         "date" : [2024, 11, 5],
 		"time" : 8,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "false",
 		"color" : "light-r",
         "sources" : {
@@ -204,7 +204,7 @@
         "candidates" : ["Alsobrooks", "Hogan"],
         "date" : [2024, 11, 5],
 		"time" : 8,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "false",
 		"color" : "light-d",
         "sources" : {
@@ -223,7 +223,7 @@
         "candidates" : ["Kaine", "Cao"],
         "date" : [2024, 11, 5],
 		"time" : 7,
-        "fetch" : "false",
+        "fetch" : "true",
         "notify" : "false",
 		"color" : "dark-d",
         "sources" : {

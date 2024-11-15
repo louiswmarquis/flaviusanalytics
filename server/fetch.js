@@ -16,7 +16,7 @@ async function fetch_data() {
             const closing = moment("202411051200", "YYYYMMDDhhmm").add(hour, "hours").add(hour == time ? 0 : 30, "minutes")
             const now = moment()
             const until = closing.diff(now, "minutes")
-            if (election_metadata["importance"] !== undefined && Math.floor(Math.random() * election_metadata["importance"]) !== 0 || until > 0) {
+            if (/*election_metadata["importance"] !== undefined && Math.floor(Math.random() * election_metadata["importance"]) !== 0 || */until > 0) {
                 console.log("Not querying " + election_id + ". There are " + until + " more minutes.")
                 continue
             }

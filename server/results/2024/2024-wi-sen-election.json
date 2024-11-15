@@ -13,19 +13,19 @@
     "results": [
         {
             "county": "Total",
-            "Baldwin": 1662322,
-            "Hovde": 1635216,
-            "total": 3368301,
-            "margin": 27106,
-            "min_turnout": 3406367,
-            "max_turnout": 3533027,
+            "Baldwin": 1672624,
+            "Hovde": 1643778,
+            "total": 3387534,
+            "margin": 28846,
+            "min_turnout": 3419939,
+            "max_turnout": 3544480,
             "main_source": "nyt",
             "min_source": "nyt",
             "max_source": "nyt",
-            "min_turnout_margin": 34814,
-            "max_turnout_margin": 20557,
-            "prev_margin": -30280,
-            "prev_total": 3401299
+            "min_turnout_margin": 29324,
+            "max_turnout_margin": 22742,
+            "prev_margin": -29703,
+            "prev_total": 3420191
         },
         {
             "county": "Adams",
@@ -57,7 +57,7 @@
             "min_turnout_margin": 940,
             "max_turnout_margin": 980,
             "prev_margin": 422,
-            "prev_total": 8946
+            "prev_total": 8948
         },
         {
             "county": "Barron",
@@ -179,7 +179,7 @@
             "margin": -5096,
             "min_turnout": 15317,
             "max_turnout": 15962,
-            "main_source": "ap",
+            "main_source": "cnn",
             "min_source": "ap",
             "max_source": "cnn",
             "min_turnout_margin": -5147,
@@ -313,7 +313,7 @@
             "min_turnout_margin": 7876,
             "max_turnout_margin": 8207,
             "prev_margin": 6671,
-            "prev_total": 63128
+            "prev_total": 63151
         },
         {
             "county": "Florence",
@@ -424,8 +424,8 @@
             "max_source": "cnn",
             "min_turnout_margin": 1639,
             "max_turnout_margin": 1708,
-            "prev_margin": 1213,
-            "prev_total": 14568
+            "prev_margin": 1119,
+            "prev_total": 14651
         },
         {
             "county": "Iron",
@@ -473,7 +473,7 @@
             "min_turnout_margin": -7382,
             "max_turnout_margin": -7760,
             "prev_margin": -8191,
-            "prev_total": 50043
+            "prev_total": 50142
         },
         {
             "county": "Juneau",
@@ -600,8 +600,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -9672,
             "max_turnout_margin": -10079,
-            "prev_margin": -10805,
-            "prev_total": 46237
+            "prev_margin": -10804,
+            "prev_total": 46238
         },
         {
             "county": "Marathon",
@@ -611,7 +611,7 @@
             "margin": -13165,
             "min_turnout": 79718,
             "max_turnout": 83075,
-            "main_source": "ap",
+            "main_source": "cnn",
             "min_source": "ap",
             "max_source": "cnn",
             "min_turnout_margin": -13298,
@@ -638,17 +638,17 @@
         {
             "county": "Marquette",
             "Baldwin": 3405,
-            "Hovde": 5629,
-            "total": 9266,
-            "margin": -2224,
-            "min_turnout": 9360,
+            "Hovde": 5729,
+            "total": 9366,
+            "margin": -2324,
+            "min_turnout": 9461,
             "max_turnout": 9754,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "cnn",
-            "min_turnout_margin": -2247,
-            "max_turnout_margin": -2341,
-            "prev_margin": -2771,
+            "min_turnout_margin": -2348,
+            "max_turnout_margin": -2420,
+            "prev_margin": -2789,
             "prev_total": 9406
         },
         {
@@ -669,19 +669,19 @@
         },
         {
             "county": "Milwaukee",
-            "Baldwin": 309212,
-            "Hovde": 125899,
-            "total": 444474,
-            "margin": 183313,
-            "min_turnout": 458221,
-            "max_turnout": 467867,
+            "Baldwin": 315376,
+            "Hovde": 131692,
+            "total": 456654,
+            "margin": 183684,
+            "min_turnout": 461267,
+            "max_turnout": 480688,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "cnn",
-            "min_turnout_margin": 188983,
-            "max_turnout_margin": 192961,
-            "prev_margin": 177974,
-            "prev_total": 450422
+            "min_turnout_margin": 185540,
+            "max_turnout_margin": 193351,
+            "prev_margin": 178247,
+            "prev_total": 462716
         },
         {
             "county": "Monroe",
@@ -712,8 +712,8 @@
             "max_source": "cnn",
             "min_turnout_margin": -9878,
             "max_turnout_margin": -10293,
-            "prev_margin": -10703,
-            "prev_total": 24905
+            "prev_margin": -10708,
+            "prev_total": 24910
         },
         {
             "county": "Oneida",
@@ -957,19 +957,19 @@
         },
         {
             "county": "Shawano",
-            "Baldwin": 7490,
-            "Hovde": 14853,
-            "total": 23012,
-            "margin": -7363,
+            "Baldwin": 7549,
+            "Hovde": 15025,
+            "total": 23259,
+            "margin": -7476,
             "min_turnout": 23244,
-            "max_turnout": 24223,
+            "max_turnout": 24483,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "cnn",
-            "min_turnout_margin": -7437,
-            "max_turnout_margin": -7750,
-            "prev_margin": -8392,
-            "prev_total": 23234
+            "min_turnout_margin": -7471,
+            "max_turnout_margin": -7869,
+            "prev_margin": -8514,
+            "prev_total": 23458
         },
         {
             "county": "Sheboygan",
@@ -1089,12 +1089,12 @@
             "Hovde": 61167,
             "total": 90666,
             "margin": -33113,
-            "min_turnout": 81157,
+            "min_turnout": 91582,
             "max_turnout": 95438,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "cnn",
-            "min_turnout_margin": -29640,
+            "min_turnout_margin": -33448,
             "max_turnout_margin": -34856,
             "prev_margin": -33101,
             "prev_total": 91399
@@ -1149,35 +1149,35 @@
         },
         {
             "county": "Winnebago",
-            "Baldwin": 40645,
-            "Hovde": 44770,
-            "total": 87718,
-            "margin": -4125,
+            "Baldwin": 44720,
+            "Hovde": 47265,
+            "total": 94418,
+            "margin": -2545,
             "min_turnout": 94320,
-            "max_turnout": 97000,
+            "max_turnout": 95372,
             "main_source": "ap",
             "min_source": "cnn",
             "max_source": "ap",
-            "min_turnout_margin": -4435,
-            "max_turnout_margin": -4561,
-            "prev_margin": -6049,
-            "prev_total": 88617
+            "min_turnout_margin": -2542,
+            "max_turnout_margin": -2571,
+            "prev_margin": -4522,
+            "prev_total": 95368
         },
         {
             "county": "Wood",
-            "Baldwin": 17130,
-            "Hovde": 23660,
-            "total": 41798,
-            "margin": -6530,
+            "Baldwin": 17134,
+            "Hovde": 23662,
+            "total": 41804,
+            "margin": -6528,
             "min_turnout": 42220,
             "max_turnout": 42220,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "ap",
-            "min_turnout_margin": -6596,
-            "max_turnout_margin": -6596,
-            "prev_margin": -8400,
-            "prev_total": 42143
+            "min_turnout_margin": -6593,
+            "max_turnout_margin": -6593,
+            "prev_margin": -8398,
+            "prev_total": 42149
         }
     ]
 }

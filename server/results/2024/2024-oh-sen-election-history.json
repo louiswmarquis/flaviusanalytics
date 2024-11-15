@@ -1334,6 +1334,11 @@
             "time": "2024-11-06T15:25:42.350Z",
             "margin": -225338,
             "total": 5630313
+        },
+        {
+            "time": "2024-11-15T04:46:29.510Z",
+            "margin": -225338,
+            "total": 5630313
         }
     ],
     "diffs": [
@@ -6717,6 +6722,164 @@
                 "total": 1453
             },
             "time": "2024-11-06T15:25:42.350Z"
+        },
+        {
+            "1": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 1
+            },
+            "5": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 12
+            },
+            "7": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 4
+            },
+            "8": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 2
+            },
+            "11": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 5
+            },
+            "16": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 1
+            },
+            "21": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 18
+            },
+            "25": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 144
+            },
+            "26": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 2
+            },
+            "27": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 5
+            },
+            "30": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 1
+            },
+            "31": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 61
+            },
+            "38": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 1
+            },
+            "39": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 1
+            },
+            "41": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 2
+            },
+            "45": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 12
+            },
+            "46": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 3
+            },
+            "47": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 16
+            },
+            "48": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 19
+            },
+            "49": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 1
+            },
+            "52": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 9
+            },
+            "54": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 2
+            },
+            "62": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 1
+            },
+            "65": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 1
+            },
+            "70": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 4
+            },
+            "76": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 10
+            },
+            "77": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 28
+            },
+            "81": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 2
+            },
+            "83": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 7
+            },
+            "85": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 2
+            },
+            "87": {
+                "Brown": 0,
+                "Moreno": 0,
+                "total": 5
+            },
+            "time": "2024-11-15T04:46:29.510Z"
         }
     ]
 }

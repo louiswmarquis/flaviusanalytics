@@ -274,6 +274,11 @@
             "time": "2024-11-06T15:25:44.533Z",
             "margin": -15848,
             "total": 411402
+        },
+        {
+            "time": "2024-11-15T04:46:33.706Z",
+            "margin": -15782,
+            "total": 411712
         }
     ],
     "diffs": [
@@ -1121,6 +1126,74 @@
                 "total": 6397
             },
             "time": "2024-11-06T15:25:44.533Z"
+        },
+        {
+            "0": {
+                "Baccam": 188,
+                "Nunn": 122,
+                "total": 310
+            },
+            "1": {
+                "Baccam": 1,
+                "Nunn": 0,
+                "total": 1
+            },
+            "4": {
+                "Baccam": 3,
+                "Nunn": 1,
+                "total": 4
+            },
+            "5": {
+                "Baccam": 1,
+                "Nunn": 2,
+                "total": 3
+            },
+            "6": {
+                "Baccam": 51,
+                "Nunn": 41,
+                "total": 92
+            },
+            "9": {
+                "Baccam": 5,
+                "Nunn": 0,
+                "total": 5
+            },
+            "10": {
+                "Baccam": 1,
+                "Nunn": 1,
+                "total": 2
+            },
+            "12": {
+                "Baccam": 3,
+                "Nunn": 12,
+                "total": 15
+            },
+            "14": {
+                "Baccam": 0,
+                "Nunn": 4,
+                "total": 4
+            },
+            "16": {
+                "Baccam": 115,
+                "Nunn": 49,
+                "total": 164
+            },
+            "17": {
+                "Baccam": 0,
+                "Nunn": 1,
+                "total": 1
+            },
+            "19": {
+                "Baccam": 3,
+                "Nunn": 4,
+                "total": 7
+            },
+            "20": {
+                "Baccam": 5,
+                "Nunn": 7,
+                "total": 12
+            },
+            "time": "2024-11-15T04:46:33.706Z"
         }
     ]
 }

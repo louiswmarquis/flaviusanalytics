@@ -539,6 +539,11 @@
             "time": "2024-11-06T15:25:48.154Z",
             "margin": 8275,
             "total": 382423
+        },
+        {
+            "time": "2024-11-15T04:46:37.952Z",
+            "margin": 10329,
+            "total": 395695
         }
     ],
     "diffs": [
@@ -2105,6 +2110,64 @@
                 "total": 33
             },
             "time": "2024-11-06T15:25:48.154Z"
+        },
+        {
+            "0": {
+                "Vindman": 7663,
+                "Anderson": 5609,
+                "total": 13272
+            },
+            "2": {
+                "Vindman": 188,
+                "Anderson": 225,
+                "total": 413
+            },
+            "3": {
+                "Vindman": 177,
+                "Anderson": 267,
+                "total": 444
+            },
+            "4": {
+                "Vindman": 142,
+                "Anderson": 182,
+                "total": 324
+            },
+            "5": {
+                "Vindman": 105,
+                "Anderson": 175,
+                "total": 280
+            },
+            "6": {
+                "Vindman": 57,
+                "Anderson": 96,
+                "total": 153
+            },
+            "7": {
+                "Vindman": 169,
+                "Anderson": 257,
+                "total": 426
+            },
+            "8": {
+                "Vindman": 4244,
+                "Anderson": 2255,
+                "total": 6499
+            },
+            "9": {
+                "Vindman": 935,
+                "Anderson": 906,
+                "total": 1841
+            },
+            "10": {
+                "Vindman": 1607,
+                "Anderson": 1229,
+                "total": 2836
+            },
+            "11": {
+                "Vindman": 39,
+                "Anderson": 17,
+                "total": 56
+            },
+            "time": "2024-11-15T04:46:37.952Z"
         }
     ]
 }

@@ -164,6 +164,11 @@
             "time": "2024-11-06T15:25:42.071Z",
             "margin": -45467,
             "total": 542672
+        },
+        {
+            "time": "2024-11-15T04:46:28.964Z",
+            "margin": -43417,
+            "total": 607594
         }
     ],
     "diffs": [
@@ -1360,6 +1365,229 @@
                 "total": 75191
             },
             "time": "2024-11-06T15:25:42.071Z"
+        },
+        {
+            "0": {
+                "Tester": 32428,
+                "Sheehy": 30378,
+                "total": 64922
+            },
+            "1": {
+                "Tester": 48,
+                "Sheehy": 71,
+                "total": 126
+            },
+            "2": {
+                "Tester": 120,
+                "Sheehy": 5,
+                "total": 126
+            },
+            "3": {
+                "Tester": 63,
+                "Sheehy": 10,
+                "total": 74
+            },
+            "4": {
+                "Tester": 12,
+                "Sheehy": 41,
+                "total": 60
+            },
+            "5": {
+                "Tester": 33,
+                "Sheehy": 66,
+                "total": 112
+            },
+            "7": {
+                "Tester": 63,
+                "Sheehy": 71,
+                "total": 193
+            },
+            "9": {
+                "Tester": 13,
+                "Sheehy": 37,
+                "total": 63
+            },
+            "10": {
+                "Tester": 0,
+                "Sheehy": 1,
+                "total": 1
+            },
+            "11": {
+                "Tester": 6,
+                "Sheehy": 18,
+                "total": 27
+            },
+            "12": {
+                "Tester": 42,
+                "Sheehy": 20,
+                "total": 65
+            },
+            "13": {
+                "Tester": 0,
+                "Sheehy": 9,
+                "total": 9
+            },
+            "15": {
+                "Tester": 1733,
+                "Sheehy": 2633,
+                "total": 4581
+            },
+            "16": {
+                "Tester": 14594,
+                "Sheehy": 10668,
+                "total": 25729
+            },
+            "18": {
+                "Tester": 58,
+                "Sheehy": 14,
+                "total": 77
+            },
+            "20": {
+                "Tester": 4,
+                "Sheehy": 2,
+                "total": 8
+            },
+            "22": {
+                "Tester": 20,
+                "Sheehy": 46,
+                "total": 78
+            },
+            "23": {
+                "Tester": 1,
+                "Sheehy": 3,
+                "total": 4
+            },
+            "24": {
+                "Tester": 202,
+                "Sheehy": 179,
+                "total": 421
+            },
+            "25": {
+                "Tester": 1689,
+                "Sheehy": 1758,
+                "total": 3629
+            },
+            "26": {
+                "Tester": 0,
+                "Sheehy": 0,
+                "total": 2
+            },
+            "27": {
+                "Tester": 2386,
+                "Sheehy": 6531,
+                "total": 9096
+            },
+            "29": {
+                "Tester": 4,
+                "Sheehy": 9,
+                "total": 11
+            },
+            "31": {
+                "Tester": 17,
+                "Sheehy": 22,
+                "total": 45
+            },
+            "32": {
+                "Tester": 8314,
+                "Sheehy": 3663,
+                "total": 12375
+            },
+            "33": {
+                "Tester": 2,
+                "Sheehy": 2,
+                "total": 4
+            },
+            "34": {
+                "Tester": 171,
+                "Sheehy": 181,
+                "total": 379
+            },
+            "35": {
+                "Tester": 0,
+                "Sheehy": 0,
+                "total": 1
+            },
+            "36": {
+                "Tester": 1,
+                "Sheehy": 2,
+                "total": 5
+            },
+            "37": {
+                "Tester": 36,
+                "Sheehy": 5,
+                "total": 43
+            },
+            "41": {
+                "Tester": 166,
+                "Sheehy": 438,
+                "total": 657
+            },
+            "42": {
+                "Tester": 11,
+                "Sheehy": 25,
+                "total": 44
+            },
+            "43": {
+                "Tester": 65,
+                "Sheehy": 8,
+                "total": 75
+            },
+            "44": {
+                "Tester": 7,
+                "Sheehy": 7,
+                "total": 17
+            },
+            "45": {
+                "Tester": 31,
+                "Sheehy": 58,
+                "total": 95
+            },
+            "46": {
+                "Tester": 0,
+                "Sheehy": 2,
+                "total": 3
+            },
+            "47": {
+                "Tester": 92,
+                "Sheehy": 77,
+                "total": 200
+            },
+            "48": {
+                "Tester": 4,
+                "Sheehy": 15,
+                "total": 27
+            },
+            "49": {
+                "Tester": 3,
+                "Sheehy": 3,
+                "total": 8
+            },
+            "50": {
+                "Tester": 2,
+                "Sheehy": 3,
+                "total": 10
+            },
+            "51": {
+                "Tester": 7,
+                "Sheehy": 8,
+                "total": 18
+            },
+            "53": {
+                "Tester": 0,
+                "Sheehy": 0,
+                "total": 10
+            },
+            "54": {
+                "Tester": 3,
+                "Sheehy": 16,
+                "total": 19
+            },
+            "56": {
+                "Tester": 2621,
+                "Sheehy": 3912,
+                "total": 6879
+            },
+            "time": "2024-11-15T04:46:28.964Z"
         }
     ]
 }

@@ -1904,6 +1904,11 @@
             "time": "2024-11-06T15:25:41.928Z",
             "margin": 6250,
             "total": 5505156
+        },
+        {
+            "time": "2024-11-15T04:46:28.730Z",
+            "margin": 18777,
+            "total": 5574068
         }
     ],
     "diffs": [
@@ -8604,6 +8609,179 @@
                 "total": 5591
             },
             "time": "2024-11-06T15:25:41.928Z"
+        },
+        {
+            "0": {
+                "Slotkin": 40287,
+                "Rogers": 27760,
+                "total": 68912
+            },
+            "4": {
+                "Slotkin": 2,
+                "Rogers": 3,
+                "total": 5
+            },
+            "7": {
+                "Slotkin": 0,
+                "Rogers": 1,
+                "total": 1
+            },
+            "11": {
+                "Slotkin": 0,
+                "Rogers": 0,
+                "total": 143
+            },
+            "12": {
+                "Slotkin": 0,
+                "Rogers": 0,
+                "total": 27
+            },
+            "13": {
+                "Slotkin": 2802,
+                "Rogers": 1596,
+                "total": 4206
+            },
+            "14": {
+                "Slotkin": 175,
+                "Rogers": 234,
+                "total": 464
+            },
+            "16": {
+                "Slotkin": 4,
+                "Rogers": 3,
+                "total": 7
+            },
+            "17": {
+                "Slotkin": -1,
+                "Rogers": 2,
+                "total": 1
+            },
+            "18": {
+                "Slotkin": 398,
+                "Rogers": 421,
+                "total": 844
+            },
+            "21": {
+                "Slotkin": 108,
+                "Rogers": 297,
+                "total": 392
+            },
+            "24": {
+                "Slotkin": 10,
+                "Rogers": 0,
+                "total": 8
+            },
+            "25": {
+                "Slotkin": 1,
+                "Rogers": 0,
+                "total": 1
+            },
+            "28": {
+                "Slotkin": 9,
+                "Rogers": 15,
+                "total": 25
+            },
+            "29": {
+                "Slotkin": 3,
+                "Rogers": 2,
+                "total": 5
+            },
+            "30": {
+                "Slotkin": 2,
+                "Rogers": 4,
+                "total": 6
+            },
+            "37": {
+                "Slotkin": 8,
+                "Rogers": 5,
+                "total": 14
+            },
+            "39": {
+                "Slotkin": 4762,
+                "Rogers": 2890,
+                "total": 7843
+            },
+            "41": {
+                "Slotkin": 7947,
+                "Rogers": 5745,
+                "total": 13778
+            },
+            "42": {
+                "Slotkin": 1,
+                "Rogers": 0,
+                "total": 1
+            },
+            "45": {
+                "Slotkin": 975,
+                "Rogers": 1635,
+                "total": 2110
+            },
+            "48": {
+                "Slotkin": 123,
+                "Rogers": 336,
+                "total": 466
+            },
+            "49": {
+                "Slotkin": 1,
+                "Rogers": 0,
+                "total": 1
+            },
+            "50": {
+                "Slotkin": 9589,
+                "Rogers": 9810,
+                "total": 19748
+            },
+            "52": {
+                "Slotkin": 298,
+                "Rogers": 575,
+                "total": 847
+            },
+            "55": {
+                "Slotkin": 3,
+                "Rogers": 2,
+                "total": 5
+            },
+            "56": {
+                "Slotkin": 10,
+                "Rogers": 4,
+                "total": 14
+            },
+            "61": {
+                "Slotkin": 450,
+                "Rogers": 805,
+                "total": 1294
+            },
+            "65": {
+                "Slotkin": 523,
+                "Rogers": 1103,
+                "total": 1673
+            },
+            "72": {
+                "Slotkin": 0,
+                "Rogers": 1,
+                "total": 1
+            },
+            "73": {
+                "Slotkin": 16,
+                "Rogers": 5,
+                "total": 22
+            },
+            "74": {
+                "Slotkin": 315,
+                "Rogers": 912,
+                "total": 1259
+            },
+            "78": {
+                "Slotkin": 3,
+                "Rogers": 2,
+                "total": 5
+            },
+            "82": {
+                "Slotkin": 11750,
+                "Rogers": 1388,
+                "total": 13732
+            },
+            "time": "2024-11-15T04:46:28.730Z"
         }
     ]
 }

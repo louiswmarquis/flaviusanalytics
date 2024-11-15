@@ -39,6 +39,11 @@
             "time": "2024-11-06T04:19:47.726Z",
             "margin": 11798,
             "total": 298664
+        },
+        {
+            "time": "2024-11-15T04:46:38.278Z",
+            "margin": 16329,
+            "total": 409615
         }
     ],
     "diffs": [
@@ -175,6 +180,49 @@
                 "total": 10557
             },
             "time": "2024-11-06T04:19:47.726Z"
+        },
+        {
+            "0": {
+                "Gluesenkamp Perez": 57741,
+                "Kent": 53210,
+                "total": 110951
+            },
+            "1": {
+                "Gluesenkamp Perez": 41311,
+                "Kent": 32400,
+                "total": 73711
+            },
+            "2": {
+                "Gluesenkamp Perez": 8660,
+                "Kent": 10816,
+                "total": 19476
+            },
+            "3": {
+                "Gluesenkamp Perez": 2862,
+                "Kent": 3803,
+                "total": 6665
+            },
+            "4": {
+                "Gluesenkamp Perez": 1837,
+                "Kent": 1658,
+                "total": 3495
+            },
+            "5": {
+                "Gluesenkamp Perez": 363,
+                "Kent": 411,
+                "total": 774
+            },
+            "6": {
+                "Gluesenkamp Perez": 2614,
+                "Kent": 4016,
+                "total": 6630
+            },
+            "7": {
+                "Gluesenkamp Perez": 94,
+                "Kent": 106,
+                "total": 200
+            },
+            "time": "2024-11-15T04:46:38.278Z"
         }
     ]
 }

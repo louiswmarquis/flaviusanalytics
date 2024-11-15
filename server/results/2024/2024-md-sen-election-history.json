@@ -209,6 +209,11 @@
             "time": "2024-11-06T04:47:38.235Z",
             "margin": 152304,
             "total": 2412581
+        },
+        {
+            "time": "2024-11-15T04:46:30.545Z",
+            "margin": 285883,
+            "total": 2845783
         }
     ],
     "diffs": [
@@ -1547,6 +1552,134 @@
                 "total": 2396
             },
             "time": "2024-11-06T04:47:38.235Z"
+        },
+        {
+            "0": {
+                "Alsobrooks": 280660,
+                "Hogan": 147081,
+                "total": 433202
+            },
+            "1": {
+                "Alsobrooks": 1539,
+                "Hogan": 2030,
+                "total": 3659
+            },
+            "2": {
+                "Alsobrooks": 19131,
+                "Hogan": 14915,
+                "total": 34840
+            },
+            "3": {
+                "Alsobrooks": 26044,
+                "Hogan": 15697,
+                "total": 42428
+            },
+            "4": {
+                "Alsobrooks": 3182,
+                "Hogan": 3318,
+                "total": 6674
+            },
+            "5": {
+                "Alsobrooks": 630,
+                "Hogan": 825,
+                "total": 1505
+            },
+            "6": {
+                "Alsobrooks": 6953,
+                "Hogan": 8444,
+                "total": 15359
+            },
+            "7": {
+                "Alsobrooks": 3940,
+                "Hogan": 4706,
+                "total": 8926
+            },
+            "8": {
+                "Alsobrooks": 9254,
+                "Hogan": 3479,
+                "total": 12801
+            },
+            "9": {
+                "Alsobrooks": 1676,
+                "Hogan": 1449,
+                "total": 3210
+            },
+            "10": {
+                "Alsobrooks": 15742,
+                "Hogan": 11024,
+                "total": 27311
+            },
+            "11": {
+                "Alsobrooks": 708,
+                "Hogan": 1201,
+                "total": 1926
+            },
+            "12": {
+                "Alsobrooks": 8675,
+                "Hogan": 8868,
+                "total": 17508
+            },
+            "13": {
+                "Alsobrooks": 20732,
+                "Hogan": 11004,
+                "total": 31848
+            },
+            "14": {
+                "Alsobrooks": 740,
+                "Hogan": 550,
+                "total": 1313
+            },
+            "15": {
+                "Alsobrooks": 56221,
+                "Hogan": 26411,
+                "total": 83227
+            },
+            "16": {
+                "Alsobrooks": 62801,
+                "Hogan": 11287,
+                "total": 75005
+            },
+            "17": {
+                "Alsobrooks": 2316,
+                "Hogan": 2804,
+                "total": 5200
+            },
+            "18": {
+                "Alsobrooks": 3436,
+                "Hogan": 3750,
+                "total": 7258
+            },
+            "19": {
+                "Alsobrooks": 578,
+                "Hogan": 656,
+                "total": 1200
+            },
+            "20": {
+                "Alsobrooks": 1059,
+                "Hogan": 876,
+                "total": 1961
+            },
+            "21": {
+                "Alsobrooks": -2804,
+                "Hogan": 4986,
+                "total": 2655
+            },
+            "22": {
+                "Alsobrooks": 3356,
+                "Hogan": 3115,
+                "total": 6703
+            },
+            "23": {
+                "Alsobrooks": 1923,
+                "Hogan": 2785,
+                "total": 4850
+            },
+            "24": {
+                "Alsobrooks": 27867,
+                "Hogan": 5420,
+                "total": 33650
+            },
+            "time": "2024-11-15T04:46:30.545Z"
         }
     ]
 }

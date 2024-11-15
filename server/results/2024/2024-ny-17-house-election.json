@@ -13,17 +13,17 @@
     "results": [
         {
             "county": "Total",
-            "Jones": 166331,
-            "Lawler": 191681,
-            "total": 365198,
-            "margin": -25350,
-            "min_turnout": 272625,
-            "max_turnout": 385999,
+            "Jones": 170132,
+            "Lawler": 194040,
+            "total": 371520,
+            "margin": -23908,
+            "min_turnout": 360649,
+            "max_turnout": 392654,
             "main_source": "nyt",
             "min_source": "nyt",
             "max_source": "nyt",
-            "min_turnout_margin": -34618,
-            "max_turnout_margin": -26971
+            "min_turnout_margin": -23414,
+            "max_turnout_margin": -25453
         },
         {
             "county": "Dutchess",
@@ -41,17 +41,17 @@
         },
         {
             "county": "Putnam",
-            "Jones": 20366,
-            "Lawler": 30948,
-            "total": 52653,
-            "margin": -10582,
+            "Jones": 21318,
+            "Lawler": 31809,
+            "total": 54519,
+            "margin": -10491,
             "min_turnout": 51898,
-            "max_turnout": 55424,
+            "max_turnout": 57388,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "cnn",
-            "min_turnout_margin": -10430,
-            "max_turnout_margin": -11139
+            "min_turnout_margin": -9987,
+            "max_turnout_margin": -11043
         },
         {
             "county": "Rockland",
@@ -69,17 +69,17 @@
         },
         {
             "county": "Westchester",
-            "Jones": 81469,
-            "Lawler": 64620,
-            "total": 149191,
-            "margin": 16849,
-            "min_turnout": 60621,
-            "max_turnout": 157043,
-            "main_source": "ddhq",
-            "min_source": "ap",
+            "Jones": 84318,
+            "Lawler": 66118,
+            "total": 153647,
+            "margin": 18200,
+            "min_turnout": 148645,
+            "max_turnout": 161734,
+            "main_source": "ap",
+            "min_source": "ddhq",
             "max_source": "cnn",
-            "min_turnout_margin": 6846,
-            "max_turnout_margin": 17736
+            "min_turnout_margin": 17607,
+            "max_turnout_margin": 19158
         }
     ]
 }

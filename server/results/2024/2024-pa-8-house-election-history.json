@@ -239,6 +239,11 @@
             "time": "2024-11-06T15:25:47.834Z",
             "margin": -7424,
             "total": 378144
+        },
+        {
+            "time": "2024-11-15T04:46:37.484Z",
+            "margin": -7049,
+            "total": 380819
         }
     ],
     "diffs": [
@@ -895,6 +900,34 @@
                 "total": 2287
             },
             "time": "2024-11-06T15:25:47.834Z"
+        },
+        {
+            "0": {
+                "Cartwright": 1525,
+                "Bresnahan": 1150,
+                "total": 2675
+            },
+            "1": {
+                "Cartwright": 593,
+                "Bresnahan": 440,
+                "total": 1033
+            },
+            "3": {
+                "Cartwright": 784,
+                "Bresnahan": 448,
+                "total": 1232
+            },
+            "4": {
+                "Cartwright": 90,
+                "Bresnahan": 116,
+                "total": 206
+            },
+            "5": {
+                "Cartwright": 58,
+                "Bresnahan": 146,
+                "total": 204
+            },
+            "time": "2024-11-15T04:46:37.484Z"
         }
     ]
 }
