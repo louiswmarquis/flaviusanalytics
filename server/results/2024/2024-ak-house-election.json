@@ -14,31 +14,31 @@
     "results": [
         {
             "county": "Total",
-            "Peltola": 136333,
-            "Begich": 145767,
-            "total": 297272,
-            "margin": -9434,
-            "min_turnout": 316554,
+            "Peltola": 152828,
+            "Begich": 159550,
+            "total": 329555,
+            "margin": -6722,
+            "min_turnout": 329173,
             "max_turnout": 340000,
             "main_source": "nyt",
             "min_source": "nyt",
             "max_source": "nyt",
-            "min_turnout_margin": -10046,
-            "max_turnout_margin": -10790
+            "min_turnout_margin": -6714,
+            "max_turnout_margin": -6935
         },
         {
             "county": "Alaska",
-            "Peltola": 136333,
-            "Begich": 145767,
-            "total": 297272,
-            "margin": -9434,
-            "min_turnout": 316554,
+            "Peltola": 152828,
+            "Begich": 159550,
+            "total": 329555,
+            "margin": -6722,
+            "min_turnout": 329173,
             "max_turnout": 340000,
             "main_source": "ap",
-            "min_source": "ap",
+            "min_source": "cnn",
             "max_source": "ddhq",
-            "min_turnout_margin": -10046,
-            "max_turnout_margin": -10790
+            "min_turnout_margin": -6714,
+            "max_turnout_margin": -6935
         }
     ]
 }

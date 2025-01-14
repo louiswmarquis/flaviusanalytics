@@ -25,3 +25,5 @@ yarn-error.log*
 **/desktop.ini
 
 /server/old_data
+
+*.pem

@@ -1714,6 +1714,11 @@
             "time": "2024-11-15T04:44:59.368Z",
             "margin": -15578223,
             "total": 114535461
+        },
+        {
+            "time": "2025-01-14T19:30:45.610Z",
+            "margin": -15578223,
+            "total": 114535461
         }
     ],
     "diffs": [
@@ -7955,6 +7960,74 @@
                 "total": 225
             },
             "time": "2024-11-15T04:44:59.368Z"
+        },
+        {
+            "5": {
+                "Harris": 67,
+                "Trump": 31,
+                "total": 98
+            },
+            "17": {
+                "Harris": 11,
+                "Trump": 5,
+                "total": 21
+            },
+            "23": {
+                "Harris": 1,
+                "Trump": 0,
+                "total": 1
+            },
+            "36": {
+                "Harris": 46,
+                "Trump": 9,
+                "total": 62
+            },
+            "37": {
+                "Harris": 0,
+                "Trump": 0,
+                "total": 1
+            },
+            "40": {
+                "Harris": 50,
+                "Trump": 29,
+                "total": 86
+            },
+            "41": {
+                "Harris": 12,
+                "Trump": 5,
+                "total": 22
+            },
+            "51": {
+                "Harris": 26,
+                "Trump": 12,
+                "total": 48
+            },
+            "54": {
+                "Harris": 5,
+                "Trump": 1,
+                "total": 6
+            },
+            "55": {
+                "Harris": 34,
+                "Trump": 31,
+                "total": 73
+            },
+            "57": {
+                "Harris": 31,
+                "Trump": 28,
+                "total": 61
+            },
+            "62": {
+                "Harris": 1,
+                "Trump": 1,
+                "total": 2
+            },
+            "64": {
+                "Harris": 60,
+                "Trump": 36,
+                "total": 100
+            },
+            "time": "2025-01-14T19:30:45.610Z"
         }
     ]
 }

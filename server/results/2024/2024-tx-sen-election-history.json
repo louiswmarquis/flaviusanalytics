@@ -769,6 +769,11 @@
             "time": "2024-11-15T04:46:30.363Z",
             "margin": -969282,
             "total": 11247747
+        },
+        {
+            "time": "2025-01-14T19:30:55.770Z",
+            "margin": -959265,
+            "total": 11292091
         }
     ],
     "diffs": [
@@ -6728,6 +6733,1079 @@
                 "total": 3267
             },
             "time": "2024-11-15T04:46:30.363Z"
+        },
+        {
+            "0": {
+                "Allred": 25982,
+                "Cruz": 15965,
+                "total": 44344
+            },
+            "1": {
+                "Allred": 14,
+                "Cruz": 46,
+                "total": 65
+            },
+            "2": {
+                "Allred": 0,
+                "Cruz": 2,
+                "total": 2
+            },
+            "3": {
+                "Allred": 11,
+                "Cruz": 13,
+                "total": 27
+            },
+            "4": {
+                "Allred": 5,
+                "Cruz": 16,
+                "total": 23
+            },
+            "5": {
+                "Allred": 1,
+                "Cruz": 2,
+                "total": 3
+            },
+            "7": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 1
+            },
+            "8": {
+                "Allred": 7,
+                "Cruz": 18,
+                "total": 28
+            },
+            "9": {
+                "Allred": 0,
+                "Cruz": 2,
+                "total": 2
+            },
+            "10": {
+                "Allred": 5,
+                "Cruz": 10,
+                "total": 19
+            },
+            "11": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 10
+            },
+            "12": {
+                "Allred": 0,
+                "Cruz": 3,
+                "total": 4
+            },
+            "13": {
+                "Allred": 9,
+                "Cruz": 4,
+                "total": 13
+            },
+            "14": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 32
+            },
+            "15": {
+                "Allred": 2420,
+                "Cruz": 1269,
+                "total": 3232
+            },
+            "16": {
+                "Allred": 21,
+                "Cruz": 62,
+                "total": 87
+            },
+            "18": {
+                "Allred": 5,
+                "Cruz": 6,
+                "total": 23
+            },
+            "19": {
+                "Allred": 43,
+                "Cruz": 62,
+                "total": 114
+            },
+            "20": {
+                "Allred": 131,
+                "Cruz": 92,
+                "total": 229
+            },
+            "21": {
+                "Allred": 168,
+                "Cruz": 121,
+                "total": 302
+            },
+            "22": {
+                "Allred": 3,
+                "Cruz": 7,
+                "total": 11
+            },
+            "23": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 1
+            },
+            "24": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 1
+            },
+            "25": {
+                "Allred": 1,
+                "Cruz": 2,
+                "total": 3
+            },
+            "26": {
+                "Allred": 2,
+                "Cruz": 6,
+                "total": 8
+            },
+            "27": {
+                "Allred": 89,
+                "Cruz": 111,
+                "total": 206
+            },
+            "28": {
+                "Allred": 97,
+                "Cruz": 50,
+                "total": 147
+            },
+            "29": {
+                "Allred": 0,
+                "Cruz": 3,
+                "total": 3
+            },
+            "30": {
+                "Allred": 2,
+                "Cruz": 7,
+                "total": 9
+            },
+            "31": {
+                "Allred": 100,
+                "Cruz": 63,
+                "total": 180
+            },
+            "32": {
+                "Allred": 2,
+                "Cruz": 4,
+                "total": 6
+            },
+            "33": {
+                "Allred": 2,
+                "Cruz": 13,
+                "total": 19
+            },
+            "34": {
+                "Allred": 7,
+                "Cruz": 17,
+                "total": 24
+            },
+            "35": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 1
+            },
+            "36": {
+                "Allred": 4,
+                "Cruz": 11,
+                "total": 21
+            },
+            "37": {
+                "Allred": 4,
+                "Cruz": 9,
+                "total": 17
+            },
+            "40": {
+                "Allred": 1,
+                "Cruz": 0,
+                "total": 2
+            },
+            "41": {
+                "Allred": 0,
+                "Cruz": 3,
+                "total": 3
+            },
+            "42": {
+                "Allred": 0,
+                "Cruz": 1,
+                "total": 1
+            },
+            "43": {
+                "Allred": 1868,
+                "Cruz": 1055,
+                "total": 3116
+            },
+            "45": {
+                "Allred": 5,
+                "Cruz": 6,
+                "total": 11
+            },
+            "46": {
+                "Allred": 134,
+                "Cruz": 162,
+                "total": 315
+            },
+            "48": {
+                "Allred": 0,
+                "Cruz": 3,
+                "total": 3
+            },
+            "49": {
+                "Allred": 7,
+                "Cruz": 26,
+                "total": 24
+            },
+            "50": {
+                "Allred": 27,
+                "Cruz": 20,
+                "total": 57
+            },
+            "52": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 3
+            },
+            "53": {
+                "Allred": 0,
+                "Cruz": 2,
+                "total": 3
+            },
+            "56": {
+                "Allred": 1,
+                "Cruz": 4,
+                "total": 5
+            },
+            "57": {
+                "Allred": 7386,
+                "Cruz": 3012,
+                "total": 10803
+            },
+            "58": {
+                "Allred": 0,
+                "Cruz": 2,
+                "total": 2
+            },
+            "59": {
+                "Allred": 7,
+                "Cruz": 4,
+                "total": 11
+            },
+            "61": {
+                "Allred": 1545,
+                "Cruz": 1162,
+                "total": 2907
+            },
+            "62": {
+                "Allred": 11,
+                "Cruz": 66,
+                "total": 78
+            },
+            "63": {
+                "Allred": 0,
+                "Cruz": 1,
+                "total": 1
+            },
+            "64": {
+                "Allred": 14,
+                "Cruz": 5,
+                "total": 19
+            },
+            "65": {
+                "Allred": 1,
+                "Cruz": 11,
+                "total": 12
+            },
+            "66": {
+                "Allred": 10,
+                "Cruz": 4,
+                "total": 14
+            },
+            "67": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 1
+            },
+            "68": {
+                "Allred": 5,
+                "Cruz": 11,
+                "total": 16
+            },
+            "69": {
+                "Allred": 0,
+                "Cruz": 2,
+                "total": 2
+            },
+            "70": {
+                "Allred": 51,
+                "Cruz": 52,
+                "total": 126
+            },
+            "71": {
+                "Allred": 268,
+                "Cruz": 144,
+                "total": 519
+            },
+            "72": {
+                "Allred": 3,
+                "Cruz": 16,
+                "total": 13
+            },
+            "73": {
+                "Allred": 4,
+                "Cruz": 2,
+                "total": 6
+            },
+            "74": {
+                "Allred": 4,
+                "Cruz": 15,
+                "total": 21
+            },
+            "75": {
+                "Allred": 4,
+                "Cruz": 14,
+                "total": 21
+            },
+            "76": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 1
+            },
+            "77": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 5
+            },
+            "79": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 102
+            },
+            "80": {
+                "Allred": 4,
+                "Cruz": 11,
+                "total": 15
+            },
+            "82": {
+                "Allred": 3,
+                "Cruz": 20,
+                "total": 39
+            },
+            "83": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 3
+            },
+            "84": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 27
+            },
+            "85": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 1
+            },
+            "86": {
+                "Allred": 11,
+                "Cruz": 27,
+                "total": 45
+            },
+            "88": {
+                "Allred": 0,
+                "Cruz": 1,
+                "total": 7
+            },
+            "89": {
+                "Allred": 1,
+                "Cruz": 1,
+                "total": 3
+            },
+            "90": {
+                "Allred": 1,
+                "Cruz": 2,
+                "total": 3
+            },
+            "91": {
+                "Allred": 44,
+                "Cruz": 79,
+                "total": 139
+            },
+            "92": {
+                "Allred": 170,
+                "Cruz": 192,
+                "total": 368
+            },
+            "93": {
+                "Allred": 4,
+                "Cruz": 21,
+                "total": 25
+            },
+            "94": {
+                "Allred": 152,
+                "Cruz": 177,
+                "total": 365
+            },
+            "95": {
+                "Allred": 5,
+                "Cruz": 12,
+                "total": 21
+            },
+            "96": {
+                "Allred": 0,
+                "Cruz": 2,
+                "total": 2
+            },
+            "97": {
+                "Allred": 1,
+                "Cruz": 8,
+                "total": 14
+            },
+            "98": {
+                "Allred": 1,
+                "Cruz": 2,
+                "total": 3
+            },
+            "100": {
+                "Allred": 9,
+                "Cruz": 23,
+                "total": 33
+            },
+            "101": {
+                "Allred": 6339,
+                "Cruz": 2544,
+                "total": 9332
+            },
+            "102": {
+                "Allred": 33,
+                "Cruz": 46,
+                "total": 142
+            },
+            "104": {
+                "Allred": 1,
+                "Cruz": 3,
+                "total": 4
+            },
+            "105": {
+                "Allred": 232,
+                "Cruz": 135,
+                "total": 411
+            },
+            "107": {
+                "Allred": 48,
+                "Cruz": 114,
+                "total": 151
+            },
+            "108": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 25
+            },
+            "109": {
+                "Allred": 4,
+                "Cruz": 21,
+                "total": 26
+            },
+            "110": {
+                "Allred": 2,
+                "Cruz": 5,
+                "total": 7
+            },
+            "111": {
+                "Allred": 17,
+                "Cruz": 40,
+                "total": 64
+            },
+            "112": {
+                "Allred": 10,
+                "Cruz": 70,
+                "total": 82
+            },
+            "113": {
+                "Allred": 3,
+                "Cruz": 12,
+                "total": 10
+            },
+            "114": {
+                "Allred": 5,
+                "Cruz": 3,
+                "total": 9
+            },
+            "115": {
+                "Allred": 5,
+                "Cruz": 8,
+                "total": 14
+            },
+            "116": {
+                "Allred": 15,
+                "Cruz": 18,
+                "total": 35
+            },
+            "117": {
+                "Allred": 1,
+                "Cruz": 2,
+                "total": 3
+            },
+            "119": {
+                "Allred": 0,
+                "Cruz": 3,
+                "total": 3
+            },
+            "120": {
+                "Allred": 4,
+                "Cruz": 25,
+                "total": 29
+            },
+            "121": {
+                "Allred": 7,
+                "Cruz": 26,
+                "total": 35
+            },
+            "123": {
+                "Allred": 264,
+                "Cruz": 133,
+                "total": 427
+            },
+            "124": {
+                "Allred": 1,
+                "Cruz": 0,
+                "total": 2
+            },
+            "125": {
+                "Allred": 27,
+                "Cruz": 10,
+                "total": 38
+            },
+            "126": {
+                "Allred": 73,
+                "Cruz": 94,
+                "total": 187
+            },
+            "127": {
+                "Allred": 1,
+                "Cruz": 7,
+                "total": 8
+            },
+            "128": {
+                "Allred": 1,
+                "Cruz": 2,
+                "total": 3
+            },
+            "129": {
+                "Allred": 55,
+                "Cruz": 61,
+                "total": 127
+            },
+            "130": {
+                "Allred": 12,
+                "Cruz": 18,
+                "total": 21
+            },
+            "133": {
+                "Allred": 15,
+                "Cruz": 21,
+                "total": 46
+            },
+            "136": {
+                "Allred": 0,
+                "Cruz": 1,
+                "total": 2
+            },
+            "137": {
+                "Allred": 30,
+                "Cruz": 34,
+                "total": 71
+            },
+            "140": {
+                "Allred": 12,
+                "Cruz": 16,
+                "total": 29
+            },
+            "141": {
+                "Allred": 2,
+                "Cruz": 11,
+                "total": 18
+            },
+            "142": {
+                "Allred": 2,
+                "Cruz": 2,
+                "total": 5
+            },
+            "143": {
+                "Allred": 3,
+                "Cruz": 18,
+                "total": 23
+            },
+            "144": {
+                "Allred": 1,
+                "Cruz": 2,
+                "total": 5
+            },
+            "145": {
+                "Allred": 5,
+                "Cruz": 2,
+                "total": 11
+            },
+            "146": {
+                "Allred": 29,
+                "Cruz": 57,
+                "total": 103
+            },
+            "147": {
+                "Allred": 1,
+                "Cruz": 5,
+                "total": 9
+            },
+            "148": {
+                "Allred": 0,
+                "Cruz": 2,
+                "total": 4
+            },
+            "149": {
+                "Allred": 2,
+                "Cruz": 4,
+                "total": 6
+            },
+            "150": {
+                "Allred": 9,
+                "Cruz": 7,
+                "total": 17
+            },
+            "152": {
+                "Allred": 131,
+                "Cruz": 178,
+                "total": 335
+            },
+            "153": {
+                "Allred": 4,
+                "Cruz": 5,
+                "total": 9
+            },
+            "154": {
+                "Allred": 1,
+                "Cruz": 8,
+                "total": 10
+            },
+            "155": {
+                "Allred": 99,
+                "Cruz": 84,
+                "total": 245
+            },
+            "157": {
+                "Allred": 4,
+                "Cruz": 3,
+                "total": 7
+            },
+            "158": {
+                "Allred": 4,
+                "Cruz": 27,
+                "total": 34
+            },
+            "161": {
+                "Allred": 8,
+                "Cruz": 5,
+                "total": 13
+            },
+            "162": {
+                "Allred": 6,
+                "Cruz": 2,
+                "total": 9
+            },
+            "163": {
+                "Allred": 11,
+                "Cruz": 10,
+                "total": 30
+            },
+            "164": {
+                "Allred": 1,
+                "Cruz": 2,
+                "total": 3
+            },
+            "165": {
+                "Allred": 110,
+                "Cruz": 318,
+                "total": 441
+            },
+            "166": {
+                "Allred": 15,
+                "Cruz": 61,
+                "total": 79
+            },
+            "167": {
+                "Allred": 0,
+                "Cruz": 2,
+                "total": 2
+            },
+            "169": {
+                "Allred": 4,
+                "Cruz": 21,
+                "total": 15
+            },
+            "170": {
+                "Allred": 247,
+                "Cruz": 255,
+                "total": 580
+            },
+            "171": {
+                "Allred": 2,
+                "Cruz": 2,
+                "total": 4
+            },
+            "172": {
+                "Allred": 8,
+                "Cruz": 33,
+                "total": 42
+            },
+            "173": {
+                "Allred": 0,
+                "Cruz": 1,
+                "total": 1
+            },
+            "174": {
+                "Allred": 9,
+                "Cruz": 11,
+                "total": 30
+            },
+            "175": {
+                "Allred": 22,
+                "Cruz": 28,
+                "total": 32
+            },
+            "176": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 1
+            },
+            "177": {
+                "Allred": 1,
+                "Cruz": 1,
+                "total": 3
+            },
+            "178": {
+                "Allred": 222,
+                "Cruz": 175,
+                "total": 411
+            },
+            "179": {
+                "Allred": 1,
+                "Cruz": 3,
+                "total": 4
+            },
+            "180": {
+                "Allred": 0,
+                "Cruz": 1,
+                "total": 1
+            },
+            "181": {
+                "Allred": 8,
+                "Cruz": 8,
+                "total": 16
+            },
+            "182": {
+                "Allred": 10,
+                "Cruz": 55,
+                "total": 70
+            },
+            "183": {
+                "Allred": 2,
+                "Cruz": 3,
+                "total": 8
+            },
+            "184": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 14
+            },
+            "186": {
+                "Allred": 2,
+                "Cruz": 1,
+                "total": 3
+            },
+            "187": {
+                "Allred": 37,
+                "Cruz": 71,
+                "total": 116
+            },
+            "188": {
+                "Allred": 17,
+                "Cruz": 40,
+                "total": 70
+            },
+            "189": {
+                "Allred": 2,
+                "Cruz": 0,
+                "total": 2
+            },
+            "190": {
+                "Allred": 1,
+                "Cruz": 11,
+                "total": 14
+            },
+            "191": {
+                "Allred": 25,
+                "Cruz": 47,
+                "total": 89
+            },
+            "192": {
+                "Allred": 1,
+                "Cruz": 0,
+                "total": 1
+            },
+            "194": {
+                "Allred": 0,
+                "Cruz": 1,
+                "total": 1
+            },
+            "195": {
+                "Allred": 5,
+                "Cruz": 4,
+                "total": 10
+            },
+            "196": {
+                "Allred": 2,
+                "Cruz": 3,
+                "total": 7
+            },
+            "197": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 4
+            },
+            "198": {
+                "Allred": 11,
+                "Cruz": 19,
+                "total": 25
+            },
+            "199": {
+                "Allred": 40,
+                "Cruz": 59,
+                "total": 101
+            },
+            "201": {
+                "Allred": 12,
+                "Cruz": 19,
+                "total": 21
+            },
+            "202": {
+                "Allred": 4,
+                "Cruz": 3,
+                "total": 7
+            },
+            "203": {
+                "Allred": 0,
+                "Cruz": 4,
+                "total": 4
+            },
+            "204": {
+                "Allred": 12,
+                "Cruz": 45,
+                "total": 61
+            },
+            "205": {
+                "Allred": 16,
+                "Cruz": 14,
+                "total": 34
+            },
+            "208": {
+                "Allred": 4,
+                "Cruz": 37,
+                "total": 41
+            },
+            "209": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 3
+            },
+            "210": {
+                "Allred": 1,
+                "Cruz": 9,
+                "total": 11
+            },
+            "211": {
+                "Allred": 0,
+                "Cruz": 2,
+                "total": 2
+            },
+            "212": {
+                "Allred": 151,
+                "Cruz": 197,
+                "total": 377
+            },
+            "213": {
+                "Allred": 0,
+                "Cruz": 1,
+                "total": 1
+            },
+            "214": {
+                "Allred": 15,
+                "Cruz": 41,
+                "total": 56
+            },
+            "215": {
+                "Allred": 0,
+                "Cruz": 14,
+                "total": 14
+            },
+            "218": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 2
+            },
+            "219": {
+                "Allred": 0,
+                "Cruz": 1,
+                "total": 1
+            },
+            "220": {
+                "Allred": 1491,
+                "Cruz": 927,
+                "total": 2467
+            },
+            "221": {
+                "Allred": 50,
+                "Cruz": 77,
+                "total": 133
+            },
+            "224": {
+                "Allred": 0,
+                "Cruz": 1,
+                "total": 2
+            },
+            "225": {
+                "Allred": 6,
+                "Cruz": 14,
+                "total": 21
+            },
+            "226": {
+                "Allred": 74,
+                "Cruz": 81,
+                "total": 164
+            },
+            "227": {
+                "Allred": 12,
+                "Cruz": 6,
+                "total": 257
+            },
+            "228": {
+                "Allred": 5,
+                "Cruz": 13,
+                "total": 18
+            },
+            "229": {
+                "Allred": 5,
+                "Cruz": 20,
+                "total": 26
+            },
+            "230": {
+                "Allred": 7,
+                "Cruz": 14,
+                "total": 24
+            },
+            "231": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 1
+            },
+            "232": {
+                "Allred": 3,
+                "Cruz": 1,
+                "total": 22
+            },
+            "233": {
+                "Allred": 38,
+                "Cruz": 33,
+                "total": 74
+            },
+            "234": {
+                "Allred": 26,
+                "Cruz": 44,
+                "total": 70
+            },
+            "235": {
+                "Allred": 9,
+                "Cruz": 15,
+                "total": 33
+            },
+            "236": {
+                "Allred": 9,
+                "Cruz": 12,
+                "total": 14
+            },
+            "237": {
+                "Allred": 13,
+                "Cruz": 20,
+                "total": 38
+            },
+            "238": {
+                "Allred": 0,
+                "Cruz": 4,
+                "total": 4
+            },
+            "239": {
+                "Allred": 13,
+                "Cruz": 8,
+                "total": 30
+            },
+            "241": {
+                "Allred": 11,
+                "Cruz": 7,
+                "total": 22
+            },
+            "242": {
+                "Allred": 0,
+                "Cruz": 3,
+                "total": 3
+            },
+            "243": {
+                "Allred": 145,
+                "Cruz": 205,
+                "total": 376
+            },
+            "244": {
+                "Allred": 1,
+                "Cruz": 4,
+                "total": 7
+            },
+            "246": {
+                "Allred": 587,
+                "Cruz": 427,
+                "total": 1148
+            },
+            "247": {
+                "Allred": 19,
+                "Cruz": 13,
+                "total": 11
+            },
+            "248": {
+                "Allred": -1,
+                "Cruz": 0,
+                "total": 2
+            },
+            "249": {
+                "Allred": 5,
+                "Cruz": 28,
+                "total": 37
+            },
+            "250": {
+                "Allred": 0,
+                "Cruz": 0,
+                "total": 6
+            },
+            "252": {
+                "Allred": 2,
+                "Cruz": 28,
+                "total": 35
+            },
+            "253": {
+                "Allred": 3,
+                "Cruz": 4,
+                "total": 7
+            },
+            "254": {
+                "Allred": 0,
+                "Cruz": 2,
+                "total": 6
+            },
+            "time": "2025-01-14T19:30:55.770Z"
         }
     ]
 }

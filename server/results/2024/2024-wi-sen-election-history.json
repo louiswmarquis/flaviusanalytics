@@ -464,6 +464,11 @@
             "time": "2024-11-15T04:46:29.724Z",
             "margin": 28846,
             "total": 3387534
+        },
+        {
+            "time": "2025-01-14T19:30:53.025Z",
+            "margin": 28781,
+            "total": 3387839
         }
     ],
     "diffs": [
@@ -2560,6 +2565,239 @@
                 "total": 6
             },
             "time": "2024-11-15T04:46:29.724Z"
+        },
+        {
+            "0": {
+                "Baldwin": 153,
+                "Hovde": 218,
+                "total": 305
+            },
+            "3": {
+                "Baldwin": 0,
+                "Hovde": 63,
+                "total": 63
+            },
+            "4": {
+                "Baldwin": 0,
+                "Hovde": 0,
+                "total": 7
+            },
+            "5": {
+                "Baldwin": 26,
+                "Hovde": 16,
+                "total": 43
+            },
+            "7": {
+                "Baldwin": -1,
+                "Hovde": 2,
+                "total": 4
+            },
+            "8": {
+                "Baldwin": 6,
+                "Hovde": 14,
+                "total": 20
+            },
+            "11": {
+                "Baldwin": 1,
+                "Hovde": 0,
+                "total": 1
+            },
+            "12": {
+                "Baldwin": 11,
+                "Hovde": 32,
+                "total": 23
+            },
+            "13": {
+                "Baldwin": 36,
+                "Hovde": 5,
+                "total": 42
+            },
+            "15": {
+                "Baldwin": 1,
+                "Hovde": 1,
+                "total": 2
+            },
+            "16": {
+                "Baldwin": 1,
+                "Hovde": 3,
+                "total": 4
+            },
+            "17": {
+                "Baldwin": 6,
+                "Hovde": -1,
+                "total": 14
+            },
+            "18": {
+                "Baldwin": 4,
+                "Hovde": 3,
+                "total": 7
+            },
+            "20": {
+                "Baldwin": 0,
+                "Hovde": 1,
+                "total": 1
+            },
+            "22": {
+                "Baldwin": 0,
+                "Hovde": -1,
+                "total": 5
+            },
+            "23": {
+                "Baldwin": 0,
+                "Hovde": 1,
+                "total": 1
+            },
+            "24": {
+                "Baldwin": 1,
+                "Hovde": 3,
+                "total": 4
+            },
+            "29": {
+                "Baldwin": 12,
+                "Hovde": 10,
+                "total": 29
+            },
+            "30": {
+                "Baldwin": 2,
+                "Hovde": 7,
+                "total": 10
+            },
+            "31": {
+                "Baldwin": 1,
+                "Hovde": 1,
+                "total": 2
+            },
+            "32": {
+                "Baldwin": 5,
+                "Hovde": 2,
+                "total": 7
+            },
+            "34": {
+                "Baldwin": 8,
+                "Hovde": 14,
+                "total": 22
+            },
+            "36": {
+                "Baldwin": 1,
+                "Hovde": 0,
+                "total": 1
+            },
+            "40": {
+                "Baldwin": 7,
+                "Hovde": 0,
+                "total": 7
+            },
+            "41": {
+                "Baldwin": 26,
+                "Hovde": 8,
+                "total": 35
+            },
+            "42": {
+                "Baldwin": 46,
+                "Hovde": 114,
+                "total": 164
+            },
+            "45": {
+                "Baldwin": 3,
+                "Hovde": 3,
+                "total": 6
+            },
+            "46": {
+                "Baldwin": 1,
+                "Hovde": 3,
+                "total": 4
+            },
+            "48": {
+                "Baldwin": 2,
+                "Hovde": 1,
+                "total": 5
+            },
+            "49": {
+                "Baldwin": 0,
+                "Hovde": 3,
+                "total": 3
+            },
+            "50": {
+                "Baldwin": 3,
+                "Hovde": 0,
+                "total": 3
+            },
+            "51": {
+                "Baldwin": 10,
+                "Hovde": -15,
+                "total": 3
+            },
+            "52": {
+                "Baldwin": 4,
+                "Hovde": 1,
+                "total": 5
+            },
+            "53": {
+                "Baldwin": -1,
+                "Hovde": 2,
+                "total": 0
+            },
+            "54": {
+                "Baldwin": 2,
+                "Hovde": -1,
+                "total": 2
+            },
+            "56": {
+                "Baldwin": 0,
+                "Hovde": 5,
+                "total": 6
+            },
+            "57": {
+                "Baldwin": 1,
+                "Hovde": 1,
+                "total": 2
+            },
+            "59": {
+                "Baldwin": 0,
+                "Hovde": 27,
+                "total": 27
+            },
+            "60": {
+                "Baldwin": -1,
+                "Hovde": 183,
+                "total": 183
+            },
+            "62": {
+                "Baldwin": 1,
+                "Hovde": 0,
+                "total": 1
+            },
+            "63": {
+                "Baldwin": 39,
+                "Hovde": 43,
+                "total": 84
+            },
+            "65": {
+                "Baldwin": 22,
+                "Hovde": 24,
+                "total": 47
+            },
+            "68": {
+                "Baldwin": 15,
+                "Hovde": 16,
+                "total": 31
+            },
+            "69": {
+                "Baldwin": 14,
+                "Hovde": 36,
+                "total": 50
+            },
+            "70": {
+                "Baldwin": 41,
+                "Hovde": 72,
+                "total": 114
+            },
+            "71": {
+                "Baldwin": 1,
+                "Hovde": 0,
+                "total": 1
+            },
+            "time": "2025-01-14T19:30:53.025Z"
         }
     ]
 }

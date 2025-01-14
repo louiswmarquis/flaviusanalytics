@@ -1894,6 +1894,11 @@
             "time": "2024-11-15T04:44:58.953Z",
             "margin": -128260,
             "total": 7004833
+        },
+        {
+            "time": "2025-01-14T19:30:44.947Z",
+            "margin": -120266,
+            "total": 7034206
         }
     ],
     "diffs": [
@@ -8693,6 +8698,209 @@
                 "total": 3145
             },
             "time": "2024-11-15T04:44:58.953Z"
+        },
+        {
+            "0": {
+                "Harris": 19062,
+                "Trump": 11068,
+                "total": 29373
+            },
+            "2": {
+                "Harris": 2226,
+                "Trump": 970,
+                "total": 3233
+            },
+            "4": {
+                "Harris": 401,
+                "Trump": 335,
+                "total": 396
+            },
+            "5": {
+                "Harris": 1,
+                "Trump": 2,
+                "total": 3
+            },
+            "6": {
+                "Harris": 1196,
+                "Trump": 884,
+                "total": 2100
+            },
+            "7": {
+                "Harris": 5,
+                "Trump": 1,
+                "total": 6
+            },
+            "9": {
+                "Harris": 591,
+                "Trump": 94,
+                "total": 690
+            },
+            "11": {
+                "Harris": 135,
+                "Trump": 46,
+                "total": 188
+            },
+            "13": {
+                "Harris": 150,
+                "Trump": 203,
+                "total": 355
+            },
+            "14": {
+                "Harris": 5,
+                "Trump": 5,
+                "total": 10
+            },
+            "15": {
+                "Harris": 63,
+                "Trump": 8,
+                "total": 69
+            },
+            "16": {
+                "Harris": 4,
+                "Trump": 4,
+                "total": 7
+            },
+            "20": {
+                "Harris": 159,
+                "Trump": 181,
+                "total": 343
+            },
+            "21": {
+                "Harris": 459,
+                "Trump": 407,
+                "total": 879
+            },
+            "23": {
+                "Harris": 2261,
+                "Trump": 1049,
+                "total": 3370
+            },
+            "25": {
+                "Harris": 821,
+                "Trump": 412,
+                "total": 1244
+            },
+            "26": {
+                "Harris": 310,
+                "Trump": 557,
+                "total": 773
+            },
+            "28": {
+                "Harris": 21,
+                "Trump": 23,
+                "total": 44
+            },
+            "30": {
+                "Harris": 11,
+                "Trump": 13,
+                "total": 24
+            },
+            "31": {
+                "Harris": 2,
+                "Trump": 0,
+                "total": 2
+            },
+            "32": {
+                "Harris": 5,
+                "Trump": 6,
+                "total": 11
+            },
+            "36": {
+                "Harris": 81,
+                "Trump": 27,
+                "total": 110
+            },
+            "37": {
+                "Harris": 32,
+                "Trump": 6,
+                "total": 39
+            },
+            "38": {
+                "Harris": 469,
+                "Trump": 507,
+                "total": 706
+            },
+            "39": {
+                "Harris": 63,
+                "Trump": 39,
+                "total": 103
+            },
+            "40": {
+                "Harris": 2538,
+                "Trump": 2074,
+                "total": 4657
+            },
+            "42": {
+                "Harris": 24,
+                "Trump": 29,
+                "total": 53
+            },
+            "43": {
+                "Harris": 25,
+                "Trump": 53,
+                "total": 79
+            },
+            "44": {
+                "Harris": 32,
+                "Trump": 21,
+                "total": 53
+            },
+            "46": {
+                "Harris": 6396,
+                "Trump": 2493,
+                "total": 8983
+            },
+            "48": {
+                "Harris": 523,
+                "Trump": 112,
+                "total": 643
+            },
+            "51": {
+                "Harris": 793,
+                "Trump": 186,
+                "total": 994
+            },
+            "52": {
+                "Harris": 55,
+                "Trump": 110,
+                "total": 166
+            },
+            "56": {
+                "Harris": 37,
+                "Trump": 109,
+                "total": 43
+            },
+            "60": {
+                "Harris": 1,
+                "Trump": 0,
+                "total": 1
+            },
+            "62": {
+                "Harris": 7,
+                "Trump": 13,
+                "total": 20
+            },
+            "63": {
+                "Harris": 11,
+                "Trump": 22,
+                "total": 33
+            },
+            "65": {
+                "Harris": 21,
+                "Trump": 16,
+                "total": 37
+            },
+            "66": {
+                "Harris": 2,
+                "Trump": 0,
+                "total": 2
+            },
+            "67": {
+                "Harris": 248,
+                "Trump": 77,
+                "total": 331
+            },
+            "time": "2025-01-14T19:30:44.947Z"
         }
     ]
 }

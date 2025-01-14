@@ -61,12 +61,12 @@
             "total": 3057,
             "margin": 622,
             "min_turnout": 2840,
-            "max_turnout": 3088,
+            "max_turnout": 3057,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": 578,
-            "max_turnout_margin": 628
+            "max_turnout_margin": 622
         },
         {
             "county": "Broadwater",
@@ -103,26 +103,26 @@
             "total": 854,
             "margin": -623,
             "min_turnout": 801,
-            "max_turnout": 863,
+            "max_turnout": 854,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": -584,
-            "max_turnout_margin": -630
+            "max_turnout_margin": -623
         },
         {
             "county": "Cascade",
-            "Tester": 17147,
-            "Sheehy": 19589,
-            "total": 37528,
-            "margin": -2442,
+            "Tester": 17323,
+            "Sheehy": 19808,
+            "total": 37877,
+            "margin": -2485,
             "min_turnout": 37091,
-            "max_turnout": 37907,
-            "main_source": "cnn",
+            "max_turnout": 37877,
+            "main_source": "ap",
             "min_source": "ddhq",
-            "max_source": "cnn",
-            "min_turnout_margin": -2414,
-            "max_turnout_margin": -2467
+            "max_source": "ap",
+            "min_turnout_margin": -2433,
+            "max_turnout_margin": -2485
         },
         {
             "county": "Chouteau",
@@ -131,12 +131,12 @@
             "total": 2961,
             "margin": -369,
             "min_turnout": 2716,
-            "max_turnout": 2991,
+            "max_turnout": 2961,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": -338,
-            "max_turnout_margin": -373
+            "max_turnout_margin": -369
         },
         {
             "county": "Custer",
@@ -159,12 +159,12 @@
             "total": 954,
             "margin": -499,
             "min_turnout": 881,
-            "max_turnout": 964,
+            "max_turnout": 954,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": -461,
-            "max_turnout_margin": -504
+            "max_turnout_margin": -499
         },
         {
             "county": "Dawson",
@@ -187,12 +187,12 @@
             "total": 4910,
             "margin": 1171,
             "min_turnout": 4573,
-            "max_turnout": 4960,
+            "max_turnout": 4910,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": 1091,
-            "max_turnout_margin": 1183
+            "max_turnout_margin": 1171
         },
         {
             "county": "Fallon",
@@ -204,7 +204,7 @@
             "max_turnout": 1510,
             "main_source": "ap",
             "min_source": "ddhq",
-            "max_source": "ap",
+            "max_source": "cnn",
             "min_turnout_margin": -847,
             "max_turnout_margin": -953
         },
@@ -215,12 +215,12 @@
             "total": 6763,
             "margin": -2839,
             "min_turnout": 5918,
-            "max_turnout": 6831,
+            "max_turnout": 6763,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": -2484,
-            "max_turnout_margin": -2868
+            "max_turnout_margin": -2839
         },
         {
             "county": "Flathead",
@@ -257,12 +257,12 @@
             "total": 796,
             "margin": -652,
             "min_turnout": 723,
-            "max_turnout": 804,
+            "max_turnout": 796,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": -592,
-            "max_turnout_margin": -659
+            "max_turnout_margin": -652
         },
         {
             "county": "Glacier",
@@ -285,12 +285,12 @@
             "total": 520,
             "margin": -331,
             "min_turnout": 457,
-            "max_turnout": 525,
+            "max_turnout": 520,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": -291,
-            "max_turnout_margin": -334
+            "max_turnout_margin": -331
         },
         {
             "county": "Granite",
@@ -341,12 +341,12 @@
             "total": 1360,
             "margin": -639,
             "min_turnout": 1252,
-            "max_turnout": 1374,
+            "max_turnout": 1360,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": -588,
-            "max_turnout_margin": -646
+            "max_turnout_margin": -639
         },
         {
             "county": "Lake",
@@ -397,12 +397,12 @@
             "total": 11819,
             "margin": -5004,
             "min_turnout": 9930,
-            "max_turnout": 12185,
+            "max_turnout": 11819,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": -4204,
-            "max_turnout_margin": -5159
+            "max_turnout_margin": -5004
         },
         {
             "county": "McCone",
@@ -411,40 +411,40 @@
             "total": 1085,
             "margin": -717,
             "min_turnout": 1020,
-            "max_turnout": 1096,
+            "max_turnout": 1085,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": -674,
-            "max_turnout_margin": -724
+            "max_turnout_margin": -717
         },
         {
             "county": "Madison",
-            "Tester": 2007,
-            "Sheehy": 4357,
-            "total": 6464,
-            "margin": -2350,
+            "Tester": 2025,
+            "Sheehy": 4388,
+            "total": 6514,
+            "margin": -2363,
             "min_turnout": 6088,
-            "max_turnout": 6529,
+            "max_turnout": 6514,
             "main_source": "ap",
             "min_source": "ddhq",
-            "max_source": "cnn",
-            "min_turnout_margin": -2213,
-            "max_turnout_margin": -2374
+            "max_source": "ap",
+            "min_turnout_margin": -2208,
+            "max_turnout_margin": -2363
         },
         {
             "county": "Meagher",
             "Tester": 309,
             "Sheehy": 845,
-            "total": 1179,
+            "total": 1180,
             "margin": -536,
             "min_turnout": 1094,
-            "max_turnout": 1191,
+            "max_turnout": 1180,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": -497,
-            "max_turnout_margin": -541
+            "max_turnout_margin": -536
         },
         {
             "county": "Mineral",
@@ -481,12 +481,12 @@
             "total": 3005,
             "margin": -1872,
             "min_turnout": 2745,
-            "max_turnout": 3035,
+            "max_turnout": 3005,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": -1710,
-            "max_turnout_margin": -1891
+            "max_turnout_margin": -1872
         },
         {
             "county": "Park",
@@ -551,12 +551,12 @@
             "total": 1110,
             "margin": -681,
             "min_turnout": 940,
-            "max_turnout": 1121,
+            "max_turnout": 1110,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": -577,
-            "max_turnout_margin": -688
+            "max_turnout_margin": -681
         },
         {
             "county": "Powell",
@@ -579,12 +579,12 @@
             "total": 693,
             "margin": -309,
             "min_turnout": 628,
-            "max_turnout": 700,
+            "max_turnout": 693,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": -280,
-            "max_turnout_margin": -312
+            "max_turnout_margin": -309
         },
         {
             "county": "Ravalli",
@@ -747,12 +747,12 @@
             "total": 447,
             "margin": -235,
             "min_turnout": 393,
-            "max_turnout": 452,
+            "max_turnout": 447,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": -207,
-            "max_turnout_margin": -238
+            "max_turnout_margin": -235
         },
         {
             "county": "Valley",
@@ -761,12 +761,12 @@
             "total": 4093,
             "margin": -1365,
             "min_turnout": 3865,
-            "max_turnout": 4134,
+            "max_turnout": 4093,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": -1289,
-            "max_turnout_margin": -1379
+            "max_turnout_margin": -1365
         },
         {
             "county": "Wheatland",
@@ -774,12 +774,12 @@
             "Sheehy": 792,
             "total": 1086,
             "margin": -514,
-            "min_turnout": 1097,
+            "min_turnout": 1086,
             "max_turnout": 1105,
             "main_source": "ap",
             "min_source": "ap",
             "max_source": "ddhq",
-            "min_turnout_margin": -519,
+            "min_turnout_margin": -514,
             "max_turnout_margin": -523
         },
         {
@@ -789,12 +789,12 @@
             "total": 550,
             "margin": -293,
             "min_turnout": 515,
-            "max_turnout": 556,
+            "max_turnout": 550,
             "main_source": "ap",
             "min_source": "ddhq",
             "max_source": "ap",
             "min_turnout_margin": -274,
-            "max_turnout_margin": -296
+            "max_turnout_margin": -293
         },
         {
             "county": "Yellowstone",

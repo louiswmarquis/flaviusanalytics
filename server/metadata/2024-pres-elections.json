@@ -4,7 +4,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 9,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "i",
         "sources" : {
@@ -22,7 +22,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 7,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "i",
         "sources" : {
@@ -40,7 +40,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 8,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "i",
         "sources" : {
@@ -58,7 +58,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 10,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "i",
         "sources" : {
@@ -76,7 +76,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 7.5,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "i",
         "sources" : {
@@ -94,7 +94,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 8,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "i",
         "sources" : {
@@ -112,7 +112,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 9,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "i",
         "sources" : {
@@ -129,7 +129,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 7,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "dark-r",
         "sources" : {
@@ -147,7 +147,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 8,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "dark-r",
         "sources" : {
@@ -166,7 +166,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 7,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "dark-d",
         "sources" : {
@@ -185,7 +185,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 12,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "dark-r",
         "sources" : {
@@ -204,7 +204,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 7.5,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "dark-r",
         "sources" : {
@@ -222,7 +222,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 6,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "dark-r",
         "sources" : {
@@ -238,7 +238,7 @@
         "candidates" : ["Harris", "Trump"],
         "date" : [2024, 11, 5],
 		"time" : 6,
-        "fetch" : "true",
+        "fetch" : "false",
         "notify" : "false",
 		"color" : "dark-r",
         "sources" : {

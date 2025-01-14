@@ -118,10 +118,10 @@ app.get("/get_totals", (req, res) => {
 send_text = require("./fetch").text
 send_text("Starting server!")
 const fetch_data = require("./fetch").fetch
-//fetch_data();
-//setInterval(() => {
-//  fetch_data();
-//}, 10000);
+fetch_data();
+setInterval(() => {
+  fetch_data();
+}, 10000);
 
 app.listen(process.env.PORT || PORT || 5000, () => {
   console.log(`Server listening on ${PORT}`);

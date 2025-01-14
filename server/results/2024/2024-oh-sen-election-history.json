@@ -1339,6 +1339,11 @@
             "time": "2024-11-15T04:46:29.510Z",
             "margin": -225338,
             "total": 5630313
+        },
+        {
+            "time": "2025-01-14T19:30:52.192Z",
+            "margin": -206434,
+            "total": 5704620
         }
     ],
     "diffs": [
@@ -6880,6 +6885,429 @@
                 "total": 5
             },
             "time": "2024-11-15T04:46:29.510Z"
+        },
+        {
+            "0": {
+                "Brown": 44079,
+                "Moreno": 25175,
+                "total": 74307
+            },
+            "1": {
+                "Brown": 37,
+                "Moreno": 183,
+                "total": 227
+            },
+            "2": {
+                "Brown": 227,
+                "Moreno": 445,
+                "total": 684
+            },
+            "3": {
+                "Brown": 89,
+                "Moreno": 380,
+                "total": 495
+            },
+            "4": {
+                "Brown": 201,
+                "Moreno": 401,
+                "total": 631
+            },
+            "5": {
+                "Brown": 730,
+                "Moreno": 420,
+                "total": 1201
+            },
+            "6": {
+                "Brown": 58,
+                "Moreno": 250,
+                "total": 327
+            },
+            "7": {
+                "Brown": 102,
+                "Moreno": 265,
+                "total": 388
+            },
+            "8": {
+                "Brown": 70,
+                "Moreno": 298,
+                "total": 389
+            },
+            "10": {
+                "Brown": 40,
+                "Moreno": 151,
+                "total": 201
+            },
+            "11": {
+                "Brown": 62,
+                "Moreno": 178,
+                "total": 252
+            },
+            "13": {
+                "Brown": 558,
+                "Moreno": 1105,
+                "total": 1695
+            },
+            "14": {
+                "Brown": 82,
+                "Moreno": 286,
+                "total": 392
+            },
+            "15": {
+                "Brown": 128,
+                "Moreno": 427,
+                "total": 574
+            },
+            "16": {
+                "Brown": 65,
+                "Moreno": 239,
+                "total": 325
+            },
+            "17": {
+                "Brown": 73,
+                "Moreno": 250,
+                "total": 314
+            },
+            "18": {
+                "Brown": 10513,
+                "Moreno": 4088,
+                "total": 15247
+            },
+            "19": {
+                "Brown": 52,
+                "Moreno": 319,
+                "total": 371
+            },
+            "20": {
+                "Brown": 72,
+                "Moreno": 168,
+                "total": 255
+            },
+            "21": {
+                "Brown": 1299,
+                "Moreno": 1201,
+                "total": 2640
+            },
+            "22": {
+                "Brown": 261,
+                "Moreno": 311,
+                "total": 612
+            },
+            "24": {
+                "Brown": 45,
+                "Moreno": 125,
+                "total": 180
+            },
+            "25": {
+                "Brown": 10004,
+                "Moreno": 4560,
+                "total": 15335
+            },
+            "26": {
+                "Brown": 69,
+                "Moreno": 236,
+                "total": 330
+            },
+            "27": {
+                "Brown": 36,
+                "Moreno": 149,
+                "total": 192
+            },
+            "28": {
+                "Brown": 256,
+                "Moreno": 456,
+                "total": 713
+            },
+            "29": {
+                "Brown": 667,
+                "Moreno": 833,
+                "total": 1589
+            },
+            "30": {
+                "Brown": 75,
+                "Moreno": 206,
+                "total": 309
+            },
+            "31": {
+                "Brown": 6480,
+                "Moreno": 3237,
+                "total": 10261
+            },
+            "32": {
+                "Brown": 139,
+                "Moreno": 304,
+                "total": 469
+            },
+            "34": {
+                "Brown": 17,
+                "Moreno": 87,
+                "total": 116
+            },
+            "35": {
+                "Brown": 48,
+                "Moreno": 143,
+                "total": 206
+            },
+            "36": {
+                "Brown": 107,
+                "Moreno": 324,
+                "total": 464
+            },
+            "37": {
+                "Brown": 36,
+                "Moreno": 157,
+                "total": 210
+            },
+            "38": {
+                "Brown": 16,
+                "Moreno": 143,
+                "total": 165
+            },
+            "39": {
+                "Brown": 93,
+                "Moreno": 284,
+                "total": 397
+            },
+            "40": {
+                "Brown": 54,
+                "Moreno": 227,
+                "total": 300
+            },
+            "41": {
+                "Brown": 132,
+                "Moreno": 265,
+                "total": 420
+            },
+            "42": {
+                "Brown": 182,
+                "Moreno": 387,
+                "total": 597
+            },
+            "43": {
+                "Brown": 948,
+                "Moreno": 1065,
+                "total": 2088
+            },
+            "44": {
+                "Brown": 107,
+                "Moreno": 329,
+                "total": 467
+            },
+            "45": {
+                "Brown": 590,
+                "Moreno": 1007,
+                "total": 1700
+            },
+            "46": {
+                "Brown": 90,
+                "Moreno": 318,
+                "total": 437
+            },
+            "47": {
+                "Brown": 1270,
+                "Moreno": 1183,
+                "total": 2618
+            },
+            "48": {
+                "Brown": 3832,
+                "Moreno": 1989,
+                "total": 6224
+            },
+            "49": {
+                "Brown": 78,
+                "Moreno": 233,
+                "total": 345
+            },
+            "50": {
+                "Brown": 822,
+                "Moreno": 808,
+                "total": 1663
+            },
+            "51": {
+                "Brown": 214,
+                "Moreno": 479,
+                "total": 725
+            },
+            "52": {
+                "Brown": 576,
+                "Moreno": 846,
+                "total": 1513
+            },
+            "53": {
+                "Brown": 24,
+                "Moreno": 109,
+                "total": 140
+            },
+            "54": {
+                "Brown": 43,
+                "Moreno": 200,
+                "total": 251
+            },
+            "55": {
+                "Brown": 249,
+                "Moreno": 615,
+                "total": 885
+            },
+            "56": {
+                "Brown": 22,
+                "Moreno": 70,
+                "total": 95
+            },
+            "57": {
+                "Brown": 3685,
+                "Moreno": 2491,
+                "total": 6318
+            },
+            "58": {
+                "Brown": 21,
+                "Moreno": 74,
+                "total": 102
+            },
+            "59": {
+                "Brown": 47,
+                "Moreno": 172,
+                "total": 223
+            },
+            "60": {
+                "Brown": 168,
+                "Moreno": 407,
+                "total": 599
+            },
+            "61": {
+                "Brown": 10,
+                "Moreno": 59,
+                "total": 71
+            },
+            "62": {
+                "Brown": 108,
+                "Moreno": 166,
+                "total": 296
+            },
+            "63": {
+                "Brown": 23,
+                "Moreno": 105,
+                "total": 143
+            },
+            "64": {
+                "Brown": 69,
+                "Moreno": 210,
+                "total": 294
+            },
+            "65": {
+                "Brown": 128,
+                "Moreno": 399,
+                "total": 552
+            },
+            "66": {
+                "Brown": 44,
+                "Moreno": 207,
+                "total": 266
+            },
+            "67": {
+                "Brown": 838,
+                "Moreno": 802,
+                "total": 1685
+            },
+            "68": {
+                "Brown": 48,
+                "Moreno": 198,
+                "total": 241
+            },
+            "69": {
+                "Brown": 44,
+                "Moreno": 135,
+                "total": 188
+            },
+            "70": {
+                "Brown": 330,
+                "Moreno": 648,
+                "total": 1028
+            },
+            "71": {
+                "Brown": 235,
+                "Moreno": 470,
+                "total": 739
+            },
+            "72": {
+                "Brown": 159,
+                "Moreno": 267,
+                "total": 469
+            },
+            "73": {
+                "Brown": 186,
+                "Moreno": 559,
+                "total": 762
+            },
+            "74": {
+                "Brown": 106,
+                "Moreno": 261,
+                "total": 369
+            },
+            "75": {
+                "Brown": 66,
+                "Moreno": 350,
+                "total": 421
+            },
+            "76": {
+                "Brown": 1380,
+                "Moreno": 1696,
+                "total": 3283
+            },
+            "77": {
+                "Brown": 2856,
+                "Moreno": 1975,
+                "total": 5114
+            },
+            "78": {
+                "Brown": 977,
+                "Moreno": 1225,
+                "total": 2212
+            },
+            "79": {
+                "Brown": 145,
+                "Moreno": 488,
+                "total": 637
+            },
+            "80": {
+                "Brown": 214,
+                "Moreno": 311,
+                "total": 530
+            },
+            "81": {
+                "Brown": 21,
+                "Moreno": 69,
+                "total": 99
+            },
+            "83": {
+                "Brown": 710,
+                "Moreno": 1261,
+                "total": 2097
+            },
+            "84": {
+                "Brown": 131,
+                "Moreno": 358,
+                "total": 516
+            },
+            "85": {
+                "Brown": 215,
+                "Moreno": 490,
+                "total": 744
+            },
+            "86": {
+                "Brown": 45,
+                "Moreno": 173,
+                "total": 246
+            },
+            "87": {
+                "Brown": 775,
+                "Moreno": 676,
+                "total": 1564
+            },
+            "88": {
+                "Brown": 46,
+                "Moreno": 149,
+                "total": 206
+            },
+            "time": "2025-01-14T19:30:52.192Z"
         }
     ]
 }

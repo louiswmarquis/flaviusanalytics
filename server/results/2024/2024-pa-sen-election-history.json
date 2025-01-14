@@ -2029,6 +2029,11 @@
             "time": "2024-11-15T04:37:34.876Z",
             "margin": -24351,
             "total": 6932332
+        },
+        {
+            "time": "2025-01-14T19:30:52.563Z",
+            "margin": -15115,
+            "total": 6963137
         }
     ],
     "diffs": [
@@ -9429,6 +9434,229 @@
                 "total": 3690
             },
             "time": "2024-11-15T04:37:34.876Z"
+        },
+        {
+            "0": {
+                "Casey": 19560,
+                "McCormick": 10324,
+                "total": 30805
+            },
+            "2": {
+                "Casey": 2103,
+                "McCormick": 879,
+                "total": 3108
+            },
+            "4": {
+                "Casey": 398,
+                "McCormick": 317,
+                "total": 656
+            },
+            "5": {
+                "Casey": 0,
+                "McCormick": 3,
+                "total": 3
+            },
+            "6": {
+                "Casey": 1147,
+                "McCormick": 768,
+                "total": 2026
+            },
+            "7": {
+                "Casey": 4,
+                "McCormick": 3,
+                "total": 7
+            },
+            "9": {
+                "Casey": 557,
+                "McCormick": 83,
+                "total": 663
+            },
+            "11": {
+                "Casey": 214,
+                "McCormick": 125,
+                "total": 360
+            },
+            "13": {
+                "Casey": 141,
+                "McCormick": 184,
+                "total": 339
+            },
+            "14": {
+                "Casey": 4,
+                "McCormick": 5,
+                "total": 10
+            },
+            "15": {
+                "Casey": 68,
+                "McCormick": -1,
+                "total": 68
+            },
+            "16": {
+                "Casey": 1,
+                "McCormick": 5,
+                "total": 5
+            },
+            "18": {
+                "Casey": 1,
+                "McCormick": 3,
+                "total": 4
+            },
+            "20": {
+                "Casey": 154,
+                "McCormick": 166,
+                "total": 332
+            },
+            "21": {
+                "Casey": 436,
+                "McCormick": 374,
+                "total": 849
+            },
+            "22": {
+                "Casey": 15,
+                "McCormick": 4,
+                "total": 18
+            },
+            "23": {
+                "Casey": 2180,
+                "McCormick": 1005,
+                "total": 3311
+            },
+            "25": {
+                "Casey": 788,
+                "McCormick": 396,
+                "total": 1229
+            },
+            "26": {
+                "Casey": 330,
+                "McCormick": 495,
+                "total": 813
+            },
+            "28": {
+                "Casey": 19,
+                "McCormick": 25,
+                "total": 44
+            },
+            "31": {
+                "Casey": 2,
+                "McCormick": 0,
+                "total": 2
+            },
+            "32": {
+                "Casey": 5,
+                "McCormick": 5,
+                "total": 11
+            },
+            "36": {
+                "Casey": 79,
+                "McCormick": 26,
+                "total": 109
+            },
+            "37": {
+                "Casey": 28,
+                "McCormick": 5,
+                "total": 38
+            },
+            "38": {
+                "Casey": 445,
+                "McCormick": 484,
+                "total": 918
+            },
+            "39": {
+                "Casey": 60,
+                "McCormick": 39,
+                "total": 103
+            },
+            "40": {
+                "Casey": 2594,
+                "McCormick": 1870,
+                "total": 4602
+            },
+            "42": {
+                "Casey": 23,
+                "McCormick": 29,
+                "total": 53
+            },
+            "43": {
+                "Casey": 22,
+                "McCormick": 50,
+                "total": 75
+            },
+            "44": {
+                "Casey": 29,
+                "McCormick": 21,
+                "total": 50
+            },
+            "46": {
+                "Casey": 6156,
+                "McCormick": 2412,
+                "total": 8847
+            },
+            "48": {
+                "Casey": 481,
+                "McCormick": 102,
+                "total": 603
+            },
+            "51": {
+                "Casey": 710,
+                "McCormick": 141,
+                "total": 911
+            },
+            "52": {
+                "Casey": 55,
+                "McCormick": 104,
+                "total": 163
+            },
+            "54": {
+                "Casey": -3,
+                "McCormick": 3,
+                "total": 1
+            },
+            "56": {
+                "Casey": 37,
+                "McCormick": 98,
+                "total": 115
+            },
+            "57": {
+                "Casey": 1,
+                "McCormick": -1,
+                "total": 0
+            },
+            "58": {
+                "Casey": -1,
+                "McCormick": 2,
+                "total": 0
+            },
+            "60": {
+                "Casey": 1,
+                "McCormick": 0,
+                "total": 1
+            },
+            "62": {
+                "Casey": 7,
+                "McCormick": 10,
+                "total": 19
+            },
+            "63": {
+                "Casey": 11,
+                "McCormick": 17,
+                "total": 31
+            },
+            "65": {
+                "Casey": 20,
+                "McCormick": 15,
+                "total": 36
+            },
+            "66": {
+                "Casey": 3,
+                "McCormick": 2,
+                "total": 4
+            },
+            "67": {
+                "Casey": 235,
+                "McCormick": 74,
+                "total": 325
+            },
+            "time": "2025-01-14T19:30:52.563Z"
         }
     ]
 }

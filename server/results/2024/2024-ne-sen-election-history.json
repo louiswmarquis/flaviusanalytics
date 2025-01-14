@@ -254,6 +254,11 @@
             "time": "2024-11-15T04:46:30.155Z",
             "margin": -65827,
             "total": 921845
+        },
+        {
+            "time": "2025-01-14T19:30:54.711Z",
+            "margin": -62631,
+            "total": 935617
         }
     ],
     "diffs": [
@@ -2134,6 +2139,259 @@
                 "total": 4625
             },
             "time": "2024-11-15T04:46:30.155Z"
+        },
+        {
+            "0": {
+                "Osborn": 8484,
+                "Fischer": 5288,
+                "total": 13772
+            },
+            "1": {
+                "Osborn": 37,
+                "Fischer": 65,
+                "total": 102
+            },
+            "7": {
+                "Osborn": 23,
+                "Fischer": 32,
+                "total": 55
+            },
+            "9": {
+                "Osborn": 2,
+                "Fischer": 6,
+                "total": 8
+            },
+            "12": {
+                "Osborn": 6,
+                "Fischer": 14,
+                "total": 20
+            },
+            "13": {
+                "Osborn": 174,
+                "Fischer": 161,
+                "total": 335
+            },
+            "15": {
+                "Osborn": 5,
+                "Fischer": 10,
+                "total": 15
+            },
+            "17": {
+                "Osborn": 16,
+                "Fischer": 28,
+                "total": 44
+            },
+            "19": {
+                "Osborn": 2,
+                "Fischer": 3,
+                "total": 5
+            },
+            "20": {
+                "Osborn": 17,
+                "Fischer": 27,
+                "total": 44
+            },
+            "22": {
+                "Osborn": 3,
+                "Fischer": 6,
+                "total": 9
+            },
+            "24": {
+                "Osborn": 20,
+                "Fischer": 42,
+                "total": 62
+            },
+            "27": {
+                "Osborn": 69,
+                "Fischer": 56,
+                "total": 125
+            },
+            "28": {
+                "Osborn": 4433,
+                "Fischer": 2324,
+                "total": 6757
+            },
+            "29": {
+                "Osborn": 0,
+                "Fischer": 1,
+                "total": 1
+            },
+            "31": {
+                "Osborn": 1,
+                "Fischer": 3,
+                "total": 4
+            },
+            "33": {
+                "Osborn": 2,
+                "Fischer": 8,
+                "total": 10
+            },
+            "36": {
+                "Osborn": 1,
+                "Fischer": 2,
+                "total": 3
+            },
+            "39": {
+                "Osborn": 0,
+                "Fischer": 1,
+                "total": 1
+            },
+            "41": {
+                "Osborn": 7,
+                "Fischer": 20,
+                "total": 27
+            },
+            "42": {
+                "Osborn": 1,
+                "Fischer": 0,
+                "total": 1
+            },
+            "43": {
+                "Osborn": 0,
+                "Fischer": 1,
+                "total": 1
+            },
+            "44": {
+                "Osborn": 1,
+                "Fischer": 4,
+                "total": 5
+            },
+            "45": {
+                "Osborn": 13,
+                "Fischer": 27,
+                "total": 40
+            },
+            "47": {
+                "Osborn": 1,
+                "Fischer": 0,
+                "total": 1
+            },
+            "48": {
+                "Osborn": 7,
+                "Fischer": 15,
+                "total": 22
+            },
+            "49": {
+                "Osborn": 0,
+                "Fischer": 1,
+                "total": 1
+            },
+            "50": {
+                "Osborn": 4,
+                "Fischer": 7,
+                "total": 11
+            },
+            "51": {
+                "Osborn": 12,
+                "Fischer": 27,
+                "total": 39
+            },
+            "52": {
+                "Osborn": 0,
+                "Fischer": 2,
+                "total": 2
+            },
+            "53": {
+                "Osborn": 4,
+                "Fischer": 9,
+                "total": 13
+            },
+            "54": {
+                "Osborn": 0,
+                "Fischer": 6,
+                "total": 6
+            },
+            "55": {
+                "Osborn": 3067,
+                "Fischer": 1643,
+                "total": 4710
+            },
+            "56": {
+                "Osborn": 84,
+                "Fischer": 111,
+                "total": 195
+            },
+            "57": {
+                "Osborn": 0,
+                "Fischer": 1,
+                "total": 1
+            },
+            "60": {
+                "Osborn": 99,
+                "Fischer": 140,
+                "total": 239
+            },
+            "64": {
+                "Osborn": 11,
+                "Fischer": 16,
+                "total": 27
+            },
+            "65": {
+                "Osborn": 0,
+                "Fischer": 4,
+                "total": 4
+            },
+            "72": {
+                "Osborn": 3,
+                "Fischer": 9,
+                "total": 12
+            },
+            "76": {
+                "Osborn": 15,
+                "Fischer": 8,
+                "total": 23
+            },
+            "77": {
+                "Osborn": 387,
+                "Fischer": 324,
+                "total": 711
+            },
+            "78": {
+                "Osborn": 1,
+                "Fischer": 0,
+                "total": 1
+            },
+            "79": {
+                "Osborn": 9,
+                "Fischer": 16,
+                "total": 25
+            },
+            "81": {
+                "Osborn": 6,
+                "Fischer": 4,
+                "total": 10
+            },
+            "83": {
+                "Osborn": 1,
+                "Fischer": 1,
+                "total": 2
+            },
+            "85": {
+                "Osborn": 6,
+                "Fischer": 20,
+                "total": 26
+            },
+            "87": {
+                "Osborn": 48,
+                "Fischer": 17,
+                "total": 65
+            },
+            "89": {
+                "Osborn": 27,
+                "Fischer": 28,
+                "total": 55
+            },
+            "92": {
+                "Osborn": 1,
+                "Fischer": 0,
+                "total": 1
+            },
+            "93": {
+                "Osborn": 21,
+                "Fischer": 25,
+                "total": 46
+            },
+            "time": "2025-01-14T19:30:54.711Z"
         }
     ]
 }
