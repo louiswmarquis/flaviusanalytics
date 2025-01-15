@@ -60,7 +60,7 @@ async function fetch_data() {
                 const aggregate_results = aggregate_sources(election_id, election_metadata, results)
                 update_storage(election_id, election_metadata, aggregate_results)
             } catch (error) {
-                console.log("AGG")
+                console.log("AGG", error)
                 send_text("AGGREGATION ERROR in " + election_id)
                 throw error
             }

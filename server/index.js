@@ -94,8 +94,6 @@ app.get("/api/get_totals", (req, res) => {
       }
       const box_content = {"election_id" : election_id, "name" : election_list[election_id]["name"], "candidates" : election_list[election_id]["candidates"], "kalshi" : election_list[election_id]["kalshi"], "kalshi_margin" : election_list[election_id]["kalshi_margin"]}
       try {
-        console.log(__dirname)
-        console.log(__dirname + "/results/" + election_id.substring(0, 4) + "/" + election_id + ".json")
         const results = JSON.parse(fs.readFileSync(__dirname + "/results/" + election_id.substring(0, 4) + "/" + election_id + ".json"))
         box_content["total"] = results["results"][0]
         box_content["winner"] = results["results"][0]["margin"] > 0 ? results["candidates"][0] : (results["results"][0]["margin"] < 0 ? results["candidates"][1] : undefined)
@@ -108,7 +106,8 @@ app.get("/api/get_totals", (req, res) => {
           box_content["winner"] = ""
         }
         else {
-          throw error
+          console.log(error)
+          continue
         }
       }
       content[time][election_list_id].push(box_content)
