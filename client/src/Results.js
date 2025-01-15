@@ -14,7 +14,7 @@ class Results extends React.Component {
 
     componentDidMount() {
         const fetch_data = () => {
-            fetch("/get_results/" + this.state.election_id)
+            fetch("/api/get_results/" + this.state.election_id)
             .then((res) => {
                 if (res.ok) {
                     return res.json()

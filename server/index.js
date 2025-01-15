@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 3001;
 
 const app = express();
 
-app.get("/get_map_data/:election_list_id", (req, res) => {
+app.get("/api/get_map_data/:election_list_id", (req, res) => {
   const fs = require("fs");
   const election_list = JSON.parse(fs.readFileSync(__dirname + "/metadata/" + req.params.election_list_id + ".json"));
   const election_list_other = JSON.parse(fs.readFileSync(__dirname + "/metadata/" + req.params.election_list_id + "-other.json"));
@@ -13,7 +13,7 @@ app.get("/get_map_data/:election_list_id", (req, res) => {
   res.json(map_data)
 });
 
-app.get("/get_map_totals", (req, res) => {
+app.get("/api/get_map_totals", (req, res) => {
   const fs = require("fs");
   const election_list_id = req.query.election_list_id
   const content = {}
@@ -40,7 +40,7 @@ app.get("/get_map_totals", (req, res) => {
   res.json(content)
 });
 
-app.get("/get_results/:election_id", (req, res) => {
+app.get("/api/get_results/:election_id", (req, res) => {
   const fs = require("fs");
   let aggregate_data = {}
   try {
@@ -75,7 +75,7 @@ app.get("/get_results/:election_id", (req, res) => {
   res.json({"aggregate_data" : aggregate_data, "margin_history" : results_history["margin_history"], "history_table" : history_table});
 });
 
-app.get("/get_totals", (req, res) => {
+app.get("/api/get_totals", (req, res) => {
   const fs = require("fs");
   const election_list_ids = req.query.election_list_ids
   const content = {}

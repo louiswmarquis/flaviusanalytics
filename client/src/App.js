@@ -52,10 +52,6 @@ function Navigator() {
 
 class App extends React.Component {
 
-  constructor(){
-    super();
-  }
-
   render() {
     return (
       <Router>

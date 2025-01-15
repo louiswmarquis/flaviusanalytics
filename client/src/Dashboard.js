@@ -11,7 +11,7 @@ class Dashboard extends React.Component {
 
     componentDidMount() {
         const fetch_data = () => {
-            fetch("/get_totals?" + this.state.election_list_ids.map((election_list_id) => ("election_list_ids[]=" + election_list_id)).join('&'))
+            fetch("/api/get_totals?" + this.state.election_list_ids.map((election_list_id) => ("election_list_ids[]=" + election_list_id)).join('&'))
             .then((res) => {
                 if (res.ok) {
                     return res.json()

@@ -18,11 +18,11 @@ class Map extends React.Component {
     }
 
     componentDidMount() {
-        fetch("/get_map_data/" + this.state.year + "-" + this.state.type + "-elections")
+        fetch("/api/get_map_data/" + this.state.year + "-" + this.state.type + "-elections")
             .then((res) => res.status === 500 ? {} : res.json())
             .then((data) => {console.log("MAP", data); return this.setState(prevState => ({...prevState, "map_data" : data}));});
         const fetch_totals = () => {
-            fetch("/get_map_totals?election_list_id=" + this.state.year + "-" + this.state.type + "-elections")
+            fetch("/api/get_map_totals?election_list_id=" + this.state.year + "-" + this.state.type + "-elections")
                 .then((res) => res.status === 500 ? {} : res.json())
                 .then((data) => {
                     this.setState(prevState => ({...prevState, "totals" : data}))
