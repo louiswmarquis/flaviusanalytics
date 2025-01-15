@@ -306,9 +306,12 @@ function update_storage(election_id, election_metadata, aggregate_results) {
     const fs = require("fs")
     let prev_aggregate_results = {}
     try {
-        prev_aggregate_results = JSON.parse(fs.readFileSync(__dirname + "/results/" + election_id.substring(0, 4) + "/" + election_id + ".json"))
+        const prev_aggregate_results_file_name = __dirname + "/results/" + election_id.substring(0, 4) + "/" + election_id + ".json"
+        const prev_aggregate_results_string = fs.readFileSync(prev_aggregate_results_file_name)
+        console.log(prev_aggregate_results_string)
+        prev_aggregate_results = JSON.parse(prev_aggregate_results_string)
     } catch (error) {
-        if (error.code === "ENOENT") {
+        if (error.code === "ENOENT" || error instanceof SyntaxError) {
             prev_aggregate_results = {"results" : Object.fromEntries(Object.keys(aggregate_results["results"]).map((i) => [i, {...Object.fromEntries(election_metadata["candidates"].map((candidate) => ([candidate, 0]))), "total" : 0}]))}
         }
         else {
