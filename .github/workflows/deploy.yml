@@ -1,12 +1,12 @@
-name: Deploy using AWS SSM Send-Command 
+name: Deploy using AWS SSM Send-Command
 
 on:
     push:
-        branches: [master]
+        branches: [main]
 
 jobs:
     start:
-        runs-on: ubuntu-latest 
+        runs-on: ubuntu-latest
 
         steps:
             - uses: actions/checkout@v2
@@ -17,6 +17,6 @@ jobs:
                   aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY  }}
                   aws-region: us-east-1
                   instance-ids: ${{ secrets.INSTANCE_ID  }}
-                  comment: Deploy the master branch
+                  comment: Deploy the main branch
                   working-directory: /home/ubuntu/<YOUR PROJECT DIRECTORY>
                   command: /bin/sh ./deploy.sh
